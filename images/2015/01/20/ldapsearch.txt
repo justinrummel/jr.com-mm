@@ -1,0 +1,233 @@
+Locals-Mac:~ ladmin$ ldapsearch -H ldap://dc01.pretend.co -b "dc=pretend,dc=co" -x -D "PRETEND\administrator" -W -L "(objectClass=group)" name member
+Enter LDAP Password: 
+version: 1
+
+#
+# LDAPv3
+# base <dc=pretend,dc=co> with scope subtree
+# filter: (objectClass=group)
+# requesting: name member 
+#
+
+# WinRMRemoteWMIUsers__, Users, pretend.co
+dn: CN=WinRMRemoteWMIUsers__,CN=Users,DC=pretend,DC=co
+name: WinRMRemoteWMIUsers__
+
+# Administrators, Builtin, pretend.co
+dn: CN=Administrators,CN=Builtin,DC=pretend,DC=co
+member: CN=Domain Admins,CN=Users,DC=pretend,DC=co
+member: CN=Enterprise Admins,CN=Users,DC=pretend,DC=co
+member: CN=Administrator,CN=Users,DC=pretend,DC=co
+name: Administrators
+
+# Users, Builtin, pretend.co
+dn: CN=Users,CN=Builtin,DC=pretend,DC=co
+member: CN=Domain Users,CN=Users,DC=pretend,DC=co
+member: CN=S-1-5-11,CN=ForeignSecurityPrincipals,DC=pretend,DC=co
+member: CN=S-1-5-4,CN=ForeignSecurityPrincipals,DC=pretend,DC=co
+name: Users
+
+# Guests, Builtin, pretend.co
+dn: CN=Guests,CN=Builtin,DC=pretend,DC=co
+member: CN=Domain Guests,CN=Users,DC=pretend,DC=co
+member: CN=Guest,CN=Users,DC=pretend,DC=co
+name: Guests
+
+# Print Operators, Builtin, pretend.co
+dn: CN=Print Operators,CN=Builtin,DC=pretend,DC=co
+name: Print Operators
+
+# Backup Operators, Builtin, pretend.co
+dn: CN=Backup Operators,CN=Builtin,DC=pretend,DC=co
+name: Backup Operators
+
+# Replicator, Builtin, pretend.co
+dn: CN=Replicator,CN=Builtin,DC=pretend,DC=co
+name: Replicator
+
+# Remote Desktop Users, Builtin, pretend.co
+dn: CN=Remote Desktop Users,CN=Builtin,DC=pretend,DC=co
+name: Remote Desktop Users
+
+# Network Configuration Operators, Builtin, pretend.co
+dn: CN=Network Configuration Operators,CN=Builtin,DC=pretend,DC=co
+name: Network Configuration Operators
+
+# Performance Monitor Users, Builtin, pretend.co
+dn: CN=Performance Monitor Users,CN=Builtin,DC=pretend,DC=co
+name: Performance Monitor Users
+
+# Performance Log Users, Builtin, pretend.co
+dn: CN=Performance Log Users,CN=Builtin,DC=pretend,DC=co
+name: Performance Log Users
+
+# Distributed COM Users, Builtin, pretend.co
+dn: CN=Distributed COM Users,CN=Builtin,DC=pretend,DC=co
+name: Distributed COM Users
+
+# IIS_IUSRS, Builtin, pretend.co
+dn: CN=IIS_IUSRS,CN=Builtin,DC=pretend,DC=co
+member: CN=S-1-5-17,CN=ForeignSecurityPrincipals,DC=pretend,DC=co
+name: IIS_IUSRS
+
+# Cryptographic Operators, Builtin, pretend.co
+dn: CN=Cryptographic Operators,CN=Builtin,DC=pretend,DC=co
+name: Cryptographic Operators
+
+# Event Log Readers, Builtin, pretend.co
+dn: CN=Event Log Readers,CN=Builtin,DC=pretend,DC=co
+name: Event Log Readers
+
+# Certificate Service DCOM Access, Builtin, pretend.co
+dn: CN=Certificate Service DCOM Access,CN=Builtin,DC=pretend,DC=co
+name: Certificate Service DCOM Access
+
+# RDS Remote Access Servers, Builtin, pretend.co
+dn: CN=RDS Remote Access Servers,CN=Builtin,DC=pretend,DC=co
+name: RDS Remote Access Servers
+
+# RDS Endpoint Servers, Builtin, pretend.co
+dn: CN=RDS Endpoint Servers,CN=Builtin,DC=pretend,DC=co
+name: RDS Endpoint Servers
+
+# RDS Management Servers, Builtin, pretend.co
+dn: CN=RDS Management Servers,CN=Builtin,DC=pretend,DC=co
+name: RDS Management Servers
+
+# Hyper-V Administrators, Builtin, pretend.co
+dn: CN=Hyper-V Administrators,CN=Builtin,DC=pretend,DC=co
+name: Hyper-V Administrators
+
+# Access Control Assistance Operators, Builtin, pretend.co
+dn: CN=Access Control Assistance Operators,CN=Builtin,DC=pretend,DC=co
+name: Access Control Assistance Operators
+
+# Remote Management Users, Builtin, pretend.co
+dn: CN=Remote Management Users,CN=Builtin,DC=pretend,DC=co
+name: Remote Management Users
+
+# Domain Computers, Users, pretend.co
+dn: CN=Domain Computers,CN=Users,DC=pretend,DC=co
+name: Domain Computers
+
+# Domain Controllers, Users, pretend.co
+dn: CN=Domain Controllers,CN=Users,DC=pretend,DC=co
+name: Domain Controllers
+
+# Schema Admins, Users, pretend.co
+dn: CN=Schema Admins,CN=Users,DC=pretend,DC=co
+member: CN=Administrator,CN=Users,DC=pretend,DC=co
+name: Schema Admins
+
+# Enterprise Admins, Users, pretend.co
+dn: CN=Enterprise Admins,CN=Users,DC=pretend,DC=co
+member: CN=Administrator,CN=Users,DC=pretend,DC=co
+name: Enterprise Admins
+
+# Cert Publishers, Users, pretend.co
+dn: CN=Cert Publishers,CN=Users,DC=pretend,DC=co
+name: Cert Publishers
+
+# Domain Admins, Users, pretend.co
+dn: CN=Domain Admins,CN=Users,DC=pretend,DC=co
+member: CN=Administrator,CN=Users,DC=pretend,DC=co
+name: Domain Admins
+
+# Domain Users, Users, pretend.co
+dn: CN=Domain Users,CN=Users,DC=pretend,DC=co
+name: Domain Users
+
+# Domain Guests, Users, pretend.co
+dn: CN=Domain Guests,CN=Users,DC=pretend,DC=co
+name: Domain Guests
+
+# Group Policy Creator Owners, Users, pretend.co
+dn: CN=Group Policy Creator Owners,CN=Users,DC=pretend,DC=co
+member: CN=Administrator,CN=Users,DC=pretend,DC=co
+name: Group Policy Creator Owners
+
+# RAS and IAS Servers, Users, pretend.co
+dn: CN=RAS and IAS Servers,CN=Users,DC=pretend,DC=co
+name: RAS and IAS Servers
+
+# Server Operators, Builtin, pretend.co
+dn: CN=Server Operators,CN=Builtin,DC=pretend,DC=co
+name: Server Operators
+
+# Account Operators, Builtin, pretend.co
+dn: CN=Account Operators,CN=Builtin,DC=pretend,DC=co
+name: Account Operators
+
+# Pre-Windows 2000 Compatible Access, Builtin, pretend.co
+dn: CN=Pre-Windows 2000 Compatible Access,CN=Builtin,DC=pretend,DC=co
+member: CN=S-1-5-11,CN=ForeignSecurityPrincipals,DC=pretend,DC=co
+name: Pre-Windows 2000 Compatible Access
+
+# Incoming Forest Trust Builders, Builtin, pretend.co
+dn: CN=Incoming Forest Trust Builders,CN=Builtin,DC=pretend,DC=co
+name: Incoming Forest Trust Builders
+
+# Windows Authorization Access Group, Builtin, pretend.co
+dn: CN=Windows Authorization Access Group,CN=Builtin,DC=pretend,DC=co
+member: CN=S-1-5-9,CN=ForeignSecurityPrincipals,DC=pretend,DC=co
+name: Windows Authorization Access Group
+
+# Terminal Server License Servers, Builtin, pretend.co
+dn: CN=Terminal Server License Servers,CN=Builtin,DC=pretend,DC=co
+name: Terminal Server License Servers
+
+# Allowed RODC Password Replication Group, Users, pretend.co
+dn: CN=Allowed RODC Password Replication Group,CN=Users,DC=pretend,DC=co
+name: Allowed RODC Password Replication Group
+
+# Denied RODC Password Replication Group, Users, pretend.co
+dn: CN=Denied RODC Password Replication Group,CN=Users,DC=pretend,DC=co
+member: CN=Read-only Domain Controllers,CN=Users,DC=pretend,DC=co
+member: CN=Group Policy Creator Owners,CN=Users,DC=pretend,DC=co
+member: CN=Domain Admins,CN=Users,DC=pretend,DC=co
+member: CN=Cert Publishers,CN=Users,DC=pretend,DC=co
+member: CN=Enterprise Admins,CN=Users,DC=pretend,DC=co
+member: CN=Schema Admins,CN=Users,DC=pretend,DC=co
+member: CN=Domain Controllers,CN=Users,DC=pretend,DC=co
+member: CN=krbtgt,CN=Users,DC=pretend,DC=co
+name: Denied RODC Password Replication Group
+
+# Read-only Domain Controllers, Users, pretend.co
+dn: CN=Read-only Domain Controllers,CN=Users,DC=pretend,DC=co
+name: Read-only Domain Controllers
+
+# Enterprise Read-only Domain Controllers, Users, pretend.co
+dn: CN=Enterprise Read-only Domain Controllers,CN=Users,DC=pretend,DC=co
+name: Enterprise Read-only Domain Controllers
+
+# Cloneable Domain Controllers, Users, pretend.co
+dn: CN=Cloneable Domain Controllers,CN=Users,DC=pretend,DC=co
+name: Cloneable Domain Controllers
+
+# Protected Users, Users, pretend.co
+dn: CN=Protected Users,CN=Users,DC=pretend,DC=co
+name: Protected Users
+
+# DnsAdmins, Users, pretend.co
+dn: CN=DnsAdmins,CN=Users,DC=pretend,DC=co
+name: DnsAdmins
+
+# DnsUpdateProxy, Users, pretend.co
+dn: CN=DnsUpdateProxy,CN=Users,DC=pretend,DC=co
+name: DnsUpdateProxy
+
+# search reference
+# refldap://ForestDnsZones.pretend.co/DC=ForestDnsZones,DC=pretend,DC=co
+
+# search reference
+# refldap://DomainDnsZones.pretend.co/DC=DomainDnsZones,DC=pretend,DC=co
+
+# search reference
+# refldap://pretend.co/CN=Configuration,DC=pretend,DC=co
+
+# search result
+
+# numResponses: 50
+# numEntries: 46
+# numReferences: 3
+Locals-Mac:~ ladmin$ 
