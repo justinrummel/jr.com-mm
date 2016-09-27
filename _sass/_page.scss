@@ -16,6 +16,61 @@
   }
 }
 
+/* ==========================================================================
+   Tag Inline List
+   ========================================================================== */
+
+.inline-list {
+  list-style: none;
+  font-size: 50%;
+  margin-left: 0;
+  padding-left: 0;
+  li {
+    list-style-type: none;
+    display: inline;
+  }
+}
+
+.entry-meta {
+  text-transform: uppercase;
+  color: lighten($text-color,60);
+  a {
+    color: lighten($text-color,60);
+  }
+  .vcard {
+    &:before {
+      content: " by ";
+    }
+  }
+  .tag {
+    display: inline-block;
+    margin: 4px;
+    color: #494e52;
+    @include rounded(3px);
+    background-color: lighten($text-color,50);
+      span {
+        float: left;
+        padding: 2px 6px;
+      }
+//      .term {
+//        background-color: lighten($text-color,60);
+//        @include border-radius(0,0,3px,3px);
+//      }
+      .count {
+          background-color: lighten($text-color,40);
+          @include border-radius(3px,3px,0,0);
+      }
+      &:hover {
+          background-color: lighten($text-color,40);
+      }
+  }
+  .entry-reading-time {
+    float: right;
+  }
+}
+/* END */
+
+
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
@@ -116,6 +171,7 @@
 
   &--overlay {
     position: relative;
+    min-height: 384px;
     margin-bottom: 2em;
     padding: 3em 0;
     @include clearfix;
@@ -132,6 +188,7 @@
     .wrapper {
       padding-left: 1em;
       padding-right: 1em;
+      padding-top: 3em;
 
       @include breakpoint($x-large) {
         max-width: $x-large;
@@ -150,8 +207,14 @@
       max-width: $medium;
     }
 
+    .page__date {
+      color: #fff;
+      text-align: center;
+    }
+
     .page__title {
       font-size: $type-size-2;
+      text-align: center;
 
       @include breakpoint($small) {
         font-size: $type-size-1;
