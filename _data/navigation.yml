@@ -7,14 +7,14 @@ main:
   - title: Resume
     url: /resume/
 
-#  - title: "Posts Archive"
-#    url: /posts/
+  - title: "Posts Archive"
+    url: /posts/
 
-#  - title: "Tag Archive"
-#    url: /tags/
+  - title: "Tag Archive"
+    url: /tags/
 
-#  - title: "Category Archive"
-#    url: /categories/
+  - title: "Category Archive"
+    url: /categories/
 
 #  - title: Search
 #    url: /search/
