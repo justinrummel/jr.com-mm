@@ -1,7 +1,20 @@
-# main links links
+# Menu navigation links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: Bio
+    url: /bio/
+
+  - title: Resume
+    url: /resume/
+
+#  - title: "Posts Archive"
+#    url: /posts/
+
+#  - title: "Tag Archive"
+#    url: /tags/
+
+#  - title: "Category Archive"
+#    url: /categories/
+
+#  - title: Search
+#    url: /search/
