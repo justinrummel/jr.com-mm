@@ -10,7 +10,7 @@ tags:
     - Multisport
     - VTS/MTS
 header:
-    image: 2016/07/09/Colonial-Header-Twitter.jpg				# Twitter (use 'teaser')
+    image: 2016/07/09/Colonial-Header.jpg				# Twitter (use 'teaser')
     overlay_image: 2016/07/09/Colonial-Header.jpg		# Article header at 2048x768
     overlay_filter: 0.15
     teaser: 2016/07/09/Colonial-Header-Twitter.jpg 		# Shrink image to 575 width

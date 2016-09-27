@@ -8,7 +8,7 @@ tags:
     - Photography
     - Travel
 header:
-    image: 2011/11/16/6428384225_83178a1aaa_b-Header-Twitter.jpg
+    image: 2011/11/16/6428384225_83178a1aaa_b-Header.jpg
     overlay_image: 2011/11/16/6428384225_83178a1aaa_b-Header.jpg
     overlay_filter: 0.15
     teaser: 2011/11/16/6428384225_83178a1aaa_b-Header-Twitter.jpg 		# Shrink image to 575 width

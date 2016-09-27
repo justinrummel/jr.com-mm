@@ -10,7 +10,7 @@ tags:
     - "Octopress"
     - "Jekyll"
 header:
-    image: 2016/09/25/JR.COM-Header-Twitter.png		   # Twitter (use 'teaser')
+    image: 2016/09/25/JR.COM-Header.png		   # Twitter (use 'teaser')
     overlay_image: 2016/09/25/JR.COM-Header.png		   # Article header at 2048x768
     overlay_filter: 0.15
     teaser: 2016/09/25/JR.COM-Header-Twitter.png 	   # Shrink image to 575 width

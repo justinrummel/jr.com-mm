@@ -10,7 +10,7 @@ tags:
     - Multisport
     - Rev3
 header:
-    image: 2016/06/19/Montclair-Header-Twitter.jpg				# Twitter (use 'teaser')
+    image: 2016/06/19/Montclair-Header.jpg				# Twitter (use 'teaser')
     overlay_image: 2016/06/19/Montclair-Header.jpg		# Article header at 2048x768
     overlay_filter: 0.15
     teaser: 2016/06/19/Montclair-Header-Twitter.jpg 		# Shrink image to 575 width

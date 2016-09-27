@@ -11,7 +11,7 @@ tags:
     - Bonk Hard Racing
     - "Orienteering"
 header:
-    image: 2014/10/18/IMG_1488-Twitter.jpg				# Twitter (use 'teaser')
+    image: 2014/10/18/IMG_1488.jpg				# Twitter (use 'teaser')
     overlay_image: 2014/10/18/IMG_1488.jpg		# Article header at 2048x768
     overlay_filter: 0.15
     teaser: 2014/10/18/IMG_1488-Twitter.jpg 		# Shrink image to 575 width

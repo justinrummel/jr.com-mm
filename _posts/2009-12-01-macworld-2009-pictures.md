@@ -9,7 +9,7 @@ tags:
     - Photography
     - MacIT
 header:
-    image: 2009/01/05/4152178346_52ebb5e910_b-Header-Twitter.jpg
+    image: 2009/01/05/4152178346_52ebb5e910_b-Header.jpg
     overlay_image: 2009/01/05/4152178346_52ebb5e910_b-Header.jpg
     overlay_filter: 0.15
     teaser: 2009/01/05/4152178346_52ebb5e910_b-Header-Twitter.jpg 		# Shrink image to 575 width

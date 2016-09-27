@@ -10,7 +10,7 @@ tags:
     - Multisport
     - Charlottesville Multisports
 header:
-    image: 2016/08/27/WOW-Header-Twitter.jpg				# Twitter (use 'teaser')
+    image: 2016/08/27/WOW-Header.jpg				# Twitter (use 'teaser')
     overlay_image: 2016/08/27/WOW-Header.jpg		# Article header at 2048x768
     overlay_filter: 0.15
     teaser: 2016/08/27/WOW-Header-Twitter.jpg 		# Shrink image to 575 width

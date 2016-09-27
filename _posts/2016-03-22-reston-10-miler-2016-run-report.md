@@ -10,7 +10,7 @@ tags:
     - Multisport
     - "PR Races"
 header:
-    image: 2016/03/22/reson10_header-Twitter.jpg				# Twitter (use 'teaser')
+    image: 2016/03/22/reson10_header.jpg				# Twitter (use 'teaser')
     overlay_image: 2016/03/22/reson10_header.jpg		# Article header at 2048x768
     overlay_filter: 0.15
     teaser: 2016/03/22/reson10_header-Twitter.jpg 		# Shrink image to 575 width
