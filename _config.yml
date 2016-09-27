@@ -241,5 +241,11 @@ jekyll-archives:
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
+  comments: none
+  endings: none
   ignore:
     envs: development
+  blanklines: true
+  profile: false
+  startings: none
+
