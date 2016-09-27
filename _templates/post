@@ -1,0 +1,95 @@
+---
+layout: single
+title: "{{ title }}"
+date: {{ date }}
+modified:
+description: "You have 140 characters, use it." 	# For Twitter, not the Title
+categories:
+    - "Race Report"
+tags:
+    - Multisport
+    - Charlottesville Multisports
+    - VTS/MTS
+header:
+    image: 2016/06/12/Jamestown-Header-Twitter.jpg			# Twitter (use 'teaser')
+    overlay_image: 2016/06/12/Jamestown-Header.jpg		    # Article header at 2048x768
+    overlay_filter: 0.15
+    teaser: 2016/06/12/Jamestown-Header-Twitter.jpg 		# Shrink image to 575 width
+    caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
+---
+
+<p class="image-right"><a href="{{ site.url }}/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
+<p class="image-left"><a href="{{ site.url }}/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
+
+<figure>
+<p class="image-center"><a href="{{ site.url }}/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
+</figure>
+
+{% include toc icon="gears" title="Race Review ToC" %}
+
+#### Swim
+
+- blah blah blah
+
+	+ [Training Peaks Swim Data](http://tpks.ws/blah)
+
+#### Bike
+
+- blah blah blah
+
+	+ [Training Peaks Bike Data](http://tpks.ws/blah)
+
+#### Run
+
+- blah blah blah
+
+	+ [Training Peaks Run Data](http://tpks.ws/blah)
+
+#### Post Race
+
+blah blah blah
+
+Race Results
+---
+
+#### Rankings
+
+- Overall: Placed 10th out of 100 (top 10%).
+- Gender: Placed 10th out of 50 (top 20%).
+- Male 40-44: Placed 1st out of 5
+
+Among the Male 40-44 category there were 5 athletes.
+
+- Swim: Ranked 1st
+- Bike: Ranked 1st
+- Run: Ranked 1st
+
+
+<!--
+#### Updated 2016-09-02 (Race Photos)
+
+<figure class="fourth">
+<a href="{{ site.url }}/images/2017/01/01/EVENT-PRO-LG-1.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-PRO-SM-1.jpg" /></a>
+<a href="{{ site.url }}/images/2017/01/01/EVENT-PRO-LG-2.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-PRO-SM-2.jpg" /></a>
+<a href="{{ site.url }}/images/2017/01/01/EVENT-PRO-LG-3.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-PRO-SM-3.jpg" /></a>
+<a href="{{ site.url }}/images/2017/01/01/EVENT-PRO-LG-4.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-PRO-SM-4.jpg" /></a>
+</figure>
+-->
+
+#### Tables
+
+| EVENT Sprint       | 750m Swim    | T1   | 16.6 Mile Bike | T2   | 5k Run   | Total       |
+|:-------------------|:------------:|:----:|:--------------:|:----:|:--------:|------------:|
+| Goal Times[^2]     | 14:30        | 1:30 | 55:00          | 1:00 | 25:30    | 1:37:45     |
+|=====
+| Actual Times[^3]   | 21:38        | 1:09 | 49:53          | 0:37 | 25:55    | 1:39:13     |
+{: rules="groups"}
+
+
+Footnotes
+---
+
+[^1]: Goal Times were based on beating <a href="{{ site.url }}/event-race-report/">last year's race</a>
+[^2]: Official Race Results available at [EVENT Results page][event_results].
+
+[event_results]: http://eventpage.com

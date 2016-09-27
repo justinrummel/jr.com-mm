@@ -1,0 +1,11 @@
+---
+layout: {{ layout }}
+title: "{{ title }}"
+date: {{ date }}
+modified:
+description: ""
+permalink: "{{ title | slugify | downcase }}"
+author_profile: false
+comments: false
+---
+
