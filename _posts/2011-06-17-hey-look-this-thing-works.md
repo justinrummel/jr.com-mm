@@ -1,21 +1,18 @@
 ---
-title: 'Hey Look... This Thing Works!'
-author: Justin Rummel
-excerpt: "I'm beginning to write about technology.  Lets see how long this lasts."
 layout: single
+title: 'Hey Look... This Thing Works!'
+date: 2011-06-17
+modified:
+description: "I'm beginning to write about technology.  Lets see how long this lasts."
 permalink: /hey-look-this-thing-works/
-shorturl:
-    - http://j.mp/p6aiOY
+categories:
+    - "Miscellaneous"
 tags:
     - Apple
     - IOS
     - Lion
     - OSX
     - OSXS
-header:
-  image:
-  credit:
-  creditlink:
 ---
 I have had intensions for some time on using my site for something other than announcements of Macworld/MacTech sessions, photographs while traveling for my job, and a simple resume placeholder. Now that WWDC 2011 is over and Apple has announced that Lion will be released in July with iOS 5 coming "this fallƒ", it seems the perfect time to start sharing knowledge with anyone who cares (my guess a total of five... maybe six people). **Note:** I will not violate my NDA with Apple. I know there are plenty of other technical (and rumor) sites that are going to be first in releasing information of what is new or "how to" articles, but that is their choice... and that blatant disregard of an agreement is not for me.
 
