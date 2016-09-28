@@ -1,11 +1,7 @@
 ---
-title: 'What Is S/MIME Email and Why Should I Be Using It'
-author: Justin Rummel
-excerpt: 'This article describes what is S/MIME is and why should you care by giving examples that relate S/MIME to everyday occurrences.'
 layout: single
-permalink: /what-is-smime-email-and-why-should-i-be-using-it/
-shorturl:
-    - http://j.mp/q3IL8U
+title: 'What Is S/MIME Email and Why Should I Be Using It'
+description: 'This article describes what is S/MIME is and why should you care by giving examples that relate S/MIME to everyday occurrences.'
 tags:
     - Apple
     - Certificates
@@ -14,12 +10,6 @@ tags:
     - OSX
     - S/MIME
     - Mail
-header:
-  image:
-  credit:
-  creditlink:
----
-Overview
 ---
 During the WWDC 2011 keynote, Apple announced that iOS 5 was going to have the capabilities of S/MIME. With that new feature announcement, it becomes a perfect topic to kick off my Foundations segments. Hopefully this article will describe what S/MIME is and why people should use it, interest everyone to use it now, and once iOS 5 comes out you will appreciate the fact that S/MIME email is now available.
 
