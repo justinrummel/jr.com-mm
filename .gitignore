@@ -11,6 +11,7 @@ Gemfile.lock
 _AccessKeys.yml
 _deploy.yml
 _localhost.yml
+_octopress.yml
 _asset_bundler_cache
 _site
 codekit-config.json
