@@ -2,17 +2,15 @@
 layout: single
 title: 'Macworld 2010 - IT843: Deploying Podcast Producer in an Active Directory Environment'
 date: 2009-12-05
+categories:
+    - "Presentations"
 tags:
     - Apple
     - Podcast Producer
     - MacIT
     - Active Directory
-header:
-  image:
-  credit:
-  creditlink:
 ---
-Feb. 12, 2010    1:00 PM – 2:30 PM
+Feb. 12, 2010 @ 1:00 PM - 2:30 PM
 ---
 
 ### Discussion Topic

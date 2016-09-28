@@ -1,18 +1,13 @@
 ---
-title: 'MacTech Conference 2011 - How Lion Has Changed Mac OS X: Services, Features and Capabilities'
-author: Justin Rummel
 layout: single
-permalink: /mactech-conference-2011-how-lion-has-changed-mac-os-x-services-features-and-capabilities/
-shorturl:
-    - http://j.mp/p8BCZP
+title: 'MacTech Conference 2011 - How Lion Has Changed Mac OS X: Services, Features and Capabilities'
+date: 2011-07-30
+categories:
+    - "Presentations"
 tags:
     - Lion
     - Mactech
     - OSXS
-header:
-  image:
-  credit:
-  creditlink:
 ---
 I'll be speaking at MacTech Conference 2011 which runs November 2-4 in Los Angeles with [Randy Saeks][MacTech]!
 

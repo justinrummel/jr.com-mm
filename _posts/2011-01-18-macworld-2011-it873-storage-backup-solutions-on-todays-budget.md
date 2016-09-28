@@ -1,18 +1,15 @@
 ---
-title: 'Macworld 2011 - IT873: Storage and Backup Solutions on Todays Budget'
-author: Justin Rummel
-date: 2011-01-18
 layout: single
+title: 'Macworld 2011 - IT873: Storage and Backup Solutions on Todays Budget'
+date: 2011-01-18
+categories:
+    - "Presentations"
 tags:
     - Apple
     - Backups
     - MacIT
-header:
-  image:
-  credit:
-  creditlink:
 ---
-January 29, 2011 (1:00 PM – 2:30 PM)
+January 29, 2011 (1:00 PM - 2:30 PM)
 ---
 
 ### Discussion Topic

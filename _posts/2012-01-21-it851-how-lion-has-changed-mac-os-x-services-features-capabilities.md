@@ -1,17 +1,14 @@
 ---
-title: 'MacIT 2012 - IT851: How Lion Has Changed Mac OS X: Services, Features and Capabilities'
-author: Justin Rummel
 layout: single
+title: 'MacIT 2012 - IT851: How Lion Has Changed Mac OS X: Services, Features and Capabilities'
+categories:
+    - "Presentations"
 tags:
     - Apple
     - Lion
     - MacIT
-header:
-  image:
-  credit:
-  creditlink:
 ---
-Friday, January 27, 2012 (10:20am – 11:05am)
+Friday, January 27, 2012 (10:20am - 11:05am)
 ---
 
 Overview

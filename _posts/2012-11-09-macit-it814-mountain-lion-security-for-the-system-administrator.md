@@ -1,10 +1,8 @@
 ---
-title: 'MacIT - IT814: Mountain Lion Security for the System Administrator'
-author: Justin Rummel
 layout: single
-permalink: /macit-it814-mountain-lion-security-for-the-system-administrator/
-shorturl:
-    - http://j.mp/SAQ1Ly
+title: 'MacIT - IT814: Mountain Lion Security for the System Administrator'
+categories:
+    - "Presentations"
 tags:
     - MacIT
     - Mt Lion
@@ -13,12 +11,8 @@ tags:
     - Gatekeeper
     - Firewall
     - Certificates
-header:
-  image:
-  credit:
-  creditlink:
 ---
-Thursday January 31, 2013 11:55am – 12:40pm
+Thursday January 31, 2013 11:55am - 12:40pm
 ---
 
 ### Discussion Topic

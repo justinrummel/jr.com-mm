@@ -1,20 +1,15 @@
 ---
-title: 'MacIT 2013 - IT801: What Has Changed With Mountain Lion Server'
-author: Justin Rummel
 layout: single
-permalink: /macit-2013-it801-what-has-changed-with-mountain-lion-server/
-shorturl:
-    - http://j.mp/SAPNEh
+title: 'MacIT 2013 - IT801: What Has Changed With Mountain Lion Server'
+date: 2012-11-09
+categories:
+    - "Presentations"
 tags:
     - MacIT
     - Mt Lion
     - OSXS
-header:
-  image:
-  credit:
-  creditlink:
 ---
-Thursday January 31, 2013 10:20am – 11:05am
+Thursday January 31, 2013 10:20am - 11:05am
 ---
 
 ### Discussion Topic

@@ -1,21 +1,15 @@
 ---
-title: 'MacIT 2013 Sessions'
-author: Justin Rummel
 layout: single
-permalink: /macit-2013-sessions/
-shorturl:
-    - http://j.mp/SASMwp
+title: 'MacIT 2013 Sessions'
+categories:
+    - "Presentations"
 tags:
     - MacIT
     - OSXS
-header:
-  image:
-  credit:
-  creditlink:
 ---
 For my fifth year in a row, I'll be presenting at [Macworld MacIT conference][MacIT] in January of 2013! I'll be presenting on two topics this year:
 
-### Thursday Jan 31st, from 10:20am – 11:05am
+### Thursday Jan 31st, from 10:20am - 11:05am
 [IT801: What has changed with Mountain Lion Server]({{ site.url }}/macit-2013-it801-what-has-changed-with-mountain-lion-server/)
 
 #### Discussion Topic
@@ -23,7 +17,7 @@ This is your session to find out about OS X Mountain Lion server! Find out what 
 
 I [hope]({{ site.url }}/10-8-mountain-lion-server-install/) [to]({{ site.url }}/10-8-mountain-lion-server-dns/) [expand]({{ site.url }}/10-8-mountain-lion-server-file-sharing-and-ftp/) [on items]({{ site.url }}/10-8-mountain-lion-server-websites-and-wiki/) [that]({{ site.url }}/10-8-mountain-lion-server-software-update/) [I have]({{ site.url }}/10-8-mountain-lion-server-netinstall/) [already]({{ site.url }}/10-8-mountain-lion-server-open-directory/) [written]({{ site.url }}/10-8-mountain-lion-server-what-changed/) about on this site, to hopefully a new audience that is getting ready to update their servers to Mt Lion. Change will happen, its always better when you are prepared.
 
-### Thursday Jan 31st, from 11:55am – 12:40pm
+### Thursday Jan 31st, from 11:55am - 12:40pm
 [IT814: Mountain Lion Security for The System Administrator]({{ site.url }}/macit-it814-mountain-lion-security-for-the-system-administrator/)
 
 #### Discussion Topic
