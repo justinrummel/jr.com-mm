@@ -1,11 +1,6 @@
 <!-- start custom head snippets -->
 
-{% capture page_title %}{{ page.title | downcase | replace: " ", "," }},{% endcapture %}
-{% if page.categories %}{% capture page_categories %}{% for category in page.categories %}{{ category | downcase }},{% endfor %}{% endcapture %}{% endif %}
-{% capture page_tags %}{% for tag in page.tags %}{{ tag | downcase }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-
 <meta name="description" content="{{ seo_description }}">
-<meta name="keywords" content="{{ page_title }}{{ page_categories }}{{ page_tags }}">
 <meta name="author" content="{{ site.name }}">
 
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
