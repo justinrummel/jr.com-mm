@@ -10,8 +10,9 @@ tags:
     - Multisport
     - Charlottesville Multisports
     - VTS/MTS
+    - Rev3
 header:
-    image: 2016/06/12/Jamestown-Header-Twitter.jpg			# Twitter (use 'teaser')
+    image: 2016/06/12/Jamestown-Header.jpg			# Twitter (use 'overlay_image')
     overlay_image: 2016/06/12/Jamestown-Header.jpg		    # Article header at 2048x768
     overlay_filter: 0.15
     teaser: 2016/06/12/Jamestown-Header-Twitter.jpg 		# Shrink image to 575 width
