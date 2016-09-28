@@ -242,6 +242,6 @@ jekyll-archives:
 compress_html:
   clippings: all
   blanklines: true
-  ignore:
-    envs: development
+#  ignore:
+#    envs: development
 
