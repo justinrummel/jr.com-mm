@@ -245,3 +245,12 @@ compress_html:
 #  ignore:
 #    envs: development
 
+# Default extensions
+post_ext: md
+page_ext: md
+photos_ext: md
+
+# Found in _templates/
+post_layout: post
+page_layout: page
+page_layout: photos
