@@ -7,6 +7,7 @@ categories:
 tags:
     - Photography
     - Travel
+    - Georgia
 header:
     image: 2010/04/02/4485109609_84239932bf_o-Header.jpg
     overlay_image: 2010/04/02/4485109609_84239932bf_o-Header.jpg

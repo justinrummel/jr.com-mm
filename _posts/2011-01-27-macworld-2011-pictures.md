@@ -8,6 +8,8 @@ tags:
     - Apple
     - MacIT
     - Photography
+    - Travel
+    - California
 header:
     image: 2011/01/25/5390608139_91b9040554_b-Header.jpg
     overlay_image: 2011/01/25/5390608139_91b9040554_b-Header.jpg

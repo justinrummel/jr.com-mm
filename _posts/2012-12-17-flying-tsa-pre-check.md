@@ -1,10 +1,6 @@
 ---
-title: 'Flying TSA Pre Check'
-author: Justin Rummel
 layout: single
-permalink: /flying-tsa-pre-check/
-shorturl:
-    - http://j.mp/ZdmsrM
+title: 'Flying TSA Pre Check'
 categories:
     - "Miscellaneous"
 tags:
@@ -12,10 +8,7 @@ tags:
     - Global Entry
     - Pre-Check
     - TSA
-header:
-  image:
-  credit:
-  creditlink:
+    - Travel
 ---
 The [TSA Pre Check program][tsa-pre] is the background security checks performed by U.S. Customs and Border Protection (CBP) for their Trusted Traveler program. This "Trusted Traveler" is the key because the only people who reference TSA Pre Check is the TSA (more to follow on this). With the TSA Pre Check completed, you are allowed to use the expedited screening process that is found at select Airports. Also, your airline must participate with the program (again, more to follow on this).
 

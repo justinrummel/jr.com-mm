@@ -1,10 +1,11 @@
 ---
 layout: single
 title: "Google Domains Now Does Dynamic DNS"
+description: "Google Domains is now for the public, with upgrades!"
 date: 2015-01-16T17:20:13-05:00
 modified:
 categories:
-description: "Google Domains is now for the public, with upgrades!"
+    - "Miscellaneous"
 tags:
     - Google
 header:

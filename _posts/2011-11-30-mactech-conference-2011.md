@@ -7,6 +7,7 @@ categories:
 tags:
     - Mactech
     - Photography
+    - California
 ---
 Wow... I've been slacking off on writing posts.  I know I'm highly overdue on S/MIME on iOS, I'll be working on that soon... just finding a few snags and using MDM deployments.  For now here are several sets of pictures I've been taking over the past month.
 

@@ -7,6 +7,8 @@ categories:
 tags:
     - Photography
     - Travel
+    - New York
+    - Canada
 header:
     image: 2011/09/29/6200826580_2d4e5f6061_b-Header.jpg
     overlay_image: 2011/09/29/6200826580_2d4e5f6061_b-Header.jpg

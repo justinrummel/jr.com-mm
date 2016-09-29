@@ -7,6 +7,7 @@ categories:
 tags:
     - Photography
     - Travel
+    - California
 header:
     image: 2011/06/17/5849297757_2a2c79f295_b-Header.jpg
     overlay_image: 2011/06/17/5849297757_2a2c79f295_b-Header.jpg

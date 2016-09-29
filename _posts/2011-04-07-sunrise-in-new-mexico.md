@@ -7,6 +7,7 @@ categories:
 tags:
     - Photography
     - Travel
+    - New Mexico
 header:
     image: 2011/03/29/5577339977_450d59686d_b-Header.jpg
     overlay_image: 2011/03/29/5577339977_450d59686d_b-Header.jpg

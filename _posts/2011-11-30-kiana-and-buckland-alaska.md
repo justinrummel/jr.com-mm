@@ -7,6 +7,7 @@ categories:
 tags:
     - Photography
     - Travel
+    - Alaska
 header:
     image: 2011/11/16/6428384225_83178a1aaa_b-Header.jpg
     overlay_image: 2011/11/16/6428384225_83178a1aaa_b-Header.jpg
