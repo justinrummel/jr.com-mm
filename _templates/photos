@@ -1,0 +1,38 @@
+---
+layout: single
+title: "{{ title }}"
+date: {{ date }}
+modified:
+description: "You have 140 characters, use it."     # For Twitter, not the Title
+categories:
+    - "Photography"
+tags:
+    - Photography
+    - Travel
+    - "State"
+header:
+    image: 2017/01/01/EVENT-Header.jpg                  # Twitter (use 'overlay_image')
+    overlay_image: 2017/01/01/EVENT-Header.jpg          # Article header at 2048x768
+    overlay_filter: 0.15
+    teaser: 2017/01/01/EVENT-Header-Twitter.jpg         # Shrink image to 575 width
+    caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
+---
+blah blah blah
+
+<figure class="third">
+<a href="{{ site.url }}/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-1.jpg" alt="Harpers Ferry Picture 1" /></a>
+<a href="{{ site.url }}/images/2017/01/01/EVENT-LG-4.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-4.jpg" alt="Harpers Ferry Picture 4" /></a>
+<a href="{{ site.url }}/images/2017/01/01/EVENT-LG-6.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-6.jpg" alt="Harpers Ferry Picture 6" /></a>
+</figure>
+<figure class="third">
+<a href="{{ site.url }}/images/2017/01/01/EVENT-LG-2.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-2.jpg" alt="Harpers Ferry Picture 2" /></a>
+<a href="{{ site.url }}/images/2017/01/01/EVENT-LG-5.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-5.jpg" alt="Harpers Ferry Picture 5" /></a>
+</figure>
+
+Footnotes
+---
+
+[^1]: Of course you have a footnote.
+
+[www1]: https://www.www1.com/
+[www2]: https://www.www2.com/
