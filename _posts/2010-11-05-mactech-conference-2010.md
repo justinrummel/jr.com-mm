@@ -8,6 +8,7 @@ tags:
     - Apple
     - Mactech
     - Photography
+    - California
 header:
     image: 2010/11/05/5148714214_060631dd0b_b-Header.jpg
     overlay_image: 2010/11/05/5148714214_060631dd0b_b-Header.jpg

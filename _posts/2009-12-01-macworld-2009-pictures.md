@@ -8,6 +8,7 @@ tags:
     - Apple
     - Photography
     - MacIT
+    - California
 header:
     image: 2009/01/05/4152178346_52ebb5e910_b-Header.jpg
     overlay_image: 2009/01/05/4152178346_52ebb5e910_b-Header.jpg
