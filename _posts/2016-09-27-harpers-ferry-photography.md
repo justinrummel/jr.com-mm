@@ -9,6 +9,7 @@ categories:
 tags:
     - Photography
     - Travel
+    - "West Virginia"
 header:
     image: 2016/09/27/29681800390_4366dbecc9_k-Header.jpg			# Twitter (use 'overlay_image')
     overlay_image: 2016/09/27/29681800390_4366dbecc9_k-Header.jpg		    # Article header at 2048x768
