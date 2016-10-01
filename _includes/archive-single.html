@@ -15,7 +15,7 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
+<!--       <div class="archive__item-teaser">
         <img src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
@@ -23,7 +23,7 @@
             "{{ teaser | prepend: "/images/" | prepend: base_path }}"
           {% endif %}
           alt="">
-      </div>
+      </div> -->
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.header.teaser %}
@@ -46,7 +46,6 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %} -->
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html }}[ <a href="{{ base_path }}{{ post.url }}" rel="permalink">Read More...</a> ]</p>{% endif %}
+    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>
