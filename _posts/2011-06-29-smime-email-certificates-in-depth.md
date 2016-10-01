@@ -1,10 +1,9 @@
 ---
-title: S/MIME Email Certificates in-Depth
-author: Justin Rummel
 layout: single
-permalink: /smime-email-certificates-in-depth/
-shorturl:
-    - http://j.mp/poq26v
+title: "S/MIME Email Certificates in-Depth"
+date: 2011-06-29
+categories:
+    - "Tech Article"
 tags:
     - Apple
     - Certificates
@@ -12,13 +11,6 @@ tags:
     - Lion
     - OSX
     - S/MIME
-comments: true
-header:
-  image:
-  credit:
-  creditlink:
----
-Overview
 ---
 We have discussed the basics of S/MIME in my post [What Is S/MIME Email and Why Should I Be Using It]({{ site.url }}/what-is-smime-email-and-why-should-i-be-using-it/), and from the last article [Acquiring a S/MIME Certificate for Free]({{ site.url }}/acquiring-a-smime-certificate-for-free/) you should have your S/MIME certificate installed. Now lets get into some more technical aspects of S/MIME.
 
@@ -31,12 +23,9 @@ A S/MIME certificate can be store several different ways (see Apple's kbase [Abo
 
 Private Keys
 ---
-![Certificate]({{ site.url }}/images/2011/06/certificate.png)
-{: .align-left}
+![Certificate]({{ site.url }}/images/2011/06/certificate.png){: .align-left}Keychain Access is by far the simplest method. Simply select your Public certificate, click on the pretty blue certificate icon at the top and drag-n-drop to your desktop. This saves the file in a .cer format and you can use QuickLook to see the contents.
 
-Keychain Access is by far the simplest method. Simply select your Public certificate, click on the pretty blue certificate icon at the top and drag-n-drop to your desktop. This saves the file in a .cer format and you can use QuickLook to see the contents.
-
-![cer export]({{ site.url }}/images/2011/06/smime-cert-quickview.png)
+![cer export]({{ site.url }}/images/2011/06/smime-cert-quickview.png){: .align-center}
 
 *(QuickLook of my .cer export from Keychain Access)*
 
@@ -54,14 +43,11 @@ $ security find-certificate -a -e j@justinrummel.com*.
 
 What we are doing is using the Mac OS X *security* command to find your certificate within the default keychain (your Login keychain), which is usually located at: /Users/*yourusername*/Library/Keychains/login.keychain. We find all the matching values by utilizing the "-a" flag. We want to do this because as time passes you are going to collect expired certificates and we want to keep old certificates just in case you want to decrypted a message in a couple of years. The next flag is "-e" for your email. This should return hopefully one result, but if not, you most likely have expired certificates (and that's OK).
 
-![Show Expired]({{ site.url }}/images/2011/06/Show-Expired.png)
-{: .image-right }
-
-If you want to see your expired certificates, the easist way to do this is open Keychain access, enable View => "Show Expired Certificates" and find any records with your email address that has a red "X" (meaning "expired"). Once you know you have one certificate, include the "-p" flag for .pem file type and export (the "> ~/Desktop/myPublicCert.pem" section).
+![Show Expired]({{ site.url }}/images/2011/06/Show-Expired.png){: .image-right }If you want to see your expired certificates, the easist way to do this is open Keychain access, enable View => "Show Expired Certificates" and find any records with your email address that has a red "X" (meaning "expired"). Once you know you have one certificate, include the "-p" flag for .pem file type and export (the "> ~/Desktop/myPublicCert.pem" section).
 
 When you look at your myPublicCert.pem certificate through a text editor, it comes back with 30 or so lines with complete gibberish starting with "BEGIN CERTIFICATE" and ending with "END CERTIFICATE". For Example:
 
-<preformated>
+``` HTTP
 ---BEGIN CERTIFICATE---
 MIIFJjCCBA6gAwIBAgIRAPQyFuvXTYP/N2gOhG540kUwDQYJKoZIhvcNAQEFBQAw
 gZMxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
@@ -92,16 +78,17 @@ YuNBLLKDTMGPfqFJ0z4rz/YcVKdB3t0xO+RK0z0olahEUh/04ImCiRZOZ2B/G4g7
 uwGEEkyiDWpA6gmWhej0HmBi6kFDuzxVsLDsEtwASiTw7HylhBx6ntMlWuLh9zVj
 XEHpIjv25NNgLXMtlk95TgAaFE6M/Fm1vqs=
 ---END CERTIFICATE---
-</preformated>
+```
+
 *(my real <j@justinrummel.com> public email certificate)*
 
 If this makes any sense to you (other than... Oh, that is a pem output), you might need to get yourself check in an asylum. This should mean nothing to you, fortunately we can get a more human readable printout by using the openssl command.
 
 {% highlight bash %}
 $ openssl x509 -text -fingerprint -sha1 -in ~/Desktop/myPublicCert.pem
-{% endhighlight %} 
+{% endhighlight %}
 
-<preformated>
+``` HTTP
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -210,9 +197,9 @@ YuNBLLKDTMGPfqFJ0z4rz/YcVKdB3t0xO+RK0z0olahEUh/04ImCiRZOZ2B/G4g7
 uwGEEkyiDWpA6gmWhej0HmBi6kFDuzxVsLDsEtwASiTw7HylhBx6ntMlWuLh9zVj
 XEHpIjv25NNgLXMtlk95TgAaFE6M/Fm1vqs=
 ---END CERTIFICATE---
-</preformated>
+```
 
-We can now see that the entity who issued my certificate (The "third party") is "COMODO CA Limited". My certification is valid until Jun 16 23:59:59 2012. This is a little easier to comprehend, and it also lets us know that this is a certificate specific for the email address <j@justinrummel.com>.
+We can now see that the entity who issued my certificate (The "third party") is "COMODO CA Limited". My certification is valid until Jun 16 23:59:59 2012. This is a little easier to comprehend, and it also lets us know that this is a certificate specific for the email address.
 
 Private Keys
 ---
@@ -220,7 +207,7 @@ To export your public and private keys for backup purposes (remember... you do n
 
 For Keychain Access you want to be sure you select the Category "My Certificates" section on the bottom left hand side of your Keychain Access window. This shortens you list of possible items you would want to export, while still having the option to select your Public and Private keys. Find your email address and click on the disclosure triangle and select both the certificate and the private key (icon looks like a key... how appropriate). You will now need to select File => Export Items (or Ctrl Click the certificates), and save the two items as one .p12 file. Once you click on OK, you will be prompted for a password. This is to ensure your private key is now encrypted using this password as part of the export algorithm. You may also be requested to "Allow" access to your Login Keychain.
 
-![Private and Public Export from Keychain Access]({{ site.url }}/images/2011/06/Private-and-Public-Export.png)
+![Private and Public Export from Keychain Access]({{ site.url }}/images/2011/06/Private-and-Public-Export.png){: .align-center}
 
 You will not be able to read this file via a text editor, instead you can read the information by entering the following command:
 
@@ -230,7 +217,7 @@ $ openssl pkcs12 -info -in ~/Desktop/myPublicCert.p12
 
 This will display both your private and public keys in a .pem format. This is what allows Keychain Access to import your certificates and use for Mail in case you need to re-import the files to your machine or use for iOS (to be discussed on a later article).
 
-To do this in Terminal, you unfortuanely cannot specify the selection of one S/MIME email Public/Private key pair... as the security command is more of a "All or nothing" approach.  This can be seen as a positive non-capable feature of the security command as you don't have to worry about exporting each S/MIME certificate that you acquire over time as it's all done at once. To do this we again go back to the security command:
+To do this in Terminal, you unfortunately cannot specify the selection of one S/MIME email Public/Private key pair... as the security command is more of a "All or nothing" approach.  This can be seen as a positive non-capable feature of the security command as you don't have to worry about exporting each S/MIME certificate that you acquire over time as it's all done at once. To do this we again go back to the security command:
 
 {% highlight bash %}
 $ security export -k login.keychain -t identities -f pkcs12 -o ~/Desktop/myCerts.p12

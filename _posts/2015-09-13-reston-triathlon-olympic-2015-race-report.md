@@ -8,11 +8,6 @@ categories:
     - "Race Report"
 tags:
     - Multisport
-header:
-  image: # 2048x768 for article header
-  teaser: # 400x400 for Twitter
-  credit:
-  creditlink:
 ---
 Amazing what one year makes; for the good or bad.  This is the second time I've raced the Reston Triathlon, so I'm going to compare my numbers to see where there was any improvement.
 

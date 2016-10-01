@@ -1,6 +1,5 @@
 ---
 title: "It's (Log)^2, it's big, it's heavy, it's wood [Mac OSX Server Edition]"
-author: Justin Rummel
 layout: single
 date: 2013-03-11 15:52
 tags:
@@ -8,11 +7,6 @@ tags:
     - Mt Lion
     - OSXS
     - Logs
-published: true
-header:
-  image:
-  credit:
-  creditlink:
 ---
 ## AFP
 

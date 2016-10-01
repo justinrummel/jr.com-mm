@@ -1,20 +1,15 @@
 ---
-title: 'Remove Diginotar CA Certificate'
-author: Justin Rummel
 layout: single
-permalink: /remove-diginotar-ca-certificate/
-shorturl:
-    - http://j.mp/nOeJ56
+title: "Remove Diginotar CA Certificate"
+date: 2011-08-03
+categories:
+    - "Tech Article"
 tags:
     - Apple
     - Certificates
     - Lion
     - OSX
     - OSXS
-header:
-  image:
-  credit:
-  creditlink:
 ---
 First, I want to say thanks to [Edward Marczak][radiotope] for his original post on how to remove the Diginotar CA Certificate, and his forward thinking about how to do this from a System Admin perspective. I wanted to add a few more bits of info to his post to better explain the *security* command.
 
@@ -35,7 +30,7 @@ In the command above, I'm asking the security command to find the certificate wi
 {% highlight bash %}
 #!/bin/sh
 BADDIGI=$(/usr/bin/security find-certificate -Z -e "info@diginotar.nl" /System/Library/Keychains/SystemRootCertificates.keychain | grep SHA | awk -F ": " '{print $2}')
-echo "Going to delete: $BADDIGIn"
+echo "Going to delete: $BADDIGI"
 sudo /usr/bin/security delete-certificate -Z "$BADDIGI" /System/Library/Keychains/SystemRootCertificates.keychain
 {% endhighlight %}
 
@@ -43,7 +38,7 @@ So the obvious question from the above command is "How do I know info@diginotar.
 
 If you open Keychain Access (located in /Applications/Utilities/), do a search for Diginotar (you will get one value in return as seen below). Right click the certificate and select "Get Info".
 
-![Digi-Search]({{ site.url }}/images/2011/08/Digi-Search.png)
-![Digi-Info]({{ site.url }}/images/2011/08/Digi-Info.png)
+![Digi-Search]({{ site.url }}/images/2011/08/Digi-Search.png){: .align-center}
+![Digi-Info]({{ site.url }}/images/2011/08/Digi-Info.png){: .align-center}
 
 [radiotope]: http://radiotope.com/content/remove-certificate

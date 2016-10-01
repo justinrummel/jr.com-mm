@@ -1,17 +1,11 @@
 ---
 title: "DEP and VPP Notes from MacDMV Group Meeting"
-author: Justin Rummel
 layout: single
 date: 2014-05-02 11:59
 tags:
     - Apple
     - DEP
     - VPP
-published: true
-header:
-  image:
-  credit:
-  creditlink:
 ---
 On May 1st, [MacDMV's second "tech" session][2014-05-01] took place covering Apple's [Device Enrollment Program][DEP] (DEP) and how it relates to [JAMF Software's Casper Suite][JSS], a little about VPPMD (because once you start talking about DEP you can't help but talk about VPP), and [Munki in a Box][MiaB] which is a deployment script for Munki by Tom Bridge.
 

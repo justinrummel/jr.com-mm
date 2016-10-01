@@ -1,17 +1,11 @@
 ---
 title: "Updated XProtectWatch now with terminal-notifier"
-author: Justin Rummel
 layout: single
 date: 2013-03-22 20:42
 tags:
     - Apple
     - Mt Lion
     - XProtect
-published: true
-header:
-  image:
-  credit:
-  creditlink:
 ---
 ### XProtectWatch 1.1.0 (now with terminal-notifier support) ###
 ![XProtectWatch]({{ site.url }}/images/2013/03/22/XProtectWatch-Notification.png)

@@ -1,18 +1,10 @@
 ---
 title: '10.8 Mountain Lion Server: Software Update'
-author: Justin Rummel
 layout: single
-permalink: /10-8-mountain-lion-server-software-update/
-shorturl:
-    - http://j.mp/MGHsiP
 tags:
     - Apple
     - Mt Lion
     - OSXS
-header:
-  image:
-  credit:
-  creditlink:
 ---
 Overview
 ---

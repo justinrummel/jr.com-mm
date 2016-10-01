@@ -12,7 +12,6 @@ header:
   image: 2015/02/05/gparted-live.png
   credit: GParted
   creditlink: http://sourceforge.net/p/gparted/code/ci/master/tree/htdocs/images/gparted-live.png
-
 ---
 ## "Well, here's another fine mess you've gotten me into"
 Let us pretend that you have an Ubuntu Server which has been running for several years and it has been doing it's assigned task(s) nicely, until one day you make a change to your methodology/assumptions/workflow/tasks therefore the allocated Virtual Hard Drive (VHD) size is no longer sufficient.  There are many reasons for this, but I ran into this issue twice in one weekended because I enabled a [JDS as a Distribution Point]({{ site.url }}/casper-suite-9-cloud-and-jds-distribution-points/) (thus MySQL was <s>eating</s> needing a lot of space) and wanting to test multiple NetBoot NBI sources (because 10.10.2 seems to be causing imaging troubles).  I need to increase the size of two different VHDs, however if you setup your Ubuntu Server via "Easy Install Mode" enlarging the VHD is not that strait forward.

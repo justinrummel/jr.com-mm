@@ -1,17 +1,11 @@
 ---
 title: "MacDMV: New DC, MD, VA Mac Admin Group"
-author: Justin Rummel
 layout: single
 date: 2013-11-25 15:32
 tags:
     - Apple
     - MacDMV
     - OSXS
-published: true
-header:
-  image:
-  credit:
-  creditlink:
 ---
 Last Friday I was feeling a little jealous of the San Francisco area Mac Admin's group [Macbrained][macbrained] on getting a group of individuals together to discuss new items in the Apple world (Mavericks and iOS7).  I know many Mac Admin's in the DC Metro area and believe that a DC group would thrive!  I was venting my frustrations to [@natewalck][nate] on [freenode's osx-server channel][irc] of which he replied: "make one!".  Tom happened to be in the channel as well... and in about 10 minutes we purchased a domain, established email accounts, and created a twitter user for future broadcasts.
 

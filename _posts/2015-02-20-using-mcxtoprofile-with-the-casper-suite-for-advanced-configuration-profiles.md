@@ -10,12 +10,6 @@ tags:
     - CLI
     - OSX
     - Yosemite
-header:
-  image: # 2048x768 for article header
-  teaser: # 400x400 for Twitter
-  credit:
-  creditlink:
-
 ---
 JAMF Software's Casper Suite has the ability to use Configuration Profiles (Apple's preferred method for managing OSX and iOS) since version 8.0, and introduced Apple Push Notification Service ([APNS]({{ site.url }}/search/?q=apns)) support since Casper Suite 8.4.  The combination of using Configurations Profiles with APNS allows administrators the ability to push management settings, which will be installed immediately and securely on their client machines.  However, Apple has been slow to provide Configuration Profiles a 1:1 feature parity that Mac Administrators were used to be able to configure through MCX via Workgroup Manager ([RIP][rip]).  There is a need to extract legacy MCX Settings and convert them into a working Configuration Profiles to manage options in a meticulous fashion: thus [mcxToProfile][m2p].
 

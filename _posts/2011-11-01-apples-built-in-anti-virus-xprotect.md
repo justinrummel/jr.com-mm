@@ -1,19 +1,14 @@
 ---
-title: "Apple's Built-in Anti-Virus: XProtect"
-author: Justin Rummel
 layout: single
-permalink: /apples-built-in-anti-virus-xprotect/
-shorturl:
-    - http://j.mp/vICnqI
+title: "Apple's Built-in Anti-Virus: XProtect"
+date: 2011-11-01
+categories:
+    - "Tech Article"
 tags:
     - Apple
     - Lion
     - CLI
     - XProtect
-header:
-  image:
-  credit:
-  creditlink:
 ---
 Today, [Intego announced of a new trojan designed for the Mac][DevilRobber] dubbed "DevilRobber".
 
@@ -31,7 +26,7 @@ If we run to following command "today" (11/1/2011 @ 11am Eastern), we get the fo
 
 {% highlight bash %}
 $ /usr/libexec/PlistBuddy -c "print LastModification" /System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/XProtect.meta.plist
->     Tue, 11 Oct 2011 16:20:51 GMT
+	Tue, 11 Oct 2011 16:20:51 GMT
 {% endhighlight %}
 
 This tells us that our anti-virus dictionary file has not been updated since Oct 11th of 2011. In order to update your dictionary, you can use the above check / recheck method or:

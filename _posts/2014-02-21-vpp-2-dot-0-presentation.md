@@ -1,17 +1,11 @@
 ---
 title: "VPP 2.0 Presentation"
-author: Justin Rummel
 layout: single
 date: 2014-02-21 15:39
 tags:
     - Apple
     - MacDMV
     - VPP
-published: true
-header:
-  image:
-  credit:
-  creditlink:
 ---
 Yesterday I was able to present to the local DC, VA, MD Mac User Group [MacDMV][MacDMV] on VPP.  I felt it was a great success for our first knowledge focus event, and glad things are now in-gear.  As I mentioned during my presentation, I've uploaded my slides to GitHUB so you can download the Markdown source.
 

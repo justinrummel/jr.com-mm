@@ -1,17 +1,11 @@
 ---
 title: "Debug APNS issues for JAMF Software's Casper Suite"
-author: Justin Rummel
 layout: single
 date: 2013-07-19 15:04
 tags:
     - Apple
     - APNS
     - Casper Suite
-published: true
-header:
-  image:
-  credit:
-  creditlink:
 ---
 
 ## Overview

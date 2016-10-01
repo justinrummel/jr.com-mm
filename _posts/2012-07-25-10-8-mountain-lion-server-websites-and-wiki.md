@@ -1,18 +1,10 @@
 ---
 title: '10.8 Mountain Lion Server: Websites and Wiki'
-author: Justin Rummel
 layout: single
-permalink: /10-8-mountain-lion-server-websites-and-wiki/
-shorturl:
-    - http://j.mp/MGHp6H
 tags:
     - Apple
     - Mt Lion
     - OSXS
-header:
-  image:
-  credit:
-  creditlink:
 ---
 Overview
 ---

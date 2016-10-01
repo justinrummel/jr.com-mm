@@ -1,22 +1,12 @@
 ---
 title: "Casper Suite 9: JDS Ubuntu Server Install Example"
-author: Justin Rummel
 layout: single
 date: 2013-08-31 14:32
 tags:
     - Casper Suite
     - JDS
     - Ubuntu Server
-published: true
-header:
-  image:
-  credit:
-  creditlink:
 ---
-
-Overview
----
-
 In the last article [Casper Suite 9: Cloud and JDS Distribution Points]({{ site.url }}/casper-suite-9-cloud-and-jds-distribution-points) I gave you information about things to take into consideration before installing a JAMF Distribution Server (JDS) into your Casper Suite 9 environment.  In this article I'll take you through an example install of a JDS in Ubuntu.
 
 ### JAMF Distribution Server (JDS) Install

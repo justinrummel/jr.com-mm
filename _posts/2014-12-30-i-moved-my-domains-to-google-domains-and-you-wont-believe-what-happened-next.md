@@ -1,17 +1,11 @@
 ---
 title: "I moved my domains to Google Domains, and you won't believe what happened next"
 date: 2014-12-30 14:53
-author: Justin Rummel
 layout: single
 categories:
     - "Miscellaneous"
 tags:
     - Google
-published: true
-header:
-  image:
-  credit:
-  creditlink:
 ---
 OK, that title is COMPLETELY intended for click bait. I just think it's funny how "online news sites" use this to get people to click on things.
 

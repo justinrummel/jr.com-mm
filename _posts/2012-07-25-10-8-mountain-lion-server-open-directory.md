@@ -1,18 +1,10 @@
 ---
 title: '10.8 Mountain Lion Server: Open Directory'
-author: Justin Rummel
 layout: single
-permalink: /10-8-mountain-lion-server-open-directory/
-shorturl:
-    - http://j.mp/MGHHKU
 tags:
     - Apple
     - Mt Lion
     - OSXS
-header:
-  image:
-  credit:
-  creditlink:
 ---
 Overview
 ---

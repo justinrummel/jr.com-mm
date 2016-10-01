@@ -1,7 +1,10 @@
 ---
 layout: single
-title: 'What Is S/MIME Email and Why Should I Be Using It'
-description: 'This article describes what is S/MIME is and why should you care by giving examples that relate S/MIME to everyday occurrences.'
+title: "What Is S/MIME Email and Why Should I Be Using It"
+date: 2001-06-17
+description: "This article describes what is S/MIME is and why should you care by giving examples that relate S/MIME to everyday occurrences."
+categories:
+    - "Tech Article"
 tags:
     - Apple
     - Certificates

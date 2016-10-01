@@ -1,11 +1,9 @@
 ---
 title: "Policies 101-Unleash the Power!"
-author: Justin Rummel
 layout: single
 date: 2014-10-21 15:53
 tags:
     - Casper Suite
-published: true
 header:
   image: 2014/10/21/jamf-nation-user-conference-2014.jpg
   credit: JAMF Software

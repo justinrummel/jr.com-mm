@@ -13,7 +13,6 @@ header:
   image: 2015/01/22/ubuntu-logo14.png
   credit: Ubuntu
   creditlink: https://design.ubuntu.com/brand/ubuntu-logo
-
 ---
 Lately I've been doing a lot of Ubuntu Server installs for JumpStarts with their intended use to become a JSS or JDS server.  It's easy to spin up a full clone or linked clone on my laptop, but when I'm at customer's location they usually only have an ISO that was downloaded some time ago... so we're starting from scratch.  With a brand new Ubuntu Server VM, there are a few steps that you need to perform to make your life easier in the long run.
 

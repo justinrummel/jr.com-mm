@@ -1,6 +1,5 @@
 ---
 title: "Sending Mail from OS X Server on Verizon FiOS via Gmail"
-author: Justin Rummel
 layout: single
 date: 2014-07-08 13:41
 tags:
@@ -10,11 +9,6 @@ tags:
     - Mail
     - Postfix
     - FiOS
-published: true
-header:
-  image:
-  credit:
-  creditlink:
 ---
 Yes I know this is a lengthy... long... and very specific post title, but I hope it helps someone else in the same predicament.
 

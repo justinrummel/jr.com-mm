@@ -1,17 +1,11 @@
 ---
 title: "XProtect updated - 2013.02.26"
-author: Justin Rummel
 layout: single
 date: 2013-02-26 11:54
 tags:
     - Apple
     - Mt Lion
     - XProtect
-published: true
-header:
-  image:
-  credit:
-  creditlink:
 ---
 On Feb 19, 2013 11:48 PM Topher Kessler releases his article for CNET that [New Mac malware opens secure reverse shell][8301-13727_7-57570100-263] is out, "but has not yet been determined to be much of a threat".  His article properly sources [Intego's][intego] original article on the matter. In short it uses a modified implementation of openssl to establish a secure connection to a remote server thus creating a [botnet][botnet] or Command and Control (C&C) environment.
 

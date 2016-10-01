@@ -1,6 +1,5 @@
 ---
 title: "Working with VPP and DEP Apple IDs"
-author: Justin Rummel
 layout: single
 date: 2014-04-26 09:50
 tags:
@@ -9,11 +8,6 @@ tags:
     - DEP
     - OSXS
     - Apple ID
-published: true
-header:
-  image:
-  credit:
-  creditlink:
 ---
 These are notes about getting the Apple IDS and their two-step verification authentication ready for Apples Volume Purchasing Program (VPP) and Device Enrollment Program (DEP).  WORST case give yourself two weeks to complete all the items listed below, but realisticly it can be done within three business days.
 

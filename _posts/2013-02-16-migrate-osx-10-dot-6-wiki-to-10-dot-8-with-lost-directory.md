@@ -1,6 +1,5 @@
 ---
 title: "Migrate OSX 10.6 Wiki to 10.8 with lost Directory"
-author: Justin Rummel
 layout: single
 date: 2013-02-16 13:12
 tags:
@@ -8,10 +7,6 @@ tags:
     - Mt Lion
     - Wiki
     - OSXS
-header:
-  image:
-  credit:
-  creditlink:
 ---
 This title is very specific and may not be everyone's exact scenario, however, there was plenty of beneficial items in my latest exercise with Wiki data on OS X; specifically taking old 10.6 Wiki data and putting it on a new server in which the Directory information was lost.
 

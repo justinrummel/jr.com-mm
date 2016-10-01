@@ -1,6 +1,5 @@
 ---
 title: "Quick Step-by-Step Guide for AutoPKG and JSSImporter"
-author: Justin Rummel
 layout: single
 date: 2014-06-18 09:43
 tags:
@@ -8,11 +7,6 @@ tags:
     - JSS
     - OSXS
     - AutoPKG
-published: true
-header:
-  image:
-  credit:
-  creditlink:
 ---
 
 Overview

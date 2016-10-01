@@ -1,19 +1,14 @@
 ---
-title: 'Built-in Hidden Command Line Tools: Stroke and Airport'
-author: Justin Rummel
 layout: single
-permalink: /built-in-hidden-command-line-tools-stroke-and-airport/
-shorturl:
-    - http://j.mp/pao6S0
+title: "Built-in Hidden Command Line Tools: Stroke and Airport"
+date: 2011-08-03
+categories:
+    - "Tech Article"
 tags:
     - Apple
     - CLI
     - Lion
     - OSX
-header:
-  image:
-  credit:
-  creditlink:
 ---
 These tools are nothing new as they were available in Snow Leopard (and I believe Leopard, just can’t check), but they are fun little tools just in case you don’t have Apple’s Xcode [iTunes link][xCode] installed or [MacPorts][macPorts] available on your computer.
 
@@ -65,7 +60,7 @@ Things you can’t do for people who use nmap include fingerprinting, service in
 
 Wireless discovery with *airport*
 ---
-The airport command is more powerful than stroke as you are able to use this for preferences setting, network scanning, or packet capturing! First lets find the command by cd to the **/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/** directory, then type ./airport
+The airport command is more powerful than stroke as you are able to use this for preferences setting, network scanning, or packet capturing! First lets find the command by cd to the **/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/** directory, then type ``` ./airport ```
 
 If you just typed that out... you’ll notice a long list of options for this command. More than I want to copy and paste for this post, and much more than stroke!
 
@@ -118,10 +113,10 @@ What else can you do with the airport command? How about this awesome list:
 
 These options should look somewhat familiar as if you check out the System Preferences => Network => Wi-Fi you would see the same checkboxes. This gives you the option of changing your settings by SSH or a script later in time.
 
-![Settings]({{ site.url }}/images/2011/08/Wi-Fi1.png)
+![Settings]({{ site.url }}/images/2011/08/Wi-Fi1.png){: .align-center}
 Wi-Fi Network Settings
 
-![Options]({{ site.url }}/images/2011/08/Wi-Fi2.png)
+![Options]({{ site.url }}/images/2011/08/Wi-Fi2.png){: .align-center}
 Wi-Fi Network Options
 
 [xCode]: http://itunes.apple.com/us/app/xcode/id448457090?mt=12

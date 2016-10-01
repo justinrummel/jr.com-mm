@@ -1,6 +1,5 @@
 ---
 title: "New binaries in Yosemite"
-author: Justin Rummel
 description: "Find the new (or removed) binary commands now that Yosemite is released!"
 layout: single
 date: 2014-10-16 09:30
@@ -9,7 +8,6 @@ tags:
     - Yosemite
     - OSX
     - CLI
-published: true
 header:
   image: 2014/10/16/Hero-with-Clouds.jpg
   credit: Apple, Inc

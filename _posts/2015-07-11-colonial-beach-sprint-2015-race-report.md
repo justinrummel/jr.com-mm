@@ -1,15 +1,14 @@
 ---
 layout: single
 title: Colonial Beach Sprint 2015 Race Report
+date: 2015-07-11T17:38:01-04:00
 modified:
+description: "My Race report for the Colonial Beach Sprint 2015" # For Twitter, not the Title
 categories:
     - "Race Report"
-description: "My Race report for the Colonial Beach Sprint 2015" # For Twitter, not the Title
 tags:
     - Multisport
     - VTS/MTS
-
-date: 2015-07-11T17:38:01-04:00
 ---
 I know my usually audience is not interested in Triathlons, however, still not sure how to incorporate knowledge gained at my new job to my past audience.  So, to make sure everyone knows I'm still around I'll post my race report for the 2015 Colonial Beach Sprint in Virginia.
 

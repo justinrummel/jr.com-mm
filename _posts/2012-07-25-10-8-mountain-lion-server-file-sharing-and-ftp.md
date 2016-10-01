@@ -1,18 +1,10 @@
 ---
 title: '10.8 Mountain Lion Server: File Sharing and FTP'
-author: Justin Rummel
 layout: single
-permalink: /10-8-mountain-lion-server-file-sharing-and-ftp/
-shorturl:
-    - http://j.mp/NJtOuq
 tags:
     - Apple
     - Mt Lion
     - OSXS
-header:
-  image:
-  credit:
-  creditlink:
 ---
 File Sharing
 ---

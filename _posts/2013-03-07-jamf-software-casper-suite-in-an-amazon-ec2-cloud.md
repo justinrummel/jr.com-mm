@@ -1,6 +1,5 @@
 ---
 title: "JAMF Software Casper Suite in an Amazon EC2 Cloud"
-author: Justin Rummel
 layout: single
 date: 2013-03-07 18:56
 tags:
@@ -10,11 +9,6 @@ tags:
     - EC2
     - Ubuntu Server
     - Linux
-published: true
-header:
-  image:
-  credit:
-  creditlink:
 ---
 I had the interesting opportunity of installing the Casper Suite on an Amazon EC2 Cloud server and wanted to post my findings on the subject for other future "cloud" users.  Overall the process is very simple, as you can configure a Windows 2008 R2 Server or Linux server via one of Amazon's Quick Launch Configurations.  I'll review technically what was needed for the environment along with a couple of "gotchas".
 

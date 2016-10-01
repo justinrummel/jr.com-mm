@@ -1,17 +1,11 @@
 ---
 title: "How APNS works with MDMs that manage OSX and iOS"
-author: Justin Rummel
 layout: single
 date: 2013-07-18 16:21
 tags:
     - Apple
     - Casper Suite
     - APNS
-published: true
-header:
-  image:
-  credit:
-  creditlink:
 ---
 ## Overview
 

@@ -1,18 +1,10 @@
 ---
 title: '10.8 Mountain Lion Server: NetInstall'
-author: Justin Rummel
 layout: single
-permalink: /10-8-mountain-lion-server-netinstall/
-shorturl:
-    - http://j.mp/MGHvv0
 tags:
     - Apple
     - Mt Lion
     - OSXS
-header:
-  image:
-  credit:
-  creditlink:
 ---
 Overview
 ---

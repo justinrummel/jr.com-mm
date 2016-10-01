@@ -1,6 +1,5 @@
 ---
 title: "Octotransfigurator-inator: Migrating from Wordpress"
-author: Justin Rummel
 layout: single
 date: 2013-02-11 10:31
 categories:
@@ -8,10 +7,6 @@ categories:
 tags:
     - "Wordpress"
     - "Octopress"
-header:
-  image:
-  credit:
-  creditlink:
 ---
 Lets face it, this site has become stale over the winter months... but largely due to dedicating time to researching, writing, practicing for my two MacIT presentations that happened from Jan 30 - Feb 2nd. Now that I'm finished with MacIT, I need to post PDF links and Vimeo video links that I promised during my session.  But as I look at my site I've realized that it needs something new.  I'm tired of looking at the little squares that were on the top right hand corner.  I'm tired of the default blue.  I'm tired of Wordpress... but there are two issues:
 

@@ -1,6 +1,5 @@
 ---
 title: "'The Switcher Chronicles' - Screen Shots"
-author: Justin Rummel
 layout: single
 date: 2013-02-24 15:44
 tags:
@@ -8,10 +7,6 @@ tags:
     - Mt Lion
     - Switcher
     - Screen Shots
-header:
-  image:
-  credit:
-  creditlink:
 ---
 Confession, I FORCED my wife to be a "switcher".  Yes, I forced her to start using OS X, because Christmas 2012 I purchased a new laptop for her at her request (she didn't specify a brand... and um... yeah... I'm not buying a PC).  This may come to a shock for some people as:
 

@@ -1,20 +1,12 @@
 ---
 title: Configuring IPv6 DNS on Mac OS X Server
-author: Justin Rummel
 layout: single
-permalink: /configuring-ipv6-dns-on-mac-os-x-server/
-shorturl:
-    - http://j.mp/xVMM9L
 tags:
     - Apple
     - DNS
     - IPv6
     - Lion
     - OSXS
-header:
-  image:
-  credit:
-  creditlink:
 ---
 What are you bitching about and IPv6?
 ---

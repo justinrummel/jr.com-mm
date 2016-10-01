@@ -8,12 +8,6 @@ categories:
     - "Miscellaneous"
 tags:
     - "Octopress"
-header:
-  image: # 2048x768 for article header
-  teaser: # 400x400 for Twitter
-  credit:
-  creditlink:
-
 ---
 One thing that I love about [Octopress][octopress] is the support is GREAT!  I've posted several questions in the past month in troubleshooting new features with Octopress; with [Brandon Mathis][imathis] providing quick, easy to understand, and pleasant replies.  You also have the resources of other Octopress/Jekyll users in using their plugins to enhance your site such as adding adding Flickr images or embedding Twitter posts by referencing their unique identifier.  This is all done by using each third-party' (Flickr or Twitter) dev environments.
 

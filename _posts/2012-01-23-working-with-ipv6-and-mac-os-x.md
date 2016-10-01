@@ -1,18 +1,11 @@
 ---
 title: "Working With IPv6 and Mac OS X"
-author: Justin Rummel
 layout: single
-shorturl:
-    - http://j.mp/AkkP0R
 tags:
     - Apple
     - IPv6
     - Lion
     - OSX
-header:
-  image:
-  credit:
-  creditlink:
 ---
 What is IPv6?
 ---

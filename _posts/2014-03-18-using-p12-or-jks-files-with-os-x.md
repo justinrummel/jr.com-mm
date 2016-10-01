@@ -1,6 +1,5 @@
 ---
 title: "Using .p12 or JKS files with OS X"
-author: Justin Rummel
 layout: single
 date: 2014-03-18 15:10
 tags:
@@ -9,11 +8,6 @@ tags:
     - OSXS
     - CrashPlan
     - Certificates
-published: true
-header:
-  image:
-  credit:
-  creditlink:
 ---
 
 Overview
