@@ -6,6 +6,12 @@ categories:
     - "Miscellaneous"
 tags:
     - Google
+header:
+    image: 2015/01/15/domainsblogpostimage.png					# Twitter (use 'overlay_image')
+    overlay_image: 2015/01/15/domainsblogpostimage.png		    # Article header at 2048x768
+    overlay_filter: 0.15
+    teaser: 2015/01/15/domainsblogpostimage_thumb.png 			# Shrink image to 575 width
+    caption: "Photo credit: [**Google**](http://google.com)"
 ---
 OK, that title is COMPLETELY intended for click bait. I just think it's funny how "online news sites" use this to get people to click on things.
 

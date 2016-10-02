@@ -9,10 +9,11 @@ categories:
 tags:
     - "Octopress"
 header:
-  image: 2015/01/11/Octopress.jpg
-  teaser: 2015/01/11/Octopress_thumb.png
-  credit: Octopress
-  creditlink: http://octopress.org
+    image: 2015/01/11/Octopress.jpg					# Twitter (use 'overlay_image')
+    overlay_image: 2015/01/11/Octopress.jpg		    # Article header at 2048x768
+    overlay_filter: 0.15
+    teaser: 2015/01/11/Octopress_thumb.png 			# Shrink image to 575 width
+    caption: "Photo credit: [**Octopress**](http://octopress.org)"
 ---
 I've been using [Octopress 2 since February of 2013]({{ site.url }}/octotransfigurator-inator-migrating-from-wordpress/) and I've learned a little about ruby (not that I've programed any), updated my knowledge about current website frameworks, and have seen what it takes to maintain an open-source project that is actually popular.
 
