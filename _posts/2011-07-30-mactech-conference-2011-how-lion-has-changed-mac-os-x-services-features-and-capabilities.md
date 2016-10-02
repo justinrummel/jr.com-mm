@@ -3,7 +3,7 @@ layout: single
 title: "MacTech Conference 2011 - How Lion Has Changed Mac OS X: Services, Features and Capabilities"
 date: 2011-07-30
 categories:
-    - "Presentations"
+    - "Tech Presentations"
 tags:
     - Lion
     - Mactech

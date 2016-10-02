@@ -3,7 +3,7 @@ layout: single
 title: "MacIT - IT814: Mountain Lion Security for the System Administrator"
 date: 2012-11-09
 categories:
-    - "Presentations"
+    - "Tech Presentations"
 tags:
     - MacIT
     - Mt Lion

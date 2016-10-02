@@ -3,7 +3,7 @@ layout: single
 title: "MacIT 2012 - IT851: How Lion Has Changed Mac OS X: Services, Features and Capabilities"
 date: 2012-01-21
 categories:
-    - "Presentations"
+    - "Tech Presentations"
 tags:
     - Apple
     - Lion

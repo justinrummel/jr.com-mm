@@ -3,7 +3,7 @@ layout: single
 title: "Macworld 2010 - IT843: Deploying Podcast Producer in an Active Directory Environment"
 date: 2009-12-05
 categories:
-    - "Presentations"
+    - "Tech Presentations"
 tags:
     - Apple
     - Podcast Producer
