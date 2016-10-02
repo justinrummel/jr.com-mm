@@ -5,7 +5,7 @@ description: "If you are trying to use API Tokens for Flickr or Twitter, here is
 date: 2015-01-23T16:39:25-05:00
 modified:
 categories:
-    - "Miscellaneous"
+    - "Random""
 tags:
     - "Octopress"
 header:

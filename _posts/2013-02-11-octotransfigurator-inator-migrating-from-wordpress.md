@@ -3,7 +3,7 @@ layout: single
 title: "Octotransfigurator-inator: Migrating from Wordpress"
 date: 2013-02-11 10:31
 categories:
-    - "Miscellaneous"
+    - "Random""
 tags:
     - "Wordpress"
     - "Octopress"

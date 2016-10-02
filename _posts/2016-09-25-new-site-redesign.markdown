@@ -5,7 +5,7 @@ date: 2016-09-25T19:41:43-04:00
 modified:
 description: "In this post, I'll bore both Apple and Triathlete friends and announce my site redesign." 	# For Twitter, not the Title
 categories:
-    - "Miscellaneous"
+    - "Random""
 tags:
     - "Octopress"
     - "Jekyll"

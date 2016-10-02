@@ -5,7 +5,7 @@ date: 2015-04-13T11:16:56-04:00
 modified: 2016-10-02
 description: "Beginning a new non-Apple career" # For Twitter, not the Title
 categories:
-    - "Miscellaneous"
+    - "Random""
 tags:
     - Akamai
 header:
