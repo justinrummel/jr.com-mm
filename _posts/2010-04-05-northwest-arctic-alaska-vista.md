@@ -15,6 +15,7 @@ header:
     teaser: 2010/04/05/4592343955_bc21d834d5_b-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
+
 This picture was taken while traveling to Kiana, AK to perform Teacher Laptop and server updates from Leopard to Snow Leopard. This picture only captures a small fraction of the beauty in this region.
 
 <figure class="third">

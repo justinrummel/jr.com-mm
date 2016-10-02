@@ -16,6 +16,7 @@ header:
     teaser: 2016/07/31/Culpeper-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
+
 This is event number five on the 2016 VTS/MTS Series which brings me to be competitive for series points awards at the end of the year.  Any events done after this race will either be ignored or may increase my total score as only the five HIGHEST scores are counted.  I don't believe I'll be in the top five at the end of the year, but knowing that I'm on a very short list of individuals who did complete at least five events is a nice little checkmark for 2016.
 
 {% include toc icon="gears" title="Race Review ToC" %}

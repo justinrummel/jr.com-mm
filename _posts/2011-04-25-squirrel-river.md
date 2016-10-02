@@ -15,6 +15,7 @@ header:
     teaser: 2011/04/17/5651796308_522b3afcc2_b-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
+
 This set contains pictures during my Alaska trip in 2011. My Alaskan family flew me out (along with a camera crew from National Geographic) out to their camp down the Squirrel River. It was a wonderful time, one of those memorable moments that you wish you could describe in words and capture in pictures knowing they will never do justice to the experience.
 
 For this set I was worried about the snow reflection washing out everything or making the exposure to bright for post processing. I decided to take all the pictures at -1 Exposure which I believe helped in the long run.

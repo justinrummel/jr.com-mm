@@ -15,6 +15,7 @@ header:
     teaser: 2010/04/02/4485109609_84239932bf_o-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
+
 To better understand the beauty of the first couple of pictures, please watch the Stephen Colbert store of Americus, GA while working on The Daily Show.
 
 <figure class="fifth">

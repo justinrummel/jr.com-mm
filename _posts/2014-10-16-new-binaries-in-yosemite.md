@@ -17,6 +17,7 @@ header:
     teaser: 2014/10/16/Hero-with-Clouds-Header-Twitter.jpg    # Shrink image to 575 width
     caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
 ---
+
 Every year I like to dig a little around some default paths to see what new binaries will be available to assist in deployment or troubleshooting.  I use a simple easy script that generates a list of all the binaries in /bin, /sbin, /usr/bin, /usr/sbin, and /usr/libexec from one OS (usually 10.x.4) to a recent beta build of the upcoming OS (in this case Yosemite).
 
 New Binaries

@@ -12,6 +12,7 @@ tags:
     - Ubuntu Server
     - Linux
 ---
+
 I had the interesting opportunity of installing the Casper Suite on an Amazon EC2 Cloud server and wanted to post my findings on the subject for other future "cloud" users.  Overall the process is very simple, as you can configure a Windows 2008 R2 Server or Linux server via one of Amazon's Quick Launch Configurations.  I'll review technically what was needed for the environment along with a couple of "gotchas".
 
 I'll assume that you have (or have the means of getting) an EC2 account with Amazon with the proper ports opened for security {22 (ssh), [80, 443] (http(s)), 445 (smb), 8443 (Tomcat)}.  For this installation we used an Ubuntu Server 12.04 LTS (Long Term Support) Quick Launch Configuration (which does not come with a GUI... ALL command line... just the way I like it!).

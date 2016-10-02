@@ -35,6 +35,7 @@ My second version is a multi lined version that can be seen here: [^2]
 
 The Basics
 ---
+
 Below are some of the command line utilities that can use some principals of regex, however, there are some limitations such as stringing multiple searches by using parenthesis, or backreference (Dependants if an item is before or after a result).
 
 - egrep or grep -E

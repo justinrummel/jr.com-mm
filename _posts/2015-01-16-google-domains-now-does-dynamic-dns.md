@@ -15,6 +15,7 @@ header:
     teaser: 2015/01/15/domainsblogpostimage_thumb.png 			# Shrink image to 575 width
     caption: "Photo credit: [**Google**](http://google.com)"
 ---
+
 So I was *really* hoping for some invite codes from Google Domains while it was still in private beta.  This way everyone would shower me with love and affection, and in return for I would provide my precious invite codes... but Google just had to kill my dreams and make it available for everyone!  The nice thing is there must have been some great feedback from previous beta testers as some changes have been applied since my review two weeks ago (I never received a feedback request, so I cannot take any credit).
 
 <q>

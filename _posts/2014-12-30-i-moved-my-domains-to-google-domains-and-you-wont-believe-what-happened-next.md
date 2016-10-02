@@ -13,6 +13,7 @@ header:
     teaser: 2015/01/15/domainsblogpostimage_thumb.png 			# Shrink image to 575 width
     caption: "Photo credit: [**Google**](http://google.com)"
 ---
+
 OK, that title is COMPLETELY intended for click bait. I just think it's funny how "online news sites" use this to get people to click on things.
 
 Overview

@@ -15,6 +15,7 @@ header:
     teaser: 2011/11/30/6316948932_1b91502b98_o-Header-Twitter.jpg         # Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
+
 Wow... I've been slacking off on writing posts.  I know I'm highly overdue on S/MIME on iOS, I'll be working on that soon... just finding a few snags and using MDM deployments.  For now here are several sets of pictures I've been taking over the past month.
 
 Compared to last year's collection, these are weak except for the landscape pictures I was able to take out of the airplane window traveling to CA and returning home to DC. MacTech was an awesome conference and I hope to present again next year!

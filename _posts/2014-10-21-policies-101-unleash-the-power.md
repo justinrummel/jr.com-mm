@@ -13,6 +13,7 @@ header:
     teaser: 2014/10/21/jamf-nation-user-conference-2014-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**JAMF Software**](http://www.jamfsoftware.com)"
 ---
+
 For those who wanted a copy of my *Policies 101: Unleash the Power!* talk at JAMF Nation User Conference 2014, here are links to the slides in PDF and Keynote format.
 
 - PDF: [Policies 101: Unleash the Power!]({{ site.url }}/images/2014/10/21/JNUC-2014-Policies-101.pdf)

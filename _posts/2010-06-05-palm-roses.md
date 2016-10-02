@@ -15,6 +15,7 @@ header:
     teaser: 2010/06/05/4450331241_5c986c4933_b-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
+
 While walking around Savannah, GA after a Podcast Producer Installation, I found a guy making these palm roses and was immediately impressed with his craftsmanship. I took this picture, then purchase one as a gift to the wife upon my return.
 
 <figure class="third">

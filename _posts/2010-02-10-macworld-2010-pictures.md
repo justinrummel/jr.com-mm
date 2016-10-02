@@ -16,6 +16,7 @@ header:
     teaser: 2010/02/11/4352535084_3bb91f7794_o-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
+
 Here are some of the pictures that I took during Macworld 2010.
 
 <figure class="fifth">

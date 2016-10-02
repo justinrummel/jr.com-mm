@@ -16,6 +16,7 @@ header:
     teaser: 2015/08/30/WOW-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
+
 Wisdom Oak Winery (WOW) Sprint is a 750 meter open water swim (OWS) in a lake, 16.6 mile bike, and 3.1 mile run that is hilly.
 
 For those of you outside of the Virginia area, the race is actually in Walnut Creek Park located "... in the foothills of the Blue Ridge Mountains and just a ten minute scenic drive outside of the City of Charlottesville..."[^1], with the primary sponsor Wisdom Oak Winery (hence the title of the race).

@@ -15,6 +15,7 @@ header:
     teaser: 2015/01/11/Octopress_thumb.png 			# Shrink image to 575 width
     caption: "Photo credit: [**Octopress**](http://octopress.org)"
 ---
+
 One thing that I love about [Octopress][octopress] is the support is GREAT!  I've posted several questions in the past month in troubleshooting new features with Octopress; with [Brandon Mathis][imathis] providing quick, easy to understand, and pleasant replies.  You also have the resources of other Octopress/Jekyll users in using their plugins to enhance your site such as adding adding Flickr images or embedding Twitter posts by referencing their unique identifier.  This is all done by using each third-party' (Flickr or Twitter) dev environments.
 
 Twitter API Token

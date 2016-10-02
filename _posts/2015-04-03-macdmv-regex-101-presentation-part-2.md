@@ -25,6 +25,7 @@ header:
 
 Mac Admin Examples
 ---
+
 Lets take our knowledge gained from the previous article and apply it to a more practical (or at least somewhat a practical) example that an Mac Admin may want to accomplish; read a plist file.  YES, defaults read would be much easier.  YES /usr/libexec/PlistBuddy would be another reasonable solution... but we're playing with regex so grab a chair and sit down!
 
 ### Regex the Dock

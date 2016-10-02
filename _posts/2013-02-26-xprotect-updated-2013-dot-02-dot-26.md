@@ -9,6 +9,7 @@ tags:
     - Mt Lion
     - XProtect
 ---
+
 On Feb 19, 2013 11:48 PM Topher Kessler releases his article for CNET that [New Mac malware opens secure reverse shell][8301-13727_7-57570100-263] is out, "but has not yet been determined to be much of a threat".  His article properly sources [Intego's][intego] original article on the matter. In short it uses a modified implementation of openssl to establish a secure connection to a remote server thus creating a [botnet][botnet] or Command and Control (C&C) environment.
 
 Things like this is why Apple updates XProtect and they should update it often (not to mention vulnerable plugins like Java or Flash).  I've [written about XProtect before]({{ site.url }}/apples-built-in-anti-virus-xprotect/) and how it works back in 2011.  Just letting you know that in the mist of Mac SysAdmin pains of XProtect (such as disabling Java or Flash overnight) it can also work FOR you.  There have been a couple of GitHub projects that are trying to help Mac SysAdmins in managing XProtect which can be found at:

@@ -11,6 +11,7 @@ tags:
     - OSXS
     - Apple ID
 ---
+
 These are notes about getting the Apple IDS and their two-step verification authentication ready for Apples Volume Purchasing Program (VPP) and Device Enrollment Program (DEP).  WORST case give yourself two weeks to complete all the items listed below, but realistically it can be done within three business days.
 
 You will be creating a LOT of Apple IDs.  Do yourself a favor and get a password manager, or have some other secure method of recording what/how each new Apple ID is being used.  There are two *levels* of Apple IDs.

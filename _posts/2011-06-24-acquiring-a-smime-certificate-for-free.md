@@ -12,10 +12,12 @@ tags:
     - OSX
     - S/MIME
 ---
+
 From the last article, I hope you are now wondering "where do I get this awesome thing called S/MIME certificate!", and the other kicker "What's it going to cost me?" Well you are in luck because email certificates can be obtained for free! There are two site (that I know of) that provide free S/MIME email certificates: [Instant SSL][instantssl] and [Start SSL][startssl].
 
 How To
 ---
+
 For this How To, I'm going to use Instant SSL. I have nothing against StartSSL (in fact they also give out free one year SSL website certificates!), but I find Instant's process simpler and more direct.
 
 1.  Request your certificate by going to

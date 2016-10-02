@@ -10,6 +10,7 @@ tags:
     - Bonk Hard Racing
     - "Orienteering"
 ---
+
 Over the weekend of September 28th, 2013 I had the opportunity to do the Berryman Adventure race with my Brother-in-law Shawn which is a multi-sport race for Run, Bike, and Canoe... BUT you have to take everything with you.  Food, water, clothes, paddles, etc.  The Berryman Adventure races is an orienteering race where the night before we get a list of lat/long locations that we have to find using traditional methods of locating things;  a map and a compass.  Between each checkpoints you do not have the luxury of nice foot paths that are carved  to take you from point "A" to point "B".  You have to "Bushwhack" your way through trees, streams, animals, twigs, brush, poison ivy, etc, and make your own path.
 
 > The Berryman Adventure is a TRUE backwoods, old school adventure race - offering a single course taking teams 12 to 16 hours to complete".
@@ -36,6 +37,7 @@ It was great to finish.  However the downpour at 4pm really put a damper on the 
 
 **UPDATE 2013-10-02**
 ---
+
 I just remembered a couple of items that I did learn from my first race that I wanted to write down so I can review for next year:
 
 - In-addition to some waterproof socks, if you want to do ANY night work get a decent front headlight on your bike to see the roads.  Are there ones with Fog options?  Bring a hand flashlight along with the headlamp.

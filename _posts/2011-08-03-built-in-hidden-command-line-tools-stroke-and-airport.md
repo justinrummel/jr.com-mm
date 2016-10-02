@@ -10,10 +10,12 @@ tags:
     - Lion
     - OSX
 ---
+
 These tools are nothing new as they were available in Snow Leopard (and I believe Leopard, just can’t check), but they are fun little tools just in case you don’t have Apple’s Xcode [iTunes link][xCode] installed or [MacPorts][macPorts] available on your computer.
 
 Port Scanning with *stroke*
 ---
+
 So you want to perform a port scan, but you are missing the more powerful *nmap* command that can be installed via MacPorts or compiled from [insecure.org][insecure]. In order to use the command, open Terminal and cd to the **/Applications/Utilities/Network Utility.app/Contents/Resources/** directory, then type ./stoke
 
 ``` bash
@@ -60,6 +62,7 @@ Things you can’t do for people who use nmap include fingerprinting, service in
 
 Wireless discovery with *airport*
 ---
+
 The airport command is more powerful than stroke as you are able to use this for preferences setting, network scanning, or packet capturing! First lets find the command by cd to the **/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/** directory, then type ``` ./airport ```
 
 If you just typed that out... you’ll notice a long list of options for this command. More than I want to copy and paste for this post, and much more than stroke!

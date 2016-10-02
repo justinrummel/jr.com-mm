@@ -12,12 +12,14 @@ tags:
     - OSX
     - Yosemite
 ---
+
 JAMF Software's Casper Suite has the ability to use Configuration Profiles (Apple's preferred method for managing OSX and iOS) since version 8.0, and introduced Apple Push Notification Service ([APNS]({{ site.url }}/search/?q=apns)) support since Casper Suite 8.4.  The combination of using Configurations Profiles with APNS allows administrators the ability to push management settings, which will be installed immediately and securely on their client machines.  However, Apple has been slow to provide Configuration Profiles a 1:1 feature parity that Mac Administrators were used to be able to configure through MCX via Workgroup Manager ([RIP][rip]).  There is a need to extract legacy MCX Settings and convert them into a working Configuration Profiles to manage options in a meticulous fashion: thus [mcxToProfile][m2p].
 
 Tim Sutton ([@tvsutton][tvsutton]) created mcxToProfile to solve this problem, and this utility is not new.  In fact, the initial commit to the GitHub repo was on June 20th 2012 and the latest update was October 11th 2013!  However, I feel that too many Casper administrators believe if there is not a Configuration Profile checkbox available from the JSS then they should figure out an alternative method which doesn't include a profile.  This is not true, have options!  For example...
 
 VPN Settings (Advanced)
 ---
+
 When you configure VPN Settings (VPN Server, Authentication type, parameters, etc) via the JSS, the configuration part is easy and, more importantly, it works!  However, there are a few items that we could do that would really help the end user experience.
 
 ![VPN Settings]({{ site.url }}/images/2015/02/19/VPN-Settings.png){: .align-right}

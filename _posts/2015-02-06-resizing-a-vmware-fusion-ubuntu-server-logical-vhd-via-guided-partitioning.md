@@ -11,6 +11,7 @@ tags:
     - Ubuntu Server
     - CLI
 ---
+
 In my previous article [Resizing a VMware Fusion Ubuntu Server Virtual Hard Drive (via Easy Mode)]({{ site.url }}/resizing-a-vmware-fusion-ubuntu-server-virtual-hard-drive-via-easy-mode/), I described what was needed to enlarge your Virtual Hard Drive (VHD) on a VMware Fusion VM that was setup by the "Easy Install" method.  If you are confused by what the "Easy Install" method is, there is a prompt when creating a new VM that asks you to provide information for a new account:
 
 - Full Name

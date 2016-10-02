@@ -11,6 +11,7 @@ tags:
     - Lion
     - OSXS
 ---
+
 Over the past several months, my company has been dealing with AD/OD integrations with Lion 10.7.2 and the customer's environment is using ".local". If you are not familiar with the history between ".local" and Apple computers simply put: they don't mix. PERIOD. It all stems from Apple OS X Clients using the naming convention of "ComputerName.local" as its address for Bonjour services. When an Active Directory (AD) environment uses something like "company.local", Lion doesn't know if you are talking DNS or Bonjour... so it just tries everything, thus giving you delayed authentication (login) against your AD controllers.
 
 With the release of OS X Lion, Apple stepped up the complexity notch and introduced IPv6 in its broadcast for resolving names, thus now you have four sets of timeouts to compete with:
@@ -24,12 +25,14 @@ Normally, if we can't get DNS working from the customer on their Windows AD doma
 
 Configuring Mac OS X DNS for IPv6 Records
 ---
+
 Before we go any farther, I'm warning you now... modifying BIND configuration files by hand could will cause you grief later. You have just committed yourself to the rest of your life on hand modification of DNS records because once you start using Server Admin again... it may (and most likely) remove anything it doesn't understand. That's the joys of Apple's Server Admin tool.
 
 If you have never looked at creating and/or adjusting BIND records on an Apple Server, I would first HIGHLY recommend you pick up a copy of Ed Marczak's [Mac OS X Advanced System Administration v10.5][advance10.5]. It explains a lot about DNS and configuring BIND from command line starting at page 89 – 104. I'm not going to over the intricacies, I'm going for the dirty nibbles of IPv6 and what files you will adjust or create.
 
 Test Environment
 ---
+
 In my test environment I have four domains:
 
 - justinrummel.net
@@ -47,6 +50,7 @@ Before we go any further, it is best practice to stop your DNS service prior to 
 
 /var/named
 ---
+
 I'm going to focus my examples on ONE domain "newco.prv" to make things easy to understand, however, this could be applied to any of the domains that I host within my lab. Also, at this point I assume you have already read my article [Working With IPv6 and Mac OS X]({{ site.url }}/working-with-ipv6-and-mac-os-x/) and know how to find your IPv6 address.
 
 We are going to start with the easy files that we want to adjust to make IPv6 work in our environment. When you are thinking about DNS services on your Apple server, you are most likely thinking "How does a FQDN get translated to this IP address". The files that make this magic happen are located in your /var/named/ directory. You are going to have a file for each zone that starts with "db" (example db.newco.prv), which is the forwarding zone file. You will also have a "db.reverse.IP.in-addr.arpa" which is the IPv4 reverse zone file. There are two files that are "named.ca" and "named.local" that you can ignore as this is used for listing DNS root servers and your localhost environment respectively.
@@ -120,6 +124,7 @@ Notice our bits 33-64 (which is what we received from the above sed / cut one li
 
 /etc/named.conf
 ---
+
 Your named.conf file is going to list each of your DNS zones that your server provides along with security settings and environment records for replication between multiple DNS servers. Think of your named.conf file as a configuration file that points to the "real data" versus housing any true information. In my test environment's /etc/named.conf file I have five forwarding zones (the for domains I host plus "localhost").
 
 The good news is we don't need to add an IPv6 forwarding zone because we just updated our forward zone file "db.newco.prv" with the new AAAA records. However, we need to add a new zone to the named.conf file so it can find our reverse IPv6 zone as that was just created.
@@ -174,12 +179,14 @@ $ justinrummel@jrummel-mbp:~$ ping6 -I en0 -c 1 jss.newco.prv
 
 Conclusion
 ---
+
 Hopefully Apple will soon give us the capabilities of setting IPv6 records within Server Admin sometime in the near future as it will become important as operating systems and networks progress and fully utilize IPv6. And don't forget on June 6th 2012 we'll be celebrating [World IPv6 Launch: this time it's for real][world-ipv6-launch]
 
 If you have any troubles with your IPv6 values not returning, my guess there is something minor such as one to many zeros in your IPv6 ARPA zone name and/or you have a simple typo. I'll try to help as much as I can if there are any questions.
 
 Additional Sources
 ---
+
 - [IPv6 Converter](http://ipv6-literal.com/)
 - [IPv6 REVERSE ZONE BUILDER](http://mike.kz/ipv6-zone-builder/)
 

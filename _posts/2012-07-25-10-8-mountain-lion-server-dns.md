@@ -10,12 +10,14 @@ tags:
     - Mt Lion
     - OSXS
 ---
+
 You have just installed Mountain Lion Server, now what!? Going on the assumption you are staring at Server.app right after a clean install, the first thing that needs attention is DNS!
 
 There is no faster way to make things difficult for OS X (and OS X Server) than to have bad DNS information. This has been true since the beginning of OS X so hopefully this doesn't come as a surprise. However, what is new with Mt Lion is that we get to configure DNS via the newly updated Server.app.
 
 DNS Setup
 ---
+
 Your window of Server.app may vary from the images below, but in the end we should have somewhat the same settings. First thing is to make sure that you have Server.app up and running. Yes, you read that correctly... Server.app. At first you might fight this, but most of the features of running a DNS server are available, plus some added love for IPv6!
 
 ![1-mtl-DNS]({{ site.url }}/images/2012/07/1-mtl-DNS.png){: .align-center}
@@ -63,6 +65,7 @@ Copy/paste the result as a second IP address for the desired DNS record. Once yo
 
 Test and Verify
 ---
+
 The RAW DNS text files (which are provided by the open source tool BIND) are in /private/var/named, and you are able to see the following DNS records (or at least something similar as your setup may differ from mine):
 
 {% highlight dns %}
@@ -85,6 +88,7 @@ The one thing that I notice that I cannot do is create a SLAVE DNS server. My on
 
 Footnotes
 ---
+
 1.  Most likely you are either updating an existing Server or promoting a Client to a Server. In either case, [/Applications/Server folder has been deleted][apd41CA43B8-DAD1-495E-940F-5BB3339DC2AB]. Be sure to keep a copy of Server Admin tools if you need to control any servers that have not been upgraded.
 2.  There has been a long history where Mac Administrators have misconfigured DNS, thus their server admin tools (i.e. Server Admin, Workgroup Manager, Server Preference, etc) did not function correctly because DNS was wrong. In order to make sure Server.app works from the start, Apple has begun to check if DNS is correct by doing forward and reverse DNS lookups from the provided IP and hostname information that was assigned during the Server Setup Assistant.
 

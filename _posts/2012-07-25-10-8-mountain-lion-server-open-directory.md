@@ -9,6 +9,7 @@ tags:
     - Mt Lion
     - OSXS
 ---
+
 The concepts for installing Open Directory is exactly the same as previous versions of OS X Server. Select whichever you want (Master or Replica) and walk through the assistant to get your ODM/ODR running. Screenshots of this process are below with quick comments. The glaring item is that the true functionality of Open Directory is now LDAP, Kerberos, and PasswordServer; and nothing more. Workgroup Manager used to store its values within the ODM’s Apple LDAP schema, but WGM does not exist anymore (that’s what you get for writing before things are released... [WGM does exist!][DL1567]). The transition to using Configuration Profiles is now complete from Apple’s point of view, which is just like the transition to do everything via Server.app.
 
 [DL1567]: http://support.apple.com/kb/DL1567

@@ -16,6 +16,7 @@ header:
     teaser: 2016/06/12/Jamestown-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
+
 <p class="align-right"><a href="{{ site.url }}/images/2016/06/12/Jamestown-3.jpg"><img src="{{ site.url }}/images/2016/06/12/Jamestown-3sm.jpg" /></a></p>VTSMTS Jamestown International Triathlon is the place to go when you want to PR your International race distances (1500m Swim; 40K Bike; 10K Run)!  That is unless the heat out side has raised the water temperatures to 82˚ F (making the race wetsuit non-legal), you have 10 mph winds to create some chop that is exhausting, and then you get to run in 90˚ F in the blistering sun... then it is not the place to PR[^1].
 
 {% include toc icon="gears" title="Race Review ToC" %}

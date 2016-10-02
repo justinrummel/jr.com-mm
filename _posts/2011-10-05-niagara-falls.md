@@ -16,6 +16,7 @@ header:
     teaser: 2011/09/29/6200826580_2d4e5f6061_b-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
+
 For the past couple of weeks, I've been in Niagara Falls, NY for a client. I have never seen the falls or have been to Canada, so it was fun to check both of those items off my life's to-do list, and in the process took some pictures.
 
 For the pictures I knew I wanted to get the long exposure for the water coming down the falls, however, it was harder at night to get the right balance between getting enough light to even see the falls vs. washing out everything. In the end I used a high ISO of 1600 and half second shutter speed. I would have preferred to use ISO 200 (or 100 if possible) to reduce the noise in the pictures. For future note, these pictures are from the US side of the falls, the Canadian side is better for viewing the falls (just haven't been there at night... not yet at least).

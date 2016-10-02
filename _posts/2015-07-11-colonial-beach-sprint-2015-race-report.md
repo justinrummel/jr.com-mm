@@ -10,6 +10,7 @@ tags:
     - Multisport
     - VTS/MTS
 ---
+
 I know my usually audience is not interested in Triathlons, however, still not sure how to incorporate knowledge gained at my new job to my past audience.  So, to make sure everyone knows I'm still around I'll post my race report for the 2015 Colonial Beach Sprint in Virginia.
 
 2015 Colonial Beach Sprint Report

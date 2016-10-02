@@ -15,6 +15,7 @@ header:
     teaser: 2012/08/06/7841726194_244803e728_b-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
+
 time since I've posted any photography pictures as lately I've been traveling without my DSLR. These photos were taken with my iPhone 4s because they were completely unique I HAD to pull over and snap a couple of pictures.
 
 The windmills pictures were from [Spearville, OK][future-of-spearville], which is host to a GIANT wind farm that "has expanded to 99 turbines that produce 148.5 megawatts producing enough electrical energy to supply 48,761 homes. The wind farm annually provides $519,000 to Ford County and $244,000 to our local school district".

@@ -15,6 +15,7 @@ header:
     teaser: 2011/11/16/6428384225_83178a1aaa_b-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
+
 During the week of November 14th, 2011, through the combination of Qivliq Village Partnerships and the NANA BWISE program I was able to visited two villages within the Northwest Arctic: Kiana and Buckland.
 
 I really do enjoy these trips to the Northwest Arctic, even when the "high" temperature is about zero degrees, with the coldest always around 7am which hit -25 degrees (just another day in paradise). During this time several items were achieved:

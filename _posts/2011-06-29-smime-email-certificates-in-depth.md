@@ -11,11 +11,14 @@ tags:
     - Lion
     - OSX
     - S/MIME
+excerpt: "We have discussed the basics of S/MIME in my post [What Is S/MIME Email and Why Should I Be Using It]({{ site.url }}/what-is-smime-email-and-why-should-i-be-using-it/), and from the last article [Acquiring a S/MIME Certificate for Free]({{ site.url }}/acquiring-a-smime-certificate-for-free/) you should have your S/MIME certificate installed. Now lets get into some more technical aspects of S/MIME."
 ---
+
 We have discussed the basics of S/MIME in my post [What Is S/MIME Email and Why Should I Be Using It]({{ site.url }}/what-is-smime-email-and-why-should-i-be-using-it/), and from the last article [Acquiring a S/MIME Certificate for Free]({{ site.url }}/acquiring-a-smime-certificate-for-free/) you should have your S/MIME certificate installed. Now lets get into some more technical aspects of S/MIME.
 
 A Certificate, is a Certificate, is a Certificate
 ---
+
 A S/MIME certificate can be store several different ways (see Apple's kbase [About certificate formats][aboutCert]), but you will usually deal with .pem or .cer file for your public key, or a p12 file that contains both your Public and Private Keys. We can get our certificates by one of two ways:
 
 - Export from Keychain Access
@@ -23,6 +26,7 @@ A S/MIME certificate can be store several different ways (see Apple's kbase [Abo
 
 Private Keys
 ---
+
 ![Certificate]({{ site.url }}/images/2011/06/certificate.png){: .align-left}Keychain Access is by far the simplest method. Simply select your Public certificate, click on the pretty blue certificate icon at the top and drag-n-drop to your desktop. This saves the file in a .cer format and you can use QuickLook to see the contents.
 
 ![cer export]({{ site.url }}/images/2011/06/smime-cert-quickview.png){: .align-center}
@@ -203,6 +207,7 @@ We can now see that the entity who issued my certificate (The "third party") is 
 
 Private Keys
 ---
+
 To export your public and private keys for backup purposes (remember... you do not want to lose this information or else you will never be able to open old emails), you can do this one of two ways Keychain Access or use the security command.
 
 For Keychain Access you want to be sure you select the Category "My Certificates" section on the bottom left hand side of your Keychain Access window. This shortens you list of possible items you would want to export, while still having the option to select your Public and Private keys. Find your email address and click on the disclosure triangle and select both the certificate and the private key (icon looks like a key... how appropriate). You will now need to select File => Export Items (or Ctrl Click the certificates), and save the two items as one .p12 file. Once you click on OK, you will be prompted for a password. This is to ensure your private key is now encrypted using this password as part of the export algorithm. You may also be requested to "Allow" access to your Login Keychain.
@@ -234,7 +239,8 @@ $ security import ~/Desktop/myCerts.p12 -f pkcs12 -k ~/Desktop/test.keychain
 
 Footnotes
 ---
-1.  The integrity of a single certificate file can be verified by:
+
+1. The integrity of a single certificate file can be verified by:
 
 {% highlight bash %}
 $ security verify-cert -c ~/Desktop/myPublicCert.pem

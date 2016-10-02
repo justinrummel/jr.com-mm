@@ -10,6 +10,7 @@ tags:
     - CLI
     - XProtect
 ---
+
 Today, [Intego announced of a new trojan designed for the Mac][DevilRobber] dubbed "DevilRobber".
 
 You can read Intego's site (or many other sites posting about this trojan), but I wanted to remind everyone that there is a built-in anti-virus software within updated versions of Snow Leopard (version 10.6.7 with Security Update 2011-003 OR greater) and Lion called XProtect.

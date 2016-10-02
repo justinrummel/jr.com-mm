@@ -17,6 +17,7 @@ header:
     teaser: 2014/10/18/IMG_1488-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Mary Welter**](http://bonkhardracing.com/Photos2014P10/MWFinish/content/IMG_1488_large.html)"
 ---
+
 This is a **much delayed** postmortem race report after noticing that I did publish an article about the Berryman race in 2013, I should only do the same service to The Perfect 10 Rogaine in 2014! Unfortunately I was not able to attend the Berryman 2014 race due to scheduling conflict, however, I was able to once again reunite with by Brother-in-law Shawn as team "Roadkill" and try a new race The Perfect 10 Rogaine!
 
 <figure class="fifth">

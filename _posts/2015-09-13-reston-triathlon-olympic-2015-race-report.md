@@ -15,6 +15,7 @@ header:
     teaser: 2015/09/13/Reston-Triathlon-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
+
 Amazing what one year makes; for the good or bad.  This is the second time I've raced the Reston Triathlon, so I'm going to compare my numbers to see where there was any improvement.
 
 What I remember about last year's race was it was a nice warm fall day that made it great for the bike and run, but that my swim was **horrible**.  Why?  It could have been the warm water making it wetsuit illegal, or if it was due to the fact that I really don't like swimming in a lake since you can't see anything once your face is in the water.  I believe I remembered my bike and run being at top of my A game for the race which helped me make up for my poor start.

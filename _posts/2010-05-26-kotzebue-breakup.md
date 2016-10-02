@@ -15,6 +15,7 @@ header:
     teaser: 2010/05/26/4645550299_f834dcfd57_b-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
+
 I returned to the Northwest Arctic to assist in additional server updates, create a Podcast Producer Lab, and mentorship... and to my luck I was able to watch "Breakup". This is the quick period of time when the snow and ice begin to melt in the region. It happens very quickly, within days it transforms from a solid ice to pristine open waters.
 
 <figure class="third">

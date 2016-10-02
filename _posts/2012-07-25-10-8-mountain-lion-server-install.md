@@ -9,10 +9,12 @@ tags:
     - Mt Lion
     - OSXS
 ---
+
 When first viewing Mountain Lion (MT Lion) Server, you can understand that Apple had a long-term goal of making the most common things VERY easy and simple to administer. Consolidating service functions started with Lion's introduction of Server.app; which migrated some of the more common collaboration services. This allowed Mac Administrators to adapt to a new working environment for what Apple has envisioned for OS X Server's future. This series will provide highlights of what is different between administrating Lion and MT Lion, specifically via the GUI vs. what must be done with Terminal commands.
 
 Baseline
 ---
+
 Before we get started, there are a couple of assumptions to make these examples relevant prior to any configuration:
 
 1.  If you are planning to run server, you must use a static IP address by going to System Preferences => Network => Ethernet => Configure IPv4 drop-down option as "Manually".
@@ -24,6 +26,7 @@ Before we get started, there are a couple of assumptions to make these examples 
 
 Mt Lion Server Assistant
 ---
+
 I'll assume that you are either a) running on a "Server Hardware" (e.g. MacMini Server or MacPro Server), or you have just purchased Mt Lion OS X Server from the Mac App Store (MAS) thus we are launching Server.app for the first time.
 
 ![2-mtl-install]({{ site.url }}/images/2012/07/2-mtl-install.png){: .align-center}
@@ -50,4 +53,5 @@ At the end, a basic set of services will finally be configured based on our answ
 
 Footnotes
 ---
+
 1.  In my opinion "bonding" ports provides little benefit so if you have two ports available, you may want to disconnect one and click Continue.

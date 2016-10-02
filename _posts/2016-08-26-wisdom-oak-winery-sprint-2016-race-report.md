@@ -16,6 +16,7 @@ header:
     teaser: 2016/08/27/WOW-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
+
 <p class="align-right"><a href="{{ site.url }}/images/2016/08/27/WOW-LG-3.jpg"><img src="{{ site.url }}/images/2016/08/27/WOW-SM-3.jpg" /></a></p>Last year I had such a great time at <a href="{{ site.url }}/wisdom-oak-winery-sprint-2015-race-report/">Wisdom Oak Winery Sprint Triathlon</a> that I decided to do it again this year in hopes to podium at least one more time this racing season.  Once again, Race Director Kate Lucas did an excellent job of facilitating experienced and novice triathletes on how the course was setup and the markings to watch for while on the bike and run.  There were great vibes throughout the morning as I was able to befriended a few people in and out of transition, able to watch the Olympic race participants take off at the beginning allowing me to be a spectator for a few minutes, and then at the end of the day everyone cheering on the last few to accomplish their goal of finishing a triathlon.
 
 {% include toc icon="gears" title="Race Review ToC" %}

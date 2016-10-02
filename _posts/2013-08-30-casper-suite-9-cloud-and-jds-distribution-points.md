@@ -8,6 +8,7 @@ tags:
     - Casper Suite
     - JDS
 ---
+
 The Casper Suite has been able to provide installation packages to Managed OS X clients by AFP, SMB, and/or HTTP(s) for a long time, but now JAMF Software has introduced two new methods to provide packages: JAMF Distribution Server (JDS) and Cloud Distribution Point (CDP).  Both of these DP installation methods make deploying web based package distribution **EXTREMELY** easy and quick to stand up in a test or production environment vs. needing to configure multiple services in a Windows or OS X Server setting.
 
 

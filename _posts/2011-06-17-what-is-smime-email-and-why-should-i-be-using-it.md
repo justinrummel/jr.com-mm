@@ -14,12 +14,14 @@ tags:
     - S/MIME
     - Mail
 ---
+
 During the WWDC 2011 keynote, Apple announced that iOS 5 was going to have the capabilities of S/MIME. With that new feature announcement, it becomes a perfect topic to kick off my Foundations segments. Hopefully this article will describe what S/MIME is and why people should use it, interest everyone to use it now, and once iOS 5 comes out you will appreciate the fact that S/MIME email is now available.
 
 From my two years of using S/MIME email, I've identified that there are two types of individuals who are using this feature: a) Government b) tech geeks. I can understand the lack of participation of S/MIME for general email usage as there are many hurdles to overcome to make S/MIME possible. But first the main question, what is S/MIME and Why should I be using it?!
 
 Definition
 ---
+
 S/MIME stands for Secure/Multipurpose Internet Mail Extensions and is a standard for public key encryption and signing of MIME data (an email message)[^2]]. What it allows you to do is two things:
 
 1.	Ensure to your email recipients that YOU actually sent the email
@@ -27,6 +29,7 @@ S/MIME stands for Secure/Multipurpose Internet Mail Extensions and is a standard
 
 Example Story of Bad Email
 ---
+
 Everyone has experienced the email from a family member or friend where the subject line seems a little... odd. Upon opening the email you notice is SPAM (ARG! they got me to open SPAM!)! Somehow a spammer was able to use your friends email address (termed spoof) which, understandably, made you feel comfortable enough to open and read the message. There are worse scenarios other than spoofing an address such as a trojan or actually "hacking" an account... but the concept is still the same; you opened an email that wasn't really from your friend or family member. This experience fostered the need for having a more secure form of email.
 
 First Signing. I like to relate the process of signing an email to putting a wax seal on a letter back when email or a government operated post office didn't exist. Individuals would understand that a letter with a particular wax seal was the stamp of a sender, and thus knew it was authentic and should be trusted; same thing for sending a signed S/MIME email. If you don't see the "signed" icon in Apple's Mail (or any other Mail application), then you would be concerned that the email wasn't truly from the sender.

@@ -16,6 +16,7 @@ header:
     teaser: 2016/04/02/Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
+
 Apparently VTS/MTS races and myself have an issue, and the issue is RAIN!  Similar to last year's [Colonial Beach Sprint]({{ site.url }}/colonial-beach-sprint-2015-race-report/) (although not as bad of a downpour and no open water swim with gasoline fuel on the top), we were challenged with Mother Nature... and she did not disappoint.
 
 The Smithfield Sprint is a pool swim start, because this early in the year in Virginia most lakes/bays/ocean is simply not warm enough for people to go out in open water (unless you are REALLY crazy and thik something like [Norseman][norseman] would be a good time).  With a swim start you have to stagger swimmers in hopes that you won't be impeded (slowed down because there is a large group in front of you, or force to let someone pass yourself thus holding on the wall) while everyone is in the pool.  This dictates a one person start every 10 seconds.  With over 520 people starting every 10 seconds, you can imaging that the first people will definitely finished before others get into the pool.  Thank goodness this year I was able to do with fellow teammates from [Speed Sherpa][sherpa]!  Between Madi, Melissa, Peyton, and Will; we were able to pass most of the time (for me a 1 hour and 41 minute wait) chatting in the hallways while trying to stay warm and dry.

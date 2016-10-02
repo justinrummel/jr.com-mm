@@ -9,6 +9,7 @@ tags:
     - Mactech
     - OSXS
 ---
+
 I'll be speaking at MacTech Conference 2011 which runs November 2-4 in Los Angeles with [Randy Saeks][MacTech]!
 
 [MacTech]: http://techrecess.com/

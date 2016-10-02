@@ -9,12 +9,14 @@ tags:
     - Mt Lion
     - OSXS
 ---
+
 I've posted several docs already on what I see as big changes from a Server Admin point of view which includes moving the rest of the supported applications from Server Admin to Server.app. With that now complete, Server Admin and Workgroup Manager (among all the other Server Admin Tools) have now been removed. In fact, if you update your Lion OS (Server or client) it will search for /Applications/Server folder and remove everything... just in case you didn't get the point from all the rumor sites.
 
 So other items that have change?
 
 Discovery
 ---
+
 I did a quick `sudo serveradmin list` on both my Lion server install and a new Mt Lion server install to see what services were missing. Here is the final list:
 
 ### Still Available
@@ -69,6 +71,7 @@ san
 
 Reaction
 ---
+
 Now I haven't dug into each service setting to see if there are new variable flags, so just because the first column is huge doesn't mean there are not updates... I am just looking for the BIG outliers of moving to Mt Lion. The items that hit me hard are the ones that are removed.
 
 - ``` dhcp ``` – This came to me as a shock. DHCP is available as it is needed for VPN service. If the core element to provide DHCP is there, why not provide a preference pane? I can only guess that Apple believe that if you are a home user you are a) using an ISP provided router which does have DHCP or b) using an Airport base station to provide DHCP of which Mt Lion can control (if you are a business user Apple must think you have an appliance to do this for you). I am personally in the middle. I do use Apple DHCP because my ISP's DHCP service on the router sucks. I liked the feature DHCP on OS X Server provided for my home network. With this feature missing, I may have a motivator to learn ruby, python, and/or Objective-C and create an application because this is screaming "as an opportunity for a third-party provider".

@@ -19,10 +19,12 @@ header:
     teaser: 2015/01/15/Bushel-Header-Twitter.png    # Shrink image to 575 width
     caption: "Photo credit: [**Bushel**](http://www.bushel.com)"
 ---
+
 Bushel is an Apple device (OSX and iOS) management tool that will assist with items that would normally frustrate people once you try to deploy/issue more than three devices.  So I'm please to share (if you [haven't][one] [seen][two] [already][three]) that [Bushel][bushel] is now available to the public! I've had a chance to review Bushel for a couple of months since its first private beta release during JAMF Software's National User Conference and have been quite impressed.
 
 Features
 ---
+
 Your Bushel web interface is hosted for you on Bushel's servers.  This helps companies who either don't want to deal with having a server internally (knowing how to configure, setup internal and external networking, and/or with the maintenance requirements), or a company that fully embraces the a cloud infrastructure. I see this as a great positive!  If you have a company policy that states "no cloud infrastructures" will be used then you are most likely too big for Bushel.
 
 Enrolling your Apple devices is made easy by either logging into your Bushel account and clicking on the "Enroll" button, inviting people by email, or by using Apple's Device Enrollment Program (DEP).

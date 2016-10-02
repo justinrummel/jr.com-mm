@@ -12,6 +12,7 @@ tags:
     - S/MIME
     - Mail
 ---
+
 Most likely you have already figured out how to use your new email certificate in Mail as my article on [How to get a free S/MIME Certificate]({{ site.url }}/acquiring-a-smime-certificate-for-free/) was posted almost a month ago.
 
 There are no settings within Apple’s Mail Preference to select your Certificate as your certificate is based off of your email address. All you need to do is simply start a new mail message and ensure you select the correct Signed and/or Encrypt flags.

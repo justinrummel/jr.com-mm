@@ -11,6 +11,7 @@ tags:
     - CrashPlan
     - Certificates
 ---
+
 My test CrashPlan PROe (CPPe, a.k.a "Black") environment has been troubled with this [VMware Fusion bug][vmware] where linking a shared folder has some issues with read/write.  The end result was anytime a client (Mac or Windows) running CrashPlan PROe had to restart, CrashPlan PROe Server would go into a deep prune session that would last for days (more info in the logs, but you get the idea).  Not very reassuring when dealing with backups.
 
 It took some time, but with the help of Code42 support the best recommended route was to remove my VMware Fusion VMs from the equation and run direct on my VM host, a couple of 2010 MacMini Servers.  The process was pretty easy by:

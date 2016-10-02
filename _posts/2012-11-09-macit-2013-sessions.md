@@ -8,6 +8,7 @@ tags:
     - MacIT
     - OSXS
 ---
+
 For my fifth year in a row, I'll be presenting at [Macworld MacIT conference][MacIT] in January of 2013! I'll be presenting on two topics this year:
 
 ### Thursday Jan 31st, from 10:20am - 11:05am

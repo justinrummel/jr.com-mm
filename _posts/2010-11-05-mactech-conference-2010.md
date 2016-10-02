@@ -16,6 +16,7 @@ header:
     teaser: 2010/11/05/5148714214_060631dd0b_b-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
+
 Pictures from the MacTech Conference in Los Angeles, CA. It was a great time!
 
 <figure class="fifth">

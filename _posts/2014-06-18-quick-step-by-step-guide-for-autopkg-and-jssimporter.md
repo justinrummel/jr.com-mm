@@ -10,6 +10,7 @@ tags:
     - OSXS
     - AutoPKG
 ---
+
 This is a quick step-by-step instructions to get [AutoPKG][AutoPKG] and the [JSSImporter][JSSImporter] to work so Mac Admins can begin testing and evaluating the two products, and see how these tools will help automate the less than glamorous parts of their job.  This is not a lengthy description post explaining the awesome work that other Mac Admins have done in creating AutoPKG and JSSImporter, as there are plenty of other posts that explain this better than I can (including their own respective documentation).
 
 Technical assumptions
@@ -63,6 +64,7 @@ autopkg run TextWrangler.jss
 
 Bonus Round
 ---
+
 Use [@seankaiser][seankaiser]'s [autopkg automation][skauto] LaunchDaemon files to automatically check a list of applications (that you define) and send an email if there are updates!
 
 Sources

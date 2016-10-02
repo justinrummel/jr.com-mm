@@ -10,6 +10,7 @@ tags:
     - Lion
     - OSX
 ---
+
 I don't feel that anyone reading this in 2012 has never heard of IPv6. The easiest way to put it it's a combinations of HEX values to make a big ugly "thing" that represents your computer. IPv4 was simple; four octets made up of a value from 0-255; thus 192.168.1.111. IPv6 takes this to a new other level. From Wikipedia:
 
 <q>
@@ -37,6 +38,7 @@ A single IPv6 address can be represented in several different ways, such as 2001
 
 How do I get an IPv6 Address on Lion
 ---
+
 You most likely already have one! If you navigate to System Preferences = Network and click on the "Advance..." button on your Ethernet settings, you should see "Configure IPv6" and it's set to automatic. You're DONE!
 
 ![IPv6-Settings]({{ site.url }}/images/2012/01/IPv6-Settings.png)
@@ -67,6 +69,7 @@ $ ifconfig en0 | grep inet6 | awk -F " " '{print $2}' | sed 's/%en0//'
 
 How to test IPv6 on your local network
 ---
+
 Normally to test if a computer is on your network you would initiate a "ping" to the IP address of your target machine. IPv6 has the same capabilities, however, the function is not embedded into the "ping" command... it's now "ping6"!
 
 The interesting part of ping6 is that you have to declare the interface you are using to send the command. So on a standard Mac machine (and non-MB Air), you have two interfaces to choose from:
