@@ -2,6 +2,8 @@
 layout: single
 title: "JAMF Software Casper Suite in an Amazon EC2 Cloud"
 date: 2013-03-07 18:56
+categories:
+    - "Tech Article"
 tags:
     - Casper Suite
     - Amazon
@@ -18,9 +20,9 @@ Environment
 ---
 
 ### JSS ###
-*	EC2 (Amazon Elastic Compute Cloud) Amazon Micro instance was sufficient to host the JSS even though it technically doesn't meet the requirements listed by JAMF in terms of RAM and CPU.  Obviously as your environment grows, so will your server resource needs.  The main point is you can get something started **VERY** cheaply.
-*	Created a 1TB EBS (Amazon Elastic Block Store) drive to store data.  Note, EC2 instances that are greater than "micro" have "local instance storage".  This storage will be deleted if the server is restarted (think of it as a giant /tmp folder).  Therefore, it is critical... no matter what EC2 instance type you create (micro, small, large, etc) that you create an EBS drive.
-*	Attached the EBS to our EC2 server via Amazon's Management Console.
+- EC2 (Amazon Elastic Compute Cloud) Amazon Micro instance was sufficient to host the JSS even though it technically doesn't meet the requirements listed by JAMF in terms of RAM and CPU.  Obviously as your environment grows, so will your server resource needs.  The main point is you can get something started **VERY** cheaply.
+- Created a 1TB EBS (Amazon Elastic Block Store) drive to store data.  Note, EC2 instances that are greater than "micro" have "local instance storage".  This storage will be deleted if the server is restarted (think of it as a giant /tmp folder).  Therefore, it is critical... no matter what EC2 instance type you create (micro, small, large, etc) that you create an EBS drive.
+- Attached the EBS to our EC2 server via Amazon's Management Console.
 
 Our EC2 was running a fresh install from Amazon's images of Ubuntu Server 12.04 LTS, and we performed the following items.
 
@@ -89,8 +91,8 @@ This would be a great scenario to utilize NetSUS, or better yet install [Reposad
 ### Clustering ###
 You can cluster your JSS with multiple which may help with the IP addressing elements for Casper Remote, however, creating a cluster for JSS is beyond this article.  You can find some information on [JAMF Nation][jamfnation] by searching for "DMZ" or "Cluster".  Such as:
 
-*	[Installing a JSS Web Application in the DMZ][dmz]
-*	[Setting up A Clustered JSS][cluster]
+- [Installing a JSS Web Application in the DMZ][dmz]
+- [Setting up A Clustered JSS][cluster]
 
 ### Additional Thoughts ###
 If you have any suggestions on Samba security I would greatly appreciate it.  The default setup seems that only "printers" is advertised so it would be simple to disable that broadcast while everything else is *mostly* locked down.  You could always perform ```sudo service smb [stop | start]``` for times when you want to upload via Casper Admin.app if you didn't like the idea of having a smb in the cloud. 

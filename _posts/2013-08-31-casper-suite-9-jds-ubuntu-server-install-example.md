@@ -2,6 +2,8 @@
 layout: single
 title: "Casper Suite 9: JDS Ubuntu Server Install Example"
 date: 2013-08-31 14:32
+categories:
+    - "Tech Article"
 tags:
     - Casper Suite
     - JDS

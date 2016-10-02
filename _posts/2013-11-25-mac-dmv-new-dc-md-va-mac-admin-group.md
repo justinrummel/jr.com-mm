@@ -2,6 +2,8 @@
 layout: single
 title: "MacDMV: New DC, MD, VA Mac Admin Group"
 date: 2013-11-25 15:32
+categories:
+    - "Tech Article"
 tags:
     - Apple
     - MacDMV

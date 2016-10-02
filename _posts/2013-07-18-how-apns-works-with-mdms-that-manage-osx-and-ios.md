@@ -2,13 +2,13 @@
 layout: single
 title: "How APNS works with MDMs that manage OSX and iOS"
 date: 2013-07-18 16:21
+categories:
+    - "Tech Article"
 tags:
     - Apple
     - Casper Suite
     - APNS
 ---
-## Overview
-
 Classic Environment
 
 <figure>
