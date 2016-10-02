@@ -61,4 +61,4 @@ Check [www.niagaraparks.com/attractions/falls-illumination.html][falls-illuminat
 <a href="https://www.flickr.com/photos/justinrummel/6200836490/"><img src="https://farm7.static.flickr.com/6138/6200836490_b93fe6cb4b_m.jpg" title="20110929-Niagara_Falls-120" /></a>
 </figure>
 
-[falls-illumination]: http://www.niagaraparks.com/attractions/falls-illumination.html 
+[falls-illumination]: http://www.niagaraparks.com/attractions/falls-illumination.html

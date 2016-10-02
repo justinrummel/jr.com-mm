@@ -17,7 +17,7 @@ header:
 ---
 This set contains pictures during my Alaska trip in 2011. My Alaskan family flew me out (along with a camera crew from National Geographic) out to their camp down the Squirrel River. It was a wonderful time, one of those memorable moments that you wish you could describe in words and capture in pictures knowing they will never do justice to the experience.
 
-For this set I was worried about the snow reflection washing out everything or making the exposure to bright for post processing. I decided to take all the pictures at -1 Exposure which I believe helped in the long run. 
+For this set I was worried about the snow reflection washing out everything or making the exposure to bright for post processing. I decided to take all the pictures at -1 Exposure which I believe helped in the long run.
 
 <figure class="third">
 <a href="https://www.flickr.com/photos/justinrummel/5651224173/"><img src="https://farm6.static.flickr.com/5025/5651224173_42bb519b34_m.jpg" title="20110417-Squirrel_River-001" /></a>

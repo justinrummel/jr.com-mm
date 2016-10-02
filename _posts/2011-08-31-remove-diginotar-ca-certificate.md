@@ -25,7 +25,7 @@ So the "-Z" flag is telling they system to search based on the SHA-1 has value o
 $ /usr/bin/security find-certificate -Z -e "info@diginotar.nl" /System/Library/Keychains/SystemRootCertificates.keychain | grep SHA | awk -F ": " '{print $2}'
 ```
 
-In the command above, I'm asking the security command to find the certificate with the email address with the "-e" flag. The "-Z" flag in this command states to print out the SHA-1 has value. At the end I'm using "grep" to filter all the other information that comes with displaying your certificate information via Terminal then "awk" to only return the hash value. This way you can have some logic to ensure that you system find the correct certificate to delete vs. taking information from a website and fully trusting the instructions (no offense to Ed, it is just a good practice to perform sanity checks). 
+In the command above, I'm asking the security command to find the certificate with the email address with the "-e" flag. The "-Z" flag in this command states to print out the SHA-1 has value. At the end I'm using "grep" to filter all the other information that comes with displaying your certificate information via Terminal then "awk" to only return the hash value. This way you can have some logic to ensure that you system find the correct certificate to delete vs. taking information from a website and fully trusting the instructions (no offense to Ed, it is just a good practice to perform sanity checks).
 
 ``` bash
 #!/bin/sh
