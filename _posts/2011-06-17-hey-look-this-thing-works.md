@@ -5,7 +5,7 @@ date: 2011-06-17
 modified:
 description: "I'm beginning to write about technology.  Lets see how long this lasts."
 categories:
-    - "Random""
+    - "Random"
 tags:
     - Apple
     - IOS

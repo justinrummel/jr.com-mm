@@ -5,7 +5,7 @@ description:
 date: 2015-01-11
 modified:
 categories:
-    - "Random""
+    - "Random"
 tags:
     - "Octopress"
 header:

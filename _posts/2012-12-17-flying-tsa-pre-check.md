@@ -3,7 +3,7 @@ layout: single
 title: "Flying TSA Pre Check"
 date: 2012-12-17
 categories:
-    - "Random""
+    - "Random"
 tags:
     - Professional
     - Global Entry

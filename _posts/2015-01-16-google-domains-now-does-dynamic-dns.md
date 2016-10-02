@@ -5,7 +5,7 @@ description: "Google Domains is now for the public, with upgrades!"
 date: 2015-01-16T17:20:13-05:00
 modified:
 categories:
-    - "Random""
+    - "Random"
 tags:
     - Google
 header:
