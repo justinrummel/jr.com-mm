@@ -2,12 +2,18 @@
 layout: single
 title: Reston Triathlon Olympic 2015 Race Report
 date: 2015-09-13T13:00:56-04:00
-modified:
+modified: 2016-10-02
 description: "My race report for the Reston Triathlon Olympic distance 2015"
 categories:
     - "Race Report"
 tags:
     - Multisport
+header:
+    image: 2015/09/13/Reston-Triathlon-Header.jpg			# Twitter (use 'overlay_image')
+    overlay_image: 2015/09/13/Reston-Triathlon-Header.jpg		    # Article header at 2048x768
+    overlay_filter: 0.15
+    teaser: 2015/09/13/Reston-Triathlon-Header-Twitter.jpg 		# Shrink image to 575 width
+    caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 Amazing what one year makes; for the good or bad.  This is the second time I've raced the Reston Triathlon, so I'm going to compare my numbers to see where there was any improvement.
 
@@ -36,3 +42,8 @@ Results, I beat my time last year (not that hard with a horrible swim), but I al
 - Transitions were damn near identical.  However, since I had a wetsuit this year and did not have one last year, I'll say I improved... somewhere.
 
 - Placing was an improvement, but also noticed that my age group is much more deeper.  Last year I was competing against 29 people in my age group, while this year I'm against 54.  So with the larger field of competitors it's hard to say that my placement percentage of the top 37% is measuring against apples to apples when looking back last year.  However, in terms of overall placement there were 440 racers vs. the 426 racers last year.  A little more, but not by much.  This time I came in as 99th top racer which puts me at the top 23% vs. the top 33% last year.  A significant improvement, and again all due to my swim knocking off 11 minutes from my time.
+
+<figure class="half">
+<a href="{{ site.url }}/images/2015/09/13/Reston-Triathlon-LG-1.jpg"><img src="{{ site.url }}/images/2015/09/13/Reston-Triathlon-SM-1.jpg" /></a>
+<a href="{{ site.url }}/images/2015/09/13/Reston-Triathlon-LG-2.jpg"><img src="{{ site.url }}/images/2015/09/13/Reston-Triathlon-SM-2.jpg" /></a>
+</figure>

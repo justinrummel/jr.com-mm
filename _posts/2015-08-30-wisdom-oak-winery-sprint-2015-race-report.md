@@ -2,13 +2,19 @@
 layout: single
 title: Wisdom Oak Winery Sprint 2015 Race Report
 date: 2015-08-30T16:35:46-04:00
-modified:
+modified: 2016-10-02
 description: "My race report for the Wisdom Oak Winery Sprint 2015" # For Twitter, not the Title
 categories:
     - "Race Report"
 tags:
     - Multisport
     - Charlottesville Multisports
+header:
+    image: 2015/08/30/WOW-Header.jpg			# Twitter (use 'overlay_image')
+    overlay_image: 2015/08/30/WOW-Header.jpg		    # Article header at 2048x768
+    overlay_filter: 0.15
+    teaser: 2015/08/30/WOW-Header-Twitter.jpg 		# Shrink image to 575 width
+    caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 Wisdom Oak Winery (WOW) Sprint is a 750 meter open water swim (OWS) in a lake, 16.6 mile bike, and 3.1 mile run that is hilly.
 
@@ -44,6 +50,12 @@ Here are my thoughts after [reading the results][wow-sprint-2015].
 - Run was 25:38.  Not the best, but between a high heart rate from the swim AND the bike, with a mile uphill I would only be able to shave off another 45-60 seconds at most.  The run was hard.
 - Total time 1:37:48.  Now this is slower than Colonial Beach, however, the bike distance was four miles longer so I actually beat my padded expected time!
 	+ padded time was calculated by 2min for 100m pace ([SDI of 1.07][swim-predict]), 18 mph bike pace, 8 minute mile pace; thus 17:20 + 55:40 + 24 (+ 4 minutes for transition time) = 101 minutes.
+
+<figure class="third">
+<a href="{{ site.url }}/images/2015/08/30/WOW-LG-1.jpg"><img src="{{ site.url }}/images/2015/08/30/WOW-SM-1.jpg" /></a>
+<a href="{{ site.url }}/images/2015/08/30/WOW-LG-2.jpg"><img src="{{ site.url }}/images/2015/08/30/WOW-SM-2.jpg" /></a>
+<a href="{{ site.url }}/images/2015/08/30/WOW-LG-3.jpg"><img src="{{ site.url }}/images/2015/08/30/WOW-SM-3.jpg" /></a>
+</figure>
 
 Footnotes
 ---
