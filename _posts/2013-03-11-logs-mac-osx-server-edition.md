@@ -14,33 +14,33 @@ tags:
 
 ### Log files ###
 
-*	/Library/Logs/AppleFileService/AppleFileServiceAccess.log
-*	/Library/Logs/AppleFileService/AppleFileServiceError.log
+- /Library/Logs/AppleFileService/AppleFileServiceAccess.log
+- /Library/Logs/AppleFileService/AppleFileServiceError.log
 
 What?!  You don't have these logs?  You might need to turn them on as by default they are disabled.
 
-{% highlight bash %}
+``` bash
 sudo serveradmin settings afp:activityLog = yes
-{% endhighlight %}
+```
 
 This will enable logging for the following items, and rotate the logs on a weekly basis:
 
-*	logLogin
-*	logLogout
-*	logCreateDir
-*	logCreateFile
-*	logOpenFork
-*	logDelete
+- logLogin
+- logLogout
+- logCreateDir
+- logCreateFile
+- logOpenFork
+- logDelete
 
 ## DNS
 
 ### Log files ###
 
-*	/Library/Logs/named.log
+- /Library/Logs/named.log
 
-The file contains everything you would want to know regarding your DNS environment, such as reloading of configurations, zones, shutting down, and transferring to any DNS slaves. You will not see these log messages on a slave DNS server, so you must have access to the master.  Notice, you will not see WHAT DNS record was created below (it was delete.rummel.co). 
+The file contains everything you would want to know regarding your DNS environment, such as reloading of configurations, zones, shutting down, and transferring to any DNS slaves. You will not see these log messages on a slave DNS server, so you must have access to the master.  Notice, you will not see WHAT DNS record was created below (it was delete.rummel.co).
 
-{% highlight Apache Log %}
+``` text
 11-Mar-2013 14:52:41.751 reloading configuration succeeded
 11-Mar-2013 14:52:41.752 reloading zones succeeded
 11-Mar-2013 15:27:02.757 shutting down
@@ -67,39 +67,38 @@ The file contains everything you would want to know regarding your DNS environme
 11-Mar-2013 15:27:03.374 client 192.168.1.122#51604: view com.apple.ServerAdmin.DNS.public: transfer of 'justinrummel.net/IN': AXFR-style IXFR ended
 11-Mar-2013 15:27:03.375 client 192.168.1.122#64866: view com.apple.ServerAdmin.DNS.public: received notify for zone 'rummel.co'
 11-Mar-2013 15:27:03.875 client 192.168.1.122#56747: view com.apple.ServerAdmin.DNS.public: received notify for zone 'justinrummel.net'
-{% endhighlight %}
+```
 
 ## Installer
 
 ### Log files ###
 
-*	/var/log/install.log
+- /var/log/install.log
 
-![PKG Icon]({{ site.url }}/images/2013/03/11/PKG_128.png)
-{: .align-right}
-Did you just double click a ".pkg" file (or something that looks like a stick of butter in a box)?  The actions of that installation are recorded here.  You could also install items by using the ```installer``` command (a scripting FYI). 
+![PKG Icon]({{ site.url }}/images/2013/03/11/PKG_128.png){: .align-right}
+Did you just double click a ".pkg" file (or something that looks like a stick of butter in a box)?  The actions of that installation are recorded here.  You could also install items by using the ```installer``` command (a scripting FYI).
 
 ## Open Directory
 
 ### Log files ###
 
-*	/Library/Logs/slapconfig.log 
+- /Library/Logs/slapconfig.log
 
 	*Setting up and configuring Open Directory services*
 
-*	/Library/Logs/PasswordService/ApplePasswordServer.Service.log 
+- /Library/Logs/PasswordService/ApplePasswordServer.Service.log
 
 	*Successes and failures authenticating with local network users*
 
-*	/Library/Logs/PasswordService/ApplePasswordServer.Error.log 
+- /Library/Logs/PasswordService/ApplePasswordServer.Error.log
 
 	*Errors in the Password Service*
 
-*	/var/log/slapd.log 
+- /var/log/slapd.log
 
 	*LDAP services*
 
-*	/var/log/opendirectoryd.log 
+- /var/log/opendirectoryd.log
 
 	*Core Open Directory functionality*
 
@@ -123,46 +122,46 @@ You can read about Open Directory on Apple's man page [opnedirectoryd][opendirec
 
 Remember, you can always increase the log level of Open Directory by following Apple's kbase article and issue:
 
-{% highlight bash %}
+``` bash
 # debug
 odutil set log debug
 
 # return to default
 odutil set log default
-{% endhighlight %}
+```
 
-<quote OS X Server: Changing opendirectoryd logging levels http://support.apple.com/kb/HT4696>
-*	The logging level will persist through restarts.
-*	Other logging levels are also available: "alert", "critical", "error", "warning", "notice", and "info".
-*	For more information please refer to the manual pages for the odutil utility (such as "[man odutil](x-man-page://1/odutil)").
-*	Generally, debug logging should only be used to troubleshoot Open Directory service-related issues because debug logging can generate large amounts of log messages. If you need more detailed information about Open Directory events but do not wish to use "debug", consider using "info" instead.
-</quote>
+<q>
+- The logging level will persist through restarts.
+- Other logging levels are also available: "alert", "critical", "error", "warning", "notice", and "info".
+- For more information please refer to the manual pages for the odutil utility (such as "[man odutil](x-man-page://1/odutil)").
+- Generally, debug logging should only be used to troubleshoot Open Directory service-related issues because debug logging can generate large amounts of log messages. If you need more detailed information about Open Directory events but do not wish to use "debug", consider using "info" instead.
+</q> ---<cite>[OS X Server: Changing opendirectoryd logging levels](http://support.apple.com/kb/HT4696)</cite>
 
 ## System
 
 ### Log files ###
 
-*	/var/log/system.log
+- /var/log/system.log
 
 Apple decided to stop utilizing the security.log file for 'interesting' items, and now just creates noise in system.log.  Grep for the following items:
 
-*	```grep sudo /var/log/system.log```	
+- ``` grep sudo /var/log/system.log ```
 
 	*Anyone using the 'sudo' command for elevated privileges*
 
-*	```grep backup /var/log/system.log``` 
+- ``` grep backup /var/log/system.log ```
 
 	*Time Machine 'backup' for the server to a secondary drive (not the Time Machine backup service)*
 
-*	```grep kernel /var/log/system.log``` 
+- ``` grep kernel /var/log/system.log ```
 
 	*Kernel messages (such as sandboxd lookup errors)*
 
-*	```grep bootp /var/log/system.log``` 
+- ``` grep bootp /var/log/system.log ```
 
 	*NetBoot and DHCP notices*
 
-*	```grep kdc /var/log/system.log```
+- ``` grep kdc /var/log/system.log ```
 
 	*Kerberos log messages for individuals who authenticate for services*
 
@@ -173,52 +172,52 @@ Apple decided to stop utilizing the security.log file for 'interesting' items, a
 
 **General Apache Info**
 
-*	/var/log/apache2/access_log 
+- /var/log/apache2/access_log
 
 	*You may see these two files symlinked in Console.app under /Library/Logs/ => "WebServer"*
 
-*	/var/log/apache2/error_log
+- /var/log/apache2/error_log
 
 **WebDAV**
 
-*	/Library/Logs/AppleFileService/AppleFileServerError.log
-*	/Library/Logs/WebDAVSharing.log
+- /Library/Logs/AppleFileService/AppleFileServerError.log
+- /Library/Logs/WebDAVSharing.log
 
 **CalDAV**
 
-*	/var/log/caldavd/access.log
+- /var/log/caldavd/access.log
 
 **Profile Manager**
 
-*	/Library/Logs/ProfileManager/devicemgrd.log
-*	/Library/Logs/ProfileManager/profilemanager.log
-*	/Library/Logs/PostgreSQL/PostgreSQL.log
-*	/Library/Logs/PostgreSQL/PostgreSQL_server_Services.log 
+- /Library/Logs/ProfileManager/devicemgrd.log
+- /Library/Logs/ProfileManager/profilemanager.log
+- /Library/Logs/PostgreSQL/PostgreSQL.log
+- /Library/Logs/PostgreSQL/PostgreSQL_server_Services.log
 
-	*If you have ever had to "redo" some of your work and Postgress, you needed to ```sudo serveradmin start postgres_server``` to get things done.  There is a log for that.*
+	*If you have ever had to "redo" some of your work and Postgress, you needed to ``` sudo serveradmin start postgres_server ``` to get things done.  There is a log for that.*
 
 ## VPN
 
 ### Log files ###
 
-*	/var/log/ppp/vpnd.log
+- /var/log/ppp/vpnd.log
 
 Who just logged into your network?  Look for "authorized for access":
 
-{% highlight bash %}
+``` bash
 grep "authorized for access" /var/log/ppp/vpnd.log
-{% endhighlight %}
+```
 
 ## Sources
 
-*	[AFP Logging][afplog] by Charles Edge
-*	[Server Essentials 10.8][osxs10.8] By [Arek Dreyer][dreyer], [Ben Greisler][greisler]
-*	[Post Title][log] by Ren and Stimpy
+- [AFP Logging][afplog] by Charles Edge
+- [Server Essentials 10.8][osxs10.8] By [Arek Dreyer][dreyer], [Ben Greisler][greisler]
+- [Post Title][log] by Ren and Stimpy
 
-[opendirectoryd]: https://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man8/opendirectoryd.8.html 
+[opendirectoryd]: https://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man8/opendirectoryd.8.html
 [oderror]: https://developer.apple.com/library/mac/#documentation/Networking/Reference/OpenDirectoryErrors/Reference/reference.html#//apple_ref/doc/uid/TP40008797
-[afplog]: http://krypted.com/mac-os-x/missing-server-app-settings-for-afp/ 
-[osxs10.8]: http://www.peachpit.com/store/apple-pro-training-series-os-x-server-essentials-using-9780321887337 
-[dreyer]: http://www.arekdreyer.com 
-[greisler]: http://www.kadimac.com 
-[log]: http://nicktoons.nick.com/videos/clip/stimpys-big-day-log-song-1.html 
+[afplog]: http://krypted.com/mac-os-x/missing-server-app-settings-for-afp/
+[osxs10.8]: http://www.peachpit.com/store/apple-pro-training-series-os-x-server-essentials-using-9780321887337
+[dreyer]: http://www.arekdreyer.com
+[greisler]: http://www.kadimac.com
+[log]: http://nicktoons.nick.com/videos/clip/stimpys-big-day-log-song-1.html

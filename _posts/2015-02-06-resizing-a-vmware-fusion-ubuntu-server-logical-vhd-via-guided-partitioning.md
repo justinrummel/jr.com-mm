@@ -36,7 +36,7 @@ You can think of LVM as "dynamic partitions", meaning that you can create/resize
 
 So lets see what we are working with and how it differs from the "Easy Install".  We'll launch our new Ubuntu Server VM and perform the same tasks as last time to get a sense of how much space is available.
 
-{% highlight bash %}
+``` bash
 sadmin@ubuntu:~$ sudo fdisk -l
 
 Disk /dev/sda: 21.5 GB, 21474836480 bytes
@@ -68,13 +68,13 @@ I/O size (minimum/optimal): 512 bytes / 512 bytes
 Disk identifier: 0x00000000
 
 Disk /dev/mapper/ubuntu--vg-swap_1 doesn't contain a valid partition table
-{% endhighlight %}
+```
 
 HELLO!  That was a lot more information than last time! The biggest clue as that we are dealing with a LVM system (outside the amount of text that is returned from one command) is the "Linux LVM" description for /dev/sda5.  
 
 Lets see what are the results from our command after we increase our VM size from 20GB to 30 GB (like we did last time).
 
-{% highlight bash %}
+``` bash
 sadmin@ubuntu:~$ sudo fdisk -l
 
 Disk /dev/sda: 32.2 GB, 32212254720 bytes
@@ -106,13 +106,13 @@ I/O size (minimum/optimal): 512 bytes / 512 bytes
 Disk identifier: 0x00000000
 
 Disk /dev/mapper/ubuntu--vg-swap_1 doesn't contain a valid partition table
-{% endhighlight %}
+```
 
 DRAT!  We're still in the same situation as last time that our environment knows we should have 30GB of space (e.g. "Disk /dev/sda: 32.2 GB"), but the number of blocks for /dev/sda5 is not showing any change nor did "Disk /dev/mapper/ubuntu--vg-root" increase in size (e.g. "19.1 GB, 19050528768 bytes").  
 
 To see additional information about our LVM environment we can use the ```lvscan``` and ```lvs``` commands to find the size of our LVMs, the name of the Logical Volume, and Volume Group (in this case, "ubuntu-vg").  Full LVM details are available via ```lvdisplay``` command (think of this as ```diskutil cs list``` for OSX admins).
 
-{% highlight bash %}
+``` bash
 sadmin@ubuntu:~$ sudo lvscan
   ACTIVE            '/dev/ubuntu-vg/root' [17.74 GiB] inherit
   ACTIVE            '/dev/ubuntu-vg/swap_1' [2.00 GiB] inherit
@@ -157,7 +157,7 @@ sadmin@ubuntu:~$ sudo lvdisplay
     - currently set to     256
   Block device           252:1
 
-{% endhighlight %}
+```
 
 ## Steps to Increase your VMware Fusion LVM
 First thing we need configure to increase the disk space of our VM is by using the ```sudo cfdisk``` command to create a new Primary partition using the 8e/lvm format from our "Free Space".  The steps (with screen shots below) are:
@@ -191,17 +191,17 @@ First thing we need configure to increase the disk space of our VM is by using t
 
 You may noticed immediately after we write the partition map there was a error message at the bottom of the screen that states "Wrote partition table, but re-read table failed.  Run partprobe(8), kpartx(8) or reboot to update table"... **please reboot**.  Once restarted, we'll run ```sudo fdisk -l``` again to grab the location of our new partition (truncated for brevity).
 
-{% highlight bash %}
+``` bash
    Device Boot      Start         End      Blocks   Id  System
 /dev/sda1   *        2048      499711      248832   83  Linux
 /dev/sda2          501758    41940991    20719617    5  Extended
 /dev/sda3        41940992    62914559    10486784   8e  Linux LVM
 /dev/sda5          501760    41940991    20719616   8e  Linux LVM
-{% endhighlight %}
+```
 
 Next we need to do the following steps all via command line
 
-{% highlight bash %}
+``` bash
 # Make the new partition an lvm physical volume
 sadmin@ubuntu:~$ sudo pvcreate /dev/sda3
   Physical volume "/dev/sda3" successfully created
@@ -221,11 +221,11 @@ resize2fs 1.42.9 (4-Feb-2014)
 Filesystem at /dev/ubuntu-vg/root is mounted on /; on-line resizing required
 old_desc_blocks = 2, new_desc_blocks = 2
 The filesystem on /dev/ubuntu-vg/root is now 7272448 blocks long.
-{% endhighlight %}
+```
 
 We're done!  Lets verify by quickly rerunning our LVM commands [ ```lvscan``` \| ```lvs``` ] and/or doing a ```df -H | grep mappter```
 
-{% highlight bash %}
+``` bash
 sadmin@ubuntu:~$ sudo lvscan
   ACTIVE            '/dev/ubuntu-vg/root' [27.74 GiB] inherit
   ACTIVE            '/dev/ubuntu-vg/swap_1' [2.00 GiB] inherit
@@ -237,7 +237,7 @@ sadmin@ubuntu:~$ sudo lvs
 
 sadmin@ubuntu:~$ df -H | grep mapper
 /dev/mapper/ubuntu--vg-root   30G  1.2G   27G   5% /
-{% endhighlight %}
+```
 
 
 ## Source

@@ -16,15 +16,15 @@ Port Scanning with *stroke*
 ---
 So you want to perform a port scan, but you are missing the more powerful *nmap* command that can be installed via MacPorts or compiled from [insecure.org][insecure]. In order to use the command, open Terminal and cd to the **/Applications/Utilities/Network Utility.app/Contents/Resources/** directory, then type ./stoke
 
-{% highlight bash %}
+``` bash
 $ justinrummel@JRummel-MBP$ cd "/Applications/Utilities/Network Utility.app/Contents/Resources/"
 $ justinrummel@JRummel-MBP:Resources$ ./stroke
 2011-08-02 12:46:09.315 stroke[45023:707] stroke address startPort endPort
-{% endhighlight %}
+```
 
 The help information for stoke is very short, mostly because this is a one trick pony. You can enter your address (IP or FQDN), a starting port number, and end port number, then off you go! A good port to start with is 20 and end somewhere around 10000. Yes you can go higher to 65535, but it will just take longer. So for example:
 
-{% highlight bash %}
+``` bash
 $ justinrummel@JRummel-MBP:Resources$ ./stroke 192.168.1.111 20 10000
 Port Scanning host: 192.168.1.111
 
@@ -52,7 +52,7 @@ Port Scanning host: 192.168.1.111
           Open TCP Port: 5268
           Open TCP Port: 5900 rfb
           Open TCP Port: 8088 radan-http
-{% endhighlight %}
+```
 
 Things you can’t do for people who use nmap include fingerprinting, service information, comma separated for a select ports to scan vs. the whole spectrum. If you find a port number and are not sure what it’s used for, check the Apple kbase article [Well known TCP and UDP ports used by Apple software products][tcpUDP].
 
@@ -66,7 +66,7 @@ If you just typed that out... you’ll notice a long list of options for this co
 
 If you need to capture the available wireless networks that are at your current location, we’ll use the "-s" flag for scanning available Wi-Fi networks.
 
-{% highlight bash %}
+``` bash
 $ justinrummel@JRummel-MBP$ cd /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources
 $ justinrummel@JRummel-MBP:Resources$ ./airport -s
 		SSID    BSSID             RSSI  CHANNEL HT CC SECURITY (auth/unicast/group)
@@ -77,13 +77,13 @@ $ justinrummel@JRummel-MBP:Resources$ ./airport -s
 		hhonors 00:16:46:2c:42:60 -83 	1 		N  -- NONE
 		hhonors 00:16:46:2c:42:20 -63 	1 		N  -- NONE
 		hhonors 00:1b:2a:95:52:70 -75 	11 		N  -- NONE
-{% endhighlight %}
+```
 
 From my Hilton hotel, you can see there are 7 Access Points (AP) that are near my room, all with the SSID of "hhonors". We can also see that there is one bad AP that is running on channel 4. If you were not aware, enjoy this 802.11 101 lesson only use channels 1, 6, and 11 for "g" service ("n" has more channels and are higher numbers, but that discussion is for another post. So if I connect to the "hhonors" network, how do I know which AP I really connected to. My guess would be the one with RSSI value of -50 because that is the strongs single. Think of RSSI as golf; the lower the better.
 
 If you need to see information about your current wireless network, you can use the "-I" flag.
 
-{% highlight bash %}
+``` bash
 $ justinrummel@JRummel-MBP:Resources$ ./airport -I
           agrCtlRSSI: -51
           agrExtRSSI: 0
@@ -100,7 +100,7 @@ $ justinrummel@JRummel-MBP:Resources$ ./airport -I
                 SSID: hhonors
                  MCS: -1
              channel: 6
-{% endhighlight %}
+```
 
 Once connected to "hhonors", the "-I" flag gave me the BSSID of "0:1a:a2:82:30:10″ which matches the previous command results using the "-s" flag who’s RSSI of -50.
 

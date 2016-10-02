@@ -26,7 +26,7 @@ Environment
 
 Our EC2 was running a fresh install from Amazon's images of Ubuntu Server 12.04 LTS, and we performed the following items.
 
-{% highlight bash %}
+``` bash
 # Update the default image
 sudo apt-get update
 sudo apt-get upgade
@@ -62,28 +62,28 @@ sudo apt-get install samba
 #   Added smbpassword for casperadmin
 smbpasswd -a casperadmin
 
-#   Added CasperShare SMB folder 
+#   Added CasperShare SMB folder
 ;[accounts]
 ;	comment = CasperShare
 ;	path = /CasperShare
 ;	valid users = casperadmin
 ;	public = no
 ;	writable = yes
-{% endhighlight %}
+```
 
 Notes
 ---
 
 ### Casper Remote ###
-Casper Remote will not work.  For some reason the JSS reports everyone's IP address as the public WAN ip address instead of looking at ```ipconfig getifaddr en0``` or some other sophisticated method to determine the IP address of a machine during the "every15" trigger. This information could be collected as an Extension Attribute, but Casper Remote won't read this data for remote actions (such as pushing Application Packages and/or VNC services).
+Casper Remote will not work.  For some reason the JSS reports everyone's IP address as the public WAN ip address instead of looking at ``` ipconfig getifaddr en0 ``` or some other sophisticated method to determine the IP address of a machine during the "every15" trigger. This information could be collected as an Extension Attribute, but Casper Remote won't read this data for remote actions (such as pushing Application Packages and/or VNC services).
 
 ### Distribution Points ###
-You still need to create a Distribution point for "CasperShare" in the JSS using SMB services for upload, and HTTP services for download.  This will allow "you" as the Casper Admin to upload your Scripts, Packages, and other management items to your EBS. 
+You still need to create a Distribution point for "CasperShare" in the JSS using SMB services for upload, and HTTP services for download.  This will allow "you" as the Casper Admin to upload your Scripts, Packages, and other management items to your EBS.
 
 The Apache2 HTTP service is needed for your users to download your packages that have been uploaded by Casper Admin.app.  I am *assuming* that the need of an EC2 server is because your user base is diverse and spread out across varying degrees of counties, states, or countries.
 
 ### NetBoot ###
-You will not be able to NetBoot for imaging with this setup.  Even *IF* you got a NetSUS VM running locally on your LAN or download and install Server.app on a spare Apple machine, you don't have a Base OS to upload in Casper Admin.app.  If you *wanted* to waste the space (and time to upload) a Base OS and then use Target Disk mode for imaging, that *could* be investigated, but I would opt for using Recovery HD and then enroll your devices via URL or QuickAdd.pkg. 
+You will not be able to NetBoot for imaging with this setup.  Even *IF* you got a NetSUS VM running locally on your LAN or download and install Server.app on a spare Apple machine, you don't have a Base OS to upload in Casper Admin.app.  If you *wanted* to waste the space (and time to upload) a Base OS and then use Target Disk mode for imaging, that *could* be investigated, but I would opt for using Recovery HD and then enroll your devices via URL or QuickAdd.pkg.
 
 ### Software Update ###
 This would be a great scenario to utilize NetSUS, or better yet install [Reposado][reposado] in a separate micro EC2 install to manage Apple Software Updates.  You can configure Reposado to be your primary index.sucatalog which points to Appple's download servers (thus not requiring you to store any data).  With Reposado combined with the Open Source GUI project [Margarita][margarita] you can have an easily deployable and maintainable solution for Software Updates.  You can find a great "How To" to setup Reposado and Margarita at [Joe Wollard's][denisonmac] site, which is also getting some feedback on [Reposado's Google Group forum][repo].
@@ -95,12 +95,12 @@ You can cluster your JSS with multiple which may help with the IP addressing ele
 - [Setting up A Clustered JSS][cluster]
 
 ### Additional Thoughts ###
-If you have any suggestions on Samba security I would greatly appreciate it.  The default setup seems that only "printers" is advertised so it would be simple to disable that broadcast while everything else is *mostly* locked down.  You could always perform ```sudo service smb [stop | start]``` for times when you want to upload via Casper Admin.app if you didn't like the idea of having a smb in the cloud. 
+If you have any suggestions on Samba security I would greatly appreciate it.  The default setup seems that only "printers" is advertised so it would be simple to disable that broadcast while everything else is *mostly* locked down.  You could always perform ``` sudo service smb [stop | start] ``` for times when you want to upload via Casper Admin.app if you didn't like the idea of having a smb in the cloud.
 
-[reposado]: http://groups.google.com/group/reposado 
-[margarita]: https://github.com/jessepeterson/margarita 
-[denisonmac]: http://denisonmac.wordpress.com/2013/02/28/running-margarita-in-apache/ 
-[repo]: https://groups.google.com/forum/?fromgroups=#!topic/reposado/Sd4L8mgBv8I 
-[jamfnation]: https://jamfnation.jamfsoftware.com/ 
-[dmz]: https://jamfnation.jamfsoftware.com/article.html?id=174 
-[cluster]: https://jamfnation.jamfsoftware.com/discussion.html?id=5702 
+[reposado]: http://groups.google.com/group/reposado
+[margarita]: https://github.com/jessepeterson/margarita
+[denisonmac]: http://denisonmac.wordpress.com/2013/02/28/running-margarita-in-apache/
+[repo]: https://groups.google.com/forum/?fromgroups=#!topic/reposado/Sd4L8mgBv8I
+[jamfnation]: https://jamfnation.jamfsoftware.com/
+[dmz]: https://jamfnation.jamfsoftware.com/article.html?id=174
+[cluster]: https://jamfnation.jamfsoftware.com/discussion.html?id=5702

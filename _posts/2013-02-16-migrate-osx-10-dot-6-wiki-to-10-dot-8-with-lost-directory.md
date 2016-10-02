@@ -69,13 +69,13 @@ Lessons Learned
 ---
 Wiki uses authentication, but simple usernames and passwords are not the limit to how Wiki is tied to the directory system.	 Wiki is now using UUID's to identify who has read/write/owner of Wiki data.  You know, this one:
 
-{% highlight bash %}
+``` bash
 # dscl command to find the GeneratedUID of diradmin
 sadmin@osxs1 ~> dscl /Search -read /Users/diradmin GeneratedUID
 GeneratedUID: 27D18844-70C6-4BDD-BE3A-5B26A6FDEA1B
 
 # not my real UUID.	 Generated via command 'uuidgen'
-{% endhighlight %}
+```
 
 [kerb]: http://en.wikipedia.org/wiki/Kerberos_(protocol)
 [h5l]: http://www.h5l.org

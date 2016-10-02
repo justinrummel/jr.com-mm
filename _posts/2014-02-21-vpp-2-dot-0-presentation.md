@@ -15,7 +15,7 @@ I wanted to do something a little different than Keynote (and no PowerPoint is n
 
 The README file explains landslide's features pretty well.  What I want to jot down is a quick step-by-step to get my presentation from markdown to your machine in the way everyone else was able to see it on Wednesday night.
 
-{% highlight bash %}
+``` bash
 cd ~/Desktop/
 git clone https://github.com/adamzap/landslide.git
 cd landslide
@@ -28,7 +28,7 @@ cd ~/Desktop/
 git clone https://github.com/justinrummel/MacDMV.git
 cd MacDMV/VPP-2.0/
 landslide slides.md -t themes/light/; open presentation.html
-{% endhighlight %}
+```
 
 And you are done!  You should now be able to see my presentation.
 

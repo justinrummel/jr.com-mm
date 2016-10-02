@@ -76,7 +76,7 @@ Now for the reverse record.
 
 Just like IPv4 we need to reverse your IPv6 record, however, it seems like it's not as simple as making things backwards to be in compliance with ARPA needed structure to "lookup" your IPv6 address and find the associated DNS record. I found a great utility called [ipv6calc][ipv6calc] that I was able to download, tar -xvzf; ./compile; make; sudo make install that will spit out the reverse IPv6 ARPA name.
 
-{% highlight bash %}
+``` bash
 $ justinrummel@jrummel-mbp:~$ ipv6calc --in ipv6addr --out revnibbles.arpa fe80::20c:29ff:fe21:28a9
 	9.a.8.2.1.2.e.f.f.f.9.2.c.0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa.
 
@@ -85,14 +85,14 @@ $ justinrummel@jrummel-mbp:~$ ipv6calc --in ipv6addr --out revnibbles.arpa fe80:
 
 $ justinrummel@jrummel-mbp:~$ ipv6calc --in ipv6addr --out revnibbles.arpa fe80::20c:29ff:fed0:c01
 	1.0.c.0.0.d.e.f.f.f.9.2.c.0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa.
-{% endhighlight %}
+```
 
 Since these are link-local, you can see that at a certain point the numbers become repetitive. Lets make things easy by cutting the "last half" of the string (minus the ".ipv6.arpa." at the end) and this will become our reverse zone (later in this article), and in for our reverse zone file's "$ORIGIN" section.
 
-{% highlight bash %}
+``` bash
 $ justinrummel@jrummel-mbp:~$ ipv6calc --in ipv6addr --out revnibbles.arpa fe80::20c:29ff:fed0:c01 | sed 's/.ip6.arpa.//' | cut -c 33-64
 	0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f
-{% endhighlight %}
+```
 
 Now it's time to create our new reverse IPv6 DNS zone file so we can translate our ARPA values to DNS names. Lets name the file "reverse-v6-fe80-64.IP6.ARPA" as this tells us it's the reverse IPv6 file for link-local (fe80) addresses. There is really no good way to do this other than copy/paste my example below and adjust your own values.
 
@@ -152,7 +152,7 @@ Test
 ---
 There you go, everything is now configured time to test. Don't forget, we did this all when DNS was stopped, we need to run sudo serveradmin start dns and we can watch our logs by doing a "tail -F /Library/Logs/named.log" to make sure we don't see any "errors" or "ignore" warnings. Once you are confident in that DNS is running again, start checking your DNS entries by using the host and ping6 commands.
 
-{% highlight bash %}
+``` bash
 $ justinrummel@jrummel-mbp:~$ host cp.newco.prv
 	ldap.newco.prv has address 192.168.1.152
 	ldap.newco.prv has IPv6 address fe80::20c:29ff:fed0:c01
@@ -170,7 +170,7 @@ $ justinrummel@jrummel-mbp:~$ ping6 -I en0 -c 1 jss.newco.prv
 	--- jss.newco.prv ping6 statistics ---
 	1 packets transmitted, 1 packets received, 0.0% packet loss
 	round-trip min/avg/max/std-dev = 0.618/0.618/0.618/0.000 ms
-{% endhighlight %}
+```
 
 Conclusion
 ---

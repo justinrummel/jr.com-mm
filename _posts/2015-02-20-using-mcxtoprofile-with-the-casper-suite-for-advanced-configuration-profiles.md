@@ -30,7 +30,7 @@ These two items are not available by a single checkbox within the JSS, however, 
 #### Find the plists
 There are actually two different plist files that we need to review; one for the Menu Items and the second for the VPN Menu Item settings<sup id="fnr1-2015-02-19">[1]</sup>.  The first one for the VPN Menu item itself is found in ~/Library/Preferences/com.apple.systemuiserver.plist.  In a freshly installed system the file is relatively blank except for two lines, but if we manually create a VPN connection in System Preferences => Network and enable the "Show VPN status in menu bar" we can see:
 
-{% highlight bash %}
+``` bash
 Locals-Mac:~ ladmin$ defaults read ~/Library/Preferences/com.apple.systemuiserver.plist
 {
     "__NSEnableTSMDocumentWindowLevel" = 1;
@@ -41,24 +41,24 @@ Locals-Mac:~ ladmin$ defaults read ~/Library/Preferences/com.apple.systemuiserve
         "/System/Library/CoreServices/Menu Extras/Clock.menu"
     );
 }
-{% endhighlight %}
+```
 
 There is some extra stuff with the file, but we'll clean it out a little later.
 
 Next lets take a look at ~/Preferences/com.apple.networkConnect.plist.  Again, default in a freshly installed system this file does not exist.  However, when we start toggling the VPN display options from the VPN Menu Item the file gets written with the needed key/pair attributes:
 
-{% highlight bash %}
+``` bash
 Locals-Mac:~ ladmin$ defaults read ~/Library/Preferences/com.apple.networkConnect.plist
 {
     VPNShowStatus = 1;
     VPNShowTime = 1;
 }
-{% endhighlight %}
+```
 
 #### I Love it when a Plan Comes Together
 First lets get the mcxToProfile python script downloaded onto our machine.  We can do this by opening Terminal and doing a ```git clone``` command which pulls down the script plus the README.md file with examples.
 
-{% highlight bash %}
+``` bash
 Locals-Mac:Desktop ladmin$ git clone https://github.com/timsutton/mcxToProfile.git
 Cloning into 'mcxToProfile'...
 remote: Counting objects: 129, done.
@@ -78,13 +78,13 @@ drwxr-xr-x  13 ladmin  staff    442 Feb 20 07:29 .git
 -rw-r--r--   1 ladmin  staff   1086 Feb 20 07:29 LICENSE.md
 -rw-r--r--   1 ladmin  staff   5684 Feb 20 07:29 README.md
 -rwxr-xr-x   1 ladmin  staff  17320 Feb 20 07:29 mcxToProfile.py
-{% endhighlight %}
+```
 
 With mcxToProfile we can identify multiple plist files that can be merged into one file to be imported into the JSS. This is clearly demonstrated in one of mcxToProfile examples available at [https://github.com/timsutton/mcxToProfile#example-usage](https://github.com/timsutton/mcxToProfile#example-usage).  Since my desire to display the VPN Menu Item and show the connection status are my personal suggestions to end users, I'm also applying the ``` --manage Once``` option so changes can be made by the user at a later time.  To generate our one plist file that we will import into the JSS, perform the following command:
 
-{% highlight bash %}
+``` bash
 Locals-Mac:~ ladmin$ ./mcxToProfile.py --plist ~/Library/Preferences/com.apple.networkConnect.plist --plist ~/Library/Preferences/com.apple.systemuiserver.plist --identifier com.local.vpnSetup --manage Once
-{% endhighlight %}
+```
 
 This results in a nicely contained com.local.vpnSetup.mobileconfig file that has imported all of our settings from our two source plist files.  However, remember when reviewing the com.apple.systemuiserver.plist there was some extra stuff that we needed to remove; "Display.menu" and "Clock.menu" shouldn't be a part of our VPN configuration.  Open the com.local.vpnSetup.mobileconfig file in your favorite text editor and remove the lines for these two menu items.  You may also want to change the "PayloadDisplayName" value from "MCXToProfile: com.apple.networkConnect" to something more meaningful for your end users in case they review what has been installed in System Preferences => Profiles.<sup id="fnr2-2015-02-19">[2]</sup><sup id="fnr3-2015-02-19">[3]</sup>  The resulting file should look like this:
 
