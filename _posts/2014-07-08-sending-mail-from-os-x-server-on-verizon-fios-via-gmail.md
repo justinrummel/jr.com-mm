@@ -1,7 +1,9 @@
 ---
-title: "Sending Mail from OS X Server on Verizon FiOS via Gmail"
 layout: single
+title: "Sending Mail from OS X Server on Verizon FiOS via Gmail"
 date: 2014-07-08 13:41
+categories:
+    - "Tech Article"
 tags:
     - Apple
     - Mavericks
@@ -39,7 +41,7 @@ Note
 ---
 These settings assume that you have configured Mail services to relay to smtp.gmail.com:587 and associated it to a proper Gmail account that can send mail.
 
-![Screen Capture OS X Server Mail Settings]({{ site.url }}/images/2014/07/08/FiOS.png)
+![Screen Capture OS X Server Mail Settings]({{ site.url }}/images/2014/07/08/FiOS.png){: .align-center}
 
 Source
 ---

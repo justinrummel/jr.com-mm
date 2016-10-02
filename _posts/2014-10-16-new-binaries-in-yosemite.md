@@ -1,8 +1,10 @@
 ---
+layout: single
 title: "New binaries in Yosemite"
 description: "Find the new (or removed) binary commands now that Yosemite is released!"
-layout: single
 date: 2014-10-16 09:30
+categories:
+    - "Tech Article"
 tags:
     - Apple
     - Yosemite
@@ -13,12 +15,10 @@ header:
   credit: Apple, Inc
   creditlink: http://www.apple.com
 ---
-Overview
----
-
 Every year I like to dig a little around some default paths to see what new binaries will be available to assist in deployment or troubleshooting.  I use a simple easy script that generates a list of all the binaries in /bin, /sbin, /usr/bin, /usr/sbin, and /usr/libexec from one OS (usually 10.x.4) to a recent beta build of the upcoming OS (in this case Yosemite).
 
-## New Binaries
+New Binaries
+---
 
 #### /bin
 Nothing has changed inside the /bin folder
@@ -43,7 +43,7 @@ thermals        # I have no idea what "thermals" is doing.
 ```
 
 #### /usr/libexec
-A lot of new "*d" daemon processes that do not have man files or output help files when executed, but PlistBuddy is still there! 
+A lot of new "*d" daemon processes that do not have man files or output help files when executed, but PlistBuddy is still there!
 
 #### /usr/sbin
 Here are new commands that I can see being used by macadmins:
@@ -70,7 +70,7 @@ sudo discoveryutil configinterfaces     # Current IP configurations for each int
 
 **dnctl** - this command forces your machine to work on a poor network for testing.  [The man page](x-man-page://8/dnctl) gives you a checklist (things to think about), variable flag options, and some examples.
 
-**firmwarepasswd** - I'm guessing this will now be the default for setting your firmware password on devices and ```setregproptool``` will no longer be used.  Update your scripts! 
+**firmwarepasswd** - I'm guessing this will now be the default for setting your firmware password on devices and ```setregproptool``` will no longer be used.  Update your scripts!
 
 **sysadminctl** - New command line tool to manipulate local users.  You can add, delete, password update, reset passwords for local accounts. Unfortunately there is no man page.  I haven't tested this fully to see how it handles directory accounts (AD or OD).
 
@@ -81,7 +81,8 @@ sudo discoveryutil configinterfaces     # Current IP configurations for each int
  2. Marks the record as requiring a new password.
  You must run this while logged in as an admin, non-root user and quit all running apps before running this tool.
 
-## Source script
+Source script
+---
 
 ``` bash
 #!/bin/bash

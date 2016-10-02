@@ -1,7 +1,9 @@
 ---
-title: "Using .p12 or JKS files with OS X"
 layout: single
+title: "Using .p12 or JKS files with OS X"
 date: 2014-03-18 15:10
+categories:
+    - "Tech Article"
 tags:
     - Apple
     - Casper Suite
@@ -9,21 +11,17 @@ tags:
     - CrashPlan
     - Certificates
 ---
-
-Overview
----
-
 My test CrashPlan PROe (CPPe, a.k.a "Black") environment has been troubled with this [VMware Fusion bug][vmware] where linking a shared folder has some issues with read/write.  The end result was anytime a client (Mac or Windows) running CrashPlan PROe had to restart, CrashPlan PROe Server would go into a deep prune session that would last for days (more info in the logs, but you get the idea).  Not very reassuring when dealing with backups.
 
 It took some time, but with the help of Code42 support the best recommended route was to remove my VMware Fusion VMs from the equation and run direct on my VM host, a couple of 2010 MacMini Servers.  The process was pretty easy by:
 
--	Prep the CPPe database
--	Do a database dump
--	Find/replace some settings (done by Code42 support)
--	Install CPPe Server on host
--	```launchclt unload /Library/LaunchDaemons/com.crashplan.proserver.plist```
--	place converted db in /Library/Application\ Support/CrashPlan/PROServer/db/
--	```launchclt load /Library/LaunchDaemons/com.crashplan.proserver.plist```
+- Prep the CPPe database
+- Do a database dump
+- Find/replace some settings (done by Code42 support)
+- Install CPPe Server on host
+- ```launchclt unload /Library/LaunchDaemons/com.crashplan.proserver.plist```
+- place converted db in /Library/Application\ Support/CrashPlan/PROServer/db/
+- ```launchclt load /Library/LaunchDaemons/com.crashplan.proserver.plist```
 
 Certificates
 ---
@@ -43,7 +41,6 @@ keytool -importkeystore -destkeystore NEW-SERVER.jks -deststorepass Pass#word -s
 ```
 
 As a best practice, I usually create .jks, .p12, or even .cer files with the server's FQDN to make things easy to read in the future.  Hope this helps someone from pulling out their hair.
-
 
 [vmware]: https://communities.vmware.com/message/2276614
 [SSLJKS]: https://github.com/justinrummel/Random-Scripts/blob/master/General/Ubuntu-SSLCert-jks.sh
