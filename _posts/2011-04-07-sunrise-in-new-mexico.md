@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Sunrise in New Mexico'
+title: "Sunrise in New Mexico"
 date: 2011-04-07
 categories:
     - "Photography"

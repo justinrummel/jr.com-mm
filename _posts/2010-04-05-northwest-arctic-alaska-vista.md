@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Northwest Arctic Alaska Vista'
+title: "Northwest Arctic Alaska Vista"
 date: 2010-04-05
 categories:
     - "Photography"

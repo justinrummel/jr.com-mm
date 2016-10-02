@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'MacTech Conference 2011'
+title: "MacTech Conference 2011"
 date: 2011-11-30
 categories:
     - "Photography"

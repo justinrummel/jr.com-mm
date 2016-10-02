@@ -1,6 +1,6 @@
 ---
-title: "How APNS works with MDMs that manage OSX and iOS"
 layout: single
+title: "How APNS works with MDMs that manage OSX and iOS"
 date: 2013-07-18 16:21
 tags:
     - Apple

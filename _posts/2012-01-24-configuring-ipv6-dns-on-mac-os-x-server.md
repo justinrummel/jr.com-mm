@@ -1,14 +1,15 @@
 ---
-title: Configuring IPv6 DNS on Mac OS X Server
 layout: single
+title: Configuring IPv6 DNS on Mac OS X Server
+date: 2012-01-24
+categories:
+    - "Tech Article"
 tags:
     - Apple
     - DNS
     - IPv6
     - Lion
     - OSXS
----
-What are you bitching about and IPv6?
 ---
 Over the past several months, my company has been dealing with AD/OD integrations with Lion 10.7.2 and the customer's environment is using ".local". If you are not familiar with the history between ".local" and Apple computers simply put: they don't mix. PERIOD. It all stems from Apple OS X Clients using the naming convention of "ComputerName.local" as its address for Bonjour services. When an Active Directory (AD) environment uses something like "company.local", Lion doesn't know if you are talking DNS or Bonjour... so it just tries everything, thus giving you delayed authentication (login) against your AD controllers.
 

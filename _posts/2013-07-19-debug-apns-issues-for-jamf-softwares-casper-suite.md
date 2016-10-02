@@ -1,6 +1,6 @@
 ---
-title: "Debug APNS issues for JAMF Software's Casper Suite"
 layout: single
+title: "Debug APNS issues for JAMF Software's Casper Suite"
 date: 2013-07-19 15:04
 tags:
     - Apple

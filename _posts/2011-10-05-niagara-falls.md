@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Niagara Falls'
+title: "Niagara Falls"
 date: 2011-10-05
 categories:
     - "Photography"

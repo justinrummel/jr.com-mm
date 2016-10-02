@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Global Village - Discovery Center, Americus, GA'
+title: "Global Village - Discovery Center, Americus, GA"
 date: 2010-04-02
 categories:
     - "Photography"

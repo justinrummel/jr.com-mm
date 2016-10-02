@@ -1,30 +1,31 @@
 ---
-title: '10.8 Mountain Lion Server: Software Update'
 layout: single
+title: "10.8 Mountain Lion Server: Software Update"
+date: 2012-07-25
+categories:
+    - "Tech Article"
 tags:
     - Apple
     - Mt Lion
     - OSXS
 ---
-Overview
----
 In the beginning of Mt Lion, there was a large scare that Apple was going to remove the current process of Software Updates (where in an enterprise environment has control of which update is made available to clients) and force people to use the Mac App Store for software updates. Well fear not, Apple has move Software Updates over from Server Admin to Server.app.
 
 Functionality
 ---
-I don’t see any difference in Software Update between Lion and Mt Lion in terms of functionality. You have the option to "download all and enable" or "manually select" which update is available to clients. Apple wants to make things easy for you so it defaults to an automatic roll, and if that is the case you don’t really care what update are available (just as long as they are downloaded and available) so the list of updates are on hidden on the second tab to keep things neat. 
+I don’t see any difference in Software Update between Lion and Mt Lion in terms of functionality. You have the option to "download all and enable" or "manually select" which update is available to clients. Apple wants to make things easy for you so it defaults to an automatic roll, and if that is the case you don’t really care what update are available (just as long as they are downloaded and available) so the list of updates are on hidden on the second tab to keep things neat.
 
-![1-mtl-SUS]({{ site.url}}/images/2012/07/1-mtl-SUS.png)
+![1-mtl-SUS]({{ site.url}}/images/2012/07/1-mtl-SUS.png){: .align-center}
 
 Software Update specifics
 ---
 To view all the updates that your server has, simply click on the Updates tab at the top and you will see a list which is similar to earlier version of Software Update. The difference is there is no description pane at the bottom. If you want to know what the description is for a particular update package, simple hit the enter key and it will display the update info.
 
-![2-mtl-SUS]({{ site.url}}/images/2012/07/2-mtl-SUS.png)
+![2-mtl-SUS]({{ site.url}}/images/2012/07/2-mtl-SUS.png){: .align-center}
 
 I do like Mt Lion’s version of Software Update because Apple has finally made it obvious hot to re-check Apple’s servers to see if there is an update (vs. that tiny little button in Server Admin).
 
-![3-mtl-SUS]({{ site.url }}/images/2012/07/3-mtl-SUS.png)
+![3-mtl-SUS]({{ site.url }}/images/2012/07/3-mtl-SUS.png){: .align-center}
 
 File Location
 ---

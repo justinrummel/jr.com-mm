@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Kiana and Buckland Alaska'
+title: "Kiana and Buckland Alaska"
 date: 2011-11-30
 categories:
     - "Photography"

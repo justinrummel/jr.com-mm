@@ -1,6 +1,6 @@
 ---
-title: "Updated XProtectWatch now with terminal-notifier"
 layout: single
+title: "Updated XProtectWatch now with terminal-notifier"
 date: 2013-03-22 20:42
 tags:
     - Apple

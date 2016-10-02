@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Macworld 2011 Pictures'
+title: "Macworld 2011 Pictures"
 date: 2011-01-27
 categories:
     - "Photography"

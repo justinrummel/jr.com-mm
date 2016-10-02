@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Santa Catalina School'
+title: "Santa Catalina School"
 date: 2011-06-19
 categories:
     - "Photography"

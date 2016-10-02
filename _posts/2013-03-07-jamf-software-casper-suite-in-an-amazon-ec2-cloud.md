@@ -1,6 +1,6 @@
 ---
-title: "JAMF Software Casper Suite in an Amazon EC2 Cloud"
 layout: single
+title: "JAMF Software Casper Suite in an Amazon EC2 Cloud"
 date: 2013-03-07 18:56
 tags:
     - Casper Suite

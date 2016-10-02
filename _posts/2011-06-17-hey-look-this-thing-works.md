@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Hey Look... This Thing Works!'
+title: "Hey Look... This Thing Works!"
 date: 2011-06-17
 modified:
 description: "I'm beginning to write about technology.  Lets see how long this lasts."

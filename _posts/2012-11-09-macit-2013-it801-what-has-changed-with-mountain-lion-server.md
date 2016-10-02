@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'MacIT 2013 - IT801: What Has Changed With Mountain Lion Server'
+title: "MacIT 2013 - IT801: What Has Changed With Mountain Lion Server"
 date: 2012-11-09
 categories:
     - "Presentations"

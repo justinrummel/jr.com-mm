@@ -1,6 +1,7 @@
 ---
 layout: single
-title: 'MacIT 2013 Sessions'
+title: "MacIT 2013 Sessions"
+date: 2012-11-09
 categories:
     - "Presentations"
 tags:

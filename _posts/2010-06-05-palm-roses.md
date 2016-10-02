@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Palm Roses'
+title: "Palm Roses"
 date: 2010-06-05
 categories:
     - "Photography"

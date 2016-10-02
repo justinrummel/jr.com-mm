@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Squirrel River'
+title: "Squirrel River"
 date: 2011-04-25
 categories:
     - "Photography"

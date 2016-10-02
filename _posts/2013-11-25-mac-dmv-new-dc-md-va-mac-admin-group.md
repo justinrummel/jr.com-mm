@@ -1,6 +1,6 @@
 ---
-title: "MacDMV: New DC, MD, VA Mac Admin Group"
 layout: single
+title: "MacDMV: New DC, MD, VA Mac Admin Group"
 date: 2013-11-25 15:32
 tags:
     - Apple

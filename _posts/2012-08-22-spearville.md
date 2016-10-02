@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Spearville and Mullinville; With a Dash of Pink'
+title: "Spearville and Mullinville; With a Dash of Pink"
 date: 2012-08-22
 categories:
     - "Photography"

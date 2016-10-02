@@ -1,6 +1,6 @@
 ---
-title: "It's (Log)^2, it's big, it's heavy, it's wood [Mac OSX Server Edition]"
 layout: single
+title: "It's (Log)^2, it's big, it's heavy, it's wood [Mac OSX Server Edition]"
 date: 2013-03-11 15:52
 tags:
     - Apple

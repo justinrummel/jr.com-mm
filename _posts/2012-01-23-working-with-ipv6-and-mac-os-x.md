@@ -1,13 +1,14 @@
 ---
-title: "Working With IPv6 and Mac OS X"
 layout: single
+title: "Working With IPv6 and Mac OS X"
+date: 2012-01-23
+categories:
+    - "Tech Article"
 tags:
     - Apple
     - IPv6
     - Lion
     - OSX
----
-What is IPv6?
 ---
 I don't feel that anyone reading this in 2012 has never heard of IPv6. The easiest way to put it it's a combinations of HEX values to make a big ugly "thing" that represents your computer. IPv4 was simple; four octets made up of a value from 0-255; thus 192.168.1.111. IPv6 takes this to a new other level. From Wikipedia:
 

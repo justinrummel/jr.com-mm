@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Macworld 2011 - IT873: Storage and Backup Solutions on Todays Budget'
+title: "Macworld 2011 - IT873: Storage and Backup Solutions on Todays Budget"
 date: 2011-01-18
 categories:
     - "Presentations"

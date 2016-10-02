@@ -1,6 +1,6 @@
 ---
-title: "'The Switcher Chronicles' - Screen Shots"
 layout: single
+title: "'The Switcher Chronicles' - Screen Shots"
 date: 2013-02-24 15:44
 tags:
     - Apple

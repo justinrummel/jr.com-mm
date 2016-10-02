@@ -1,6 +1,6 @@
 ---
-title: "XProtect updated - 2013.02.26"
 layout: single
+title: "XProtect updated - 2013.02.26"
 date: 2013-02-26 11:54
 tags:
     - Apple

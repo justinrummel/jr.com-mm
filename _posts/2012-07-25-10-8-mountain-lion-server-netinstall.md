@@ -1,12 +1,13 @@
 ---
-title: '10.8 Mountain Lion Server: NetInstall'
 layout: single
+title: "10.8 Mountain Lion Server: NetInstall"
+date: 2012-07-25
+categories:
+    - "Tech Article"
 tags:
     - Apple
     - Mt Lion
     - OSXS
----
-Overview
 ---
 From a pure functional standpoint, I don’t see any major difference between what is available in prior versions of OS X Server in terms of NetBoot service to the Mt Lion version; other than it is now "NetInstall".
 
@@ -22,15 +23,15 @@ From the first Image you can see we have the options to select an interface to p
 
 [HT1865]: https://web.archive.org/web/20140105015852/http://support.apple.com/kb/HT1865
 
-![NetInstall 1]({{ site.url }}/images/2012/07/1-mtl-netinstall.png)
+![NetInstall 1]({{ site.url }}/images/2012/07/1-mtl-netinstall.png){: .align-center}
 And finally, you can assign if you are storing Images, Client Data (for diskless operations), or both.
 
-![NetInstall 2]({{ site.url }}/images/2012/07/2-mtl-netinstall.png)
+![NetInstall 2]({{ site.url }}/images/2012/07/2-mtl-netinstall.png){: .align-center}
 On the Images tab, you will be able to see your NetBoot/NetInstall/*.nbi listed (once you copy to the usual /Library/NetBoot/NetBootSP0 folder). From there select the name of your image and click on the gear icon to "Edit Image Settings".
 
-![NetInstall 3]({{ site.url }}/images/2012/07/3-mtl-netinstall.png)
+![NetInstall 3]({{ site.url }}/images/2012/07/3-mtl-netinstall.png){: .align-center}
 From there you can select the protocol (NFS or HTTP), filter Machine Model Access, adjust the image index, and finally if you want this *.nbi to be provided in diskless mode.
 
-![NetInstall 4]({{ site.url }}/images/2012/07/4-mtl-netinstall.png)
+![NetInstall 4]({{ site.url }}/images/2012/07/4-mtl-netinstall.png){: .align-center}
 
-![NetInstall 5]({{ site.url }}/images/2012/07/5-mtl-netinstall.png)
+![NetInstall 5]({{ site.url }}/images/2012/07/5-mtl-netinstall.png){: .align-center}

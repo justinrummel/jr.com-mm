@@ -1,6 +1,6 @@
 ---
-title: "Migrate OSX 10.6 Wiki to 10.8 with lost Directory"
 layout: single
+title: "Migrate OSX 10.6 Wiki to 10.8 with lost Directory"
 date: 2013-02-16 13:12
 tags:
     - Apple

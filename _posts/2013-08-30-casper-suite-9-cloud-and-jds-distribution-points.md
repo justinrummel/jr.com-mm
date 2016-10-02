@@ -1,6 +1,6 @@
 ---
-title: "Casper Suite 9: Cloud and JDS Distribution Points"
 layout: single
+title: "Casper Suite 9: Cloud and JDS Distribution Points"
 date: 2013-08-30 17:30
 tags:
     - Casper Suite
