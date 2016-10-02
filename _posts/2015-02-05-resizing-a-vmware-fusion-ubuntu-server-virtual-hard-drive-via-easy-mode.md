@@ -3,27 +3,31 @@ layout: single
 title: "Resizing a VMware Fusion Ubuntu Server Virtual Hard Drive (via Easy Install Mode)"
 date: 2015-02-05T10:23:46-05:00
 modified:
-categories:
 description: Has your VMware Fusion VM of Ubuntu Server not able to store all your data, use these steps!
+categories:
+    - "Tech Article"
 tags:
     - VMware Fusion
     - Ubuntu Server
 header:
-  image: 2015/02/05/gparted-live.png
-  credit: GParted
-  creditlink: http://sourceforge.net/p/gparted/code/ci/master/tree/htdocs/images/gparted-live.png
+    image: 2015/02/05/gparted-live-Header.png					# Twitter (use 'overlay_image')
+    overlay_image: 2015/02/05/gparted-live-Header.png		    # Article header at 2048x768
+    overlay_filter: 0.15
+    teaser: 2015/02/05/gparted-live-Header-Twitter.png 			# Shrink image to 575 width
+    caption: "Photo credit: [**GParted**](http://sourceforge.net/p/gparted/code/ci/master/tree/htdocs/images/gparted-live.png)"
 ---
-## "Well, here's another fine mess you've gotten me into"
 Let us pretend that you have an Ubuntu Server which has been running for several years and it has been doing it's assigned task(s) nicely, until one day you make a change to your methodology/assumptions/workflow/tasks therefore the allocated Virtual Hard Drive (VHD) size is no longer sufficient.  There are many reasons for this, but I ran into this issue twice in one weekended because I enabled a [JDS as a Distribution Point]({{ site.url }}/casper-suite-9-cloud-and-jds-distribution-points/) (thus MySQL was <s>eating</s> needing a lot of space) and wanting to test multiple NetBoot NBI sources (because 10.10.2 seems to be causing imaging troubles).  I need to increase the size of two different VHDs, however if you setup your Ubuntu Server via "Easy Install Mode" enlarging the VHD is not that strait forward.
 
 Doing a quick search to see [what VMware has to say about this issue][1020778] returns less than helpful information for Ubuntu Servers by stating ```man fdisk```.  Google searching throws a lot of ideas, therefore I'm providing what I've learned from a couple of hours of research.
 
-## Increase size?  I don't think that word means what you think it means
+Increase size?  I don't think that word means what you think it means
+---
+
 First lets get a baseline of a default "Easy Install" of Ubuntu Server.  We can see that we have a 20GB VHD by several ways:
 
--	Looking at our VMware Fusion Setup
--	Running ```sudo fdisk -l```
--	Running ```df -H```
+- Looking at our VMware Fusion Setup
+- Running ```sudo fdisk -l```
+- Running ```df -H```
 
 Here is my test VM as it stands right now.  You can see the VHD settings are for 20GB (really 21.5, guessing there is a rounding error somewhere), and that our primary partition is /dev/sda1 with 19GB drive.
 
@@ -76,7 +80,9 @@ sadmin@ubuntu:~$ df -H | grep sda
 
 What we have done is expanded the allowable space to be used, but we didn't actually adjust the partition size.  We need to do that with some more awesome open source tools.
 
-## Steps to Increase your VMware Fusion partition
+Steps to Increase your VMware Fusion partition
+---
+
 First we are going to use a Linux Live CD called [GParted][gparted].  Download their 234MB ISO to your VMware Fusion host so you can attached the ISO to the CD/DVD drive.  Once attached, use the Startup Disk options in VMware Fusion to select the CD/DVD drive.
 
 <figure class="half">
@@ -87,16 +93,16 @@ First we are going to use a Linux Live CD called [GParted][gparted].  Download t
 
 Assuming you are a native English speaking individual and that you have a "US" keyboard setup, you can safely hit the Enter key for a couple of times to get to the GParted application.  GParted will show you some critical information that we must overcome:
 
--	Our original partition of 20GB is at the beginning
--	Our swap space is in the middle
--	Our extra space is at the end
+- Our original partition of 20GB is at the beginning
+- Our swap space is in the middle
+- Our extra space is at the end
 
 Unfortunately with this GUI application you cannot just "drag" or "move" the extra space next to our original drive to expand your partition.  Instead, we have to methodically move things around so everything lines up in the proper order.  To do this we'll perform the following steps in order:
 
--	Enlarge the "extended" space to take over our unallocated area
--	Move our swap space from the beginning to the end of our "extended" space
--	Truncate the "extended" space to only focus on the swap space
--	Enlarge our primary partition to use the new unallocated area
+- Enlarge the "extended" space to take over our unallocated area
+- Move our swap space from the beginning to the end of our "extended" space
+- Truncate the "extended" space to only focus on the swap space
+- Enlarge our primary partition to use the new unallocated area
 
 <figure>
 	<a href="{{ site.url }}/images/2015/02/05/EasyVHD-4.png"><img src="{{ site.url }}/images/2015/02/05/EasyVHD-4_800.png" alt="EasyVHD 4"></a>
@@ -144,10 +150,11 @@ sadmin@ubuntu:~$ df -H | grep sda
 /dev/sda1        30G  1.4G   27G   5% /
 ```
 
-## Sources
+Sources
+---
 
--	[GParted][gparted]
--	[Root Users][rootusers]
+- [GParted][gparted]
+- [Root Users][rootusers]
 
 [1020778]: http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1020778
 [gparted]: http://gparted.org/index.php

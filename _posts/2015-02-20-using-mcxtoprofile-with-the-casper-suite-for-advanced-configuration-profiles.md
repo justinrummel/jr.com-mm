@@ -3,8 +3,9 @@ layout: single
 title: "Using mcxToProfile With the Casper Suite for Advanced Configuration Profiles"
 date: 2015-02-20T10:48:19-05:00
 modified:
-categories:
 description: "Don't just accept the default options for Configuration Profiles in your JSS, make your own by mcxToProfile!"
+categories:
+    - "Tech Article"
 tags:
     - Casper Suite
     - CLI
@@ -19,16 +20,15 @@ VPN Settings (Advanced)
 ---
 When you configure VPN Settings (VPN Server, Authentication type, parameters, etc) via the JSS, the configuration part is easy and, more importantly, it works!  However, there are a few items that we could do that would really help the end user experience.
 
-![VPN Settings]({{ site.url }}/images/2015/02/19/VPN-Settings.png)
-{: .align-right}
+![VPN Settings]({{ site.url }}/images/2015/02/19/VPN-Settings.png){: .align-right}
 
--	Enable the VPN Menu Item at the top
--	Enable the "Show Time Connected" setting so people can see that their VPN session is established
+- Enable the VPN Menu Item at the top
+- Enable the "Show Time Connected" setting so people can see that their VPN session is established
 
 These two items are not available by a single checkbox within the JSS, however, we can find the proper plist files that have these settings and use mcxToProfile to create a custom plist.
 
 #### Find the plists
-There are actually two different plist files that we need to review; one for the Menu Items and the second for the VPN Menu Item settings<sup id="fnr1-2015-02-19">[1]</sup>.  The first one for the VPN Menu item itself is found in ~/Library/Preferences/com.apple.systemuiserver.plist.  In a freshly installed system the file is relatively blank except for two lines, but if we manually create a VPN connection in System Preferences => Network and enable the "Show VPN status in menu bar" we can see:
+There are actually two different plist files that we need to review; one for the Menu Items and the second for the VPN Menu Item settings [^1].  The first one for the VPN Menu item itself is found in ~/Library/Preferences/com.apple.systemuiserver.plist.  In a freshly installed system the file is relatively blank except for two lines, but if we manually create a VPN connection in System Preferences => Network and enable the "Show VPN status in menu bar" we can see:
 
 ``` bash
 Locals-Mac:~ ladmin$ defaults read ~/Library/Preferences/com.apple.systemuiserver.plist
@@ -86,7 +86,7 @@ With mcxToProfile we can identify multiple plist files that can be merged into o
 Locals-Mac:~ ladmin$ ./mcxToProfile.py --plist ~/Library/Preferences/com.apple.networkConnect.plist --plist ~/Library/Preferences/com.apple.systemuiserver.plist --identifier com.local.vpnSetup --manage Once
 ```
 
-This results in a nicely contained com.local.vpnSetup.mobileconfig file that has imported all of our settings from our two source plist files.  However, remember when reviewing the com.apple.systemuiserver.plist there was some extra stuff that we needed to remove; "Display.menu" and "Clock.menu" shouldn't be a part of our VPN configuration.  Open the com.local.vpnSetup.mobileconfig file in your favorite text editor and remove the lines for these two menu items.  You may also want to change the "PayloadDisplayName" value from "MCXToProfile: com.apple.networkConnect" to something more meaningful for your end users in case they review what has been installed in System Preferences => Profiles.<sup id="fnr2-2015-02-19">[2]</sup><sup id="fnr3-2015-02-19">[3]</sup>  The resulting file should look like this:
+This results in a nicely contained com.local.vpnSetup.mobileconfig file that has imported all of our settings from our two source plist files.  However, remember when reviewing the com.apple.systemuiserver.plist there was some extra stuff that we needed to remove; "Display.menu" and "Clock.menu" shouldn't be a part of our VPN configuration.  Open the com.local.vpnSetup.mobileconfig file in your favorite text editor and remove the lines for these two menu items.  You may also want to change the "PayloadDisplayName" value from "MCXToProfile: com.apple.networkConnect" to something more meaningful for your end users in case they review what has been installed in System Preferences => Profiles.[^2]&nbsp;[^3]  The resulting file should look like this:
 
 {% gist 0ac03f516bd3b81de5f6 %}
 
@@ -97,27 +97,19 @@ Once you Create a new Configuration Profile in the JSS by <a href="{{ site.url }
 Resources
 ---
 
--	[Casper Suite Series Evolution][CasperSuiteSeriesEvolution]
--	[https://github.com/timsutton/mcxToProfile][m2p]
+- [Casper Suite Series Evolution][CasperSuiteSeriesEvolution]
+- [https://github.com/timsutton/mcxToProfile][m2p]
 - [https://developer.apple.com/library/ios/featuredarticles/iPhoneConfigurationProfileRef/][iPhoneConfigurationProfileRef]
 
-## Footnotes
+Footnotes
+---
 
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2015-02-19"><p>I found these plist files by doing a little Google searching.  However, Casper Admins could also use <a href="{{ site.url }}/images/2015/02/19/Composer-New-Mod.png">Composer with the "New and Modified Snapshot" method</a> to discover what files are changing when you "check a box".<a href="#fnr1-2015-02-19" class="footnoteBackLink" title="Jump back to footnote 1 in the text.">&#8617;</a></p></li>
-<li id="fn2-2015-02-19"><p>The keys "__NSEnableTSMDocumentWindowLevel" and "last-messagetrace-stamp" may be able to be removed along with the other menu items.  I did not remove these keys during my testing and the VPN Menu item and it's settings worked as desired.<a href="#fnr2-2015-02-19" class="footnoteBackLink" title="Jump back to footnote 2 in the text.">&#8617;</a></p></li>
-<li id="fn3-2015-02-19"><p>This step is not required for JSS Admins as you will have the chance to rename it once you import the plist into your new Configuration Policy.<a href="#fnr3-2015-02-19" class="footnoteBackLink" title="Jump back to footnote 3 in the text.">&#8617;</a></p></li>
-</ol>
-</div>
-
+[^1]: I found these plist files by doing a little Google searching.  However, Casper Admins could also use [Composer with the "New and Modified Snapshot" method]({{ site.url }}/images/2015/02/19/Composer-New-Mod.png) to discover what files are changing when you "check a box".
+[^2]: The keys "__NSEnableTSMDocumentWindowLevel" and "last-messagetrace-stamp" may be able to be removed along with the other menu items.  I did not remove these keys during my testing and the VPN Menu item and it's settings worked as desired.
+[^3]: This step is not required for JSS Admins as you will have the chance to rename it once you import the plist into your new Configuration Policy.
 
 [rip]: http://support.apple.com/en-us/HT201651
 [m2p]: https://github.com/timsutton/mcxToProfile
 [tvsutton]: https://twitter.com/tvsutton
 [CasperSuiteSeriesEvolution]: http://resources.jamfsoftware.com/archive/CasperSuiteSeriesEvolution.pdf
 [iPhoneConfigurationProfileRef]: https://developer.apple.com/library/ios/featuredarticles/iPhoneConfigurationProfileRef/Introduction/Introduction.html
-[1]: #fn1-2015-02-19
-[2]: #fn2-2015-02-19
-[3]: #fn3-2015-02-19

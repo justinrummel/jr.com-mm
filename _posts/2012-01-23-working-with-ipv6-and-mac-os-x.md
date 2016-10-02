@@ -12,7 +12,7 @@ tags:
 ---
 I don't feel that anyone reading this in 2012 has never heard of IPv6. The easiest way to put it it's a combinations of HEX values to make a big ugly "thing" that represents your computer. IPv4 was simple; four octets made up of a value from 0-255; thus 192.168.1.111. IPv6 takes this to a new other level. From Wikipedia:
 
-<quote Wikipedia, IPv6 address http://en.wikipedia.org/wiki/IPv6_address#IPv6_addresses_in_the_Domain_Name_System>
+<q>
 IPv6 addresses have two logical parts:a 64-bit network prefix, and a 64-bit host address part. (The host address is often automatically generated from the interface MAC address.[37]) An IPv6 address is represented by 8 groups of 16-bit hexadecimal values separated by colons (:) shown as follows:
 		2001:0db8:85a3:0000:0000:8a2e:0370:7334
 
@@ -31,7 +31,7 @@ may be written as
 
 becomes
  		fe80::202:b3ff:fe1e:8329
-</quote>
+</q> ---<cite>[Wikipedia, IPv6 address](http://en.wikipedia.org/wiki/IPv6_address#IPv6_addresses_in_the_Domain_Name_System)</cite>
 
 A single IPv6 address can be represented in several different ways, such as 2001:db8::1:0:0:1 and 2001:0DB8:0:0:1::1. RFC 5952 recommends a canonical textual representation
 
@@ -89,5 +89,5 @@ round-trip min/avg/max/std-dev = 0.406/0.406/0.406/0.000 ms
 Sources
 ---
 
-* Wikipedia IPv6
-* ping6 man page
+- Wikipedia IPv6
+- ping6 man page

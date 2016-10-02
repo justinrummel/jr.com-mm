@@ -46,9 +46,9 @@ To sign up, you need to give your information to the U.S. Customs and Border Pro
 
 Once the initial information has been collected, wait for a couple of days-weeks and you'll be notified that your application has been accepted and you need to perform an interview. When you are ready for your interview, be sure to bring the acceptance letter (I printed to PDF and had it on my phone), your identification documentation such as valid passport or permanent resident card, documents providing evidence of residency such as a driver's license. So really three things:
 
-*   Application Letter
-*   Passport
-*   Driver's License
+- Application Letter
+- Passport
+- Driver's License
 
 The interview is very simple, and just like other background security interviews. You listen/read/collect information that they feel is important, they ask you the same questions that you filled out on the form to verify accuracy, then finally the interview is over as long as you don't have any questions. It took about 15-20 mins. Once complete your agent may or may not give your our "Trusted Traveler" ID number. **THIS NUMBER IS IMPORTANT**. You should also get a confirmation email that requires you to re-login to the GOES website which will have the same ID. You will copy/paste this ID to all the airlines that you use as they will apply this code to the scan portion of your paper ticket (or QR code for iOS 6′s Passbook). It's the fact that the ID is printed on your barcode that will allow you go use the TSA Pre Check security gates.
 

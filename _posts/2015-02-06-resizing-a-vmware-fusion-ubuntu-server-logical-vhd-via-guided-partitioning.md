@@ -3,19 +3,19 @@ layout: single
 title: "Resizing a VMware Fusion Ubuntu Server Logical VHD (via Guided Partitioning)"
 date: 2015-02-06T05:19:39-05:00
 modified:
-categories:
 description: "Find out how to resize your VMware Fusion Logical Volumes!"
+categories:
+    - "Tech Article"
 tags:
     - VMware Fusion
     - Ubuntu Server
     - CLI
 ---
-## "Someone thinks they are special by using LVM"
 In my previous article [Resizing a VMware Fusion Ubuntu Server Virtual Hard Drive (via Easy Mode)]({{ site.url }}/resizing-a-vmware-fusion-ubuntu-server-virtual-hard-drive-via-easy-mode/), I described what was needed to enlarge your Virtual Hard Drive (VHD) on a VMware Fusion VM that was setup by the "Easy Install" method.  If you are confused by what the "Easy Install" method is, there is a prompt when creating a new VM that asks you to provide information for a new account:
 
--	Full Name
--	Username
--	Password
+- Full Name
+- Username
+- Password
 
 <figure>
 	<a href="{{ site.url }}/images/2015/02/06/HardVHD-1.png"><img src="{{ site.url }}/images/2015/02/06/HardVHD-1_800.png" alt="HardVHD 1"></a>
@@ -30,9 +30,9 @@ By deselecting the "Use Easy Install" checkbox, you will be required to walk thr
 
 LVM stands for Logicial Volume Management.  I found the <s>best</s> quickest explanation for why you would want an LVM environment in the Ask Ubuntu forums:
 
-<quote The Benefits of LVM http://askubuntu.com/a/3833>
+<q>
 You can think of LVM as "dynamic partitions", meaning that you can create/resize/delete LVM "partitions" (they're called "Logical Volumes" in LVM-speak) from the command line while your Linux system is running: no need to reboot the system to make the kernel aware of the newly-created or resized partitions.
-</quote>
+</q> ---<cite>[The Benefits of LVM](http://askubuntu.com/a/3833)</cite>
 
 So lets see what we are working with and how it differs from the "Easy Install".  We'll launch our new Ubuntu Server VM and perform the same tasks as last time to get a sense of how much space is available.
 
@@ -70,7 +70,7 @@ Disk identifier: 0x00000000
 Disk /dev/mapper/ubuntu--vg-swap_1 doesn't contain a valid partition table
 ```
 
-HELLO!  That was a lot more information than last time! The biggest clue as that we are dealing with a LVM system (outside the amount of text that is returned from one command) is the "Linux LVM" description for /dev/sda5.  
+HELLO!  That was a lot more information than last time! The biggest clue as that we are dealing with a LVM system (outside the amount of text that is returned from one command) is the "Linux LVM" description for /dev/sda5.
 
 Lets see what are the results from our command after we increase our VM size from 20GB to 30 GB (like we did last time).
 
@@ -108,7 +108,7 @@ Disk identifier: 0x00000000
 Disk /dev/mapper/ubuntu--vg-swap_1 doesn't contain a valid partition table
 ```
 
-DRAT!  We're still in the same situation as last time that our environment knows we should have 30GB of space (e.g. "Disk /dev/sda: 32.2 GB"), but the number of blocks for /dev/sda5 is not showing any change nor did "Disk /dev/mapper/ubuntu--vg-root" increase in size (e.g. "19.1 GB, 19050528768 bytes").  
+DRAT!  We're still in the same situation as last time that our environment knows we should have 30GB of space (e.g. "Disk /dev/sda: 32.2 GB"), but the number of blocks for /dev/sda5 is not showing any change nor did "Disk /dev/mapper/ubuntu--vg-root" increase in size (e.g. "19.1 GB, 19050528768 bytes").
 
 To see additional information about our LVM environment we can use the ```lvscan``` and ```lvs``` commands to find the size of our LVMs, the name of the Logical Volume, and Volume Group (in this case, "ubuntu-vg").  Full LVM details are available via ```lvdisplay``` command (think of this as ```diskutil cs list``` for OSX admins).
 
@@ -159,17 +159,19 @@ sadmin@ubuntu:~$ sudo lvdisplay
 
 ```
 
-## Steps to Increase your VMware Fusion LVM
+Steps to Increase your VMware Fusion LVM
+---
+
 First thing we need configure to increase the disk space of our VM is by using the ```sudo cfdisk``` command to create a new Primary partition using the 8e/lvm format from our "Free Space".  The steps (with screen shots below) are:
 
--	Find your "Free Space" and create a new partition
--	Select to create a Primary partition
--	Use the entire partition by using the Enter key
--	Change the partition Type
--	Use "8E" (case sensitive) for "Linux LVM"
--	Write the new partition map
--	Type "yes" to verify partition map
--	Quit
+- Find your "Free Space" and create a new partition
+- Select to create a Primary partition
+- Use the entire partition by using the Enter key
+- Change the partition Type
+- Use "8E" (case sensitive) for "Linux LVM"
+- Write the new partition map
+- Type "yes" to verify partition map
+- Quit
 
 <figure class="half">
 	<a href="{{ site.url }}/images/2015/02/06/HardVHD-4.png"><img src="{{ site.url }}/images/2015/02/06/HardVHD-4_256.png" alt="HardVHD 2"></a>
@@ -239,9 +241,9 @@ sadmin@ubuntu:~$ df -H | grep mapper
 /dev/mapper/ubuntu--vg-root   30G  1.2G   27G   5% /
 ```
 
+Source
+---
 
-## Source
-
--	[Ask Ubuntu][531817]
+- [Ask Ubuntu][531817]
 
 [531817]: http://askubuntu.com/a/531817

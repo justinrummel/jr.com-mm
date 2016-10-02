@@ -3,18 +3,19 @@ layout: single
 title: "MacDMV Regex-101 Presentation (Part 2)"
 date: 2015-04-03T10:44:12-04:00
 modified:
-categories:
 description: "Second half of my presentation given to MacDMV group to provide a fundamental understanding of regex"
+categories:
+    - "Tech Article"
 tags:
     - CLI
     - REGEX
     - MacDMV
 header:
-  image: 2015/02/25/regex.header.png
-  teaser: 2015/02/25/regex.twitter.png
-  credit: Pyfisch
-  creditlink: http://commons.wikimedia.org/wiki/File:Pictogram_voting_regex.svg
-
+    image: 2015/02/25/regex-Header.png     # Twitter (use 'overlay_image')
+    overlay_image: 2015/02/25/regex-Header.png       # Article header at 2048x768
+    overlay_filter: 0.15
+    teaser: 2015/02/25/regex-Header-Twitter.png    # Shrink image to 575 width
+    caption: "Photo credit: [**Pyfisch**](http://commons.wikimedia.org/wiki/File:Pictogram_voting_regex.svg)"
 ---
 **NOTE:** Again, I was going to give this presentation for MacDMV this month, however, due to unannounced circumstances I won't be able to present.  Here is what I was going to post immediately following the meet-up.
 
@@ -38,13 +39,13 @@ For fun (and to validate our future results) how many times does "bundle-identif
 #### Find the "bundle-identifier"
 Our goal is to find the text that follows each "bundle-identifier" so we can see each of the unique reverse URL strings that point to an icon.  To do this I followed this logic when creating my regex:
 
--	Use ```("bundle-identifier")```
--	Use ```(.+)``` to include stuff after "bundle-identifier"
--	Use ```(";$)``` to stop at the end of the line
--	Insert ```?<=``` in the beginning of the bundle-identifier section to exclude the words bundle-identifier from the results
--	Insert ```?=``` in the beginning of the ";$ section to exclude from the result
--	Insert ``` = "``` at the end of the bundle-identifier section to remove from search results
--	Replace ```(.+)``` to a more specific ```(\S+)``` search string (I wanted something more than "anything".  ```\S``` does "Matches anything but white space characters". ```\D``` won't work because "Subline 3" (com.sublimetext.3) and  "Textual 5" (com.codeux.irc.textual5) have numbers in their names.)
+- Use ```("bundle-identifier")```
+- Use ```(.+)``` to include stuff after "bundle-identifier"
+- Use ```(";$)``` to stop at the end of the line
+- Insert ```?<=``` in the beginning of the bundle-identifier section to exclude the words bundle-identifier from the results
+- Insert ```?=``` in the beginning of the ";$ section to exclude from the result
+- Insert ``` = "``` at the end of the bundle-identifier section to remove from search results
+- Replace ```(.+)``` to a more specific ```(\S+)``` search string (I wanted something more than "anything".  ```\S``` does "Matches anything but white space characters". ```\D``` won't work because "Subline 3" (com.sublimetext.3) and  "Textual 5" (com.codeux.irc.textual5) have numbers in their names.)
 
 What the below video example as I type out each of the above sections to get my final result.
 
@@ -102,14 +103,14 @@ com.jamfsoftware.selfservice
 ```
 
 ### Create an AutoPKG Processor
-Making ".jss" or ".munki" recipes is strait forward by a quick copy and paste from one of the multiple examples that have already been built, but they are only useful if a ".pkg" and/or ".download" parent recipe are available!  Fortunately, the Autopkg team have the processor called [URLTextSearcher][URLTextSearcher] which makes creating the ".download" simple! <sup id="fnr1-2015-02-27">[1]</sup>
+Making ".jss" or ".munki" recipes is strait forward by a quick copy and paste from one of the multiple examples that have already been built, but they are only useful if a ".pkg" and/or ".download" parent recipe are available!  Fortunately, the Autopkg team have the processor called [URLTextSearcher][URLTextSearcher] which makes creating the ".download" simple! [^1]
 
 #### Example #1
 For the first example I'm going to use Shea Craig's [Vivaldi.download.recipe][Vivaldi.download.recipe].  There are three processors that are being used:
 
--	URLTextSearcher
--	URLDownloader
--	EndOfCheckPhase
+- URLTextSearcher
+- URLDownloader
+- EndOfCheckPhase
 
 The "URLDownloader" performs the download operation and "EndOfCheckPhase" ensure it was a successful download, the item we are going to focus on is "URLTextSearcher" which tells URLDownloader **WHAT** to download.
 
@@ -117,11 +118,11 @@ The "URLDownloader" performs the download operation and "EndOfCheckPhase" ensure
 
 What Shea is requesting is for Autopkg to visit our URL "https://vivaldi.com" and find the regex pattern of "https://vivaldi\.com/download/Vivaldi[0-9TP_.]+\.dmg".  The actual regex is being displayed in the brackets (along with just before and after), so lets focus dissecting in this area.
 
--	```Vivaldi``` 	Having this in the beginning states the download name MUST start with "Vivaldi"
--	```[0-9]```  	This section states any number from zero to 9 may possibly in use
--	```[TP]```		This section states the only these letters are being used after Vivaldi
--	```[_.]```		This section states the only two special characters that may also be used are "_" and "."
--	```[+\.dmg]```	This is the end of our download file.  The "+" states look for a long pattern, then you will find our ".dmg" (and don't forget to escape our dot in front of the dmg!)
+- ```Vivaldi``` 	Having this in the beginning states the download name MUST start with "Vivaldi"
+- ```[0-9]```  	This section states any number from zero to 9 may possibly in use
+- ```[TP]```		This section states the only these letters are being used after Vivaldi
+- ```[_.]```		This section states the only two special characters that may also be used are "_" and "."
+- ```[+\.dmg]```	This is the end of our download file.  The "+" states look for a long pattern, then you will find our ".dmg" (and don't forget to escape our dot in front of the dmg!)
 
 This regex works great, however, the "TP" letters in the middle of the name worry me. Vivaldi may strip the TP letters because sometime in the future Vivaldi may not be a "Technical Preview", however, what if they replaced that with "RC" for release candidate?  Everyone's pkg, jss, munki recipes would start generating fail messages because the name changed outside of the acceptable regex pattern.  What we could do is simply state as long as the download file ends with "DMG", then give it to me!  I would assume then the file name could contain letters, numbers, and special characters, but not spaces.  From "Part 1" we learned that ```\S``` will do that assumption just fine, thus line 31 would be:
 
@@ -132,29 +133,22 @@ This regex works great, however, the "TP" letters in the middle of the name worr
 #### Example #2
 For my second example I applied the same theory when reviewing Vivaldi to create a new recipe for Wireshark's Development release installer.  If you haven't heard, [Wireshark's Development Release](https://www.wireshark.org/download.html) can be used without installing X11 on your machine as they are moving [away from XQuarts to Qt][qt].  By using the same AutoPkg processor "URLTextSearcher", I could scrap the page to find only the development releases vs. the "Stable" or even the "Old Stable" options.
 
-I reviewed the HTML source for the download page to see what patterns I could extract that said this file is a development release vs. the other two releases, and I believe a development release is based off of: <sup id="fnr2-2015-02-27">[2]</sup>
+I reviewed the HTML source for the download page to see what patterns I could extract that said this file is a development release vs. the other two releases, and I believe a development release is based off of: [^2]
 
--	The Development version is separated into three number tuple
--	The first section is the number 1
--	The second section is two digits, but the first digit is greater than 1
--	The third section is comprised of 1 or 2 digits
--	Ends with "Intel 64.dmg"
+- The Development version is separated into three number tuple
+- The first section is the number 1
+- The second section is two digits, but the first digit is greater than 1
+- The third section is comprised of 1 or 2 digits
+- Ends with "Intel 64.dmg"
 
 This gave me the regex of: ```<string>Wireshark 1\.[2-9][1-9]\.\d{1,2} Intel 64\.dmg</string>``` and is now available on my official autopkg repo located at: [https://github.com/autopkg/justinrummel-recipes/tree/master/WiresharkDev](https://github.com/autopkg/justinrummel-recipes/tree/master/WiresharkDev).
 
 Footnotes
 ---
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2015-02-27"><p>This assume the application that you want to create a ".download" recipe is not being provided by the Sparkel framework, as that is a <a href="https://github.com/autopkg/autopkg/wiki/Processor-SparkleUpdateInfoProvider">separate processor</a>.<a href="#fnr1-2015-02-27" class="footnoteBackLink" title="Jump back to footnote 1 in the text.">&#8617;</a></p></li>
-<li id="fn2-2015-02-27"><p>I know at some point I may have to return to <a href="https://wiki.wireshark.org/Development/ReleaseNumbers">https://wiki.wireshark.org/Development/ReleaseNumbers</a> to get a better definition of the development release number, but for now this assumption works.<a href="#fnr2-2015-02-27" class="footnoteBackLink" title="Jump back to footnote 2 in the text.">&#8617;</a></p></li>
-</ol>
-</div>
 
+[^1]: This assume the application that you want to create a ".download" recipe is not being provided by the Sparkel framework, as that is a <a href="https://github.com/autopkg/autopkg/wiki/Processor-SparkleUpdateInfoProvider">separate processor</a>.
+[^2]: I know at some point I may have to return to <a href="https://wiki.wireshark.org/Development/ReleaseNumbers">https://wiki.wireshark.org/Development/ReleaseNumbers</a> to get a better definition of the development release number, but for now this assumption works.
 
-[1]: #fn1-2015-02-27
-[2]: #fn2-2015-02-27
 [URLTextSearcher]: https://github.com/autopkg/autopkg/wiki/Processor-URLTextSearcher
 [Vivaldi.download.recipe]: https://github.com/autopkg/sheagcraig-recipes/blob/master/Vivaldi/Vivaldi.download.recipe
 [qt]: https://www.wireshark.org/news/20141007.html

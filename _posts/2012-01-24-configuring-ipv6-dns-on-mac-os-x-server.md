@@ -32,10 +32,10 @@ Test Environment
 ---
 In my test environment I have four domains:
 
-*	justinrummel.net
-*	apple.edu
-*	exmaple.prv
-*	newco.prv
+- justinrummel.net
+- apple.edu
+- exmaple.prv
+- newco.prv
 
 All of these domains live in my lab network of 192.168.1.1/24 subnet, meaning all machines have 192.168.1.x IP address. Some machines may have multiple records within multiple zones; for instance my Software Update Server (SUS) is always "sus.zone.tld" so: sus.justinrummel.net, sus.apple.edu, sus.example.prv, sus.newco.prv all point to my one SUS server who's IP address is 192.168.1.111.
 
@@ -53,22 +53,22 @@ We are going to start with the easy files that we want to adjust to make IPv6 wo
 
 Inside my db.newco.prv zone I have three DNS entries with their associated IP address:
 
-<preformated>
+{% highlight dns %}
 ldap.newco.prv is linked to IP address 192.168.1.150
 jss.newco.prv is linked to IP address 192.168.1.151
 cp.newco.prv is linked to IP address 192.168.1.152
-</preformated>
+{% endhighlight %}
 
 If I wanted my ldap.newco.prv server to link to an IPv6 address, we need to update our db.newco.prv by duplicating the line that references ldap, jss, cp; and substitute our IPv4 address with our IPv6 address, PLUS make sure that the "A" record is now references as "AAAA". My updated db.newco.prv zone would look like this (*this is not the full db.newco.prv zone file, just the snippet that was updated*):
 
-<preformated>
+{% highlight dns %}
 ldap.newco.prv.                       10800 IN A        192.168.1.150
 ldap.newco.prv.                       10800 IN AAAA     fe80::20c:29ff:fe21:28a9
 jss.newco.prv.                        10800 IN A        192.168.1.151
 jss.newco.prv.                        10800 IN AAAA     fe80::20c:29ff:fe39:d6c
 cp.newco.prv.                         10800 IN A        192.168.1.152
 cp.newco.prv.                         10800 IN AAAA     fe80::20c:29ff:fed0:c01
-</preformated>
+{% endhighlight %}
 
 Notice that all of my IPv6 records start with "fe80". These are known as "link-local" IPv6 address and are treated the same way as 192.168.0.0/16, 172.16-32.0.0/16, and 10.0.0.0/8 in that they are not internet routable, they are only for your local network.
 
@@ -96,7 +96,7 @@ $ justinrummel@jrummel-mbp:~$ ipv6calc --in ipv6addr --out revnibbles.arpa fe80:
 
 Now it's time to create our new reverse IPv6 DNS zone file so we can translate our ARPA values to DNS names. Lets name the file "reverse-v6-fe80-64.IP6.ARPA" as this tells us it's the reverse IPv6 file for link-local (fe80) addresses. There is really no good way to do this other than copy/paste my example below and adjust your own values.
 
-<preformated>
+{% highlight dns %}
 $TTL 3d	; Default TTL (bind 8 needs this, bind 9 ignores it)
 @ 	IN SOA 0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa.      helpdeskEmail.newco.prv. (
 		201201210  	; Serial number (YYYYMMdd)
@@ -114,7 +114,7 @@ $ORIGIN 0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa.
 9.a.8.2.1.2.e.f.f.f.9.2.c.0.2.0         IN      PTR     ldap.newco.prv.
 c.6.d.0.9.3.e.f.f.f.9.2.c.0.2.0         IN      PTR     jss.newco.prv.
 1.0.c.0.0.d.e.f.f.f.9.2.c.0.2.0         IN      PTR     cp.newco.prv.
-</preformated>
+{% endhighlight %}
 
 Notice our bits 33-64 (which is what we received from the above sed / cut one liner) from our link-local values in the "$ORIGIN" section and bits 1-31 is only being references for our IPv6 to DNS name value. Now that we have our DNS forward and reverse zones files updated and created, we need to set the BIND configuration file to use our new IPv6 records.
 
@@ -126,14 +126,14 @@ The good news is we don't need to add an IPv6 forwarding zone because we just up
 
 A zone file is constructed of these sections:
 
-*   Its type
-*   The zone file name
-*   If you can transfer the zone information (to a slave DNS that you control)
-*   If the slave can update the zone files
+- Its type
+- The zone file name
+- If you can transfer the zone information (to a slave DNS that you control)
+- If the slave can update the zone files
 
 To make things easy, open your /etc/named.conf file and find the line with *view "com.apple.ServerAdmin.DNS.public"* and add this information below:
 
-<preformated>
+{% highlight dns %}
 zone "0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa" {
 		type master;
 		file "reverse-v6-fe80-64.IP6.ARPA";
@@ -144,7 +144,7 @@ zone "0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa" {
 			none;
 		};
 	};
-</preformated>
+{% endhighlight %}
 
 What this is doing is adding the reverse zone "0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f" which was created from bits 33-64 in our IPv6 to ARPA conversion. It's also stating that this is the master DNS record, and information can be propagated to any DNS slaves that may be running in my house (if you don't have a DNS slave, use "none"). Notice I'm not allowing any updates by my slave as this is best practice. Lastly, there is a file setting that uses the same name that we gave our file within /var/named/ of "reverse-v6-fe80-64.IP6.ARPA".
 
@@ -180,8 +180,8 @@ If you have any troubles with your IPv6 values not returning, my guess there is 
 
 Additional Sources
 ---
-*   [IPv6 Converter](http://ipv6-literal.com/)
-*   [IPv6 REVERSE ZONE BUILDER](http://mike.kz/ipv6-zone-builder/)
+- [IPv6 Converter](http://ipv6-literal.com/)
+- [IPv6 REVERSE ZONE BUILDER](http://mike.kz/ipv6-zone-builder/)
 
 [advance10.5]: http://www.amazon.com/Apple-Training-Advanced-System-Administration/dp/032156314X "Mac OS X Advanced System Administration v10.5"
 [ipv6calc]: http://mirrors.bieringer.de/www.deepspace6.net/projects/ipv6calc.html#id1506183 "ipv6calc"

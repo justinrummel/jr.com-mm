@@ -65,11 +65,11 @@ Test and Verify
 ---
 The RAW DNS text files (which are provided by the open source tool BIND) are in /private/var/named, and you are able to see the following DNS records (or at least something similar as your setup may differ from mine):
 
-``` dns
+{% highlight dns %}
 db.example.prv
 db.1.168.192.in-addr.arpa
 db.b.a.0.2.1.e.f.f.f.a.4.6.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa
-```
+{% endhighlight %}
 
 A quick export of my db.example.prv shows the following information:
 

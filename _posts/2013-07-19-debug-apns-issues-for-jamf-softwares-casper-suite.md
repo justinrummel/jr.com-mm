@@ -78,7 +78,8 @@ mysql>
 
 You can see there are two computers that I enrolled into my JSS, however, they never received an APNS token.  The end result is these computers will never receive any PUSH commands because Apple has no way of finding the devices.  My initial clue that something was wrong was after the two computers were successfully enrolled, I looked for them to assign a Configuration Profile.  They were missing in the "Individual Computers" list.  It must be a MySQL command that requires the apn_token be return in order to populate the list.
 
-## Sources
+Sources
+---
 
 - [nc MAN page][nc]
 - [Apple's TS4264 kbase article][TS4264]
@@ -94,5 +95,3 @@ Footnotes
 [TS4264]: http://support.apple.com/kb/TS4264
 [dnsLIE]: http://blog.strategiccyber.com/2013/06/20/thatll-never-work-we-dont-allow-port-53-out/
 [rand]: http://www.randpass.com/advanced.html
-
-[1]: #fn1-2013-07-19

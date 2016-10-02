@@ -27,11 +27,11 @@ If we dive a little deeper into the sites settings, you will also notice the Red
 
 Lastly, we now have .htaccess options within each site that was available in Snow Leopard (but not in Lion). You can specify for a specific site to allow:
 
-*   Server Side Includes (SSI)
-*   .htaccess overrides
-*   folder listings
-*   CGI execution
-*   Custom Error page redirect
+- Server Side Includes (SSI)
+- .htaccess overrides
+- folder listings
+- CGI execution
+- Custom Error page redirect
 
 ![Web Settings 5]({{ site.url }}/images/2012/07/5-mtl-web.png){: .align-center}
 

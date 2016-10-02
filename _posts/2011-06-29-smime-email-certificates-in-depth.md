@@ -18,8 +18,8 @@ A Certificate, is a Certificate, is a Certificate
 ---
 A S/MIME certificate can be store several different ways (see Apple's kbase [About certificate formats][aboutCert]), but you will usually deal with .pem or .cer file for your public key, or a p12 file that contains both your Public and Private Keys. We can get our certificates by one of two ways:
 
-*   Export from Keychain Access
-*	Export using the security command
+- Export from Keychain Access
+- Export using the security command
 
 Private Keys
 ---

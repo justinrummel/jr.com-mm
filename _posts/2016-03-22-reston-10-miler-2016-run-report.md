@@ -24,17 +24,19 @@ The pre-even atmosphere was great, and you could tell there were many well train
 
 Only complaint I have on myself is that I didn't prepare for the full timeline of the run, and how much the weather would change.  In the morning it was **cold**, so I bundled up with my sweats, thermal shirt, hat, and gloves.  But after the first hour I wish I was running in shorts and begged for a way to ditch the gloves, as the combination of my body generating heat and the sun coming out to shine on everyone (as seen in the pictures) was becoming strong.  Good to have these experiences to gain knowledge for my 2016 race season.
 
-## Results
+Results
+---
 
 - Placed 123 out of 937 runners
 - Placed 23rd in the 40-44 Male
 - Finished in 1:19:02 giving me an average pace of 7:54/mile (beating my goal of 1:20:00)
 
-## Links
+Links
+---
 
--   [Reston 10 Miler][reston]
--   [Speed Sherpa][speedsherpa]
--	[Race Results][results]
+- [Reston 10 Miler][reston]
+- [Speed Sherpa][speedsherpa]
+- [Race Results][results]
 
 [reston]: http://www.prraces.com/reston/
 [speedsherpa]: http://www.speedsherpa.com

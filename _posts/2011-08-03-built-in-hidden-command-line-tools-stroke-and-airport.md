@@ -106,10 +106,10 @@ Once connected to "hhonors", the "-I" flag gave me the BSSID of "0:1a:a2:82:30:1
 
 What else can you do with the airport command? How about this awesome list:
 
-*   DisconnectOnLogout
-*   Automatic Joining
-*   Remembering Recent Networks
-*   Requiring an Admin account to make changes
+- DisconnectOnLogout
+- Automatic Joining
+- Remembering Recent Networks
+- Requiring an Admin account to make changes
 
 These options should look somewhat familiar as if you check out the System Preferences => Network => Wi-Fi you would see the same checkboxes. This gives you the option of changing your settings by SSH or a script later in time.
 
