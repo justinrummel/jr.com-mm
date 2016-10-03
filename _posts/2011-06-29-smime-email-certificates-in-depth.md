@@ -51,7 +51,7 @@ What we are doing is using the Mac OS X *security* command to find your certific
 
 When you look at your myPublicCert.pem certificate through a text editor, it comes back with 30 or so lines with complete gibberish starting with "BEGIN CERTIFICATE" and ending with "END CERTIFICATE". For Example:
 
-``` HTTP
+``` http
 ---BEGIN CERTIFICATE---
 MIIFJjCCBA6gAwIBAgIRAPQyFuvXTYP/N2gOhG540kUwDQYJKoZIhvcNAQEFBQAw
 gZMxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
@@ -92,7 +92,7 @@ If this makes any sense to you (other than... Oh, that is a pem output), you mig
 $ openssl x509 -text -fingerprint -sha1 -in ~/Desktop/myPublicCert.pem
 {% endhighlight %}
 
-``` HTTP
+``` http
 Certificate:
     Data:
         Version: 3 (0x2)
