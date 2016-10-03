@@ -35,15 +35,15 @@ Private Keys
 
 The second way is more interesting and leads us to use Terminal.
 
-{% highlight bash %}bash
+{% highlight bash %}
 $ security find-certificate -a -e j@justinrummel.com -p > ~/Desktop/myPublicCert.pem
-```
+{% endhighlight %}
 
 It's always best to test before exporting items and assume that you have the correct information. So lets shorten the command to
 
-{% highlight bash %}bash
+{% highlight bash %}
 $ security find-certificate -a -e j@justinrummel.com*.
-```
+{% endhighlight %}
 
 What we are doing is using the Mac OS X *security* command to find your certificate within the default keychain (your Login keychain), which is usually located at: /Users/*yourusername*/Library/Keychains/login.keychain. We find all the matching values by utilizing the "-a" flag. We want to do this because as time passes you are going to collect expired certificates and we want to keep old certificates just in case you want to decrypted a message in a couple of years. The next flag is "-e" for your email. This should return hopefully one result, but if not, you most likely have expired certificates (and that's OK).
 
@@ -88,9 +88,9 @@ XEHpIjv25NNgLXMtlk95TgAaFE6M/Fm1vqs=
 
 If this makes any sense to you (other than... Oh, that is a pem output), you might need to get yourself check in an asylum. This should mean nothing to you, fortunately we can get a more human readable printout by using the openssl command.
 
-{% highlight bash %}bash
+{% highlight bash %}
 $ openssl x509 -text -fingerprint -sha1 -in ~/Desktop/myPublicCert.pem
-```
+{% endhighlight %}
 
 {% highlight http %}
 Certificate:
@@ -216,34 +216,34 @@ For Keychain Access you want to be sure you select the Category "My Certificates
 
 You will not be able to read this file via a text editor, instead you can read the information by entering the following command:
 
-{% highlight bash %}bash
+{% highlight bash %}
 $ openssl pkcs12 -info -in ~/Desktop/myPublicCert.p12
-```
+{% endhighlight %}
 
 This will display both your private and public keys in a .pem format. This is what allows Keychain Access to import your certificates and use for Mail in case you need to re-import the files to your machine or use for iOS (to be discussed on a later article).
 
 To do this in Terminal, you unfortunately cannot specify the selection of one S/MIME email Public/Private key pair... as the security command is more of a "All or nothing" approach.  This can be seen as a positive non-capable feature of the security command as you don't have to worry about exporting each S/MIME certificate that you acquire over time as it's all done at once. To do this we again go back to the security command:
 
-{% highlight bash %}bash
+{% highlight bash %}
 $ security export -k login.keychain -t identities -f pkcs12 -o ~/Desktop/myCerts.p12
-```
+{% endhighlight %}
 
 This will grab EVERYTHING within your Login keychain that has a public and private key (See "My Certificates" in Keychain Access). You can test your export by creating a new Keychain and then importing your myCerts.p12 file.
 
-{% highlight bash %}bash
+{% highlight bash %}
 $ security create-keychain ~/Desktop/test.keychain
 password for new keychain:
 retype password for new keychain:
 $ security import ~/Desktop/myCerts.p12 -f pkcs12 -k ~/Desktop/test.keychain
-```
+{% endhighlight %}
 
 Footnotes
 ---
 
 1. The integrity of a single certificate file can be verified by:
 
-{% highlight bash %}bash
+{% highlight bash %}
 $ security verify-cert -c ~/Desktop/myPublicCert.pem
-```
+{% endhighlight %}
 
 [aboutCert]: http://docs.info.apple.com/article.html?path=Mac/10.6/en/15177.html
