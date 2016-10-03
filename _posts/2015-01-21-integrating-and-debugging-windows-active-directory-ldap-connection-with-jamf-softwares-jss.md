@@ -41,7 +41,7 @@ Debugging DNS overview
 
 For debugging the AD environment, I'm going to do a host of the "pretend.co" which should give me a list of all the domain controllers, next I would verify the forward and reverse DNS names to IP address of my domain controllers, then finally verify some LDAP SRV records.
 
-``` bash
+{% highlight bash %}bash
 #!/bin/bash
 
 # Copyright (c) 2015 Justin Rummel
@@ -118,7 +118,7 @@ test () {
 ethernet
 
 exit 0;
-```
+{% endhighlight %}
 
 Here is the result of my test environment.  You're results should hopefully have more AD serviers populated, but otherwise it would be close to this gist:
 
@@ -130,9 +130,9 @@ Your "dns_server" should be the IP address for one of your domain controllers.  
 #### LDAP testing
 Next lets make sure that we are dealing with the standard ldap port of 389 with an administrator account that should be allowed to view the entire directory tree if needed.
 
-``` bash
+{% highlight bash %}bash
 ldapsearch -H ldap://dc01.pretend.co -b "dc=pretend,dc=co" -x -D "PRETEND\administrator" -W -L "(objectClass=group)" name member
-```
+{% endhighlight %}
 
 Here is a [link to a gist][ee1b345d578dce338b39] that shows the expected results.  You should get *some* positive looking results.  If you get an error, you have restricted AD so much that simple lookup queries are not working.  Go talk to your AD guy and find out what they have done to AD to be so cranky.
 

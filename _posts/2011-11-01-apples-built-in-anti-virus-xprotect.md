@@ -25,22 +25,22 @@ However, let's get a little more information from Xprotect.
 
 If we run to following command "today" (11/1/2011 @ 11am Eastern), we get the following results:
 
-``` bash
+{% highlight bash %}bash
 $ /usr/libexec/PlistBuddy -c "print LastModification" /System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/XProtect.meta.plist
 	Tue, 11 Oct 2011 16:20:51 GMT
-```
+{% endhighlight %}
 
 This tells us that our anti-virus dictionary file has not been updated since Oct 11th of 2011. In order to update your dictionary, you can use the above check / recheck method or:
 
-``` bash
+{% highlight bash %}bash
 $ /usr/libexec/XProtectUpdater
-```
+{% endhighlight %}
 
 You will notice that as of right now the XPotect meta file timestamp has not change. I assume Apple will soon update this file to protect Mac users from DevilRobber, or any other future trojan/virus that gets created. We're just dependent on Apple to update their dictionary just the same as Intego / Sophos / etc users are dependent on their paid software to update their dictionary file. Once the file is updated, you should get a similar result for MacDefender.
 
-``` bash
+{% highlight bash %}bash
 $ cat /System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/XProtect.plist | grep MacDefender
-```
+{% endhighlight %}
 
 ### Update
 XProtect.plist file has been updated as of Nov 1st, 2011, and if you grep for "Devil" you will get a response of "OSX.DevilRobber.A". Pretty quick (and automatically done) as the announcement was on Nov 1st.

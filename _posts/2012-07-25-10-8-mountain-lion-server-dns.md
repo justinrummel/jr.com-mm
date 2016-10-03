@@ -54,9 +54,9 @@ To add additional DNS entries, continue adding names via the plus sign button. I
 
 To find your IPv6 Address, you can open System Preferences => Network => Advance and choose "Link-local only" in the Configure IPv6 drop-down option, or:
 
-``` bash
+{% highlight bash %}bash
 $ ifconfig en0 | grep inet6 | awk -F " " '{print $2}' | sed 's/%en0//'
-```
+{% endhighlight %}
 
 Copy/paste the result as a second IP address for the desired DNS record. Once you are done, you should be able to see all your DNS records in black text and just below all associated IP addresses (IPv4 and IPv6) along with any aliases.
 

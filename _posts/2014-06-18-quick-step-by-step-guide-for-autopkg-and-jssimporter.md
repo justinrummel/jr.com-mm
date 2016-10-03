@@ -24,43 +24,43 @@ Step-by-Step
 
 - Download and install autopkg
 
-``` bash
+{% highlight bash %}bash
 curl -OL https://github.com/autopkg/autopkg/releases/download/v0.3.0/autopkg-0.3.0.pkg
-```
+{% endhighlight %}
 
 - Add Default repo
 
-``` bash
+{% highlight bash %}bash
 autopkg repo-add https://github.com/autopkg/recipes.git
-```
+{% endhighlight %}
 
 - Download JSS-addon via autopkg
 
-``` bash
+{% highlight bash %}bash
 autopkg run JSS-addon.pkg
-```
+{% endhighlight %}
 
 - Install JSS-addon pkg
 
-``` bash
+{% highlight bash %}bash
 sudo intstaller -pkg /path/to/jss-autopkg-addon-0.0.2.pkg -target / -verbose
-```
+{% endhighlight %}
 
 - Create an "Standard" User in the JSS with Create, Read, Update rights of JSS Objects.
 - Set plist environment variables (no slashes at the end)
 
-``` bash
+{% highlight bash %}bash
 defaults write com.github.autopkg JSS_REPO /Volumes/JSS_Dist_Point/Packages
 defaults write com.github.autopkg JSS_URL https://test.jss.private:8443
 defaults write com.github.autopkg API_USERNAME apiUser
 defaults write com.github.autopkg API_PASSWORD apiPassword
-```
+{% endhighlight %}
 
 - Test
 
-``` bash
+{% highlight bash %}bash
 autopkg run TextWrangler.jss
-```
+{% endhighlight %}
 
 Bonus Round
 ---

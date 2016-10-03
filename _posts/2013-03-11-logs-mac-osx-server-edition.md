@@ -21,9 +21,9 @@ AFP
 
 What?!  You don't have these logs?  You might need to turn them on as by default they are disabled.
 
-``` bash
+{% highlight bash %}bash
 sudo serveradmin settings afp:activityLog = yes
-```
+{% endhighlight %}
 
 This will enable logging for the following items, and rotate the logs on a weekly basis:
 
@@ -43,7 +43,7 @@ DNS
 
 The file contains everything you would want to know regarding your DNS environment, such as reloading of configurations, zones, shutting down, and transferring to any DNS slaves. You will not see these log messages on a slave DNS server, so you must have access to the master.  Notice, you will not see WHAT DNS record was created below (it was delete.rummel.co).
 
-``` text
+{% highlight text %}
 11-Mar-2013 14:52:41.751 reloading configuration succeeded
 11-Mar-2013 14:52:41.752 reloading zones succeeded
 11-Mar-2013 15:27:02.757 shutting down
@@ -70,7 +70,7 @@ The file contains everything you would want to know regarding your DNS environme
 11-Mar-2013 15:27:03.374 client 192.168.1.122#51604: view com.apple.ServerAdmin.DNS.public: transfer of 'justinrummel.net/IN': AXFR-style IXFR ended
 11-Mar-2013 15:27:03.375 client 192.168.1.122#64866: view com.apple.ServerAdmin.DNS.public: received notify for zone 'rummel.co'
 11-Mar-2013 15:27:03.875 client 192.168.1.122#56747: view com.apple.ServerAdmin.DNS.public: received notify for zone 'justinrummel.net'
-```
+{% endhighlight %}
 
 Installer
 ---
@@ -127,13 +127,13 @@ You can read about Open Directory on Apple's man page [opnedirectoryd][opendirec
 
 Remember, you can always increase the log level of Open Directory by following Apple's kbase article and issue:
 
-``` bash
+{% highlight bash %}bash
 # debug
 odutil set log debug
 
 # return to default
 odutil set log default
-```
+{% endhighlight %}
 
 <q>
 - The logging level will persist through restarts.
@@ -212,9 +212,9 @@ VPN
 
 Who just logged into your network?  Look for "authorized for access":
 
-``` bash
+{% highlight bash %}bash
 grep "authorized for access" /var/log/ppp/vpnd.log
-```
+{% endhighlight %}
 
 Sources
 ---

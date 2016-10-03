@@ -21,7 +21,7 @@ I did a quick `sudo serveradmin list` on both my Lion server install and a new M
 
 ### Still Available
 
-``` text
+{% highlight text %}
 accounts
 addressbook
 afp
@@ -48,11 +48,11 @@ swupdate
 vpn
 web
 wiki
-```
+{% endhighlight %}
 
 ### Removed
 
-``` text
+{% highlight text %}
 dhcp
 ipfilter
 notification
@@ -60,14 +60,14 @@ pcast
 pcastlibrary
 xgrid
 xsan
-```
+{% endhighlight %}
 
 ### New
 
-``` text
+{% highlight text %}
 ftp
 san
-```
+{% endhighlight %}
 
 Reaction
 ---

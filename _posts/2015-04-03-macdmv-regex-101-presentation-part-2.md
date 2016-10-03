@@ -30,12 +30,17 @@ Lets take our knowledge gained from the previous article and apply it to a more 
 
 ### Regex the Dock
 My first example we'll read the Dock (com.apple.dock.plist).  The dock is located on a per user basis, thus it lives in the User's Library => Preference folder.  Lets find out information regarding our dock, first lets print the entire file.
-``` defaults read ~/Library/Preferences/com.apple.dock.plist ```
+{% highlight bash %}
+defaults read ~/Library/Preferences/com.apple.dock.plist
+{% endhighlight %}
 
 It's big!  I'm not going to paste that into an article that is already too long.
 
 For fun (and to validate our future results) how many times does "bundle-identifier" occur (I get 24)?
-``` defaults read ~/Library/Preferences/com.apple.dock.plist | grep -c '"bundle-identifier"' ```
+
+{% highlight bash %}
+defaults read ~/Library/Preferences/com.apple.dock.plist | grep -c '"bundle-identifier"'
+{% endhighlight %}
 
 #### Find the "bundle-identifier"
 Our goal is to find the text that follows each "bundle-identifier" so we can see each of the unique reverse URL strings that point to an icon.  To do this I followed this logic when creating my regex:
@@ -75,7 +80,7 @@ Some of you may notice that "bundle-identifier" has 24 results while "_CFURLStri
 
 To use an awk example of the same goal, we find the bundle-dentifier and then trim out the extra "stuff" away from our result with ```gsub```:
 
-``` bash
+{% highlight bash %}bash
 justinrummel@Rummel-MBPr ~/D/G/jr.com-hpstr> defaults read ~/Library/Preferences/com.apple.dock.plist | awk '/"bundle-identifier" / { gsub("\"", "", $NF); gsub(";", "", $NF); print $NF}'
 com.apple.launchpad.launcher
 com.apple.appstore
@@ -101,7 +106,7 @@ com.smileonmymac.PDFpenPro6.MacAppStore
 com.sublimetext.3
 com.apple.RemoteDesktop
 com.jamfsoftware.selfservice
-```
+{% endhighlight %}
 
 ### Create an AutoPKG Processor
 Making ".jss" or ".munki" recipes is strait forward by a quick copy and paste from one of the multiple examples that have already been built, but they are only useful if a ".pkg" and/or ".download" parent recipe are available!  Fortunately, the Autopkg team have the processor called [URLTextSearcher][URLTextSearcher] which makes creating the ".download" simple! [^1]
@@ -127,9 +132,9 @@ What Shea is requesting is for Autopkg to visit our URL "https://vivaldi.com" an
 
 This regex works great, however, the "TP" letters in the middle of the name worry me. Vivaldi may strip the TP letters because sometime in the future Vivaldi may not be a "Technical Preview", however, what if they replaced that with "RC" for release candidate?  Everyone's pkg, jss, munki recipes would start generating fail messages because the name changed outside of the acceptable regex pattern.  What we could do is simply state as long as the download file ends with "DMG", then give it to me!  I would assume then the file name could contain letters, numbers, and special characters, but not spaces.  From "Part 1" we learned that ```\S``` will do that assumption just fine, thus line 31 would be:
 
-``` xml
+{% highlight xml %}
 <string>https://vivaldi.com/download/[\S]+\.dmg</string>
-```
+{% endhighlight %}
 
 #### Example #2
 For my second example I applied the same theory when reviewing Vivaldi to create a new recipe for Wireshark's Development release installer.  If you haven't heard, [Wireshark's Development Release](https://www.wireshark.org/download.html) can be used without installing X11 on your machine as they are moving [away from XQuarts to Qt][qt].  By using the same AutoPkg processor "URLTextSearcher", I could scrap the page to find only the development releases vs. the "Stable" or even the "Old Stable" options.

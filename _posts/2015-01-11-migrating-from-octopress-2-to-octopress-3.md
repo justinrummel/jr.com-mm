@@ -39,7 +39,7 @@ Process
 
 I *highly* recommend you try to install a basic octopress site to see what breaks from your current content.  The only thing you really need to do is create a new folder that will hold your test site (e.g. ~/Documents/octopress3/) and inside that folder create a file called "Gemfile" with the following contents:
 
-``` ruby
+{% highlight ruby %}
 source 'https://rubygems.org'
 
 gem 'jekyll'
@@ -47,18 +47,18 @@ gem 'jekyll'
 group :jekyll_plugins do
 	gem 'octopress', '~> 3.0.0.rc'
 end
-```
+{% endhighlight %}
 
 Once you have this in place, perform a ```bundle install``` and the required gems will be installed on your machine.  You will occasionally do a ```bundle update``` to get the latest vesions of the gems that are installed, OR if you need to add additional gems for tags [^1].  To add the Octopress framework perform a ```octopress new www``` and it will create a new "www" folder with all the needed files.  Be sure to ```cd www``` for the next steps.
 
 Now that we have the framework installed, do a ```jekyll s``` to start hosting the site on your machine and open your browser to http://localhost:4000/.  If you get any errors, I'm guessing there are some missing gem requirements.  Read the errors and add the needed gems to your Gemfile.  Once you know you have a good foundation to run Octopress 3, take one of your articles from your old site to your new site to see if anything breaks.  You may need to Cancel your ```jekyll s``` and run it again several times to see any errors.  Keep moving files over to the new Octopress 3 one-by-one, OR you can go for the shotgun approached and copy all of them (Don't forget to move your static pages and images as well)!  I found there were several tags that I had used in my site that were no longer part of the core octopress framework.  I had to add additinal items to my Gemfile just to make my site work (see: [my test "Gemfile" commit history][Gemfile] for an examples)
 
-``` ruby
+{% highlight ruby %}
 gem "octopress-image-tag"
 gem "octopress-codeblock"
 gem "octopress-quote-tag"
 gem "octopress-video-tag"
-```
+{% endhighlight %}
 
 I did a clean install of Octopress 3 and migrated my posts a couple of times, to the point where I felt confident I could migrate my site fairly quickly once Octopress 3 was officially released. Now time to look for some themes!  What I didn't expect is to find themes already available for Octopress 3.  After reviewing some features I was able to do the same process as above but starting with the theme download.  I was also able to adjust my code to remove the "octopress-image" and "octopress-video" tags from my Gemfile.
 

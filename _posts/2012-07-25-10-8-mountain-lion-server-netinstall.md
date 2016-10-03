@@ -14,9 +14,9 @@ From a pure functional standpoint, I don’t see any major difference between wh
 
 There are some minor changes such any mention to support OS9 has been removed, and you cannot set the log level via the GUI. If you really need to increase the log level for NetInstall, run the following command:
 
-``` bash
+{% highlight bash %}bash
 $ sudo serveradmin settings netboot:logging_level = HIGH
-```
+{% endhighlight %}
 
 NetInstall Configuration Settings
 ---

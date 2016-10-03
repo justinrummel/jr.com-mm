@@ -32,9 +32,9 @@ In order to place API calls to Twitter you need to create an API application by 
 
 To use these tokens, you have two choices: embed them into your shell environment or declare them into your Octopress environment.  I personally use the [fish shell][fish], and for whatever reason I couldn't ```set``` the variables correctly, so now I'll have to attempt option #2.  **But wait!**  That means my super-secrete, special, precious keys may be in the public as I push my code changes to a github repo (for better support by Brandon)!  That won't work!  I did a little more research and found that Jekyll has the ability to reference multiple .yml files to build or server a site by using the ```-c``` flag.  Example: [^1]
 
-``` bash
+{% highlight bash %}bash
 jekyll s -c _config.yml,_AccessKeys.yml,_localhost.yml --drafts
-```
+{% endhighlight %}
 
 I then created a "AccessKeys.yml" that now stores all my API tokens and made sure that the new .yml file is listed in my .gitignore.  Tokens are safe, fancy API stuff works, and I'm happy.
 

@@ -68,10 +68,10 @@ Here are the steps:
 3.	At the top, Service receives "no input" which is the last item in the dropdown field and be sure to leave the "Any Application" which is the default setting.
 4.	Copy/paste this code
 
-``` bash
+{% highlight bash %}bash
 fileDate=`date '+%Y.%m.%d-%T'`
 screencapture -ioW ~/Desktop/ScreenShot_"${fileDate}".png
-```
+{% endhighlight %}
 
 This will capture the current application that is running in interactive mode with the "window capture" mode as default vs. the cross-hairs.  It will save the resulting file to the user's desktop with the current date/time stamp just in case they are taking multiple pictures.
 

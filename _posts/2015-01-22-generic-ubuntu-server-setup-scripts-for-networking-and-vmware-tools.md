@@ -46,7 +46,7 @@ VMware Tools
 
 The next script makes sure that you have the proper VMware Tools installed on Ubuntu Server just in case you need to share a folder on your host computer to your Ubuntu server.  The storage point will be ```/mnt/hgfs/<<your folder name>>```.  This script will try to mount the CDROM on your VM, so be sure it is pointing to the VMware Linux Tools ISO by choosing Virtual Machine => Install VMware Tools.
 
-``` bash
+{% highlight bash %}bash
 #!/bin/bash
 
 # Copyright (c) 2015 Justin Rummel
@@ -103,4 +103,4 @@ else
 	exit 1
 fi
 exit 0
-```
+{% endhighlight %}
