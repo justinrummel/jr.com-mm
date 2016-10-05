@@ -36,7 +36,7 @@ This utility is DEPRECATED. Please use pfctl(8) instead
 #### /usr/bin
 There are a lot of updated binaries that had endings of ".12" which were removed and ".18" were added.  Don't really know what those are.  There are some new items with AVB (which was actually added in 10.9.5), but was is really interesting is all the "diagnose" items.  If you think Apple has a QA problem, they are trying to fix it with all of these diagnose binaries such as:
 
-{% highlight bash %}bash
+{% highlight bash %}
 avbdiagnose     # Audio Visual diagnose
 csdiagnose      # CoreStorage  diagnose
 csgather        # CoreStorage metadata for diagnosis
@@ -61,7 +61,7 @@ We have DNS debugging! More info in man discoveryd such as logging level (None, 
 
 Some of the fun commands for discoveryutil are:
 
-{% highlight bash %}bash
+{% highlight bash %}
 sudo discoveryutil help                 # prints all discoveryutil options
 sudo discoveryutil configresolvers      # gives DNS servers for each interface and search domain
 sudo discoveryutil mdnsflushcache       # everyones favorite network "fix"
@@ -87,7 +87,7 @@ sudo discoveryutil configinterfaces     # Current IP configurations for each int
 Source script
 ---
 
-{% highlight bash %}bash
+{% highlight bash %}
 #!/bin/bash
 # descriptions
 # This script looks in /bin, /sbin, /usr/bin, /usr/sbin, and /usr/libexec

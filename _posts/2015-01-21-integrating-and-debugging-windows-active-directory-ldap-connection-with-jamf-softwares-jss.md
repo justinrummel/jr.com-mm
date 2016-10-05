@@ -41,7 +41,7 @@ Debugging DNS overview
 
 For debugging the AD environment, I'm going to do a host of the "pretend.co" which should give me a list of all the domain controllers, next I would verify the forward and reverse DNS names to IP address of my domain controllers, then finally verify some LDAP SRV records.
 
-{% highlight bash %}bash
+{% highlight bash %}
 #!/bin/bash
 
 # Copyright (c) 2015 Justin Rummel
@@ -130,7 +130,7 @@ Your "dns_server" should be the IP address for one of your domain controllers.  
 #### LDAP testing
 Next lets make sure that we are dealing with the standard ldap port of 389 with an administrator account that should be allowed to view the entire directory tree if needed.
 
-{% highlight bash %}bash
+{% highlight bash %}
 ldapsearch -H ldap://dc01.pretend.co -b "dc=pretend,dc=co" -x -D "PRETEND\administrator" -W -L "(objectClass=group)" name member
 {% endhighlight %}
 

@@ -45,12 +45,12 @@ You most likely already have one! If you navigate to System Preferences = Networ
 
 Now, finding is your IPv6 address is another story. The best way to discover your IPv6 address is running the following command in Terminal:
 
-{% highlight bash %}bash
+{% highlight bash %}
 $ ifconfig en0
 {% endhighlight %}
 
 You should get back something like the following:
-{% highlight bash %}bash
+{% highlight bash %}
 $ justinrummel@jrummel-mbp:~$ ifconfig en0
 en0:flags=8863 mtu 1500
 	options=27
@@ -63,7 +63,7 @@ en0:flags=8863 mtu 1500
 
 You can see the inet6 value that starts with the hex values "fe80", that is my IPv6 address. Notice at the end of that string is "%en0", you don't need that part. An easy way only to get the IPv6 Address in one line could be:
 
-{% highlight bash %}bash
+{% highlight bash %}
 $ ifconfig en0 | grep inet6 | awk -F " " '{print $2}' | sed 's/%en0//'
 {% endhighlight %}
 
@@ -79,7 +79,7 @@ The interesting part of ping6 is that you have to declare the interface you are 
 
 So if I wanted to ping from my laptop to a target machine IPv6 address of "fe80::c62c:3ff:fe21:cc0e", I would perform a ping6 the following:
 
-{% highlight bash %}bash
+{% highlight bash %}
 $ justinrummel@jrummel-mbp:~$ ping6 -I en0 -c 1 fe80::c62c:3ff:fe21:cc0e
 PING6(56=40 8 8 bytes) fe80::225:bcff:fedc:9924%en0 --> fe80::c62c:3ff:fe21:cc0e
 16 bytes from fe80::c62c:3ff:fe21:cc0e%en0, icmp_seq=0 hlim=64 time=0.406 ms

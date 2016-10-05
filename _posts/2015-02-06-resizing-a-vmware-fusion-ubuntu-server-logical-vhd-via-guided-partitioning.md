@@ -37,7 +37,7 @@ You can think of LVM as "dynamic partitions", meaning that you can create/resize
 
 So lets see what we are working with and how it differs from the "Easy Install".  We'll launch our new Ubuntu Server VM and perform the same tasks as last time to get a sense of how much space is available.
 
-{% highlight bash %}bash
+{% highlight bash %}
 sadmin@ubuntu:~$ sudo fdisk -l
 
 Disk /dev/sda: 21.5 GB, 21474836480 bytes
@@ -75,7 +75,7 @@ HELLO!  That was a lot more information than last time! The biggest clue as that
 
 Lets see what are the results from our command after we increase our VM size from 20GB to 30 GB (like we did last time).
 
-{% highlight bash %}bash
+{% highlight bash %}
 sadmin@ubuntu:~$ sudo fdisk -l
 
 Disk /dev/sda: 32.2 GB, 32212254720 bytes
@@ -113,7 +113,7 @@ DRAT!  We're still in the same situation as last time that our environment knows
 
 To see additional information about our LVM environment we can use the ```lvscan``` and ```lvs``` commands to find the size of our LVMs, the name of the Logical Volume, and Volume Group (in this case, "ubuntu-vg").  Full LVM details are available via ```lvdisplay``` command (think of this as ```diskutil cs list``` for OSX admins).
 
-{% highlight bash %}bash
+{% highlight bash %}
 sadmin@ubuntu:~$ sudo lvscan
   ACTIVE            '/dev/ubuntu-vg/root' [17.74 GiB] inherit
   ACTIVE            '/dev/ubuntu-vg/swap_1' [2.00 GiB] inherit
@@ -194,7 +194,7 @@ First thing we need configure to increase the disk space of our VM is by using t
 
 You may noticed immediately after we write the partition map there was a error message at the bottom of the screen that states "Wrote partition table, but re-read table failed.  Run partprobe(8), kpartx(8) or reboot to update table"... **please reboot**.  Once restarted, we'll run ```sudo fdisk -l``` again to grab the location of our new partition (truncated for brevity).
 
-{% highlight bash %}bash
+{% highlight bash %}
    Device Boot      Start         End      Blocks   Id  System
 /dev/sda1   *        2048      499711      248832   83  Linux
 /dev/sda2          501758    41940991    20719617    5  Extended
@@ -204,7 +204,7 @@ You may noticed immediately after we write the partition map there was a error m
 
 Next we need to do the following steps all via command line
 
-{% highlight bash %}bash
+{% highlight bash %}
 # Make the new partition an lvm physical volume
 sadmin@ubuntu:~$ sudo pvcreate /dev/sda3
   Physical volume "/dev/sda3" successfully created
@@ -228,7 +228,7 @@ The filesystem on /dev/ubuntu-vg/root is now 7272448 blocks long.
 
 We're done!  Lets verify by quickly rerunning our LVM commands [ ```lvscan``` \| ```lvs``` ] and/or doing a ```df -H | grep mappter```
 
-{% highlight bash %}bash
+{% highlight bash %}
 sadmin@ubuntu:~$ sudo lvscan
   ACTIVE            '/dev/ubuntu-vg/root' [27.74 GiB] inherit
   ACTIVE            '/dev/ubuntu-vg/swap_1' [2.00 GiB] inherit

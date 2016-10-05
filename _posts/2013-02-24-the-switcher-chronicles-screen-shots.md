@@ -68,7 +68,7 @@ Here are the steps:
 3.	At the top, Service receives "no input" which is the last item in the dropdown field and be sure to leave the "Any Application" which is the default setting.
 4.	Copy/paste this code
 
-{% highlight bash %}bash
+{% highlight bash %}
 fileDate=`date '+%Y.%m.%d-%T'`
 screencapture -ioW ~/Desktop/ScreenShot_"${fileDate}".png
 {% endhighlight %}

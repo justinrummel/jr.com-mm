@@ -30,6 +30,7 @@ Lets take our knowledge gained from the previous article and apply it to a more 
 
 ### Regex the Dock
 My first example we'll read the Dock (com.apple.dock.plist).  The dock is located on a per user basis, thus it lives in the User's Library => Preference folder.  Lets find out information regarding our dock, first lets print the entire file.
+
 {% highlight bash %}
 defaults read ~/Library/Preferences/com.apple.dock.plist
 {% endhighlight %}
@@ -80,7 +81,7 @@ Some of you may notice that "bundle-identifier" has 24 results while "_CFURLStri
 
 To use an awk example of the same goal, we find the bundle-dentifier and then trim out the extra "stuff" away from our result with ```gsub```:
 
-{% highlight bash %}bash
+{% highlight bash %}
 justinrummel@Rummel-MBPr ~/D/G/jr.com-hpstr> defaults read ~/Library/Preferences/com.apple.dock.plist | awk '/"bundle-identifier" / { gsub("\"", "", $NF); gsub(";", "", $NF); print $NF}'
 com.apple.launchpad.launcher
 com.apple.appstore

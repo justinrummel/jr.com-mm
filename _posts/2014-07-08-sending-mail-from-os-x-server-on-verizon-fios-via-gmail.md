@@ -25,7 +25,7 @@ Solution
 
 Which leads me to today.  I was searching (again) a way to fix this by sending a simple ```sendmail user@domain.tld < filename.txt``` when I stumbled upon this [blog post][wormly].  The goal of the article is to send TLS mail from postfix on a linux box.  While reviewing the commands and comparing to an OS X Server main.cf file (in /Library/Server/Mail/Config/postfix) I noticed a couple key items missing.  Unfortunately I took a shotgun approach so I don't know specifically which line fixed the issue, but here is a copy/paste of the items that I placed at the bottom of my main.cf:
 
-{% highlight bash %}bash
+{% highlight bash %}
 #### Added by jbr 2014-07-08
 smtp_connection_cache_destinations = smtp.gmail.com
 relay_destination_concurrency_limit = 1

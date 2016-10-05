@@ -21,7 +21,7 @@ AFP
 
 What?!  You don't have these logs?  You might need to turn them on as by default they are disabled.
 
-{% highlight bash %}bash
+{% highlight bash %}
 sudo serveradmin settings afp:activityLog = yes
 {% endhighlight %}
 
@@ -127,7 +127,7 @@ You can read about Open Directory on Apple's man page [opnedirectoryd][opendirec
 
 Remember, you can always increase the log level of Open Directory by following Apple's kbase article and issue:
 
-{% highlight bash %}bash
+{% highlight bash %}
 # debug
 odutil set log debug
 
@@ -212,7 +212,7 @@ VPN
 
 Who just logged into your network?  Look for "authorized for access":
 
-{% highlight bash %}bash
+{% highlight bash %}
 grep "authorized for access" /var/log/ppp/vpnd.log
 {% endhighlight %}
 

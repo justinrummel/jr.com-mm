@@ -32,7 +32,7 @@ First lets get a baseline of a default "Easy Install" of Ubuntu Server.  We can 
 
 Here is my test VM as it stands right now.  You can see the VHD settings are for 20GB (really 21.5, guessing there is a rounding error somewhere), and that our primary partition is /dev/sda1 with 19GB drive.
 
-{% highlight bash %}bash
+{% highlight bash %}
 sadmin@ubuntu:~$ sudo fdisk -l
 
 Disk /dev/sda: 21.5 GB, 21474836480 bytes
@@ -60,7 +60,7 @@ Now it would be really nice if VMware Fusion's tools to increase the VHD worked 
 
 We start our Ubuntu Server to verify that our new drive is now 30GB of storage, however what we see is the Virtual Environment believes we have 30GB (32.2 specifically) but our /dev/sda1 partition is still at 19GBs?!
 
-{% highlight bash %}bash
+{% highlight bash %}
 sadmin@ubuntu:~$ sudo fdisk -l
 
 Disk /dev/sda: 32.2 GB, 32212254720 bytes
@@ -132,7 +132,7 @@ Unfortunately with this GUI application you cannot just "drag" or "move" the ext
 
 To verify everything is running again, change your startup disk back to your Hard Drive in VMware Fusion, restart your VM and run the same commands from the beginning.
 
-{% highlight bash %}bash
+{% highlight bash %}
 sadmin@ubuntu:~$ sudo fdisk -l
 
 Disk /dev/sda: 32.2 GB, 32212254720 bytes

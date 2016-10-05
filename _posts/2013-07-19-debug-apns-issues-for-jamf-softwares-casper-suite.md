@@ -17,7 +17,7 @@ Network APNS issues
 
 First and foremost, when APNS doesn't work I'm blaming your network.  Are you allowing the proper ports out of your environment; specifically ports 2195, 2196, and 5223?  You can do some testing for 2195 and 2196 be trying using the '[nc][nc]' command ```gateway.push.apple.com``` and ```feedback.push.apple.com``` over port 2195 and 2196 respectively, and this needs to happen FROM your MDM (JSS specifically regarding the Casper Suite).  Below are successfully examples using the nc command:
 
-{% highlight bash %}bash
+{% highlight bash %}
 # nc test for APNS
 justinrummel@JRummel-MBPr ~> /usr/bin/nc -z -4 -w 10 gateway.push.apple.com 2195
 Connection to gateway.push.apple.com 2195 port [tcp/*] succeeded!
@@ -27,7 +27,7 @@ Connection to feedback.push.apple.com 2196 port [tcp/*] succeeded!
 
 The second item is your devices connecting to APNS network over 5223.  This is the network element that would allow your devices (OS X or iOS), to talk to Apple.
 
-{% highlight bash %}bash
+{% highlight bash %}
 # nc test for Push client initialization server
 justinrummel@JRummel-MBPr ~>  /usr/bin/nc -z -4 -w 10 init-p01st.push.apple.com 80
 Connection to init-p01st.push.apple.com 80 port [tcp/http] succeeded!
@@ -50,7 +50,7 @@ Tokens
 
 Lastly I want to bring up a strange issue that I discovered some time ago when testing OS X 10.8 and the Casper Suite by creating multiple Virtual Machines with VM Ware Fusion.  I hope this was an issue because I created 10 VMs on my MacBook Pro Retina, Mid 2012 and started enrolling them into my test JSS.  With the help of JAMF Support we discovered at some point my VM's were not getting a token from Apple.  The way I found this was by searching inside the MySQL database.&nbsp;[^1]
 
-{% highlight bash %}bash
+{% highlight bash %}
 # searching for tokens in MySQL
 sadmin@auto:~$ sudo mysql -u root -p
 [sudo] password for sadmin:

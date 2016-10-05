@@ -204,7 +204,7 @@ The way we search for optional items is with the question mark at the end of let
 
 My regex search string would be: ```Mar(ch)? 18(th)?``` giving me the option to include the "ch" at the end of March and the "th" at the end of eighteenth.  But now if I wanted to include "3/18", or "03/18" as a set of possible date formats I need to expand my search string to be: ```(\d{1,2}|Mar(ch)?)( ?/?)18(th)?```
 
-{% highlight bash %}bash
+{% highlight bash %}
 (
 	\d{1,2}		# Search for a number that are 1-2 digits in length
 	|		# "OR"

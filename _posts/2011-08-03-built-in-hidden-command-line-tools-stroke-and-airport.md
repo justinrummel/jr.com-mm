@@ -18,7 +18,7 @@ Port Scanning with *stroke*
 
 So you want to perform a port scan, but you are missing the more powerful *nmap* command that can be installed via MacPorts or compiled from [insecure.org][insecure]. In order to use the command, open Terminal and cd to the **/Applications/Utilities/Network Utility.app/Contents/Resources/** directory, then type ./stoke
 
-{% highlight bash %}bash
+{% highlight bash %}
 $ justinrummel@JRummel-MBP$ cd "/Applications/Utilities/Network Utility.app/Contents/Resources/"
 $ justinrummel@JRummel-MBP:Resources$ ./stroke
 2011-08-02 12:46:09.315 stroke[45023:707] stroke address startPort endPort
@@ -26,7 +26,7 @@ $ justinrummel@JRummel-MBP:Resources$ ./stroke
 
 The help information for stoke is very short, mostly because this is a one trick pony. You can enter your address (IP or FQDN), a starting port number, and end port number, then off you go! A good port to start with is 20 and end somewhere around 10000. Yes you can go higher to 65535, but it will just take longer. So for example:
 
-{% highlight bash %}bash
+{% highlight bash %}
 $ justinrummel@JRummel-MBP:Resources$ ./stroke 192.168.1.111 20 10000
 Port Scanning host: 192.168.1.111
 
@@ -69,7 +69,7 @@ If you just typed that out... you’ll notice a long list of options for this co
 
 If you need to capture the available wireless networks that are at your current location, we’ll use the "-s" flag for scanning available Wi-Fi networks.
 
-{% highlight bash %}bash
+{% highlight bash %}
 $ justinrummel@JRummel-MBP$ cd /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources
 $ justinrummel@JRummel-MBP:Resources$ ./airport -s
 		SSID    BSSID             RSSI  CHANNEL HT CC SECURITY (auth/unicast/group)
@@ -86,7 +86,7 @@ From my Hilton hotel, you can see there are 7 Access Points (AP) that are near m
 
 If you need to see information about your current wireless network, you can use the "-I" flag.
 
-{% highlight bash %}bash
+{% highlight bash %}
 $ justinrummel@JRummel-MBP:Resources$ ./airport -I
           agrCtlRSSI: -51
           agrExtRSSI: 0

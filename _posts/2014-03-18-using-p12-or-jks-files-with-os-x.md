@@ -37,7 +37,7 @@ Login as root, find and select **BOTH** the public and private certificate in Ke
 
 Once you have the .p12, this simple one-line will convert the .p12 to a .jks so you can import into CPPe's management console.
 
-{% highlight bash %}bash
+{% highlight bash %}
 keytool -importkeystore -destkeystore NEW-SERVER.jks -deststorepass Pass#word -srckeystore certificate-export.p12 -srcstoretype PKCS12 -srcstorepass Pass#word
 {% endhighlight %}
 

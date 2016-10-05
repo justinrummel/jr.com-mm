@@ -36,7 +36,7 @@ Final Workflow
 What I have done several times is migrate 10.6 Wiki to a new 10.6 Wiki server because I can always strip the permissions data by doing the following steps.
 
 ### 10.6 Server Wiki to 10.6 server ###
-{% highlight bash %}bash
+{% highlight bash %}
 # Wiki Migrate https://discussions.apple.com/message/10479747#10479747 Source Article
 sudo serveradmin stop web
 sudo mv /tmp/Collaboration/Groups/ /Library/Collaboration/Groups/
@@ -73,7 +73,7 @@ Lessons Learned
 
 Wiki uses authentication, but simple usernames and passwords are not the limit to how Wiki is tied to the directory system.	 Wiki is now using UUID's to identify who has read/write/owner of Wiki data.  You know, this one:
 
-{% highlight bash %}bash
+{% highlight bash %}
 # dscl command to find the GeneratedUID of diradmin
 sadmin@osxs1 ~> dscl /Search -read /Users/diradmin GeneratedUID
 GeneratedUID: 27D18844-70C6-4BDD-BE3A-5B26A6FDEA1B

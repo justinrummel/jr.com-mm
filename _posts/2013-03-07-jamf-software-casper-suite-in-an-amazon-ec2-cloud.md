@@ -27,7 +27,7 @@ Environment
 
 Our EC2 was running a fresh install from Amazon's images of Ubuntu Server 12.04 LTS, and we performed the following items.
 
-{% highlight bash %}bash
+{% highlight bash %}
 # Update the default image
 sudo apt-get update
 sudo apt-get upgade
