@@ -13,7 +13,7 @@ name                     : "Justin Rummel"
 description              : "Professional Bio/Resume site for Justin Rummel."
 url                      : https://www.justinrummel.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : justinrummel/jr.com-mm # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : sierra-teaser.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -254,3 +254,7 @@ photos_ext: md
 post_layout: post
 page_layout: page
 page_layout: photos
+
+lunr_search:
+  js_dir: "assets/js/lunr"
+  min_length: 3
