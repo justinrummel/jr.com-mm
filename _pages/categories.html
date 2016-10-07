@@ -5,6 +5,7 @@ permalink: /categories/
 description: "Posts listed by Category"
 author_profile: false
 comments: false
+exclude_from_search: true
 ---
 
 {% capture site_categories %}{% for category in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}

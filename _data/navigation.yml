@@ -16,5 +16,5 @@ main:
   - title: "Category Archive"
     url: /categories/
 
-#  - title: Search
-#    url: /search/
+  - title: Search
+    url: /search/
