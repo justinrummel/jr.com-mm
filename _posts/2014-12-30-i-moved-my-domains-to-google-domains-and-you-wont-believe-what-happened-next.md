@@ -19,7 +19,7 @@ OK, that title is COMPLETELY intended for click bait. I just think it's funny ho
 Overview
 ---
 
-{% twitter oembed https://twitter.com/sudeude/status/549685535384813568 %}
+{% twitter https://twitter.com/sudeude/status/549685535384813568 %}
 
 Anyways, [@sudeude][sudeude] [sent a tweet][sudeudeGD] inviting anyone to try Google Domains. In typical Google fashion, Google Domains is in beta thus needing an invite (we won't guess how LONG Google Domains will be in beta). I wasn't really in the need for a new domain registrar as I was happy with my current provider, however, within the past year they were sold off to another registrar so I had no emotional ties to their service. I'm also not worried about any glitches that may be produced from the migration as I use ZoneEdit (for a cost) to manage the records vs. being dependent on the registrar.
 

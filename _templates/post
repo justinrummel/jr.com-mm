@@ -19,11 +19,11 @@ header:
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 
-<p class="image-right"><a href="{{ site.url }}/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
-<p class="image-left"><a href="{{ site.url }}/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
+<p class="align-right"><a href="{{ site.url }}/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
+<p class="align-left"><a href="{{ site.url }}/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
 
 <figure>
-<p class="image-center"><a href="{{ site.url }}/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
+<p class="align-center"><a href="{{ site.url }}/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
 </figure>
 
 {% include toc icon="gears" title="Race Review ToC" %}
