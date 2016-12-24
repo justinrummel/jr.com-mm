@@ -16,8 +16,8 @@ description              : "Professional Bio/Resume site for Justin Rummel."
 url                      : https://www.justinrummel.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : justinrummel/jr.com-mm # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/sierra-teaser.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+teaser                   : /assets/images/sierra-teaser.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -32,12 +32,12 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : # "master", "gh-pages"
+  branch                 : "master"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "_data/comments/{options.slug}"
+  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -52,8 +52,8 @@ atom_feed:
 # SEO Related
 google_site_verification : hT6wj0MiwnZDtC-APUPAkaE4cSidJtqaBCBq3Xnlnxk
 bing_site_verification   : BF2EEED10A15A64DE29F3E540F77DC37
-# alexa_site_verification  :
-# yandex_site_verification :
+alexa_site_verification  :
+yandex_site_verification :
 
 # Social Sharing
 twitter:
@@ -61,7 +61,7 @@ twitter:
 facebook:
   username               : "justinrummel"
   app_id                 : "286537128062498"
-  publisher              : "justinrummel" # A Facebook page URL or ID of the publishing entity
+  publisher              : "justinrummel"
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -106,7 +106,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
@@ -137,6 +137,8 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -177,22 +179,6 @@ paginate_path: /page:num/
 timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# https://mmistakes.github.io/minimal-mistakes/docs/installation/
-# Default page settings
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: true
-      share: false
-      related: true
-
-
 # Plugins
 gems:
   - jekyll-paginate
@@ -221,13 +207,13 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-# https://github.com/jekyll/jekyll-archives
 category_archive:
   type: jekyll-archives
   path: /categories/
 tag_archive:
   type: jekyll-archives
   path: /tags/
+# https://github.com/jekyll/jekyll-archives
 jekyll-archives:
   enabled:
     - categories
@@ -245,8 +231,24 @@ jekyll-archives:
 compress_html:
   clippings: all
   blanklines: true
-#  ignore:
-#    envs: development
+  ignore:
+    envs: development
+
+
+# https://mmistakes.github.io/minimal-mistakes/docs/installation/
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: false
+      related: true
 
 # Default extensions
 post_ext: md
