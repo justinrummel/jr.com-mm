@@ -27,9 +27,9 @@ A S/MIME certificate can be store several different ways (see Apple's kbase [Abo
 Private Keys
 ---
 
-![Certificate]({{ site.url }}/images/2011/06/certificate.png){: .align-left}Keychain Access is by far the simplest method. Simply select your Public certificate, click on the pretty blue certificate icon at the top and drag-n-drop to your desktop. This saves the file in a .cer format and you can use QuickLook to see the contents.
+![Certificate]({{ site.url }}/assets/images/2011/06/certificate.png){: .align-left}Keychain Access is by far the simplest method. Simply select your Public certificate, click on the pretty blue certificate icon at the top and drag-n-drop to your desktop. This saves the file in a .cer format and you can use QuickLook to see the contents.
 
-![cer export]({{ site.url }}/images/2011/06/smime-cert-quickview.png){: .align-center}
+![cer export]({{ site.url }}/assets/images/2011/06/smime-cert-quickview.png){: .align-center}
 
 *(QuickLook of my .cer export from Keychain Access)*
 
@@ -47,7 +47,7 @@ $ security find-certificate -a -e j@justinrummel.com*.
 
 What we are doing is using the Mac OS X *security* command to find your certificate within the default keychain (your Login keychain), which is usually located at: /Users/*yourusername*/Library/Keychains/login.keychain. We find all the matching values by utilizing the "-a" flag. We want to do this because as time passes you are going to collect expired certificates and we want to keep old certificates just in case you want to decrypted a message in a couple of years. The next flag is "-e" for your email. This should return hopefully one result, but if not, you most likely have expired certificates (and that's OK).
 
-![Show Expired]({{ site.url }}/images/2011/06/Show-Expired.png){: .image-right }If you want to see your expired certificates, the easist way to do this is open Keychain access, enable View => "Show Expired Certificates" and find any records with your email address that has a red "X" (meaning "expired"). Once you know you have one certificate, include the "-p" flag for .pem file type and export (the "> ~/Desktop/myPublicCert.pem" section).
+![Show Expired]({{ site.url }}/assets/images/2011/06/Show-Expired.png){: .image-right }If you want to see your expired certificates, the easist way to do this is open Keychain access, enable View => "Show Expired Certificates" and find any records with your email address that has a red "X" (meaning "expired"). Once you know you have one certificate, include the "-p" flag for .pem file type and export (the "> ~/Desktop/myPublicCert.pem" section).
 
 When you look at your myPublicCert.pem certificate through a text editor, it comes back with 30 or so lines with complete gibberish starting with "BEGIN CERTIFICATE" and ending with "END CERTIFICATE". For Example:
 
@@ -212,7 +212,7 @@ To export your public and private keys for backup purposes (remember... you do n
 
 For Keychain Access you want to be sure you select the Category "My Certificates" section on the bottom left hand side of your Keychain Access window. This shortens you list of possible items you would want to export, while still having the option to select your Public and Private keys. Find your email address and click on the disclosure triangle and select both the certificate and the private key (icon looks like a key... how appropriate). You will now need to select File => Export Items (or Ctrl Click the certificates), and save the two items as one .p12 file. Once you click on OK, you will be prompted for a password. This is to ensure your private key is now encrypted using this password as part of the export algorithm. You may also be requested to "Allow" access to your Login Keychain.
 
-![Private and Public Export from Keychain Access]({{ site.url }}/images/2011/06/Private-and-Public-Export.png){: .align-center}
+![Private and Public Export from Keychain Access]({{ site.url }}/assets/images/2011/06/Private-and-Public-Export.png){: .align-center}
 
 You will not be able to read this file via a text editor, instead you can read the information by entering the following command:
 

@@ -10,10 +10,10 @@ tags:
     - Multisport
     - VTS/MTS
 header:
-    image: 2016/07/31/Culpeper-Header.jpg				# Twitter (use 'teaser')
-    overlay_image: 2016/07/31/Culpeper-Header.jpg		# Article header at 2048x768
+    image: /assets/images/2016/07/31/Culpeper-Header.jpg				# Twitter (use 'teaser')
+    overlay_image: /assets/images/2016/07/31/Culpeper-Header.jpg		# Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2016/07/31/Culpeper-Header-Twitter.jpg 		# Shrink image to 575 width
+    teaser: /assets/images/2016/07/31/Culpeper-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 
@@ -23,12 +23,12 @@ This is event number five on the 2016 VTS/MTS Series which brings me to be compe
 
 #### Swim
 
-- <p class="align-right"><a href="{{ site.url }}/images/2016/07/31/Culpeper-LG-4.jpg"><img src="{{ site.url }}/images/2016/07/31/Culpeper-SM-4.jpg" /></a></p>I finally got my head out of my... um... negative space and had a decent swim.  The swim was located at Mountain Run Lake in Culpeper, VA and I couldn't ask for better conditions.  The wind was low so it didn't create very much chop, there is no current because it's a lake, the fog covered the sun so I wasn't blinded on the last section heading back to the "wiggly man".  My plan was to stay on the outside of all the other swimmers knowing that it would increase my total swim distance (which it did by 100m), but that is of minor consequence when I was able to stay relaxed and just swim.  That is until the last 100 meters, where the International swimmers "joined" with the Sprint swimmers so I had to contend with people on both sides... and I panicked... just a little.  But on another positive note, I did not require any assistance from paddle boaters which is major milestone for this year.
+- <p class="align-right"><a href="{{ site.url }}/assets/images/2016/07/31/Culpeper-LG-4.jpg"><img src="{{ site.url }}/assets/images/2016/07/31/Culpeper-SM-4.jpg" /></a></p>I finally got my head out of my... um... negative space and had a decent swim.  The swim was located at Mountain Run Lake in Culpeper, VA and I couldn't ask for better conditions.  The wind was low so it didn't create very much chop, there is no current because it's a lake, the fog covered the sun so I wasn't blinded on the last section heading back to the "wiggly man".  My plan was to stay on the outside of all the other swimmers knowing that it would increase my total swim distance (which it did by 100m), but that is of minor consequence when I was able to stay relaxed and just swim.  That is until the last 100 meters, where the International swimmers "joined" with the Sprint swimmers so I had to contend with people on both sides... and I panicked... just a little.  But on another positive note, I did not require any assistance from paddle boaters which is major milestone for this year.
 	+ [Training Peaks Swim Data](http://tpks.ws/O3z9s)
 
 #### Bike
 
-- <p class="align-right"><a href="{{ site.url }}/images/2016/07/31/Culpeper-LG-5.jpg"><img src="{{ site.url }}/images/2016/07/31/Culpeper-SM-5.jpg" /></a></p>I couldn't execute the bike plan as desired as I found a new issue when racing in humidity, my new Rudy Wing 57 helmet has a smoked glass shield that easily fogs over making it impossible to see (somewhat of an issue when my top speed was 41.5 mph)[^1].  I was lucky to find a 60yo rockstar of an athlete who was about my athletic ability and I basically followed him for the first 10 miles because I couldn't see any of the turns or potholes.  It wasn't my best performance on the bike, but I still placed decently among racers.
+- <p class="align-right"><a href="{{ site.url }}/assets/images/2016/07/31/Culpeper-LG-5.jpg"><img src="{{ site.url }}/assets/images/2016/07/31/Culpeper-SM-5.jpg" /></a></p>I couldn't execute the bike plan as desired as I found a new issue when racing in humidity, my new Rudy Wing 57 helmet has a smoked glass shield that easily fogs over making it impossible to see (somewhat of an issue when my top speed was 41.5 mph)[^1].  I was lucky to find a 60yo rockstar of an athlete who was about my athletic ability and I basically followed him for the first 10 miles because I couldn't see any of the turns or potholes.  It wasn't my best performance on the bike, but I still placed decently among racers.
 	+ [Training Peaks Bike Data](http://tpks.ws/uRUGA)
 
 #### Run
@@ -41,8 +41,8 @@ This is event number five on the 2016 VTS/MTS Series which brings me to be compe
 This is the second race that my family was able to attend as Culpeper is less than an hour away from our house.  It was nice to have a cheering section while going through transitions, and at the end just before crossing the finish line giving <strike>Vader</strike> Gavin a quick high five.  BTW; of all the VTS/MTS races that I have done this year... hands down this is the best podium prize as you get a bottle of wine from fellow race participant, and owner of [Mountain Run Winery][mrw], David Foster!
 
 <figure class="third">
-<a href="{{ site.url }}/images/2016/07/31/Culpeper-LG-1.jpg"><img src="{{ site.url }}/images/2016/07/31/Culpeper-SM-1.jpg" /></a>
-<a href="{{ site.url }}/images/2016/07/31/Culpeper-LG-3.jpg"><img src="{{ site.url }}/images/2016/07/31/Culpeper-SM-3.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/07/31/Culpeper-LG-1.jpg"><img src="{{ site.url }}/assets/images/2016/07/31/Culpeper-SM-1.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/07/31/Culpeper-LG-3.jpg"><img src="{{ site.url }}/assets/images/2016/07/31/Culpeper-SM-3.jpg" /></a>
 </figure>
 
 
@@ -64,9 +64,9 @@ Among the Male 40-44 category there were 21 athletes (excluding the one in my ag
 #### Updated 2016-08-03 (Race Photos)
 
 <figure class="third">
-<a href="{{ site.url }}/images/2016/07/31/Culpeper-PRO-LG-1.jpg"><img src="{{ site.url }}/images/2016/07/31/Culpeper-PRO-SM-1.jpg" /></a>
-<a href="{{ site.url }}/images/2016/07/31/Culpeper-PRO-LG-2.jpg"><img src="{{ site.url }}/images/2016/07/31/Culpeper-PRO-SM-2.jpg" /></a>
-<a href="{{ site.url }}/images/2016/07/31/Culpeper-PRO-LG-3.jpg"><img src="{{ site.url }}/images/2016/07/31/Culpeper-PRO-SM-3.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/07/31/Culpeper-PRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2016/07/31/Culpeper-PRO-SM-1.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/07/31/Culpeper-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2016/07/31/Culpeper-PRO-SM-2.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/07/31/Culpeper-PRO-LG-3.jpg"><img src="{{ site.url }}/assets/images/2016/07/31/Culpeper-PRO-SM-3.jpg" /></a>
 </figure>
 
 #### Tables

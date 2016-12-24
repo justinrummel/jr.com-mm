@@ -41,7 +41,7 @@ How do I get an IPv6 Address on Lion
 
 You most likely already have one! If you navigate to System Preferences = Network and click on the "Advance..." button on your Ethernet settings, you should see "Configure IPv6" and it's set to automatic. You're DONE!
 
-![IPv6-Settings]({{ site.url }}/images/2012/01/IPv6-Settings.png)
+![IPv6-Settings]({{ site.url }}/assets/images/2012/01/IPv6-Settings.png)
 
 Now, finding is your IPv6 address is another story. The best way to discover your IPv6 address is running the following command in Terminal:
 

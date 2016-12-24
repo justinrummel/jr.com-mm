@@ -10,10 +10,10 @@ tags:
     - New York
     - Canada
 header:
-    image: 2011/09/29/6200826580_2d4e5f6061_b-Header.jpg
-    overlay_image: 2011/09/29/6200826580_2d4e5f6061_b-Header.jpg
+    image: /assets/images/2011/09/29/6200826580_2d4e5f6061_b-Header.jpg
+    overlay_image: /assets/images/2011/09/29/6200826580_2d4e5f6061_b-Header.jpg
     overlay_filter: 0.15
-    teaser: 2011/09/29/6200826580_2d4e5f6061_b-Header-Twitter.jpg 		# Shrink image to 575 width
+    teaser: /assets/images/2011/09/29/6200826580_2d4e5f6061_b-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 

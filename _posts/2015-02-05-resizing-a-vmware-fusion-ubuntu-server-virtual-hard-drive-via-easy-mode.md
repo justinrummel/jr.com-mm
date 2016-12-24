@@ -10,10 +10,10 @@ tags:
     - VMware Fusion
     - Ubuntu Server
 header:
-    image: 2015/02/05/gparted-live-Header.png					# Twitter (use 'overlay_image')
-    overlay_image: 2015/02/05/gparted-live-Header.png		    # Article header at 2048x768
+    image: /assets/images/2015/02/05/gparted-live-Header.png					# Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2015/02/05/gparted-live-Header.png		    # Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2015/02/05/gparted-live-Header-Twitter.png 			# Shrink image to 575 width
+    teaser: /assets/images/2015/02/05/gparted-live-Header-Twitter.png 			# Shrink image to 575 width
     caption: "Photo credit: [**GParted**](http://sourceforge.net/p/gparted/code/ci/master/tree/htdocs/images/gparted-live.png)"
 ---
 
@@ -54,7 +54,7 @@ sadmin@ubuntu:~$ df -H | grep sda
 Now it would be really nice if VMware Fusion's tools to increase the VHD worked as expected.  If we could just simply move our slider (or type in a new value) for our desired HD space that would actually increase our storage space, that would be perfect!
 
 <figure>
-	<a href="{{ site.url }}/images/2015/02/05/EasyVHD-1.png"><img src="{{ site.url }}/images/2015/02/05/EasyVHD-1_800.png" alt="EasyVHD 1"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/05/EasyVHD-1.png"><img src="{{ site.url }}/assets/images/2015/02/05/EasyVHD-1_800.png" alt="EasyVHD 1"></a>
 	<figcaption>Result VMware Fusion VHD setting after adjusting from 20GB to 30GB.</figcaption>
 </figure>
 
@@ -87,8 +87,8 @@ Steps to Increase your VMware Fusion partition
 First we are going to use a Linux Live CD called [GParted][gparted].  Download their 234MB ISO to your VMware Fusion host so you can attached the ISO to the CD/DVD drive.  Once attached, use the Startup Disk options in VMware Fusion to select the CD/DVD drive.
 
 <figure class="half">
-	<a href="{{ site.url }}/images/2015/02/05/EasyVHD-2.png"><img src="{{ site.url }}/images/2015/02/05/EasyVHD-2_256.png" alt="EasyVHD 2"></a>
-	<a href="{{ site.url }}/images/2015/02/05/EasyVHD-3.png"><img src="{{ site.url }}/images/2015/02/05/EasyVHD-3_256.png" alt="EasyVHD 3"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/05/EasyVHD-2.png"><img src="{{ site.url }}/assets/images/2015/02/05/EasyVHD-2_256.png" alt="EasyVHD 2"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/05/EasyVHD-3.png"><img src="{{ site.url }}/assets/images/2015/02/05/EasyVHD-3_256.png" alt="EasyVHD 3"></a>
 	<figcaption>GParted attached as a CD/DVD drive, then booting from that drive.</figcaption>
 </figure>
 
@@ -106,27 +106,27 @@ Unfortunately with this GUI application you cannot just "drag" or "move" the ext
 - Enlarge our primary partition to use the new unallocated area
 
 <figure>
-	<a href="{{ site.url }}/images/2015/02/05/EasyVHD-4.png"><img src="{{ site.url }}/images/2015/02/05/EasyVHD-4_800.png" alt="EasyVHD 4"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/05/EasyVHD-4.png"><img src="{{ site.url }}/assets/images/2015/02/05/EasyVHD-4_800.png" alt="EasyVHD 4"></a>
 	<figcaption>Select the /dev/sda2 "extended" and Resize/Move to take over the unallocated area, and hit apply.</figcaption>
 </figure>
 
 <figure>
-	<a href="{{ site.url }}/images/2015/02/05/EasyVHD-5.png"><img src="{{ site.url }}/images/2015/02/05/EasyVHD-5_800.png" alt="EasyVHD 5"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/05/EasyVHD-5.png"><img src="{{ site.url }}/assets/images/2015/02/05/EasyVHD-5_800.png" alt="EasyVHD 5"></a>
 	<figcaption>Select the /dev/sda5 "linux-swap" and Resize/Move to the end of our extended area, and hit apply.</figcaption>
 </figure>
 
 <figure>
-	<a href="{{ site.url }}/images/2015/02/05/EasyVHD-6.png"><img src="{{ site.url }}/images/2015/02/05/EasyVHD-6_800.png" alt="EasyVHD 6"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/05/EasyVHD-6.png"><img src="{{ site.url }}/assets/images/2015/02/05/EasyVHD-6_800.png" alt="EasyVHD 6"></a>
 	<figcaption>Select the /dev/sda2 "extended" to create <b>new</b> unallocated space preceding the "linux-swap" space.</figcaption>
 </figure>
 
 <figure>
-	<a href="{{ site.url }}/images/2015/02/05/EasyVHD-7.png"><img src="{{ site.url }}/images/2015/02/05/EasyVHD-7_800.png" alt="EasyVHD 7"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/05/EasyVHD-7.png"><img src="{{ site.url }}/assets/images/2015/02/05/EasyVHD-7_800.png" alt="EasyVHD 7"></a>
 	<figcaption>Select the /dev/sda1 and Resize/Move to take over our new unallocated area.</figcaption>
 </figure>
 
 <figure>
-	<a href="{{ site.url }}/images/2015/02/05/EasyVHD-8.png"><img src="{{ site.url }}/images/2015/02/05/EasyVHD-8_800.png" alt="EasyVHD 8"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/05/EasyVHD-8.png"><img src="{{ site.url }}/assets/images/2015/02/05/EasyVHD-8_800.png" alt="EasyVHD 8"></a>
 	<figcaption>Verify our primary partition now has the 30GB storage (minus 2GB for swap in this example).</figcaption>
 </figure>
 

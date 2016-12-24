@@ -10,14 +10,14 @@ tags:
     - Multisport
     - Charlottesville Multisports
 header:
-    image: 2016/08/27/WOW-Header.jpg				# Twitter (use 'teaser')
-    overlay_image: 2016/08/27/WOW-Header.jpg		# Article header at 2048x768
+    image: /assets/images/2016/08/27/WOW-Header.jpg				# Twitter (use 'teaser')
+    overlay_image: /assets/images/2016/08/27/WOW-Header.jpg		# Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2016/08/27/WOW-Header-Twitter.jpg 		# Shrink image to 575 width
+    teaser: /assets/images/2016/08/27/WOW-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 
-<p class="align-right"><a href="{{ site.url }}/images/2016/08/27/WOW-LG-3.jpg"><img src="{{ site.url }}/images/2016/08/27/WOW-SM-3.jpg" /></a></p>Last year I had such a great time at <a href="{{ site.url }}/wisdom-oak-winery-sprint-2015-race-report/">Wisdom Oak Winery Sprint Triathlon</a> that I decided to do it again this year in hopes to podium at least one more time this racing season.  Once again, Race Director Kate Lucas did an excellent job of facilitating experienced and novice triathletes on how the course was setup and the markings to watch for while on the bike and run.  There were great vibes throughout the morning as I was able to befriended a few people in and out of transition, able to watch the Olympic race participants take off at the beginning allowing me to be a spectator for a few minutes, and then at the end of the day everyone cheering on the last few to accomplish their goal of finishing a triathlon.
+<p class="align-right"><a href="{{ site.url }}/assets/images/2016/08/27/WOW-LG-3.jpg"><img src="{{ site.url }}/assets/images/2016/08/27/WOW-SM-3.jpg" /></a></p>Last year I had such a great time at <a href="{{ site.url }}/wisdom-oak-winery-sprint-2015-race-report/">Wisdom Oak Winery Sprint Triathlon</a> that I decided to do it again this year in hopes to podium at least one more time this racing season.  Once again, Race Director Kate Lucas did an excellent job of facilitating experienced and novice triathletes on how the course was setup and the markings to watch for while on the bike and run.  There were great vibes throughout the morning as I was able to befriended a few people in and out of transition, able to watch the Olympic race participants take off at the beginning allowing me to be a spectator for a few minutes, and then at the end of the day everyone cheering on the last few to accomplish their goal of finishing a triathlon.
 
 {% include toc icon="gears" title="Race Review ToC" %}
 
@@ -43,14 +43,14 @@ header:
 
 #### Post Race
 
-<p class="align-left"><a href="{{ site.url }}/images/2016/08/27/WOW-LG-2.jpg"><img src="{{ site.url }}/images/2016/08/27/WOW-SM-2.jpg" /></a></p>The last race (<a href="{{ site.url }}/culpeper-sprint-2016-race-report/">Culpeper Sprint</a>) I gave VTS/MTS kudos for offering out bottles of wine for their podium finishers.  I'll just pretend that Charlottesville Multisports has been reading my race reports and decided that bottles of [Wisdom Oak Winery][wow] would be an excellent addition to their winners... and it is!  I was able to bring home a bottle of [Cloché][cloche], a "Crisp and refreshing with subtle notes of citrus, lemon and florals. A wonderful blend of Estate Grown Chardonnay, Traminette and Vidal Blanc".
+<p class="align-left"><a href="{{ site.url }}/assets/images/2016/08/27/WOW-LG-2.jpg"><img src="{{ site.url }}/assets/images/2016/08/27/WOW-SM-2.jpg" /></a></p>The last race (<a href="{{ site.url }}/culpeper-sprint-2016-race-report/">Culpeper Sprint</a>) I gave VTS/MTS kudos for offering out bottles of wine for their podium finishers.  I'll just pretend that Charlottesville Multisports has been reading my race reports and decided that bottles of [Wisdom Oak Winery][wow] would be an excellent addition to their winners... and it is!  I was able to bring home a bottle of [Cloché][cloche], a "Crisp and refreshing with subtle notes of citrus, lemon and florals. A wonderful blend of Estate Grown Chardonnay, Traminette and Vidal Blanc".
 
 I know I shouldn't beat myself up as I improved on T1, the bike, and T2 when compared to last year... while only being 25 seconds slower (which is debatable) on the run.  It's the swim that irritates me so much as I've been working on this portion all year without much success except on a few occasions.  As I mentioned before, I'm glad the race season is over so I can switch things around and focus on other sports (lifting and/or TKD with my youngest).
 
 Race Results
 ---
 
-<p class="align-right"><a href="{{ site.url }}/images/2016/08/27/WOW-LG-1.jpg"><img src="{{ site.url }}/images/2016/08/27/WOW-SM-1.jpg" /></a></p>
+<p class="align-right"><a href="{{ site.url }}/assets/images/2016/08/27/WOW-LG-1.jpg"><img src="{{ site.url }}/assets/images/2016/08/27/WOW-SM-1.jpg" /></a></p>
 
 #### Rankings
 
@@ -68,10 +68,10 @@ Among the Male 40-44 category there were 5 athletes.
 #### Updated 2016-09-02 (Race Photos)
 
 <figure class="fourth">
-<a href="{{ site.url }}/images/2016/08/27/WOW-PRO-LG-1.jpg"><img src="{{ site.url }}/images/2016/08/27/WOW-PRO-SM-1.jpg" /></a>
-<a href="{{ site.url }}/images/2016/08/27/WOW-PRO-LG-2.jpg"><img src="{{ site.url }}/images/2016/08/27/WOW-PRO-SM-2.jpg" /></a>
-<a href="{{ site.url }}/images/2016/08/27/WOW-PRO-LG-3.jpg"><img src="{{ site.url }}/images/2016/08/27/WOW-PRO-SM-3.jpg" /></a>
-<a href="{{ site.url }}/images/2016/08/27/WOW-PRO-LG-4.jpg"><img src="{{ site.url }}/images/2016/08/27/WOW-PRO-SM-4.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/08/27/WOW-PRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2016/08/27/WOW-PRO-SM-1.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/08/27/WOW-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2016/08/27/WOW-PRO-SM-2.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/08/27/WOW-PRO-LG-3.jpg"><img src="{{ site.url }}/assets/images/2016/08/27/WOW-PRO-SM-3.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/08/27/WOW-PRO-LG-4.jpg"><img src="{{ site.url }}/assets/images/2016/08/27/WOW-PRO-SM-4.jpg" /></a>
 </figure>
 
 

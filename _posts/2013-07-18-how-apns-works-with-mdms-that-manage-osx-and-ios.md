@@ -13,7 +13,7 @@ tags:
 Classic Environment
 
 <figure>
-<a href="{{ site.url }}/images/2013/07/18/apns-2.png"><img src="{{ site.url }}/images/2013/07/18/apns-2_480.png" alt="" title="" /></a>
+<a href="{{ site.url }}/assets/images/2013/07/18/apns-2.png"><img src="{{ site.url }}/assets/images/2013/07/18/apns-2_480.png" alt="" title="" /></a>
 </figure>
 
 - "Work" location where your MDM (CasperSuite JSS in this example), and other internal servers may exist.
@@ -29,25 +29,25 @@ You as the OS X and/or iOS Administrator want your devices to do *something*.  I
 - Communicate to Apple's Push Notification Servers (APNS) over ports 2195, and 2196 to "FIND MY DEVICES".
 
 <figure>
-<a href="{{ site.url }}/images/2013/07/18/apns-3.png"><img src="{{ site.url }}/images/2013/07/18/apns-3_480.png" alt="" title="" /></a>
+<a href="{{ site.url }}/assets/images/2013/07/18/apns-3.png"><img src="{{ site.url }}/assets/images/2013/07/18/apns-3_480.png" alt="" title="" /></a>
 </figure>
 
 - Your devices are already connected to APNS once they turn on, they have Internet connection, AND port 5223 is not blocked.  When your device does connect to Apple's APNS network, it gets a token.
 
 <figure>
-<a href="{{ site.url }}/images/2013/07/18/apns-4.png"><img src="{{ site.url }}/images/2013/07/18/apns-4_480.png" alt="" title="" /></a>
+<a href="{{ site.url }}/assets/images/2013/07/18/apns-4.png"><img src="{{ site.url }}/assets/images/2013/07/18/apns-4_480.png" alt="" title="" /></a>
 </figure>
 
 - It's this token that allows Apple's APNS network to find and talk to your devices through your firewall. They key element is when APNS push commands are sent, the only bits of information in the payload from Apple is **"HEY *Device*!  Talk to your MDM"** and nothing else.  That is where APNS stops being the middle man and lets a secure communication take over between your devices and MDM only.
 
 <figure>
-<a href="{{ site.url }}/images/2013/07/18/apns-5.png"><img src="{{ site.url }}/images/2013/07/18/apns-5_480.png" alt="" title="" /></a>
+<a href="{{ site.url }}/assets/images/2013/07/18/apns-5.png"><img src="{{ site.url }}/assets/images/2013/07/18/apns-5_480.png" alt="" title="" /></a>
 </figure>
 
 - Once the devices received that command, they will then talk to your MDM over their designated port for the next set of commands you wish to execute from the MDM.  In my example commands are sent over port 8443 as this is the port for the Casper Suite (but it may be 443 for other MDM's such as Profile Manager).
 
 <figure>
-<a href="{{ site.url }}/images/2013/07/18/apns-6.png"><img src="{{ site.url }}/images/2013/07/18/apns-6_480.png" alt="" title="" /></a>
+<a href="{{ site.url }}/assets/images/2013/07/18/apns-6.png"><img src="{{ site.url }}/assets/images/2013/07/18/apns-6_480.png" alt="" title="" /></a>
 </figure>
 
 - Your devices then do whatever your MDM requests.
@@ -60,19 +60,19 @@ Some examples that the JSS can do to help manage your OSX environment include:
 - Request to get Software Updates from your Internal SUS over port 8088
 
 <figure>
-<a href="{{ site.url }}/images/2013/07/18/apns-7.png"><img src="{{ site.url }}/images/2013/07/18/apns-7_480.png" alt="" title="" /></a>
+<a href="{{ site.url }}/assets/images/2013/07/18/apns-7.png"><img src="{{ site.url }}/assets/images/2013/07/18/apns-7_480.png" alt="" title="" /></a>
 </figure>
 
 - Install packages from an SMB (445) or AFP (548) FileShare
 
 <figure>
-<a href="{{ site.url }}/images/2013/07/18/apns-8.png"><img src="{{ site.url }}/images/2013/07/18/apns-8_480.png" alt="" title="" /></a>
+<a href="{{ site.url }}/assets/images/2013/07/18/apns-8.png"><img src="{{ site.url }}/assets/images/2013/07/18/apns-8_480.png" alt="" title="" /></a>
 </figure>
 
 - Install packages from an HTTP (80) or HTTPS (443) server.&nbsp;[^1]
 
 <figure>
-<a href="{{ site.url }}/images/2013/07/18/apns-9.png"><img src="{{ site.url }}/images/2013/07/18/apns-9_480.png" alt="" title="" /></a>
+<a href="{{ site.url }}/assets/images/2013/07/18/apns-9.png"><img src="{{ site.url }}/assets/images/2013/07/18/apns-9_480.png" alt="" title="" /></a>
 </figure>
 
 - Force NetBoot, but I'm not going into the port numbers for that as there are too many.

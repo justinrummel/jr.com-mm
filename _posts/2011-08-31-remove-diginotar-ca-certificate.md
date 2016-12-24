@@ -39,7 +39,7 @@ So the obvious question from the above command is "How do I know info@diginotar.
 
 If you open Keychain Access (located in /Applications/Utilities/), do a search for Diginotar (you will get one value in return as seen below). Right click the certificate and select "Get Info".
 
-![Digi-Search]({{ site.url }}/images/2011/08/Digi-Search.png){: .align-center}
-![Digi-Info]({{ site.url }}/images/2011/08/Digi-Info.png){: .align-center}
+![Digi-Search]({{ site.url }}/assets/images/2011/08/Digi-Search.png){: .align-center}
+![Digi-Info]({{ site.url }}/assets/images/2011/08/Digi-Info.png){: .align-center}
 
 [radiotope]: http://radiotope.com/content/remove-certificate

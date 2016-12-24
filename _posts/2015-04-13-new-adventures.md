@@ -9,10 +9,10 @@ categories:
 tags:
     - Akamai
 header:
-    image: 2015/04/13/AKAMAILOGO-Header.jpg			# Twitter (use 'overlay_image')
-    overlay_image: 2015/04/13/AKAMAILOGO-Header.jpg		    # Article header at 2048x768
+    image: /assets/images/2015/04/13/AKAMAILOGO-Header.jpg			# Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2015/04/13/AKAMAILOGO-Header.jpg		    # Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2015/04/13/AKAMAILOGO-Header-Twitter.jpg 		# Shrink image to 575 width
+    teaser: /assets/images/2015/04/13/AKAMAILOGO-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Akamai**](https://www.akamai.com)"
 ---
 

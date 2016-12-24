@@ -11,10 +11,10 @@ tags:
     - TSA
     - Travel
 header:
-    image: 2012/12/17/TPC_Art-Header.png					# Twitter (use 'overlay_image')
-    overlay_image: 2012/12/17/TPC_Art-Header.png		    # Article header at 2048x768
+    image: /assets/images/2012/12/17/TPC_Art-Header.png					# Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2012/12/17/TPC_Art-Header.png		    # Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2012/12/17/TPC_Art-Header-Twitter.png 			# Shrink image to 575 width
+    teaser: /assets/images/2012/12/17/TPC_Art-Header-Twitter.png 			# Shrink image to 575 width
     caption: "Photo credit: [**TSA**](http://www.tsa.gov)"
 ---
 

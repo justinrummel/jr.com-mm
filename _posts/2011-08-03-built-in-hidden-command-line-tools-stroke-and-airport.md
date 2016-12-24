@@ -116,10 +116,10 @@ What else can you do with the airport command? How about this awesome list:
 
 These options should look somewhat familiar as if you check out the System Preferences => Network => Wi-Fi you would see the same checkboxes. This gives you the option of changing your settings by SSH or a script later in time.
 
-![Settings]({{ site.url }}/images/2011/08/Wi-Fi1.png){: .align-center}
+![Settings]({{ site.url }}/assets/images/2011/08/Wi-Fi1.png){: .align-center}
 Wi-Fi Network Settings
 
-![Options]({{ site.url }}/images/2011/08/Wi-Fi2.png){: .align-center}
+![Options]({{ site.url }}/assets/images/2011/08/Wi-Fi2.png){: .align-center}
 Wi-Fi Network Options
 
 [xCode]: http://itunes.apple.com/us/app/xcode/id448457090?mt=12

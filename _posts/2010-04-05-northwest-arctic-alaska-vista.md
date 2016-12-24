@@ -9,10 +9,10 @@ tags:
     - Travel
     - Alaska
 header:
-    image: 2010/04/05/4592343955_bc21d834d5_b-Header.jpg				# Twitter (use 'teaser')
-    overlay_image: 2010/04/05/4592343955_bc21d834d5_b-Header.jpg		# Article header at 2048x768
+    image: /assets/images/2010/04/05/4592343955_bc21d834d5_b-Header.jpg				# Twitter (use 'teaser')
+    overlay_image: /assets/images/2010/04/05/4592343955_bc21d834d5_b-Header.jpg		# Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2010/04/05/4592343955_bc21d834d5_b-Header-Twitter.jpg 		# Shrink image to 575 width
+    teaser: /assets/images/2010/04/05/4592343955_bc21d834d5_b-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 

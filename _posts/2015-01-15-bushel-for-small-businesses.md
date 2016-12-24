@@ -13,10 +13,10 @@ tags:
     - IOS
     - Yosemite
 header:
-    image: 2015/01/15/Bushel-Header.png     			# Twitter (use 'overlay_image')
-    overlay_image: 2015/01/15/Bushel-Header.png       	# Article header at 2048x768
+    image: /assets/images/2015/01/15/Bushel-Header.png     			# Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2015/01/15/Bushel-Header.png       	# Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2015/01/15/Bushel-Header-Twitter.png    # Shrink image to 575 width
+    teaser: /assets/images/2015/01/15/Bushel-Header-Twitter.png    # Shrink image to 575 width
     caption: "Photo credit: [**Bushel**](http://www.bushel.com)"
 ---
 

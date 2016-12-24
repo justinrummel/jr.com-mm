@@ -10,10 +10,10 @@ tags:
     - "Octopress"
     - "Jekyll"
 header:
-    image: 2016/09/25/JR.COM-Header.png		   # Twitter (use 'teaser')
-    overlay_image: 2016/09/25/JR.COM-Header.png		   # Article header at 2048x768
+    image: /assets/images/2016/09/25/JR.COM-Header.png		   # Twitter (use 'teaser')
+    overlay_image: /assets/images/2016/09/25/JR.COM-Header.png		   # Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2016/09/25/JR.COM-Header-Twitter.png 	   # Shrink image to 575 width
+    teaser: /assets/images/2016/09/25/JR.COM-Header-Twitter.png 	   # Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 
@@ -24,7 +24,7 @@ Migrating my articles from the old template to the new template was completed in
 I know this is not really interesting, but hopefully the site change will inspire some new content outside of race reports.
 
 <figure>
-<a href="{{ site.url }}/images/2016/09/25/JR.COM-OG.png"><img src="{{ site.url }}/images/2016/09/25/JR.COM-OG.png" /></a>
+<a href="{{ site.url }}/assets/images/2016/09/25/JR.COM-OG.png"><img src="{{ site.url }}/assets/images/2016/09/25/JR.COM-OG.png" /></a>
 </figure>
 
 [jekyll]: https://jekyllrb.com/docs/home/

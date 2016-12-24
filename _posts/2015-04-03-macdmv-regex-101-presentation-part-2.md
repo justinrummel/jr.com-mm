@@ -11,10 +11,10 @@ tags:
     - REGEX
     - MacDMV
 header:
-    image: 2015/02/25/regex-Header.png     # Twitter (use 'overlay_image')
-    overlay_image: 2015/02/25/regex-Header.png       # Article header at 2048x768
+    image: /assets/images/2015/02/25/regex-Header.png     # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2015/02/25/regex-Header.png       # Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2015/02/25/regex-Header-Twitter.png    # Shrink image to 575 width
+    teaser: /assets/images/2015/02/25/regex-Header-Twitter.png    # Shrink image to 575 width
     caption: "Photo credit: [**Pyfisch**](http://commons.wikimedia.org/wiki/File:Pictogram_voting_regex.svg)"
 ---
 **NOTE:** Again, I was going to give this presentation for MacDMV this month, however, due to unannounced circumstances I won't be able to present.  Here is what I was going to post immediately following the meet-up.
@@ -60,20 +60,20 @@ What the below video example as I type out each of the above sections to get my 
 
 Picture example
 <figure>
-	<a href="{{ site.url }}/images/2015/02/25/1-bundle-identifier.png"><img src="{{ site.url }}/images/2015/02/25/1-bundle-identifier_800.png" alt="HardVHD 1"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/25/1-bundle-identifier.png"><img src="{{ site.url }}/assets/images/2015/02/25/1-bundle-identifier_800.png" alt="HardVHD 1"></a>
 </figure>
 
 #### Now Find the _CFURLString
 
 <figure>
-	<a href="{{ site.url }}/images/2015/02/25/2-_CFURLString.png"><img src="{{ site.url }}/images/2015/02/25/2-_CFURLString_800.png" alt="HardVHD 1"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/25/2-_CFURLString.png"><img src="{{ site.url }}/assets/images/2015/02/25/2-_CFURLString_800.png" alt="HardVHD 1"></a>
 	<figcaption>Same as "bundle-identifier" but now using "_CFURLString" in the first line</figcaption>
 </figure>
 
 #### Now Find the file-label
 
 <figure>
-	<a href="{{ site.url }}/images/2015/02/25/3-file-label.png"><img src="{{ site.url }}/images/2015/02/25/3-file-label_800.png" alt="HardVHD 1"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/25/3-file-label.png"><img src="{{ site.url }}/assets/images/2015/02/25/3-file-label_800.png" alt="HardVHD 1"></a>
 	<figcaption>Close to "bundle-identifier" but now we must take into consideration results with or without quotes and that the names may have spaces.</figcaption>
 </figure>
 

@@ -17,7 +17,7 @@ You can read Intego's site (or many other sites posting about this trojan), but 
 
 Xprotect is enabled by going to System Preferences => Security => General tab and check the "Automatically update safe downloads list". If you ever want to update your list, just uncheck / recheck the option.
 
-![XProtect]({{ site.url }}/images/2011/11/XProtect.png)
+![XProtect]({{ site.url }}/assets/images/2011/11/XProtect.png)
 
 (Notice, my settings may look different from yours as I have FileVault enabled along with other MCX settings. The safe downloads list is what's important for this article.)
 

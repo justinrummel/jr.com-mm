@@ -10,14 +10,14 @@ tags:
     - Multisport
     - VTS/MTS
 header:
-    image: 2016/05/15/Kinetic-Header.jpg				# Twitter (use 'teaser')
-    overlay_image: 2016/05/15/Kinetic-Header.jpg		# Article header at 2048x768
+    image: /assets/images/2016/05/15/Kinetic-Header.jpg				# Twitter (use 'teaser')
+    overlay_image: /assets/images/2016/05/15/Kinetic-Header.jpg		# Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2016/05/15/Kinetic-Header-Twitter.jpg 		# Shrink image to 575 width
+    teaser: /assets/images/2016/05/15/Kinetic-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 
-<p class="align-left"><a href="{{ site.url }}/images/2016/05/15/Kinetic-1.jpg"><img src="{{ site.url }}/images/2016/05/15/Kinetic-1sm.jpg" /></a></p>There are simply too many words to describe the past couple of months, but the end result is I finally finished my first "Half" (70.3 mile) triathlon.  Mental toughness is required, as the numerous temptations to quit continuously 'punch you in the face': between drinking five gallons of water during the swim, the soreness of your legs and your "saddle" area while cycling 56 miles, or on the run where everyone simply looks beat down... trying to muster enough strength to finish their half marathon.  Knowing that I was able to overcome all of those and cross the finish line was great (plus there was free pizza and a finishers medal).
+<p class="align-left"><a href="{{ site.url }}/assets/images/2016/05/15/Kinetic-1.jpg"><img src="{{ site.url }}/assets/images/2016/05/15/Kinetic-1sm.jpg" /></a></p>There are simply too many words to describe the past couple of months, but the end result is I finally finished my first "Half" (70.3 mile) triathlon.  Mental toughness is required, as the numerous temptations to quit continuously 'punch you in the face': between drinking five gallons of water during the swim, the soreness of your legs and your "saddle" area while cycling 56 miles, or on the run where everyone simply looks beat down... trying to muster enough strength to finish their half marathon.  Knowing that I was able to overcome all of those and cross the finish line was great (plus there was free pizza and a finishers medal).
 
 {% include toc icon="gears" title="Race Review ToC" %}
 
@@ -53,7 +53,7 @@ Race Results
 
 #### Rankings
 
-<p class="align-right"><a href="{{ site.url }}/images/2016/05/15/Kinetic-2.jpg"><img src="{{ site.url }}/images/2016/05/15/Kinetic-2sm.jpg" /></a></p>
+<p class="align-right"><a href="{{ site.url }}/assets/images/2016/05/15/Kinetic-2.jpg"><img src="{{ site.url }}/assets/images/2016/05/15/Kinetic-2sm.jpg" /></a></p>
 
 - Overall: Placed 118th out of 476 (top 25% against some amazing athletes[^1]).
 - Gender: Placed 99th out of 282 (top 35%, but still the above applies).
@@ -65,17 +65,17 @@ Among the Male 40-44 category, I was able to be competitive, but that swim kille
 - Bike: Ranked 11th (the difference between 6th fastest cyclist and myself was 5 minutes and 12 seconds)
 - Run: Ranked 11th (the difference between 6th fastest runner and myself was 3 minutes and 4 seconds)
 
-Oh, and pro tip... [you should really really really wear sunscreen]({{ site.url }}/images/2016/05/15/Kinetic-3sm.jpg)
+Oh, and pro tip... [you should really really really wear sunscreen]({{ site.url }}/assets/images/2016/05/15/Kinetic-3sm.jpg)
 
 
 
 #### Updated 2016-05-19 (Race Photos)
 
 <figure class="fourth">
-<a href="{{ site.url }}/images/2016/05/15/PRO-Kinetic-1.jpg"><img src="{{ site.url }}/images/2016/05/15/PRO-Kinetic-sm-1.jpg" /></a>
-<a href="{{ site.url }}/images/2016/05/15/PRO-Kinetic-2.jpg"><img src="{{ site.url }}/images/2016/05/15/PRO-Kinetic-sm-2.jpg" /></a>
-<a href="{{ site.url }}/images/2016/05/15/PRO-Kinetic-3.jpg"><img src="{{ site.url }}/images/2016/05/15/PRO-Kinetic-sm-3.jpg" /></a>
-<a href="{{ site.url }}/images/2016/05/15/PRO-Kinetic-4.jpg"><img src="{{ site.url }}/images/2016/05/15/PRO-Kinetic-sm-4.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/05/15/PRO-Kinetic-1.jpg"><img src="{{ site.url }}/assets/images/2016/05/15/PRO-Kinetic-sm-1.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/05/15/PRO-Kinetic-2.jpg"><img src="{{ site.url }}/assets/images/2016/05/15/PRO-Kinetic-sm-2.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/05/15/PRO-Kinetic-3.jpg"><img src="{{ site.url }}/assets/images/2016/05/15/PRO-Kinetic-sm-3.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/05/15/PRO-Kinetic-4.jpg"><img src="{{ site.url }}/assets/images/2016/05/15/PRO-Kinetic-sm-4.jpg" /></a>
 </figure>
 
 

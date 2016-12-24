@@ -9,10 +9,10 @@ tags:
     - Travel
     - New Mexico
 header:
-    image: 2011/03/29/5577339977_450d59686d_b-Header.jpg
-    overlay_image: 2011/03/29/5577339977_450d59686d_b-Header.jpg
+    image: /assets/images/2011/03/29/5577339977_450d59686d_b-Header.jpg
+    overlay_image: /assets/images/2011/03/29/5577339977_450d59686d_b-Header.jpg
     overlay_filter: 0.15
-    teaser: 2011/03/29/5577339977_450d59686d_b-Header-Twitter.jpg 		# Shrink image to 575 width
+    teaser: /assets/images/2011/03/29/5577339977_450d59686d_b-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 

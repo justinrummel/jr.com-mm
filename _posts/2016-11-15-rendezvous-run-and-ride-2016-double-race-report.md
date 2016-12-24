@@ -10,10 +10,10 @@ tags:
     - Multisport
     - EX2 Adventures
 header:
-    image: 2016/11/15/EX2-RR-Header.jpg			# Twitter (use 'overlay_image')
-    overlay_image: 2016/11/15/EX2-RR-Header.jpg		    # Article header at 2048x768
+    image: /assets/images/2016/11/15/EX2-RR-Header.jpg			# Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2016/11/15/EX2-RR-Header.jpg		    # Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2016/11/15/EX2-RR-Header-Twitter.jpg 		# Shrink image to 575 width
+    teaser: /assets/images/2016/11/15/EX2-RR-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Brian W. Knight**](http://www.swimbikerunphoto.com/about/)"
 ---
 Sometime early September I was looking for events that would complete my 2016 race calendar that was **NOT** a triathlon.  I had already lined up the 2nd annual [Family Duathlon][tin] and the family [5K charity run at Old Bust Head Brewing CO.][bust], but the one thing that was missing was my annual fall trip to visit my sister and her husband in Missouri for an adventure race.
@@ -26,7 +26,7 @@ There were two possible races in Missouri; [The Berryman Adventure][berryman] (n
 Run
 ---
 
-<p class="align-left"><a href="{{ site.url }}/images/2016/11/15/EX2-RR-LG-4.jpg"><img src="{{ site.url }}/images/2016/11/15/EX2-RR-SM-4.jpg" /></a></p>There were actually two trail runs scheduled for that morning; a 10k (which is what I chose) or 13.1 mile half marathon.
+<p class="align-left"><a href="{{ site.url }}/assets/images/2016/11/15/EX2-RR-LG-4.jpg"><img src="{{ site.url }}/assets/images/2016/11/15/EX2-RR-SM-4.jpg" /></a></p>There were actually two trail runs scheduled for that morning; a 10k (which is what I chose) or 13.1 mile half marathon.
 
 The half marathon started at 9 AM while the 10K runners started at 10:15 AM, so naturally I was there at 8 AM.  I don't know why I must be at the race event so early, but my nerves simply cannot handle being rushed in the morning as I cannot stand the feeling of being late... and I know I will forget something important (like my bike, or running shoes... or clothes).  On the positive side this allows me to hang out around "transition" to soak in the racer positive vibes at the event, and I must say EX2 people are awesome!  So laid back and more than happy to BS about nothing while we wait for the start of each event.
 
@@ -39,7 +39,7 @@ I ended up doing very well considering I had only ran twice throughout October, 
 Ride
 ---
 
-<p class="align-right"><a href="{{ site.url }}/images/2016/11/15/EX2-RR-LG-5.jpg"><img src="{{ site.url }}/images/2016/11/15/EX2-RR-SM-5.jpg" /></a></p>Once the run was over I had less than three hours to get food in my system, rehydrate, and relax before the mountain bike trail ride.  The previous weekend I went out for a practice ride on my new Scott Scale 930, and I instantly was concerned on how **NOT FAR** you go on a MTB compared to riding on the road for the same amount of elapsed time.  So now I'm headed for a race where I'm thinking I'll be climbing hills thrashing every joint in my body for almost three hours and mix if fear and adrenaline are blending together.
+<p class="align-right"><a href="{{ site.url }}/assets/images/2016/11/15/EX2-RR-LG-5.jpg"><img src="{{ site.url }}/assets/images/2016/11/15/EX2-RR-SM-5.jpg" /></a></p>Once the run was over I had less than three hours to get food in my system, rehydrate, and relax before the mountain bike trail ride.  The previous weekend I went out for a practice ride on my new Scott Scale 930, and I instantly was concerned on how **NOT FAR** you go on a MTB compared to riding on the road for the same amount of elapsed time.  So now I'm headed for a race where I'm thinking I'll be climbing hills thrashing every joint in my body for almost three hours and mix if fear and adrenaline are blending together.
 
 My race plan was simple, go strong (but not hard) on the first loop then step it up on the second loop because "that's where you make the money".  Naturally I tossed that out the window as soon as the race director sounded the horn to begin the ride as I was so pumped up to get things going.  I started off well just behind the lead pack feeling really good.  Since I had already surveyed 6 of the 9 miles of the loop during the run portion that morning I was slightly more confident vs. hitting the trails blindly.  Just as I was going up the first hill my calf cramped like I have not experienced before.  Needless to say; the rest of the ride continued one tragic setback after another which included: 
 
@@ -60,9 +60,9 @@ With the good run but a horrible ride, I [placed 7th out of the nine competitors
 #### Updated 2016-11-15 (Race Photos)
 
 <figure class="third">
-<a href="{{ site.url }}/images/2016/11/15/EX2-RR-LG-1.jpg"><img src="{{ site.url }}/images/2016/11/15/EX2-RR-SM-1.jpg" /></a>
-<a href="{{ site.url }}/images/2016/11/15/EX2-RR-LG-2.jpg"><img src="{{ site.url }}/images/2016/11/15/EX2-RR-SM-2.jpg" /></a>
-<a href="{{ site.url }}/images/2016/11/15/EX2-RR-LG-3.jpg"><img src="{{ site.url }}/images/2016/11/15/EX2-RR-SM-3.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/11/15/EX2-RR-LG-1.jpg"><img src="{{ site.url }}/assets/images/2016/11/15/EX2-RR-SM-1.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/11/15/EX2-RR-LG-2.jpg"><img src="{{ site.url }}/assets/images/2016/11/15/EX2-RR-SM-2.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/11/15/EX2-RR-LG-3.jpg"><img src="{{ site.url }}/assets/images/2016/11/15/EX2-RR-SM-3.jpg" /></a>
 <figcaption>Professional Pictures by Brian W. Knight/<a href="http://www.swimbikerunphoto.com/about/">Swim Bike Run Photography</a></figcaption>
 </figure>
 

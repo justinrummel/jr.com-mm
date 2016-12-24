@@ -22,7 +22,7 @@ VPN Settings (Advanced)
 
 When you configure VPN Settings (VPN Server, Authentication type, parameters, etc) via the JSS, the configuration part is easy and, more importantly, it works!  However, there are a few items that we could do that would really help the end user experience.
 
-![VPN Settings]({{ site.url }}/images/2015/02/19/VPN-Settings.png){: .align-right}
+![VPN Settings]({{ site.url }}/assets/images/2015/02/19/VPN-Settings.png){: .align-right}
 
 - Enable the VPN Menu Item at the top
 - Enable the "Show Time Connected" setting so people can see that their VPN session is established
@@ -92,7 +92,7 @@ This results in a nicely contained com.local.vpnSetup.mobileconfig file that has
 
 {% gist 0ac03f516bd3b81de5f6 %}
 
-Once you Create a new Configuration Profile in the JSS by <a href="{{ site.url }}/images/2015/02/19/Upload-JSS.png">uploading our new combined plist file</a>, we can then deploy to our test environment as demonstrated in this short video:
+Once you Create a new Configuration Profile in the JSS by <a href="{{ site.url }}/assets/images/2015/02/19/Upload-JSS.png">uploading our new combined plist file</a>, we can then deploy to our test environment as demonstrated in this short video:
 
 <iframe src="//player.vimeo.com/video/120099841?portrait=0" width="500" height="281" frameborder="0"> </iframe>
 
@@ -106,7 +106,7 @@ Resources
 Footnotes
 ---
 
-[^1]: I found these plist files by doing a little Google searching.  However, Casper Admins could also use [Composer with the "New and Modified Snapshot" method]({{ site.url }}/images/2015/02/19/Composer-New-Mod.png) to discover what files are changing when you "check a box".
+[^1]: I found these plist files by doing a little Google searching.  However, Casper Admins could also use [Composer with the "New and Modified Snapshot" method]({{ site.url }}/assets/images/2015/02/19/Composer-New-Mod.png) to discover what files are changing when you "check a box".
 [^2]: The keys "__NSEnableTSMDocumentWindowLevel" and "last-messagetrace-stamp" may be able to be removed along with the other menu items.  I did not remove these keys during my testing and the VPN Menu item and it's settings worked as desired.
 [^3]: This step is not required for JSS Admins as you will have the chance to rename it once you import the plist into your new Configuration Policy.
 

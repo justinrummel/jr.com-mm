@@ -9,10 +9,10 @@ tags:
     - Travel
     - Georgia
 header:
-    image: 2010/04/02/4485109609_84239932bf_o-Header.jpg
-    overlay_image: 2010/04/02/4485109609_84239932bf_o-Header.jpg
+    image: /assets/images/2010/04/02/4485109609_84239932bf_o-Header.jpg
+    overlay_image: /assets/images/2010/04/02/4485109609_84239932bf_o-Header.jpg
     overlay_filter: 0.15
-    teaser: 2010/04/02/4485109609_84239932bf_o-Header-Twitter.jpg 		# Shrink image to 575 width
+    teaser: /assets/images/2010/04/02/4485109609_84239932bf_o-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 

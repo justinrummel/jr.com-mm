@@ -8,14 +8,15 @@ categories:
     - "Race Report"
 tags:
     - Multisport
+    - Adventure Addicts Racing
     - Charlottesville Multisports
-    - VTS/MTS
     - Rev3
+    - VTS/MTS
 header:
-    image: 2016/06/12/Jamestown-Header.jpg			# Twitter (use 'overlay_image')
-    overlay_image: 2016/06/12/Jamestown-Header.jpg		    # Article header at 2048x768
+    image: /assets/images/2016/09/27/29681800390_4366dbecc9_k-Header.jpg            # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2016/09/27/29681800390_4366dbecc9_k-Header.jpg    # Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2016/06/12/Jamestown-Header-Twitter.jpg 		# Shrink image to 575 width
+    teaser: /assets/images/2016/09/27/29681800390_4366dbecc9_k-Header-Twitter.jpg   # Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 

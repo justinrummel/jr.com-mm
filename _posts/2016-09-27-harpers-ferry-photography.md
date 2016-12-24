@@ -11,10 +11,10 @@ tags:
     - Travel
     - "West Virginia"
 header:
-    image: 2016/09/27/29681800390_4366dbecc9_k-Header.jpg			# Twitter (use 'overlay_image')
-    overlay_image: 2016/09/27/29681800390_4366dbecc9_k-Header.jpg		    # Article header at 2048x768
+    image: /assets/images/2016/09/27/29681800390_4366dbecc9_k-Header.jpg			# Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2016/09/27/29681800390_4366dbecc9_k-Header.jpg		    # Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2016/09/27/29681800390_4366dbecc9_k-Header-Twitter.jpg 		# Shrink image to 575 width
+    teaser: /assets/images/2016/09/27/29681800390_4366dbecc9_k-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 
@@ -23,13 +23,13 @@ Over the weekend my parents decided drive the 600+ miles to visit us in Virginia
 While wondering around I took these pictures with my iPhone and felt like sharing.
 
 <figure class="third">
-<a href="{{ site.url }}/images/2016/09/27/Harpers-Ferry-LG-1.jpg"><img src="{{ site.url }}/images/2016/09/27/Harpers-Ferry-SM-1.jpg" alt="Harpers Ferry Picture 1" /></a>
-<a href="{{ site.url }}/images/2016/09/27/Harpers-Ferry-LG-4.jpg"><img src="{{ site.url }}/images/2016/09/27/Harpers-Ferry-SM-4.jpg" alt="Harpers Ferry Picture 4" /></a>
-<a href="{{ site.url }}/images/2016/09/27/Harpers-Ferry-LG-6.jpg"><img src="{{ site.url }}/images/2016/09/27/Harpers-Ferry-SM-6.jpg" alt="Harpers Ferry Picture 6" /></a>
+<a href="{{ site.url }}/assets/images/2016/09/27/Harpers-Ferry-LG-1.jpg"><img src="{{ site.url }}/assets/images/2016/09/27/Harpers-Ferry-SM-1.jpg" alt="Harpers Ferry Picture 1" /></a>
+<a href="{{ site.url }}/assets/images/2016/09/27/Harpers-Ferry-LG-4.jpg"><img src="{{ site.url }}/assets/images/2016/09/27/Harpers-Ferry-SM-4.jpg" alt="Harpers Ferry Picture 4" /></a>
+<a href="{{ site.url }}/assets/images/2016/09/27/Harpers-Ferry-LG-6.jpg"><img src="{{ site.url }}/assets/images/2016/09/27/Harpers-Ferry-SM-6.jpg" alt="Harpers Ferry Picture 6" /></a>
 </figure>
 <figure class="third">
-<a href="{{ site.url }}/images/2016/09/27/Harpers-Ferry-LG-2.jpg"><img src="{{ site.url }}/images/2016/09/27/Harpers-Ferry-SM-2.jpg" alt="Harpers Ferry Picture 2" /></a>
-<a href="{{ site.url }}/images/2016/09/27/Harpers-Ferry-LG-5.jpg"><img src="{{ site.url }}/images/2016/09/27/Harpers-Ferry-SM-5.jpg" alt="Harpers Ferry Picture 5" /></a>
+<a href="{{ site.url }}/assets/images/2016/09/27/Harpers-Ferry-LG-2.jpg"><img src="{{ site.url }}/assets/images/2016/09/27/Harpers-Ferry-SM-2.jpg" alt="Harpers Ferry Picture 2" /></a>
+<a href="{{ site.url }}/assets/images/2016/09/27/Harpers-Ferry-LG-5.jpg"><img src="{{ site.url }}/assets/images/2016/09/27/Harpers-Ferry-SM-5.jpg" alt="Harpers Ferry Picture 5" /></a>
 </figure>
 
 Footnotes

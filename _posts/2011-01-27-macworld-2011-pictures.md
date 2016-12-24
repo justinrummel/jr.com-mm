@@ -11,10 +11,10 @@ tags:
     - Travel
     - California
 header:
-    image: 2011/01/25/5390608139_91b9040554_b-Header.jpg
-    overlay_image: 2011/01/25/5390608139_91b9040554_b-Header.jpg
+    image: /assets/images/2011/01/25/5390608139_91b9040554_b-Header.jpg
+    overlay_image: /assets/images/2011/01/25/5390608139_91b9040554_b-Header.jpg
     overlay_filter: 0.15
-    teaser: 2011/01/25/5390608139_91b9040554_b-Header-Twitter.jpg 		# Shrink image to 575 width
+    teaser: /assets/images/2011/01/25/5390608139_91b9040554_b-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 

@@ -7,10 +7,10 @@ categories:
 tags:
     - Google
 header:
-    image: 2015/01/15/domainsblogpostimage.png					# Twitter (use 'overlay_image')
-    overlay_image: 2015/01/15/domainsblogpostimage.png		    # Article header at 2048x768
+    image: /assets/images/2015/01/15/domainsblogpostimage.png					# Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2015/01/15/domainsblogpostimage.png		    # Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2015/01/15/domainsblogpostimage_thumb.png 			# Shrink image to 575 width
+    teaser: /assets/images/2015/01/15/domainsblogpostimage_thumb.png 			# Shrink image to 575 width
     caption: "Photo credit: [**Google**](http://google.com)"
 ---
 
@@ -48,9 +48,9 @@ Process Review
 - **Officially migrating the domain** - This is where things get interesting.  Google has to send the request to your current registrar, who then (usually) sends you an email to immediately approve, cancel, or ignore which will then fully process in about 5 days (depends on your registrar's process).  Needless to say it could be a couple of hours, or days to complete.
 
 <figure>
-<a href="{{ site.url }}/images/2014/12/30/1-Ready.png"><img src="{{ site.url }}/images/2014/12/30/1-Ready_480.png" alt="1-Ready" title="1-Ready" /></a><br />
-<a href="{{ site.url }}/images/2014/12/30/2-Set.png"><img src="{{ site.url }}/images/2014/12/30/2-Set_480.png" alt="2-Set" title="2-Set" /></a><br />
-<a href="{{ site.url }}/images/2014/12/30/3-Transfer.png"><img src="{{ site.url }}/images/2014/12/30/3-Transfer_480.png" alt="3-Transfer" title="3-Transfer" /></a>
+<a href="{{ site.url }}/assets/images/2014/12/30/1-Ready.png"><img src="{{ site.url }}/assets/images/2014/12/30/1-Ready_480.png" alt="1-Ready" title="1-Ready" /></a><br />
+<a href="{{ site.url }}/assets/images/2014/12/30/2-Set.png"><img src="{{ site.url }}/assets/images/2014/12/30/2-Set_480.png" alt="2-Set" title="2-Set" /></a><br />
+<a href="{{ site.url }}/assets/images/2014/12/30/3-Transfer.png"><img src="{{ site.url }}/assets/images/2014/12/30/3-Transfer_480.png" alt="3-Transfer" title="3-Transfer" /></a>
 </figure>
 
 Results
@@ -61,8 +61,8 @@ I have to say I'm impressed that Google found all my custom A, MX, CNAME, and TX
 There is a GREAT tool in the Advance section for Google Apps for your Domain (Business/EDU/GOV) that generates the necessary CNAME, MX etc needed for those type of domains. It is a simple dropdown and review two checkboxes to enable. It will also pre-validate to make sure you are not creating any duplicates or conflicting records. In addition you can select to create an App Engine subdomain that points to your Engine ID to quickly create the needed records.
 
 <figure>
-<a href="{{ site.url }}/images/2014/12/30/4-GAFYD.png"><img src="{{ site.url }}/images/2014/12/30/4-GAFYD_480.png" alt="4-GAFYD" title="4-GAFYD" /></a><br />
-<a href="{{ site.url }}/images/2014/12/30/5-AppEng.png"><img src="{{ site.url }}/images/2014/12/30/5-AppEng_480.png" alt="5-AppEng" title="5-AppEng" /></a>
+<a href="{{ site.url }}/assets/images/2014/12/30/4-GAFYD.png"><img src="{{ site.url }}/assets/images/2014/12/30/4-GAFYD_480.png" alt="4-GAFYD" title="4-GAFYD" /></a><br />
+<a href="{{ site.url }}/assets/images/2014/12/30/5-AppEng.png"><img src="{{ site.url }}/assets/images/2014/12/30/5-AppEng_480.png" alt="5-AppEng" title="5-AppEng" /></a>
 </figure>
 
 "One more thing"

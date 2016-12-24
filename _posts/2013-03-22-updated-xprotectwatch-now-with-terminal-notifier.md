@@ -11,7 +11,7 @@ tags:
 ---
 
 ### XProtectWatch 1.1.0 (now with terminal-notifier support)
-![XProtectWatch]({{ site.url }}/images/2013/03/22/XProtectWatch-Notification.png){: .align-right}
+![XProtectWatch]({{ site.url }}/assets/images/2013/03/22/XProtectWatch-Notification.png){: .align-right}
 I have updated [XProtectWatch][XProtectWatch] to now utilize [terminal-notifier][terminal-notifier] "a command-line tool to send Mac OS X User Notifications, which are available in Mac OS X 10.8".  To install terminal-notifier is pretty simple, as I have also created a ```terminal-notifier.sh``` script that you can run that will download the latest [terminal-notifier zip file][dl] from github.com, unzip, and move to your /Applications folder (where my script expect terminal-notifier to exist).
 
 ### rollBack (hack)

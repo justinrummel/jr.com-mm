@@ -79,7 +79,7 @@ Installer
 
 - /var/log/install.log
 
-![PKG Icon]({{ site.url }}/images/2013/03/11/PKG_128.png){: .align-right}
+![PKG Icon]({{ site.url }}/assets/images/2013/03/11/PKG_128.png){: .align-right}
 Did you just double click a ".pkg" file (or something that looks like a stick of butter in a box)?  The actions of that installation are recorded here.  You could also install items by using the ```installer``` command (a scripting FYI).
 
 Open Directory

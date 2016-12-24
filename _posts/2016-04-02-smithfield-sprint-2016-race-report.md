@@ -10,10 +10,10 @@ tags:
     - Multisport
     - VTS/MTS
 header:
-    image: 2016/04/02/Header.jpg				# Twitter (use 'teaser')
-    overlay_image: 2016/04/02/Header.jpg		# Article header at 2048x768
+    image: /assets/images/2016/04/02/Header.jpg				# Twitter (use 'teaser')
+    overlay_image: /assets/images/2016/04/02/Header.jpg		# Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2016/04/02/Header-Twitter.jpg 		# Shrink image to 575 width
+    teaser: /assets/images/2016/04/02/Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 
@@ -47,7 +47,7 @@ Now that I've began the race (officially starting at 11:41.45), here are my thou
 
 #### Post Race
 
-![Smithfield Sprint 2016]({{ site.url }}/images/2016/04/02/Smithfield-2016-3_256.jpg)
+![Smithfield Sprint 2016]({{ site.url }}/assets/images/2016/04/02/Smithfield-2016-3_256.jpg)
 {: .align-left}
 
 After the race we were served some excellent Carolina Style BBQ (as there was no sauce but only a hint of vinegar) with some beans and slaw.  The Speed Sherpa team found each other and shared some highs and lows (one crashed) from each other's race experience, but quickly knew that one of the "sherpettes" was going to place in the top three of her age category.  I decided to stick around so I could snap a picture of her on the podium, while she waited for the remaining racers to crossed finish line.  Little did I know I placed third!  I'm really surprised by this as I know VTS/MTS has some excellent racers and the Male 40-44 category is one of the toughest to compete (hello fellow mid life crisis friends).  When I was looking at the results for my category, I thought I was fifth vs. third.  What I then later discovered was the gender/age categories did not separate out the "Masters" and Aqua Bike racers.
@@ -59,7 +59,7 @@ Race Results
 
 #### Rankings
 
-![Smithfield Sprint 2016]({{ site.url }}/images/2016/04/02/Smithfield-2016-2_256.jpg)
+![Smithfield Sprint 2016]({{ site.url }}/assets/images/2016/04/02/Smithfield-2016-2_256.jpg)
 {: .align-right}
 
 - Overall: Placed 80 out of 521 (top 15%, and that is with College kids race teams and "Masters" (Age Group Pros) catgory).
@@ -86,9 +86,9 @@ If you want accurate pace info for races, I've been using Running Free Online's 
 #### Updated 2016-04-05 (Race Photos)
 
 <figure class="third">
-<a href="{{ site.url }}/images/2016/04/05/SMI_S1321_800.jpg"><img src="{{ site.url }}/images/2016/04/05/SMI_S1321_256.jpg" /></a>
-<a href="{{ site.url }}/images/2016/04/05/SMI_B2587_800.jpg"><img src="{{ site.url }}/images/2016/04/05/SMI_B2587_256.jpg" /></a>
-<a href="{{ site.url }}/images/2016/04/05/SMI_R3582_800.jpg"><img src="{{ site.url }}/images/2016/04/05/SMI_R3582_256.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/04/05/SMI_S1321_800.jpg"><img src="{{ site.url }}/assets/images/2016/04/05/SMI_S1321_256.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/04/05/SMI_B2587_800.jpg"><img src="{{ site.url }}/assets/images/2016/04/05/SMI_B2587_256.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/04/05/SMI_R3582_800.jpg"><img src="{{ site.url }}/assets/images/2016/04/05/SMI_R3582_256.jpg" /></a>
 </figure>
 
 Footnotes

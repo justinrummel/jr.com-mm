@@ -19,14 +19,14 @@ In my previous article [Resizing a VMware Fusion Ubuntu Server Virtual Hard Driv
 - Password
 
 <figure>
-	<a href="{{ site.url }}/images/2015/02/06/HardVHD-1.png"><img src="{{ site.url }}/images/2015/02/06/HardVHD-1_800.png" alt="HardVHD 1"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/06/HardVHD-1.png"><img src="{{ site.url }}/assets/images/2015/02/06/HardVHD-1_800.png" alt="HardVHD 1"></a>
 	<figcaption>Red pill, or blue pill?</figcaption>
 </figure>
 
 By deselecting the "Use Easy Install" checkbox, you will be required to walk through the OS install setup just like if you were loading a physical CD into a physical machine.  One of the steps during the setup assistant for Ubuntu Server is partitioning your Hard Drive which has a default value of "Guided - use entire disk and set up LVM".
 
 <figure>
-	<a href="{{ site.url }}/images/2015/02/06/HardVHD-2.png"><img src="{{ site.url }}/images/2015/02/06/HardVHD-2_800.png" alt="HardVHD 1"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/06/HardVHD-2.png"><img src="{{ site.url }}/assets/images/2015/02/06/HardVHD-2_800.png" alt="HardVHD 1"></a>
 </figure>
 
 LVM stands for Logicial Volume Management.  I found the <s>best</s> quickest explanation for why you would want an LVM environment in the Ask Ubuntu forums:
@@ -175,20 +175,20 @@ First thing we need configure to increase the disk space of our VM is by using t
 - Quit
 
 <figure class="half">
-	<a href="{{ site.url }}/images/2015/02/06/HardVHD-4.png"><img src="{{ site.url }}/images/2015/02/06/HardVHD-4_256.png" alt="HardVHD 2"></a>
-	<a href="{{ site.url }}/images/2015/02/06/HardVHD-5.png"><img src="{{ site.url }}/images/2015/02/06/HardVHD-5_256.png" alt="HardVHD 3"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/06/HardVHD-4.png"><img src="{{ site.url }}/assets/images/2015/02/06/HardVHD-4_256.png" alt="HardVHD 2"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/06/HardVHD-5.png"><img src="{{ site.url }}/assets/images/2015/02/06/HardVHD-5_256.png" alt="HardVHD 3"></a>
 </figure>
 <figure class="half">
-	<a href="{{ site.url }}/images/2015/02/06/HardVHD-6.png"><img src="{{ site.url }}/images/2015/02/06/HardVHD-6_256.png" alt="HardVHD 2"></a>
-	<a href="{{ site.url }}/images/2015/02/06/HardVHD-7.png"><img src="{{ site.url }}/images/2015/02/06/HardVHD-7_256.png" alt="HardVHD 3"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/06/HardVHD-6.png"><img src="{{ site.url }}/assets/images/2015/02/06/HardVHD-6_256.png" alt="HardVHD 2"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/06/HardVHD-7.png"><img src="{{ site.url }}/assets/images/2015/02/06/HardVHD-7_256.png" alt="HardVHD 3"></a>
 </figure>
 <figure class="half">
-	<a href="{{ site.url }}/images/2015/02/06/HardVHD-8.png"><img src="{{ site.url }}/images/2015/02/06/HardVHD-8_256.png" alt="HardVHD 2"></a>
-	<a href="{{ site.url }}/images/2015/02/06/HardVHD-9.png"><img src="{{ site.url }}/images/2015/02/06/HardVHD-9_256.png" alt="HardVHD 3"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/06/HardVHD-8.png"><img src="{{ site.url }}/assets/images/2015/02/06/HardVHD-8_256.png" alt="HardVHD 2"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/06/HardVHD-9.png"><img src="{{ site.url }}/assets/images/2015/02/06/HardVHD-9_256.png" alt="HardVHD 3"></a>
 </figure>
 <figure class="half">
-	<a href="{{ site.url }}/images/2015/02/06/HardVHD-10.png"><img src="{{ site.url }}/images/2015/02/06/HardVHD-10_256.png" alt="HardVHD 2"></a>
-	<a href="{{ site.url }}/images/2015/02/06/HardVHD-11.png"><img src="{{ site.url }}/images/2015/02/06/HardVHD-11_256.png" alt="HardVHD 3"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/06/HardVHD-10.png"><img src="{{ site.url }}/assets/images/2015/02/06/HardVHD-10_256.png" alt="HardVHD 2"></a>
+	<a href="{{ site.url }}/assets/images/2015/02/06/HardVHD-11.png"><img src="{{ site.url }}/assets/images/2015/02/06/HardVHD-11_256.png" alt="HardVHD 3"></a>
 </figure>
 
 

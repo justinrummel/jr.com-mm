@@ -12,10 +12,10 @@ tags:
     - DNS
     - JSS
 header:
-    image: 2015/01/20/casper-suite-cropped.jpg     # Twitter (use 'overlay_image')
-    overlay_image: 2015/01/20/casper-suite-cropped.jpg       # Article header at 2048x768
+    image: /assets/images/2015/01/20/casper-suite-cropped.jpg     # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2015/01/20/casper-suite-cropped.jpg       # Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2015/01/20/casper-suite-cropped-Twitter.jpg    # Shrink image to 575 width
+    teaser: /assets/images/2015/01/20/casper-suite-cropped-Twitter.jpg    # Shrink image to 575 width
     caption: "Photo credit: [**JAMF Software**](http://www.jamfsoftware.com/products/)"
 ---
 
@@ -33,7 +33,7 @@ First, we're going to do some simple network debugging that I usually perform on
 All VMs are essentially on the same isolated network as I have configured each VM to use "NAT" for their Network Settings.  My AD server's [FQDN][fqdn] is ```dc01.pretend.co``` with an IP address of ```192.168.204.10/24``` while my JSS server's FQDN is ```jss.pretend.co``` with the static IP address of ```192.168.204.11/24``` and the gateway (my laptop) is ```192.168.204.2/24```.  I've configured my test AD server to have the domain of "PRETEND" and it is also providing DNS (forwarding to the gateway), and both the JSS and "Admin Station" are pointing to the AD server for DNS lookups.
 
 <figure>
-<a href="{{ site.url }}/images/2015/01/20/TestSetup.png"><img src="{{ site.url }}/images/2015/01/20/TestSetup_800.png" title="" /></a>
+<a href="{{ site.url }}/assets/images/2015/01/20/TestSetup.png"><img src="{{ site.url }}/assets/images/2015/01/20/TestSetup_800.png" title="" /></a>
 </figure>
 
 Debugging DNS overview
@@ -146,20 +146,20 @@ When the Active Directory LDAP setup assistant works, it's great!  Just remember
 - Have two test AD accounts ready where one user is known to be in a group and not in another (like yourself and another employee that is NOT in IT).  We'll test to make sure the lookups are displaying the correct user info and group membership.
 
 <figure class="half">
-<a href="{{ site.url }}/images/2015/01/20/1-LDAP-Setup.png"><img src="{{ site.url }}/images/2015/01/20/1-LDAP-Setup_256.png" title="" /></a>
-<a href="{{ site.url }}/images/2015/01/20/2-LDAP-Setup.png"><img src="{{ site.url }}/images/2015/01/20/2-LDAP-Setup_256.png" title="" /></a>
+<a href="{{ site.url }}/assets/images/2015/01/20/1-LDAP-Setup.png"><img src="{{ site.url }}/assets/images/2015/01/20/1-LDAP-Setup_256.png" title="" /></a>
+<a href="{{ site.url }}/assets/images/2015/01/20/2-LDAP-Setup.png"><img src="{{ site.url }}/assets/images/2015/01/20/2-LDAP-Setup_256.png" title="" /></a>
 </figure>
 <figure class="half">
-<a href="{{ site.url }}/images/2015/01/20/3-LDAP-Setup.png"><img src="{{ site.url }}/images/2015/01/20/3-LDAP-Setup_256.png" title="" /></a>
-<a href="{{ site.url }}/images/2015/01/20/4-LDAP-Setup.png"><img src="{{ site.url }}/images/2015/01/20/4-LDAP-Setup_256.png" title="" /></a>
+<a href="{{ site.url }}/assets/images/2015/01/20/3-LDAP-Setup.png"><img src="{{ site.url }}/assets/images/2015/01/20/3-LDAP-Setup_256.png" title="" /></a>
+<a href="{{ site.url }}/assets/images/2015/01/20/4-LDAP-Setup.png"><img src="{{ site.url }}/assets/images/2015/01/20/4-LDAP-Setup_256.png" title="" /></a>
 </figure>
 <figure class="half">
-<a href="{{ site.url }}/images/2015/01/20/6-LDAP-Setup.png"><img src="{{ site.url }}/images/2015/01/20/6-LDAP-Setup_256.png" title="" /></a>
-<a href="{{ site.url }}/images/2015/01/20/7-LDAP-Setup.png"><img src="{{ site.url }}/images/2015/01/20/7-LDAP-Setup_256.png" title="" /></a>
+<a href="{{ site.url }}/assets/images/2015/01/20/6-LDAP-Setup.png"><img src="{{ site.url }}/assets/images/2015/01/20/6-LDAP-Setup_256.png" title="" /></a>
+<a href="{{ site.url }}/assets/images/2015/01/20/7-LDAP-Setup.png"><img src="{{ site.url }}/assets/images/2015/01/20/7-LDAP-Setup_256.png" title="" /></a>
 </figure>
 <figure class="half">
-<a href="{{ site.url }}/images/2015/01/20/8-LDAP-Setup.png"><img src="{{ site.url }}/images/2015/01/20/8-LDAP-Setup_256.png" title="" /></a>
-<a href="{{ site.url }}/images/2015/01/20/9-LDAP-Setup.png"><img src="{{ site.url }}/images/2015/01/20/9-LDAP-Setup_256.png" title="" /></a>
+<a href="{{ site.url }}/assets/images/2015/01/20/8-LDAP-Setup.png"><img src="{{ site.url }}/assets/images/2015/01/20/8-LDAP-Setup_256.png" title="" /></a>
+<a href="{{ site.url }}/assets/images/2015/01/20/9-LDAP-Setup.png"><img src="{{ site.url }}/assets/images/2015/01/20/9-LDAP-Setup_256.png" title="" /></a>
 </figure>
 
 JSS LDAP Setup - Manual
@@ -176,16 +176,16 @@ Key items to look for are:
 - The group Mappings have the same issues as User Mappings.  You may need to move it to ```dc=domain,dc=tld``` and it will take longer.
 
 <figure class="half">
-<a href="{{ site.url }}/images/2015/01/20/10-LDAP-Setup.png"><img src="{{ site.url }}/images/2015/01/20/10-LDAP-Setup_256.png" title="" /></a>
-<a href="{{ site.url }}/images/2015/01/20/11-LDAP-Setup.png"><img src="{{ site.url }}/images/2015/01/20/11-LDAP-Setup_256.png" title="" /></a>
+<a href="{{ site.url }}/assets/images/2015/01/20/10-LDAP-Setup.png"><img src="{{ site.url }}/assets/images/2015/01/20/10-LDAP-Setup_256.png" title="" /></a>
+<a href="{{ site.url }}/assets/images/2015/01/20/11-LDAP-Setup.png"><img src="{{ site.url }}/assets/images/2015/01/20/11-LDAP-Setup_256.png" title="" /></a>
 </figure>
 <figure class="half">
-<a href="{{ site.url }}/images/2015/01/20/12-LDAP-Setup.png"><img src="{{ site.url }}/images/2015/01/20/12-LDAP-Setup_256.png" title="" /></a>
-<a href="{{ site.url }}/images/2015/01/20/13-LDAP-Setup.png"><img src="{{ site.url }}/images/2015/01/20/13-LDAP-Setup_256.png" title="" /></a>
+<a href="{{ site.url }}/assets/images/2015/01/20/12-LDAP-Setup.png"><img src="{{ site.url }}/assets/images/2015/01/20/12-LDAP-Setup_256.png" title="" /></a>
+<a href="{{ site.url }}/assets/images/2015/01/20/13-LDAP-Setup.png"><img src="{{ site.url }}/assets/images/2015/01/20/13-LDAP-Setup_256.png" title="" /></a>
 </figure>
 <figure class="half">
-<a href="{{ site.url }}/images/2015/01/20/14-LDAP-Setup.png"><img src="{{ site.url }}/images/2015/01/20/14-LDAP-Setup_256.png" title="" /></a>
-<a href="{{ site.url }}/images/2015/01/20/15-LDAP-Setup.png"><img src="{{ site.url }}/images/2015/01/20/15-LDAP-Setup_256.png" title="" /></a>
+<a href="{{ site.url }}/assets/images/2015/01/20/14-LDAP-Setup.png"><img src="{{ site.url }}/assets/images/2015/01/20/14-LDAP-Setup_256.png" title="" /></a>
+<a href="{{ site.url }}/assets/images/2015/01/20/15-LDAP-Setup.png"><img src="{{ site.url }}/assets/images/2015/01/20/15-LDAP-Setup_256.png" title="" /></a>
 </figure>
 
 [ee1b345d578dce338b39]: https://gist.github.com/justinrummel/ee1b345d578dce338b39

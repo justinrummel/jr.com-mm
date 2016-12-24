@@ -11,10 +11,10 @@ tags:
     - Bonk Hard Racing
     - "Orienteering"
 header:
-    image: 2014/10/18/IMG_1488.jpg				# Twitter (use 'teaser')
-    overlay_image: 2014/10/18/IMG_1488.jpg		# Article header at 2048x768
+    image: /assets/images/2014/10/18/IMG_1488.jpg				# Twitter (use 'teaser')
+    overlay_image: /assets/images/2014/10/18/IMG_1488.jpg		# Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2014/10/18/IMG_1488-Twitter.jpg 		# Shrink image to 575 width
+    teaser: /assets/images/2014/10/18/IMG_1488-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Mary Welter**](http://bonkhardracing.com/Photos2014P10/MWFinish/content/IMG_1488_large.html)"
 ---
 

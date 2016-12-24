@@ -10,10 +10,10 @@ tags:
     - MacIT
     - California
 header:
-    image: 2009/01/05/4152178346_52ebb5e910_b-Header.jpg
-    overlay_image: 2009/01/05/4152178346_52ebb5e910_b-Header.jpg
+    image: /assets/images/2009/01/05/4152178346_52ebb5e910_b-Header.jpg
+    overlay_image: /assets/images/2009/01/05/4152178346_52ebb5e910_b-Header.jpg
     overlay_filter: 0.15
-    teaser: 2009/01/05/4152178346_52ebb5e910_b-Header-Twitter.jpg 		# Shrink image to 575 width
+    teaser: /assets/images/2009/01/05/4152178346_52ebb5e910_b-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 

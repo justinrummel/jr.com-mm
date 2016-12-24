@@ -10,10 +10,10 @@ tags:
     - Multisport
     - Rev3
 header:
-    image: 2016/06/19/Montclair-Header.jpg				# Twitter (use 'teaser')
-    overlay_image: 2016/06/19/Montclair-Header.jpg		# Article header at 2048x768
+    image: /assets/images/2016/06/19/Montclair-Header.jpg				# Twitter (use 'teaser')
+    overlay_image: /assets/images/2016/06/19/Montclair-Header.jpg		# Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2016/06/19/Montclair-Header-Twitter.jpg 		# Shrink image to 575 width
+    teaser: /assets/images/2016/06/19/Montclair-Header-Twitter.jpg 		# Shrink image to 575 width
     caption: "Photo credit: [**Colleen Rummel**](https://www.wineplz.com)"
 ---
 
@@ -27,5 +27,5 @@ The main goal of this race was **fun**!  So, no post-race thoughts... no section
 Last but not least, I had a pretty awesome private cheering section.
 
 <figure>
-<p class="align-center"><a href="{{ site.url }}/images/2016/06/19/Montclair-lg1.jpg"><img src="{{ site.url }}/images/2016/06/19/Montclair-md1.jpg" /></a></p>
+<p class="align-center"><a href="{{ site.url }}/assets/images/2016/06/19/Montclair-lg1.jpg"><img src="{{ site.url }}/assets/images/2016/06/19/Montclair-md1.jpg" /></a></p>
 </figure>

@@ -46,13 +46,13 @@ Solutions
 
 There are a couple of solutions for a Switcher, it just depends on what they want to perform:
 
-![Grab Screen Caputre Options]({{ site.url }}/images/2013/02/24/Grab-ScreenCapture.png){: .align-right}
+![Grab Screen Caputre Options]({{ site.url }}/assets/images/2013/02/24/Grab-ScreenCapture.png){: .align-right}
 
 - Grab; You can place the Grab Application (in the Utilities folder) in the dock and let the 'switcher' know that anytime (s)he needs to take a screenshot, just start this application as there are plenty of options in the Capture dropdown menu option.
 
 - Preview; if your 'switcher' want to modify the files such as placing text or arrows on the screen shot, Preview may be a good choice as you can use the File => Take Screen Shot menu option and use Previews Annotate options under the Tools menu dropdown.
 
-![Preview Screen Capture Options]({{ site.url }}/images/2013/02/24/Preview-ScreenCapture.png){: .align-center}
+![Preview Screen Capture Options]({{ site.url }}/assets/images/2013/02/24/Preview-ScreenCapture.png){: .align-center}
 
 - Automator; This requires a little work for yourself, but it solve two things that I didn't like about the other two options:
 

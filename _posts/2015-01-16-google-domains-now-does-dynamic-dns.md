@@ -9,10 +9,10 @@ categories:
 tags:
     - Google
 header:
-    image: 2015/01/15/domainsblogpostimage.png					# Twitter (use 'overlay_image')
-    overlay_image: 2015/01/15/domainsblogpostimage.png		    # Article header at 2048x768
+    image: /assets/images/2015/01/15/domainsblogpostimage.png					# Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2015/01/15/domainsblogpostimage.png		    # Article header at 2048x768
     overlay_filter: 0.15
-    teaser: 2015/01/15/domainsblogpostimage_thumb.png 			# Shrink image to 575 width
+    teaser: /assets/images/2015/01/15/domainsblogpostimage_thumb.png 			# Shrink image to 575 width
     caption: "Photo credit: [**Google**](http://google.com)"
 ---
 
@@ -33,13 +33,13 @@ Here’s a list of the updates:
 It's that last bullet that I'm excited about, Dynamic DNS!  I logged into my account to searched around for the new Dynamic DNS interface and couldn't find the right location.  Since googleing "Google Domains" is somewhat pointless in returning decent results (much like OSX's security command), I did [what I thought was the unthinkable]({{ site.url}}/i-moved-my-domains-to-google-domains-and-you-wont-believe-what-happened-next/) and used Google Domains [new support chat feature][chat]!  I was directed to review the DNS Section, then "Synthetic records" area for a new added dropdown option for Dynamic DNS.
 
 <figure>
-<a href="{{ site.url }}/images/2015/01/15/Google-DynDNS-Add.png"><img src="{{ site.url }}/images/2015/01/15/Google-DynDNS-Add_800.png" alt="Add Google Domains" title="Add Google Domains" /></a>
+<a href="{{ site.url }}/assets/images/2015/01/15/Google-DynDNS-Add.png"><img src="{{ site.url }}/assets/images/2015/01/15/Google-DynDNS-Add_800.png" alt="Add Google Domains" title="Add Google Domains" /></a>
 </figure>
 
 From there you can define a subdomain (or "@" wildcard would work as well) and Google will provide you with a new 16 character randomly generated unique username and password.  You must then configure your DynDNS application of choice (such as DDclient and INADYN) to use these values.  [Google has a support page that explains how to configure these settings][dyndns-setup].
 
 <figure>
-<a href="{{ site.url }}/images/2015/01/15/Google-DynDNS-Configure.png"><img src="{{ site.url }}/images/2015/01/15/Google-DynDNS-Configure_800.png" alt="Add Google Domains" title="Add Google Domains" /></a>
+<a href="{{ site.url }}/assets/images/2015/01/15/Google-DynDNS-Configure.png"><img src="{{ site.url }}/assets/images/2015/01/15/Google-DynDNS-Configure_800.png" alt="Add Google Domains" title="Add Google Domains" /></a>
 </figure>
 
 Unfortunately, my Verizon FiOS router does not have a setting for Google Domains (can't complain since it was *JUST* released), but I will be sending a feature request through my "inside resources".

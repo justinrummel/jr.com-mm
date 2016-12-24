@@ -9,10 +9,10 @@ tags:
     - Photography
     - California
 header:
-    image: 2011/11/30/6316948932_1b91502b98_o-Header.jpg
-    overlay_image: 2011/11/30/6316948932_1b91502b98_o-Header.jpg
+    image: /assets/images/2011/11/30/6316948932_1b91502b98_o-Header.jpg
+    overlay_image: /assets/images/2011/11/30/6316948932_1b91502b98_o-Header.jpg
     overlay_filter: 0.15
-    teaser: 2011/11/30/6316948932_1b91502b98_o-Header-Twitter.jpg         # Shrink image to 575 width
+    teaser: /assets/images/2011/11/30/6316948932_1b91502b98_o-Header-Twitter.jpg         # Shrink image to 575 width
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 
