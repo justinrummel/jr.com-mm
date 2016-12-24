@@ -119,15 +119,9 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll (~> 3.3.0)
   jekyll-archives
-  jekyll-feed
-  jekyll-gist
   jekyll-lunr-js-search
-  jekyll-paginate
-  jekyll-sitemap
   jekyll-twitter-plugin
-  jemoji
   json
   minimal-mistakes-jekyll
   octopress
