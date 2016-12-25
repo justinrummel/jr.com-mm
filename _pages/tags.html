@@ -24,7 +24,7 @@ exclude_from_search: true
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
   {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
 	<article>
-	<h2 id="{{ this_word | slugify | downcase }}"><a href="{{ this_word | slugify | downcase }}">{{ this_word }}</a></h2>
+	<h2 id="{{ this_word | slugify | downcase }}" class="archive__subtitle"><a href="{{ this_word | slugify | downcase }}">{{ this_word }}</a></h2>
 		<ul>
     {% for post in site.tags[this_word] %}{% if post.title != null %}
       <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
