@@ -28,7 +28,7 @@ exclude_from_search: true
 {% for category in group_names %}
   {% assign posts = group_items[forloop.index0] %}
   <article>
-  <h2 id="{{ category | slugify | downcase }}" class="archive__subtitle">{{ category }}</h2>
+  <h2 id="{{ category | slugify | downcase }}" class="archive__subtitle"><a href="{{ category | slugify | downcase }}">{{ category }}</a></h2>
   <ul>
   	{% for post in posts %}{% if post.title != null %}
       <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
