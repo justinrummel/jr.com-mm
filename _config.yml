@@ -116,6 +116,7 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - "*.gemspec"
   - vendor
   - .asset-cache
   - .bundle
@@ -185,6 +186,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-minifier
   - jekyll-lunr-js-search
   - jemoji
 
@@ -232,7 +234,7 @@ compress_html:
   clippings: all
   blanklines: true
   ignore:
-    envs: development
+    envs: production
 
 
 # https://mmistakes.github.io/minimal-mistakes/docs/installation/
@@ -250,16 +252,24 @@ defaults:
       share: false
       related: true
 
+
+# https://github.com/digitalsparky/jekyll-minifier
+jekyll-minifier:
+  exclude: '*.html'
+
 # Default extensions
 post_ext: md
 page_ext: md
 photos_ext: md
+
 
 # Found in _templates/
 post_layout: post
 page_layout: page
 page_layout: photos
 
+
+# Lunr https://github.com/slashdotdash/jekyll-lunr-js-search
 lunr_search:
-  js_dir: "assets/js/lunr"
+  js_dir: "/assets/js/lunr"
   min_length: 3
