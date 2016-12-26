@@ -186,7 +186,6 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jekyll-minifier
   - jekyll-lunr-js-search
   - jemoji
 
@@ -252,10 +251,6 @@ defaults:
       share: false
       related: true
 
-
-# https://github.com/digitalsparky/jekyll-minifier
-jekyll-minifier:
-  exclude: '*.html'
 
 # Default extensions
 post_ext: md

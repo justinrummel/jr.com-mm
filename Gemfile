@@ -27,7 +27,6 @@ group :jekyll_plugins do
   gem 'octopress'
   gem 'jekyll-archives'
   gem 'jekyll-twitter-plugin'
-  gem 'jekyll-minifier'
   gem 'jekyll-lunr-js-search'
 #  gem 'jekyll-paginate'
 #  gem 'jekyll-sitemap'
