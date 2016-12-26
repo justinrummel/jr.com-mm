@@ -10,6 +10,8 @@ GEM
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
     colorator (1.1.0)
+    cssminify (1.0.2)
+    execjs (2.7.0)
     faraday (0.10.0)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.14)
@@ -19,6 +21,7 @@ GEM
     html-pipeline (2.4.2)
       activesupport (>= 2)
       nokogiri (>= 1.4)
+    htmlcompressor (0.3.1)
     i18n (0.7.0)
     jekyll (3.3.1)
       addressable (~> 2.4)
@@ -41,6 +44,11 @@ GEM
       json (~> 1.8)
       nokogiri (~> 1.6)
       therubyracer (~> 0.12)
+    jekyll-minifier (0.0.9)
+      cssminify (~> 1.0)
+      htmlcompressor (~> 0.3)
+      jekyll (~> 3.0)
+      uglifier (~> 2.7)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
@@ -98,7 +106,7 @@ GEM
     rb-fsevent (0.9.8)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
-    redcarpet (3.3.4)
+    redcarpet (3.4.0)
     ref (2.0.0)
     rouge (1.11.1)
     safe_yaml (1.0.4)
@@ -113,6 +121,9 @@ GEM
     titlecase (0.1.1)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
+    uglifier (2.7.2)
+      execjs (>= 0.3.0)
+      json (>= 1.8.0)
 
 PLATFORMS
   ruby
@@ -121,6 +132,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll-archives
   jekyll-lunr-js-search
+  jekyll-minifier
   jekyll-twitter-plugin
   json
   minimal-mistakes-jekyll
