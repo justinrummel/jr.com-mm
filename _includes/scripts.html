@@ -1,48 +1,26 @@
-<script src="{{ '/assets/js/main.min.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
+<script src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
 
-<!-- If viewing the main page, include script for instagram -->
-{% if page.name == 'index.html' %}
-<!-- instafeed https://github.com/stevenschobert/instafeed.js -->
-<!-- accessToken http://dmolsen.com/2013/04/05/generating-access-tokens-for-instagram/ -->
-<!-- jekyll http://chrissciolla.com/tech/jekyll-instafeedjs-tutorial.html -->
-<script src="{{ '/assets/js/instafeed.min.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
-{% assign insta_link = '{{link}}' %}
-{% assign insta_image = '{{image}}' %}
-{% assign insta_caption = '{{caption}}' %}
-<script type="text/javascript">
-  var feed = new Instafeed({
-    get: 'user',
-    userId: '2083127934',
-    sortBy: 'most-recent',
-    limit: '6',
-    resolution: 'thumbnail',
-    clientId: '0a10dbeddca94cd7a81839dfbb772eb8',
-    accessToken: '2083127934.0a10dbe.8d376461a7144d0aa4bd9e2c58abe5d4',
-    template: '<a href="{{ insta_link }}" class="image-popup"><img src="{{ insta_image }}" alt="{{ insta_caption }}" /></a>'
-  });
-  feed.run();
-</script>
-{% endif %}
 
 <!-- If viewing the search page, include Lunr scripts -->
-{% if page.name == 'search.html' %}
-<!-- Search Results by jekyll-lunr-js-search -->
-<script src="{{ '/assets/js/lunr/lunr.min.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
-<script src="{{ '/assets/js/lunr/mustache.min.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
-<script src="{{ '/assets/js/lunr/date.format.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
-<script src="{{ '/assets/js/lunr/URI.min.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
-<script src="{{ '/assets/js/lunr/jquery.lunr.search.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
-<script type="text/javascript">
-  $(function() {
-  $('#search-query').lunrSearch({
-    indexUrl: '/assets/js/lunr/index.json',     // URL of the `index.json` index data for your site
-    results:  '#search-results',                // jQuery selector for the search results container
-    entries:  '.entries',                       // jQuery selector for the element to contain the results list, must be a child of the results element above.
-    template: '#search-results-template'        // jQuery selector for the Mustache.js template
-  });
-  });
-</script>
+{% if page.url == '/search/' %}
+	<!-- Search Results by jekyll-lunr-js-search -->
+	<script src="{{ '/assets/js/lunr/lunr.min.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
+	<script src="{{ '/assets/js/lunr/mustache.min.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
+	<script src="{{ '/assets/js/lunr/date.format.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
+	<script src="{{ '/assets/js/lunr/URI.min.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
+	<script src="{{ '/assets/js/lunr/jquery.lunr.search.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript">
+	  $(function() {
+	  $('#search-query').lunrSearch({
+	    indexUrl: '/assets/js/lunr/index.json',     // URL of the `index.json` index data for your site
+	    results:  '#search-results',                // jQuery selector for the search results container
+	    entries:  '.entries',                       // jQuery selector for the element to contain the results list, must be a child of the results element above.
+	    template: '#search-results-template'        // jQuery selector for the Mustache.js template
+	  });
+	  });
+	</script>
 {% endif %}
+
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
