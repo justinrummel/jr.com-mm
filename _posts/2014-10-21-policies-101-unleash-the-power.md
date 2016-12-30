@@ -24,6 +24,6 @@ Updated 2014-11-03
 
 Now that the [JNUC 2014 videos have been released][jnuc], I've embedded the video from JAMF Software.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/Uhbb3xi8Bdc" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/4Ms6DRED3NU" frameborder="0"> </iframe>
 
 [jnuc]: http://www.jamfsoftware.com/resources/all/jamf-nation-user-conference-2014/
