@@ -25,17 +25,14 @@ Anyways, [@sudeude][sudeude] [sent a tweet][sudeudeGD] inviting anyone to try Go
 
 I quickly visited Google Domains page and reviewed the very short home page. "Pick a name and go!"... sure I've heard that before. But then I checked the [features page][features], and read the first item was instantly SOLD.
 
-<q>
 **No additional cost for private registration**
 
-When you purchase or transfer a domain name, private registration is almost always an option (some domain endings do not support this feature). If private registration is selected, we cover the cost of keeping your details private (e.g. your name, address and other contact information).
-</q> ---<cite>[Google Domains Feature Page](https://domains.google.com/about/features.html)</cite>
+> When you purchase or transfer a domain name, private registration is almost always an option (some domain endings do not support this feature). If private registration is selected, we cover the cost of keeping your details private (e.g. your name, address and other contact information).
+> <cite>[Google Domains Feature Page](https://domains.google.com/about/features.html)</cite>
 
 FREE private registration? SIGN ME UP! I've always enabled private registration and it usually costs about $10 per domain. I have a lot of domains so moving them to Google Domains is a perfect solution to save me money. All the other features are what you would expect from a registrar... except the last item is something new for Google, an option to CALL FOR SUPPORT?!
 
-<q>
-With Google Domains, you get phone and email support (M-F, 9am to 9pm EST).
-</q>
+> With Google Domains, you get phone and email support (M-F, 9am to 9pm EST).
 
 I don't think I'll need it, but sure!
 

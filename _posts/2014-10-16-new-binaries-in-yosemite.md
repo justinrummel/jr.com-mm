@@ -29,9 +29,8 @@ Nothing has changed inside the /bin folder
 #### /sbin
 Nothing was added, what should not be surprising is what was removed, specifically ipfw and ip6fw.  If you do a ```man ipfw``` on your Mavericks machine Apple warned you that this was going away with:
 
-<q>
-This utility is DEPRECATED. Please use pfctl(8) instead
-</q> ---<cite>ipfw man page</cite>
+> This utility is DEPRECATED. Please use pfctl(8) instead
+> <cite>ipfw man page</cite>
 
 #### /usr/bin
 There are a lot of updated binaries that had endings of ".12" which were removed and ".18" were added.  Don't really know what those are.  There are some new items with AVB (which was actually added in 10.9.5), but was is really interesting is all the "diagnose" items.  If you think Apple has a QA problem, they are trying to fix it with all of these diagnose binaries such as:
@@ -53,9 +52,8 @@ Here are new commands that I can see being used by macadmins:
 
 **discoveryutil** - running sudo discoveryutil --help doesn't give you much, but there it shows a --debug option that states "interact w/discoveryd".  Hmm.. what is discoveryd? [The man page](x-man-page://8/discoveryd) states:
 
-<q>
-The discoveryd daemon is responsible for unicast DNS resolution, multicast DNS resolution, and Service Discovery on the system.  It performs queries, registrations, and provides answers on behalf of other clients through the DNS Service Discovery API as documented in dns_sd.h
-</q> ---<cite>man discoveryd</cite>
+> The discoveryd daemon is responsible for unicast DNS resolution, multicast DNS resolution, and Service Discovery on the system.  It performs queries, registrations, and provides answers on behalf of other clients through the DNS Service Discovery API as documented in dns_sd.h
+> <cite>[man discoveryd](x-man-page://8/discoveryd)</cite>
 
 We have DNS debugging! More info in man discoveryd such as logging level (None, Basic, Intermediate, Detailed, VeryDetailed, Everything, or a number) or the class (Events, Sockets, Bonjour, Network).
 

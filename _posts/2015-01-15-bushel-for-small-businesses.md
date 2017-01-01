@@ -47,9 +47,8 @@ Who is the target audience?
 
 THAT is the big question that I've been trying to answer for the past couple of months.  To better answer that question you need to read the blog post from Bushel themselves.
 
-<q>
-The Bushel team consists mostly of people who were involved in small businesses before coming to JAMF (and those who grew JAMF from a small business). We believe in small businesses. And we believe in the innovative workgroups that exist similarly to small businesses within large enterprises. We believe in smaller, self-managing classrooms. We want to make your life better. We want to help you have the best possible experience with Apple products. Because we believe in Apple and we believe in you
-</q> ---<cite>[Why Bushel Exists, And What That Means To You](http://blog.bushel.com/2015/01/why-bushel-exists/)</cite>
+> The Bushel team consists mostly of people who were involved in small businesses before coming to JAMF (and those who grew JAMF from a small business). We believe in small businesses. And we believe in the innovative workgroups that exist similarly to small businesses within large enterprises. We believe in smaller, self-managing classrooms. We want to make your life better. We want to help you have the best possible experience with Apple products. Because we believe in Apple and we believe in you
+> <cite>[Why Bushel Exists, And What That Means To You](http://blog.bushel.com/2015/01/why-bushel-exists/)</cite>
 
 Bushel is for small businesses or a departments of a larger business.  Bushel highlights some example scenarios in their "[manual][manual]" (I'm putting this in quotes because Bushel is simple that doesn't *really* need a manual, and it is designed that way on purpose!).
 

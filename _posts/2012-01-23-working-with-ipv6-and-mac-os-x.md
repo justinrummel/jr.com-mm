@@ -13,26 +13,29 @@ tags:
 
 I don't feel that anyone reading this in 2012 has never heard of IPv6. The easiest way to put it it's a combinations of HEX values to make a big ugly "thing" that represents your computer. IPv4 was simple; four octets made up of a value from 0-255; thus 192.168.1.111. IPv6 takes this to a new other level. From Wikipedia:
 
-<q>
-IPv6 addresses have two logical parts:a 64-bit network prefix, and a 64-bit host address part. (The host address is often automatically generated from the interface MAC address.[37]) An IPv6 address is represented by 8 groups of 16-bit hexadecimal values separated by colons (:) shown as follows:
-		2001:0db8:85a3:0000:0000:8a2e:0370:7334
-
-The hexadecimal digits are case-insensitive.
-
-The 128-bit IPv6 address can be abbreviated with the following rules:
-
-1.	Rule one:Leading zeroes within a 16-bit value may be omitted. For example, the address
- 		fe80:0000:0000:0000:0202:b3ff:fe1e:8329
-
-may be written as
- 		fe80:0:0:0:202:b3ff:fe1e:8329
-
-2.	Rule two:One group of consecutive zeroes within an address may be replaced by a double colon. For example,
- 		fe80:0:0:0:202:b3ff:fe1e:8329
-
-becomes
- 		fe80::202:b3ff:fe1e:8329
-</q> ---<cite>[Wikipedia, IPv6 address](http://en.wikipedia.org/wiki/IPv6_address#IPv6_addresses_in_the_Domain_Name_System)</cite>
+> IPv6 addresses have two logical parts:a 64-bit network prefix, and a 64-bit host address part. (The host address is often automatically generated from the interface MAC address.[37]) An IPv6 address is represented by 8 groups of 16-bit hexadecimal values separated by colons (:) shown as follows:
+>
+>  ```2001:0db8:85a3:0000:0000:8a2e:0370:7334```
+>
+> The hexadecimal digits are case-insensitive.  The 128-bit IPv6 address can be abbreviated with the following rules:
+>
+> Rule 1: Leading zeros within a 16-bit value may be omitted. For example, the address
+>
+>  ```fe80:0000:0000:0000:0202:b3ff:fe1e:8329```
+>
+> may be written as
+>
+>   ```fe80:0:0:0:202:b3ff:fe1e:8329```
+>
+> Rule 2: One group of consecutive zeros within an address may be replaced by a double colon. For example,
+>
+>   ```fe80:0:0:0:202:b3ff:fe1e:8329```
+>
+> becomes
+>
+>   ```fe80::202:b3ff:fe1e:8329```
+>
+> <cite>[Wikipedia, IPv6 address](http://en.wikipedia.org/wiki/IPv6_address#IPv6_addresses_in_the_Domain_Name_System)</cite>
 
 A single IPv6 address can be represented in several different ways, such as 2001:db8::1:0:0:1 and 2001:0DB8:0:0:1::1. RFC 5952 recommends a canonical textual representation
 
@@ -53,12 +56,12 @@ You should get back something like the following:
 {% highlight bash %}
 $ justinrummel@jrummel-mbp:~$ ifconfig en0
 en0:flags=8863 mtu 1500
-	options=27
-	ether 00:25:bc:dc:99:24
-	inet6 fe80::225:bcff:fedc:9924%en0 prefixlen 64 scopeid 0x4
-	inet 192.168.1.11 netmask 0xffffff00 broadcast 192.168.1.255
-	media:autoselect (1000baseT )
-	status:active
+ options=27
+ ether 00:25:bc:dc:99:24
+ inet6 fe80::225:bcff:fedc:9924%en0 prefixlen 64 scopeid 0x4
+ inet 192.168.1.11 netmask 0xffffff00 broadcast 192.168.1.255
+ media:autoselect (1000baseT )
+ status:active
 {% endhighlight %}
 
 You can see the inet6 value that starts with the hex values "fe80", that is my IPv6 address. Notice at the end of that string is "%en0", you don't need that part. An easy way only to get the IPv6 Address in one line could be:

@@ -19,9 +19,9 @@ Overview
 I happened to have Wiki data from a 10.6.8 server that was saved by a simple backup routine instead of using Time Machine backups.	 "No Time Machine backup?" you ask.	This was because this was 10.6 Server! Remember, Time Machine couldn't stop Open Directory, so back then backups were "on the ODM, use this 'export' script", and "rsync or use some other backup tool to save your data".  In 10.6 the Wiki data was saved in /Library/Collaboration so it made backup of the data very simple.
 
 The environment that I stepped into was:
-<q>
-Now that 10.8 is available (and our Xserve is no longer supported because it was made prior to 2009) lets move that data to a new server, and because the only thing we need is the /Library/Collaboration folder just save that data to an storage array and scrap the server...	we don't need that anymore.
-</q> ---<cite>Anonymous, famous last words</cite>
+
+> Now that 10.8 is available (and our Xserve is no longer supported because it was made prior to 2009) lets move that data to a new server, and because the only thing we need is the /Library/Collaboration folder just save that data to an storage array and scrap the server...	we don't need that anymore.
+> <cite>Anonymous, famous last words</cite>
 
 So there are two things to remember when migrating Wiki data:
 

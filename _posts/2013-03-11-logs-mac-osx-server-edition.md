@@ -135,12 +135,12 @@ odutil set log debug
 odutil set log default
 {% endhighlight %}
 
-<q>
-- The logging level will persist through restarts.
-- Other logging levels are also available: "alert", "critical", "error", "warning", "notice", and "info".
-- For more information please refer to the manual pages for the odutil utility (such as "[man odutil](x-man-page://1/odutil)").
-- Generally, debug logging should only be used to troubleshoot Open Directory service-related issues because debug logging can generate large amounts of log messages. If you need more detailed information about Open Directory events but do not wish to use "debug", consider using "info" instead.
-</q> ---<cite>[OS X Server: Changing opendirectoryd logging levels](http://support.apple.com/kb/HT4696)</cite>
+
+> - The logging level will persist through restarts.
+> - Other logging levels are also available: "alert", "critical", "error", "warning", "notice", and "info".
+> - For more information please refer to the manual pages for the odutil utility (such as "[man odutil](x-man-page://1/odutil)").
+> - Generally, debug logging should only be used to troubleshoot Open Directory service-related issues because debug logging can generate large amounts of log messages. If you need more detailed information about Open Directory events but do not wish to use "debug", consider using "info" instead.
+> <cite>[OS X Server: Changing opendirectoryd logging levels](http://support.apple.com/kb/HT4696)</cite>
 
 System
 ---
