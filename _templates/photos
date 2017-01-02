@@ -20,13 +20,13 @@ header:
 blah blah blah
 
 <figure class="third">
-<a href="{{ site.url }}/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-1.jpg" alt="Harpers Ferry Picture 1" /></a>
-<a href="{{ site.url }}/images/2017/01/01/EVENT-LG-4.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-4.jpg" alt="Harpers Ferry Picture 4" /></a>
-<a href="{{ site.url }}/images/2017/01/01/EVENT-LG-6.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-6.jpg" alt="Harpers Ferry Picture 6" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-1.jpg" alt="Harpers Ferry Picture 1" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-4.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-4.jpg" alt="Harpers Ferry Picture 4" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-6.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-6.jpg" alt="Harpers Ferry Picture 6" /></a>
 </figure>
 <figure class="third">
-<a href="{{ site.url }}/images/2017/01/01/EVENT-LG-2.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-2.jpg" alt="Harpers Ferry Picture 2" /></a>
-<a href="{{ site.url }}/images/2017/01/01/EVENT-LG-5.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-5.jpg" alt="Harpers Ferry Picture 5" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-2.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-2.jpg" alt="Harpers Ferry Picture 2" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-5.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-5.jpg" alt="Harpers Ferry Picture 5" /></a>
 </figure>
 
 Footnotes

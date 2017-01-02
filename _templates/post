@@ -20,11 +20,11 @@ header:
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 
-<p class="align-right"><a href="{{ site.url }}/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
-<p class="align-left"><a href="{{ site.url }}/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
+<p class="align-right"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
+<p class="align-left"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
 
 <figure>
-<p class="align-center"><a href="{{ site.url }}/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
+<p class="align-center"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
 </figure>
 
 {% include toc icon="gears" title="Race Review ToC" %}
@@ -71,10 +71,10 @@ Among the Male 40-44 category there were 5 athletes.
 #### Updated 2016-09-02 (Race Photos)
 
 <figure class="fourth">
-<a href="{{ site.url }}/images/2017/01/01/EVENT-PRO-LG-1.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-PRO-SM-1.jpg" /></a>
-<a href="{{ site.url }}/images/2017/01/01/EVENT-PRO-LG-2.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-PRO-SM-2.jpg" /></a>
-<a href="{{ site.url }}/images/2017/01/01/EVENT-PRO-LG-3.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-PRO-SM-3.jpg" /></a>
-<a href="{{ site.url }}/images/2017/01/01/EVENT-PRO-LG-4.jpg"><img src="{{ site.url }}/images/2017/01/01/EVENT-PRO-SM-4.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-SM-1.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-SM-2.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-LG-3.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-SM-3.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-LG-4.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-SM-4.jpg" /></a>
 </figure>
 -->
 
