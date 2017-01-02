@@ -15,6 +15,9 @@ source "https://rubygems.org"
 # for lunr-js-search
 gem 'json'
 
+# for octopress-flickr
+# gem 'flickraw'
+
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 

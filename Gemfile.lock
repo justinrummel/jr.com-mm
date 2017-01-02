@@ -9,7 +9,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
-    classifier-reborn (2.0.5)
+    classifier-reborn (2.1.0)
       fast-stemmer (~> 1.0)
     colorator (1.1.0)
     faraday (0.10.1)
@@ -98,7 +98,7 @@ GEM
       jekyll (>= 2.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
-    public_suffix (2.0.4)
+    public_suffix (2.0.5)
     rb-fsevent (0.9.8)
     rb-gsl (1.16.0.6)
       gsl
