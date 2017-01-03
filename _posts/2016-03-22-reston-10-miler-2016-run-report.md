@@ -7,7 +7,7 @@ description: "Really really late run report for the 'Reston 10 Miler'." 	# For T
 categories:
     - "Race Report"
 tags:
-    - Multisport
+    - Running
     - "PR Races"
 header:
     image: /assets/images/2016/03/22/reson10_header.jpg				# Twitter (use 'teaser')
