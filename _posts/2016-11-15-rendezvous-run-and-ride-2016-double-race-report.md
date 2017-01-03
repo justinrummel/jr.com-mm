@@ -7,6 +7,8 @@ description: "Double Race report for EX2 Adventures Rendezvous Run and Ride; I s
 categories:
     - "Race Report"
 tags:
+    - Trail Run
+    - Trail Ride
     - Multisport
     - EX2 Adventures
 header:
