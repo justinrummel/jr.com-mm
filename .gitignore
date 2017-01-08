@@ -12,7 +12,6 @@
 Gemfile.lock
 _AccessKeys.yml
 _deploy.yml
-_localhost.yml
 _asset_bundler_cache
 _cert
 _site
