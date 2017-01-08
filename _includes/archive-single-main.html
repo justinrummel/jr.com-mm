@@ -1,5 +1,3 @@
-{% include base_path %}
-
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
@@ -20,7 +18,7 @@
           {% if teaser contains "://" %}
             "{{ teaser }}"
           {% else %}
-            "{{ teaser | prepend: base_path }}"
+            "{{ teaser | absolute_url }}"
           {% endif %}
           alt="">
       </div>
@@ -28,25 +26,25 @@
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.header.teaser %}
       <div class="archive__item-teaser">
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink"><img src=
+        <a href="{{ post.url | absolute_url }}" rel="permalink"><img src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
           {% else %}
-            "{{ teaser | prepend: base_path }}"
+            "{{ teaser | absolute_url }}"
           {% endif %}
           alt="{{ post.title }}" width="575" height="216"></a>
       </div>
       {% endif %}
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | absolute_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ post.url | absolute_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %} -->
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html }}[ <a href="{{ base_path }}{{ post.url }}" rel="permalink">Read More...</a> ]</p>{% endif %}
+    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html }}[ <a href="{{ post.url | absolute_url }}" rel="permalink">Read More...</a> ]</p>{% endif %}
   </article>
 </div>

@@ -1,4 +1,6 @@
+---
+---
 User-agent: *
 Disallow:
 
-Sitemap: https://www.justinrummel.com/sitemap.xml
+Sitemap: {{ site.url }}/sitemap.xml

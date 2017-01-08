@@ -17,7 +17,7 @@ url                      : https://www.justinrummel.com # the base hostname & pr
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : justinrummel/jr.com-mm # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/sierra-teaser.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -66,48 +66,43 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person           # Person or Organization (defaults to Person)
+  name                   : "Justin Rummel"  # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.facebook.com/justinrummel"
+    - "https://www.flickr.com/justinrummel"
+    - "https://github.com/justinrummel"
+    - "https://www.instagram.com/justin.rummel/"
+    - "https://www.linkedin.com/in/justinrummel"
+    - "https://twitter.com/justinrummel"
+    - "https://www.strava.com/athletes/justinrummel"
 
 # Analytics
 analytics:
-  provider               : google # false (default), "google", "google-universal", "custom"
+  provider                : google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-41781912-1
+    tracking_id           : UA-41781912-1
 
 
 # Site Author
 author:
-  name             : "Justin Rummel"
-  avatar           : "https://twitter.com/justinrummel/profile_image?size=original"
-  bio              : "Professional Bio/Resume site for Justin Rummel."
-  location         :
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : "justinrummel"
-  foursquare       :
-  github           : "justinrummel"
-  google_plus      :
-  keybase          :
-  instagram        : "justin.rummel"
-  lastfm           :
-  linkedin         : "justinrummel"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  strava           : "justinrummel"
-  steam            :
-  tumblr           :
-  twitter          : "justinrummel"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  name                    : "Justin Rummel"
+  avatar                  : "https://twitter.com/justinrummel/profile_image?size=original"
+  bio                     : "Professional Bio/Resume site for Justin Rummel."
+  location                :
+  email                   :
+  url                     : "https://www.justinrummel.com/"
+  bitbucket               :
+  flickr                  : "justinrummel"
+  facebook                : "justinrummel"
+  github                  : "justinrummel"
+  google_plus             :
+  instagram               : "justin.rummel"
+  linkedin                : "justinrummel"
+  stackoverflow           : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  strava                  : "justinrummel"
+  twitter                 : "justinrummel"
+  youtube                 : # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
@@ -118,7 +113,6 @@ exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
   - "*.gemspec"
-  - vendor
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
@@ -130,6 +124,7 @@ exclude:
   - CHANGELOG
   - config
   - Gemfile
+  - Gemfile.lock
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
@@ -139,46 +134,49 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - vendor
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+encoding                  : "utf-8"
+markdown_ext              : "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+markdown                  : kramdown
+highlighter               : rouge
+lsi                       : true
+future                    : false
+show_drafts               : false
+excerpt_separator         : "\n\n"
+incremental               : true
 
 
 # Markdown Processing
 kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+  hard_wrap               : false
+  input                   : GFM
+  auto_ids                : true
+  auto_id_prefix          : 'jr_'
+  footnote_nr             : 1
+  smart_quotes            : lsquo,rsquo,ldquo,rdquo
+  toc_levels              : 1..6
+  enable_coderay          : false
+  entity_output           : as_char
 
 
 # Sass/SCSS
 sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  sass_dir                : _sass
+  style                   : compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
-permalink: /:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink                 : /:title/
+paginate                  : 5 # amount of posts to show
+paginate_path             : /page:num/
+timezone                  : America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -206,15 +204,16 @@ whitelist:
 #  Path (examples)
 #  - Archive page should exist at path when using Liquid method or you can
 #    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
+#  - <absolute_url>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <absolute_url/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <absolute_url/my-awesome-category/index.html ~> path: /
 category_archive:
   type: jekyll-archives
   path: /categories/
 tag_archive:
   type: jekyll-archives
   path: /tags/
+
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
   enabled:
@@ -231,41 +230,43 @@ jekyll-archives:
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
-  clippings: all
-  blanklines: true
-  ignore:
-    envs: production
-
+  clippings               : all
+  comments                : ["<!-- ", " -->"]
+  endings                 : none
+  ignore                  :
+  envs                    : production
+  blanklines              : true
+  profile                 : true
 
 # https://mmistakes.github.io/minimal-mistakes/docs/installation/
 # Defaults
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: posts
+      path                : ""
+      type                : posts
     values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: true
-      share: false
-      related: true
+      layout              : single
+      author_profile      : true
+      read_time           : false
+      comments            : true
+      share               : false
+      related             : true
 
 
-# Default extensions
-post_ext: md
-page_ext: md
-photos_ext: md
+# Default extensions when using octopress to generate new posts/pages
+post_ext                  : md
+page_ext                  : md
+photos_ext                : md
 
 
 # Found in _templates/
-post_layout: post
-page_layout: page
-page_layout: photos
+post_layout               : post
+page_layout               : page
+page_layout               : photos
 
 
 # Lunr https://github.com/slashdotdash/jekyll-lunr-js-search
 lunr_search:
-  js_dir: "/assets/js/lunr"
-  min_length: 3
+  js_dir                  : "/assets/js/lunr"
+  min_length              : 3
