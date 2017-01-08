@@ -150,7 +150,7 @@ lsi                       : true
 future                    : false
 show_drafts               : false
 excerpt_separator         : "\n\n"
-incremental               : true
+incremental               : false
 
 
 # Markdown Processing
@@ -236,7 +236,7 @@ compress_html:
   ignore                  :
   envs                    : production
   blanklines              : true
-  profile                 : true
+  profile                 : false
 
 # https://mmistakes.github.io/minimal-mistakes/docs/installation/
 # Defaults
