@@ -3,7 +3,6 @@
 .asset-cache
 .DS_Store
 .code-highlighter-cache
-.editorconfig
 .gist-cache
 .htaccess
 .jekyll-metadata
