@@ -7,7 +7,7 @@ description: "My Race Report for the 2016 VTSMTS Smithfield Sprint." 	# For Twit
 categories:
     - "Race Report"
 tags:
-    - Multisport
+    - Triathlon
     - VTS/MTS
 header:
     image: /assets/images/2016/04/02/Header.jpg				# Twitter (use 'teaser')

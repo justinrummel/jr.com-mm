@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Adventure Enablers Resolution Trail Run 2017"
+title: "Adventure Enablers: Resolution Trail Run 2017"
 date: 2017-01-01T12:00:00-05:00
 modified:
 description: "It's New Years Day!  What better way to spend the time than with a little run in the woods with friends and family"

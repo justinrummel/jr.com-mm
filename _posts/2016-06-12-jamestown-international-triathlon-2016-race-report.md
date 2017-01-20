@@ -7,7 +7,7 @@ description: "My Race Report for the 2016 VTSMTS Jamestown International Triathl
 categories:
     - "Race Report"
 tags:
-    - Multisport
+    - Triathlon
     - VTS/MTS
 header:
     image: /assets/images/2016/06/12/Jamestown-Header.jpg				# Twitter (use 'teaser')

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Rendezvous Run and Ride 2016 Double Race Report"
+title: "EX2 Adventures: Rendezvous Run and Ride 2016 Double Race Report"
 date: 2016-11-05T09:16:59-05:00
 modified:
 description: "Double Race report for EX2 Adventures Rendezvous Run and Ride; I slowly dip my toe into Xterra" 	# For Twitter, not the Title
@@ -9,7 +9,6 @@ categories:
 tags:
     - Trail Run
     - Trail Ride
-    - Multisport
     - EX2 Adventures
 header:
     image: /assets/images/2016/11/15/EX2-RR-Header.jpg			# Twitter (use 'overlay_image')

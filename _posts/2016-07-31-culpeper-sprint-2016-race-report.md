@@ -7,7 +7,7 @@ description: "Race Report for the 2016 VTS/MTS Culpeper Sprint Triathlon." 	# Fo
 categories:
     - "Race Report"
 tags:
-    - Multisport
+    - Triathlon
     - VTS/MTS
 header:
     image: /assets/images/2016/07/31/Culpeper-Header.jpg				# Twitter (use 'teaser')

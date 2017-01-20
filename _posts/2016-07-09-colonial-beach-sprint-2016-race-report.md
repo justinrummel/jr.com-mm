@@ -7,7 +7,7 @@ description: "Race Report for the 2016 VTS/MTS Colonial Beach Sprint Triathlon."
 categories:
     - "Race Report"
 tags:
-    - Multisport
+    - Triathlon
     - VTS/MTS
 header:
     image: /assets/images/2016/07/09/Colonial-Header.jpg				# Twitter (use 'teaser')
@@ -83,7 +83,7 @@ Footnotes
 
 [^1]: Last year I nearly had a head on collision with a car last year, but fortunately traffic was stopped and I could safely maneuver around their front bumper.
 [^2]: I would like to give a shout-out to the teenage girl behind me towards the finish line.  I thought you were the dude in my Age Group that I just passed at mile 2.5, and I could hear you sprinting to the finish line.  You had me scared... I sprinted too... and my HR data show my HR peaked to 193.  You almost killed me, but thanks for the push.
-[^3]: "'Drafting' is basically riding right behind another competitor on the bike course. By drafting behind someone you gain an unfair advantage because it allows you to ride at the same speed as the person you’re following without exerting as much energy. In the sport of triathlon for age group events here in the U.S. drafting is not allowed" - [VTS/MTS website FAQ](FAQ)
+[^3]: "'Drafting' is basically riding right behind another competitor on the bike course. By drafting behind someone you gain an unfair advantage because it allows you to ride at the same speed as the person you’re following without exerting as much energy. In the sport of triathlon for age group events here in the U.S. drafting is not allowed" - [VTS/MTS website FAQ][FAQ]
 [^4]: Goal Times were based on: 2:36 /100m swim (based on Jamestown horrible performance, then minus 20s /100m), 21mph ride, 7:21 /mi run.
 [^5]: Official Race Results available at [VTS/MTS Colonial Beach Sprint Results page][colonial_results].
 [^6]: With two minute penalty.

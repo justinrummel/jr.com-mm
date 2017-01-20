@@ -7,7 +7,7 @@ description: "My race report for the Wisdom Oak Winery Sprint 2015" # For Twitte
 categories:
     - "Race Report"
 tags:
-    - Multisport
+    - Triathlon
     - Charlottesville Multisports
 header:
     image: /assets/images/2015/08/30/WOW-Header.jpg			# Twitter (use 'overlay_image')

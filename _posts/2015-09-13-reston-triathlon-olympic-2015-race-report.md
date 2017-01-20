@@ -7,7 +7,7 @@ description: "My race report for the Reston Triathlon Olympic distance 2015"
 categories:
     - "Race Report"
 tags:
-    - Multisport
+    - Triathlon
 header:
     image: /assets/images/2015/09/13/Reston-Triathlon-Header.jpg			# Twitter (use 'overlay_image')
     overlay_image: /assets/images/2015/09/13/Reston-Triathlon-Header.jpg		    # Article header at 2048x768

@@ -7,7 +7,7 @@ description: "My Race report for the Colonial Beach Sprint 2015" # For Twitter, 
 categories:
     - "Race Report"
 tags:
-    - Multisport
+    - Triathlon
     - VTS/MTS
 ---
 

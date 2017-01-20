@@ -7,7 +7,7 @@ description: "My Race Report for the 2016 VTSMTS Kinetic Half." 	# For Twitter, 
 categories:
     - "Race Report"
 tags:
-    - Multisport
+    - Triathlon
     - VTS/MTS
 header:
     image: /assets/images/2016/05/15/Kinetic-Header.jpg				# Twitter (use 'teaser')

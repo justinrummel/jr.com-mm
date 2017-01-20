@@ -7,7 +7,7 @@ description: "We're coming to the end of the season, racing once again the Wisdo
 categories:
     - "Race Report"
 tags:
-    - Multisport
+    - Triathlon
     - Charlottesville Multisports
 header:
     image: /assets/images/2016/08/27/WOW-Header.jpg				# Twitter (use 'teaser')

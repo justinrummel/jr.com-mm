@@ -1,14 +1,13 @@
 ---
 layout: single
-title: "2013 Berryman Adventure Race"
+title: "Bonk Hard Racing: Berryman Adventure Race 2013"
 date: 2013-09-30 12:01
 modified: 2013-10-02
 categories:
     - "Race Report"
 tags:
-    - Multisport
+    - Orienteering
     - Bonk Hard Racing
-    - "Orienteering"
 ---
 
 Over the weekend of September 28th, 2013 I had the opportunity to do the Berryman Adventure race with my Brother-in-law Shawn which is a multi-sport race for Run, Bike, and Canoe... BUT you have to take everything with you.  Food, water, clothes, paddles, etc.  The Berryman Adventure races is an orienteering race where the night before we get a list of lat/long locations that we have to find using traditional methods of locating things;  a map and a compass.  Between each checkpoints you do not have the luxury of nice foot paths that are carved  to take you from point "A" to point "B".  You have to "Bushwhack" your way through trees, streams, animals, twigs, brush, poison ivy, etc, and make your own path.

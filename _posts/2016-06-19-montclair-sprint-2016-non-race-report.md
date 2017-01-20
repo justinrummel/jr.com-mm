@@ -7,7 +7,7 @@ description: "My NON-Race Report for the 2016 Rev3 Montclair Sprint Triathlon." 
 categories:
     - "Race Report"
 tags:
-    - Multisport
+    - Triathlon
     - Rev3
 header:
     image: /assets/images/2016/06/19/Montclair-Header.jpg				# Twitter (use 'teaser')

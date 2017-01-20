@@ -1,15 +1,14 @@
 ---
 layout: single
-title: "2014 the Perfect 10 Rogaine"
+title: "Bonk Hard Racing: The Perfect 10 Rogaine 2014"
 date: 2014-10-22
 modified: 2015-01-17
 description: "Race recap for 2014 The Perfect 10 Rogaine"
 categories:
     - "Race Report"
 tags:
-    - Multisport
+    - Orienteering
     - Bonk Hard Racing
-    - "Orienteering"
 header:
     image: /assets/images/2014/10/18/IMG_1488.jpg				# Twitter (use 'teaser')
     overlay_image: /assets/images/2014/10/18/IMG_1488.jpg		# Article header at 2048x768
