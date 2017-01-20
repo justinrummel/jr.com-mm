@@ -33,7 +33,10 @@ I'm not sure which was harder, the 14 hr Berryman from 2013 or 9 hour Rogaine be
 
 In the end we were able to acquire 580 points out of a possible 1300 by traveling over 22 miles around the Ozarks.  Nobody cleared the course, even though one person [did get 1200 points][1200]!  We did a little lost between miles 14-15, but everything is pretty accurate from my Timex TGT watch.
 
+<div class="embed-container"><figure>
 <p class="align-center"><iframe height='439' width='640' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/209124354/embed/1590b2431d819da54286e9d8a9456d8a13b5a040'></iframe></p>
+</figure></div>
+
 
 [ozarks]: http://mostateparks.com/park/lake-ozarks-state-park
 [1200]: http://www.bonkhardracing2.com/results/perfect10/2014/overall.pdf

@@ -33,7 +33,10 @@ header:
 
 	+ [Training Peaks Bike Data](http://tpks.ws/YhqqD)
 
-<p class="text-center"><iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/segments/5445873/embed'></iframe></p>
+<div class="embed-container"><figure>
+<p class="align-center"><iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/segments/5445873/embed'></iframe></p>
+</figure></div>
+
 
 #### Run
 

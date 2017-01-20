@@ -49,7 +49,9 @@ My race plan was simple, go strong (but not hard) on the first loop then step it
 - a crash that literally ripped my spare kit off my bike
 - and more crashes after crashes
 
-<p class="text-center"><iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/766960378/embed/910a458ba8b3ad4318593e2d7129d4e555a1e2ed'></iframe></p>
+<div class="embed-container"><figure>
+<p class="align-center"><iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/766960378/embed/910a458ba8b3ad4318593e2d7129d4e555a1e2ed'></iframe></p>
+</figure></div>
 
 Race Results
 ---

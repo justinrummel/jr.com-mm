@@ -39,7 +39,9 @@ Next we're going to input our FQDN and Networking info into the script so it can
 
 This script is available on my github repo at: [https://github.com/justinrummel/Random-Scripts/blob/master/VMWare/ubuntuSetup.sh](https://github.com/justinrummel/Random-Scripts/blob/master/VMWare/ubuntuSetup.sh), watch it in action below.
 
-<iframe src="//player.vimeo.com/video/117528351?portrait=0" width="500" height="281" frameborder="0"> </iframe>
+<div class="embed-container"><figure>
+<p class="align-center"><iframe src="//player.vimeo.com/video/117528351?portrait=0" width="500" height="281" frameborder="0"></iframe></p>
+</figure></div>
 
 VMware Tools
 ---
