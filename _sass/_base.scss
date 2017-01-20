@@ -201,6 +201,12 @@ figure {
     transition: $global-transition;
   }
 
+  iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   > a {
     display: block;
   }
