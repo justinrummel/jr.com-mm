@@ -56,9 +56,9 @@ Our goal is to find the text that follows each "bundle-identifier" so we can see
 
 What the below video example as I type out each of the above sections to get my final result.
 
-<div class="embed-container"><figure>
-<p class="align-center"><iframe src="//player.vimeo.com/video/120617299?portrait=0" width="500" height="281" frameborder="0"> </iframe></p>
-</figure></div>
+<div class="embed-container embed-container-16x9">
+    <iframe src='//player.vimeo.com/video/120617299?portrait=0' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
 
 
 Picture example

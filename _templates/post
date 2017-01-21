@@ -20,14 +20,24 @@ header:
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 
+<!-- Article picture, left or right -->
 <p class="align-right"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
 <p class="align-left"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
 
+<!-- big picture in center -->
 <figure>
 <p class="align-center"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
 </figure>
 
+<!-- iframe -->
+<!-- embed-container-4x3 OR embed-container-16x9 -->
+<div class="embed-container embed-container-4x3">
+    <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fadventureaddictsracing%2Fposts%2F1280067652054115%3A0&width=500" frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+
+<!-- Table of Contents -->
 {% include toc icon="gears" title="Race Review ToC" %}
+
 
 #### Swim
 
@@ -50,6 +60,12 @@ header:
 #### Post Race
 
 blah blah blah
+
+<!-- Strava Frame -->
+<div class="embed-container embed-container-16x9">
+    <iframe src='https://www.strava.com/activities/831895403/embed/a52900b72c885a85ccf812c00dee369cb3b7392e' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+
 
 Race Results
 ---

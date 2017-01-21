@@ -11,8 +11,8 @@ tags:
     - Ubuntu Server
     - CLI
 header:
-    image: /assets/images/2015/01/22/ubuntu-logo14-Header.png			# Twitter (use 'overlay_image')
-    overlay_image: /assets/images/2015/01/22/ubuntu-logo14-Header.png		    # Article header at 2048x768
+    image: /assets/images/2015/01/22/ubuntu-logo14-Header.png			    # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2015/01/22/ubuntu-logo14-Header.png		# Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/2015/01/22/ubuntu-logo14-Header-Twitter.png 		# Shrink image to 575 width
     caption: "Photo credit: [**Ubuntu**](https://design.ubuntu.com/brand/ubuntu-logo)"
@@ -39,9 +39,10 @@ Next we're going to input our FQDN and Networking info into the script so it can
 
 This script is available on my github repo at: [https://github.com/justinrummel/Random-Scripts/blob/master/VMWare/ubuntuSetup.sh](https://github.com/justinrummel/Random-Scripts/blob/master/VMWare/ubuntuSetup.sh), watch it in action below.
 
-<div class="embed-container"><figure>
-<p class="align-center"><iframe src="//player.vimeo.com/video/117528351?portrait=0" width="500" height="281" frameborder="0"></iframe></p>
-</figure></div>
+<div class="embed-container embed-container-16x9">
+    <iframe src='//player.vimeo.com/video/117528351?portrait=0' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+
 
 VMware Tools
 ---

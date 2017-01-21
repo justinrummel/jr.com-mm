@@ -27,9 +27,10 @@ But today... it's New Years Day!  What better way to spend the time than with a 
 
 Hopefully throughout the year I'll be able to convince them to join me in other outdoor "adventures".
 
-<div class="embed-container"><figure>
-<p class="align-center"><iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/817859885/embed/04db389c4915a6cd21cefff9587724595709021c'></iframe></p>
-</figure></div>
+<div class="embed-container embed-container-16x9">
+	<iframe src='https://www.strava.com/activities/817859885/embed/04db389c4915a6cd21cefff9587724595709021c' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+
 
 Race Results
 ---

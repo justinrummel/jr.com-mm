@@ -158,8 +158,8 @@ body:hover .visually-hidden button {
   height: 100%;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 0;
+  padding-right: 0;
 }
 
 /* file page content container */
@@ -480,13 +480,23 @@ a.reversefootnote {
    Responsive Video Embed
    ========================================================================== */
 
+/* 16x9 Aspect Ratio */
+.embed-container-16x9 {
+  padding-bottom: 56.25%;
+}
+
+/* 4x3 Aspect Ratio */
+.embed-container-4x3 {
+  padding-bottom: 75%;
+}
+
 .embed-container {
   position: relative;
-  padding-bottom: 56.25%;
-  margin-bottom: 1em;
   height: 0;
   overflow: hidden;
+  margin-bottom: 1em;
   max-width: 100%;
+  max-height: 100%;
 
   iframe,
   object,
