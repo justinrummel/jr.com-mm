@@ -8,6 +8,12 @@ tags:
     - Apple
     - Mt Lion
     - OSXS
+header:
+    image: /assets/images/mt-lion-OG-Header.jpg			    # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/mt-lion-OG-Header.jpg		# Article header at 2048x768
+    overlay_filter: 0.15
+    teaser: /assets/images/mt-lion-OG-Header-Twitter.jpg 		# Shrink image to 575 width
+    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
 ---
 
 When first viewing Mountain Lion (MT Lion) Server, you can understand that Apple had a long-term goal of making the most common things VERY easy and simple to administer. Consolidating service functions started with Lion's introduction of Server.app; which migrated some of the more common collaboration services. This allowed Mac Administrators to adapt to a new working environment for what Apple has envisioned for OS X Server's future. This series will provide highlights of what is different between administrating Lion and MT Lion, specifically via the GUI vs. what must be done with Terminal commands.

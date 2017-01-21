@@ -9,6 +9,12 @@ tags:
     - CLI
     - Lion
     - OSX
+header:
+    image: /assets/images/lion-OG-Header.jpg     # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/lion-OG-Header.jpg       # Article header at 2048x768
+    overlay_filter: 0.15
+    teaser: /assets/images/lion-OG-Header-Twitter.jpg    # Shrink image to 575 width
+    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
 ---
 
 These tools are nothing new as they were available in Snow Leopard (and I believe Leopard, just can’t check), but they are fun little tools just in case you don’t have Apple’s Xcode [iTunes link][xCode] installed or [MacPorts][macPorts] available on your computer.

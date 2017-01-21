@@ -9,6 +9,12 @@ tags:
     - IPv6
     - Lion
     - OSX
+header:
+    image: /assets/images/lion-OG-Header.jpg     # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/lion-OG-Header.jpg       # Article header at 2048x768
+    overlay_filter: 0.15
+    teaser: /assets/images/lion-OG-Header-Twitter.jpg    # Shrink image to 575 width
+    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
 ---
 
 I don't feel that anyone reading this in 2012 has never heard of IPv6. The easiest way to put it it's a combinations of HEX values to make a big ugly "thing" that represents your computer. IPv4 was simple; four octets made up of a value from 0-255; thus 192.168.1.111. IPv6 takes this to a new other level. From Wikipedia:

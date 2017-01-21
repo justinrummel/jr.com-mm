@@ -10,6 +10,12 @@ tags:
     - IPv6
     - Lion
     - OSXS
+header:
+    image: /assets/images/lion-OG-Header.jpg     # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/lion-OG-Header.jpg       # Article header at 2048x768
+    overlay_filter: 0.15
+    teaser: /assets/images/lion-OG-Header-Twitter.jpg    # Shrink image to 575 width
+    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
 ---
 
 Over the past several months, my company has been dealing with AD/OD integrations with Lion 10.7.2 and the customer's environment is using ".local". If you are not familiar with the history between ".local" and Apple computers simply put: they don't mix. PERIOD. It all stems from Apple OS X Clients using the naming convention of "ComputerName.local" as its address for Bonjour services. When an Active Directory (AD) environment uses something like "company.local", Lion doesn't know if you are talking DNS or Bonjour... so it just tries everything, thus giving you delayed authentication (login) against your AD controllers.

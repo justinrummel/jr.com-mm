@@ -8,6 +8,12 @@ tags:
     - Apple
     - Mt Lion
     - OSXS
+header:
+    image: /assets/images/mt-lion-OG-Header.jpg			    # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/mt-lion-OG-Header.jpg		# Article header at 2048x768
+    overlay_filter: 0.15
+    teaser: /assets/images/mt-lion-OG-Header-Twitter.jpg 		# Shrink image to 575 width
+    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
 ---
 
 From a pure functional standpoint, I don’t see any major difference between what is available in prior versions of OS X Server in terms of NetBoot service to the Mt Lion version; other than it is now "NetInstall".

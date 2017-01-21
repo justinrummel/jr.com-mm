@@ -9,6 +9,12 @@ tags:
     - Mt Lion
     - Wiki
     - OSXS
+header:
+    image: /assets/images/mt-lion-OG-Header.jpg			    # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/mt-lion-OG-Header.jpg		# Article header at 2048x768
+    overlay_filter: 0.15
+    teaser: /assets/images/mt-lion-OG-Header-Twitter.jpg 		# Shrink image to 575 width
+    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
 ---
 
 This title is very specific and may not be everyone's exact scenario, however, there was plenty of beneficial items in my latest exercise with Wiki data on OS X; specifically taking old 10.6 Wiki data and putting it on a new server in which the Directory information was lost.

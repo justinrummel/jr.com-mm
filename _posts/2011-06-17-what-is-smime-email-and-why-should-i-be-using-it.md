@@ -13,6 +13,12 @@ tags:
     - OSX
     - S/MIME
     - Mail
+header:
+    image: /assets/images/lion-OG-Header.jpg     # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/lion-OG-Header.jpg       # Article header at 2048x768
+    overlay_filter: 0.15
+    teaser: /assets/images/lion-OG-Header-Twitter.jpg    # Shrink image to 575 width
+    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
 ---
 
 During the WWDC 2011 keynote, Apple announced that iOS 5 was going to have the capabilities of S/MIME. With that new feature announcement, it becomes a perfect topic to kick off my Foundations segments. Hopefully this article will describe what S/MIME is and why people should use it, interest everyone to use it now, and once iOS 5 comes out you will appreciate the fact that S/MIME email is now available.

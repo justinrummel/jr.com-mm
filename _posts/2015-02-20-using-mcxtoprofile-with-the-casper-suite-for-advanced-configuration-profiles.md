@@ -11,6 +11,12 @@ tags:
     - CLI
     - OSX
     - Yosemite
+header:
+    image: /assets/images/2015/01/20/casper-suite-cropped.jpg     # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2015/01/20/casper-suite-cropped.jpg       # Article header at 2048x768
+    overlay_filter: 0.15
+    teaser: /assets/images/2015/01/20/casper-suite-cropped-Twitter.jpg    # Shrink image to 575 width
+    caption: "Photo credit: [**JAMF Software**](http://www.jamfsoftware.com/products/)"
 ---
 
 JAMF Software's Casper Suite has the ability to use Configuration Profiles (Apple's preferred method for managing OSX and iOS) since version 8.0, and introduced Apple Push Notification Service ([APNS]({{ site.url }}/search/?q=apns)) support since Casper Suite 8.4.  The combination of using Configurations Profiles with APNS allows administrators the ability to push management settings, which will be installed immediately and securely on their client machines.  However, Apple has been slow to provide Configuration Profiles a 1:1 feature parity that Mac Administrators were used to be able to configure through MCX via Workgroup Manager ([RIP][rip]).  There is a need to extract legacy MCX Settings and convert them into a working Configuration Profiles to manage options in a meticulous fashion: thus [mcxToProfile][m2p].
@@ -94,9 +100,10 @@ This results in a nicely contained com.local.vpnSetup.mobileconfig file that has
 
 Once you Create a new Configuration Profile in the JSS by <a href="{{ site.url }}/assets/images/2015/02/19/Upload-JSS.png">uploading our new combined plist file</a>, we can then deploy to our test environment as demonstrated in this short video:
 
-<div class="embed-container"><figure>
-<p class="align-center"><iframe src="//player.vimeo.com/video/120099841?portrait=0" width="500" height="281" frameborder="0"> </iframe></p>
-</figure></div>
+<div class="embed-container embed-container-16x9">
+    <iframe src='//player.vimeo.com/video/120099841?portrait=0' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+
 
 Resources
 ---

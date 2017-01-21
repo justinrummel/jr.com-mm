@@ -11,6 +11,12 @@ tags:
     - OSX
     - S/MIME
     - Mail
+header:
+    image: /assets/images/lion-OG-Header.jpg     # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/lion-OG-Header.jpg       # Article header at 2048x768
+    overlay_filter: 0.15
+    teaser: /assets/images/lion-OG-Header-Twitter.jpg    # Shrink image to 575 width
+    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
 ---
 
 Most likely you have already figured out how to use your new email certificate in Mail as my article on [How to get a free S/MIME Certificate]({{ site.url }}/acquiring-a-smime-certificate-for-free/) was posted almost a month ago.

@@ -8,6 +8,12 @@ tags:
     - Apple
     - APNS
     - Casper Suite
+header:
+    image: /assets/images/2015/01/20/casper-suite-cropped.jpg     # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2015/01/20/casper-suite-cropped.jpg       # Article header at 2048x768
+    overlay_filter: 0.15
+    teaser: /assets/images/2015/01/20/casper-suite-cropped-Twitter.jpg    # Shrink image to 575 width
+    caption: "Photo credit: [**JAMF Software**](http://www.jamfsoftware.com/products/)"
 ---
 
 Hopefully you had time to review my last article on how [Apple's Push Notification System (APNS) works when managing OS X and iOS devices]({{ site.url }}/how-apns-works-with-mdms-that-manage-osx-and-ios/).  It's not required reading to comprehend, but it does provide an an overview on how complicated APNS is AND the beauty in its architecture to make everything happen in an instant!  What I now want to discuss is not when APNS works, but when it doesn't "What are the common things I check when APNS is not working".  Most of these debugging steps are for the initial setup of your APNS environment, if this were working "fine" but now nothing works... there may be something else at hand.
