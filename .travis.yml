@@ -21,14 +21,14 @@ before_deploy:
 - openssl aes-256-cbc -K $encrypted_bfeb93fbf318_key -iv $encrypted_bfeb93fbf318_iv -in deploy_key.enc -out /tmp/deploy_key -d
 - eval "$(ssh-agent -s)"
 #- find /tmp -type f -exec cat {} \; -print
-- ls -al $TRAVIS_BUILD_DIR/_site
+#- ls -al $TRAVIS_BUILD_DIR/_site
 - chmod 600 /tmp/deploy_key
 - ssh-add /tmp/deploy_key
 
 deploy:
   provider: script
   skip_cleanup: true
-  script: rsync -P -cavz -e "ssh -i /tmp/deploy_key" --delete $TRAVIS_BUILD_DIR/_site justinru@www.justinrummel.com:~/public_html/
+  script: rsync -P -cavz -e "ssh -i /tmp/deploy_key" --delete $TRAVIS_BUILD_DIR/_site/ justinru@www.justinrummel.com:~/public_html/
     --exclude=/.well-known --exclude=/cgi-bin/
   on:
     branch: jr-branch
