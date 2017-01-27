@@ -70,7 +70,6 @@ social:
   name                   : "Justin Rummel"  # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://www.facebook.com/justinrummel"
-    - "https://www.flickr.com/justinrummel"
     - "https://github.com/justinrummel"
     - "https://www.instagram.com/justin.rummel/"
     - "https://www.linkedin.com/in/justinrummel"
@@ -93,17 +92,12 @@ author:
   location                :
   email                   :
   url                     : "https://www.justinrummel.com/"
-  bitbucket               :
-  flickr                  :
   facebook                : "justinrummel"
   github                  : "justinrummel"
-  google_plus             :
   instagram               : "justin.rummel"
   linkedin                : "justinrummel"
-  stackoverflow           : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   strava                  : "justinrummel"
   twitter                 : "justinrummel"
-  youtube                 : # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
