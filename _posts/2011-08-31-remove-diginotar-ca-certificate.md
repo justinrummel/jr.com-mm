@@ -48,4 +48,4 @@ If you open Keychain Access (located in /Applications/Utilities/), do a search f
 ![Digi-Search]({{ site.url }}/assets/images/2011/08/Digi-Search.png){: .align-center}
 ![Digi-Info]({{ site.url }}/assets/images/2011/08/Digi-Info.png){: .align-center}
 
-[radiotope]: http://radiotope.com/content/remove-certificate
+[radiotope]: https://www.radiotope.com/

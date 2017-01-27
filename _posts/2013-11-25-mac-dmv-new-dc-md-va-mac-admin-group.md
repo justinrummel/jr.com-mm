@@ -19,7 +19,7 @@ So please sign up for more information at [MacDMV][macdmv], or email/tweet Tom o
 Sources
 ---
 
-- [Macbrained](http://macbrained.wordpress.com)
+- [Macbrained](http://www.macbrained.org)
 - [Mac Enterprise Announcement](http://lists.psu.edu/cgi-bin/wa?A2=MACENTERPRISE;651e43e6.1311)
 - [AFP548 Announcement](http://www.afp548.com/2013/11/25/new-mac-admins-group-macdmv/)
 - [MacDMV](http://macdmv.com)
@@ -27,6 +27,6 @@ Sources
 - [@justinrummel](http://twitter.com/justinrummel)
 
 [irc]: http://osx.michaellynn.org/freenode-osx-server/freenode-osx-server_2013-11-22.html
-[macbrained]: http://macbrained.wordpress.com
+[macbrained]: http://www.macbrained.org
 [macdmv]: http://www.macdmv.com
 [nate]: http://twitter.com/natewalck

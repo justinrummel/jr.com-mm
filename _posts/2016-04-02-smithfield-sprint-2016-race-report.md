@@ -74,7 +74,7 @@ Among the Male 40-44 category, I was able to compete at a high level across all 
 
 #### Times
 
-If you want accurate pace info for races, I've been using Running Free Online's [Triathlon Race Calculator][trc].
+If you want accurate pace info for races I've had been using Running Free Online's, but that is now offline.
 
 | Smithfield         | 300m Swim | T1   | 10 Mile Bike  | T2   | 5k Run   | Total   |
 |:-------------------|:---------:|:----:|:-------------:|:----:|:--------:|--------:|
@@ -98,6 +98,5 @@ Footnotes
 [sherpa]: http://www.speedsherpa.com
 [^1]: Times based on 1:50/100m swim, 20mph ride, 7:30 minutes/mi run.
 [^2]: Official Race Results available at [VTS/MTS Smithfield Results page][results]
-[trc]: http://www.runningfreeonline.com/Tools/Triathlon_Race_Calculator
 [results]: http://www.vtsmts.com/2016-results/smithfieldoverall/
 [half]: http://www.vtsmts.com/kinetichalf/

@@ -73,13 +73,12 @@ Sources
 - [AutoPKG GitHub Repo][AutoPKG]
 - [AutoPKG Getting Started Documentation][autoDOC]
 - [JSSImporter addon GitHub Repo][JSSImporter]
-- [JSSImporter Getting Started Documentation][jssDOC]
+- JSSImporter Getting Started Documentation ~~OLD 318 Article new removed~~
 - [AutoPKG LaunchDaemon GitHub Repo][skauto]
 
 [AutoPKG]: https://github.com/autopkg/autopkg
 [autoDOC]: https://github.com/autopkg/autopkg/wiki/Getting-Started
 [JSSImporter]: https://github.com/arubdesu/jss-autopkg-addon
-[jssDOC]: http://www.318.com/2014/01/introducing-jssimporter-for-autopkg/
 [seankaiser]: https://twitter.com/seankaiser
 [skauto]: https://github.com/seankaiser/automation-scripts/tree/master/autopkg
 

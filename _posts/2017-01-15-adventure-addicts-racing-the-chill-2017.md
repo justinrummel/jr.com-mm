@@ -91,7 +91,7 @@ After the race there was a GREAT post-race food and awards ceremony.  There was 
 </figure>
 
 
-#### Updated 2017-01-19 (Race Photos by [Vlad][vlad])
+#### Updated 2017-01-19 (Race Photos by Vlad[^4])
 
 <figure class="half">
 <a href="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-PRO-SM-2.jpg" /></a>
@@ -110,6 +110,7 @@ Footnotes
 [^1]: [View non-Facebook Map]({{ site.url }}/assets/images/2017/01/15/15975315_1280067652054115_4036783888210526124_o.jpg)
 [^2]: [View non-Facebook CP Descriptions]({{ site.url }}/assets/images/2017/01/15/15995045_1280064738721073_2992360160599858295_o.jpg)
 [^3]: Official Race Results available at ["The Chill" Results page][event_results].
+[^4]: Vlad's [Facebook contact site][vlad]
 
 [ss]: http://www.speedsherpa.com
 [pb]: http://justins.com

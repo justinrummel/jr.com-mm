@@ -4,4 +4,4 @@ set -e # halt script on error
 bundle exec jekyll build -c _config.yml
 
 # bundle exec htmlproofer ./_site --disable-external
-bundle exec htmlproofer ./_site
+bundle exec htmlproofer ./_site/ --alt-ignore '/.*/' --allow-hash-href true --http-status-ignore 403,999 --check-img-http

@@ -16,7 +16,7 @@ header:
     caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
 ---
 
-For my fifth year in a row, I'll be presenting at [Macworld MacIT conference][MacIT] in January of 2013! I'll be presenting on two topics this year:
+For my fifth year in a row, I'll be presenting at Macworld MacIT conference in January of 2013! I'll be presenting on two topics this year:
 
 ### Thursday Jan 31st, from 10:20am - 11:05am
 [IT801: What has changed with Mountain Lion Server]({{ site.url }}/macit-2013-it801-what-has-changed-with-mountain-lion-server/)
@@ -34,5 +34,4 @@ With the release of OS X Mountain Lion 10.8, Apple has introduced new elements t
 
 This one I'm really excited about. We'll be discussing what Apple has done in terms of security on OS X, and how this helps system administrators, along with what can you do to control these elements! Also, I'll be presenting for the first time with long time colleague Steve Leebove of [MacResecue][MacResecue]. If you have any specific questions that you want me to cover, please comment now. I'll be working on my slides starting the first of December.
 
-[MacIT]: http://www.macitconf.com
 [MacResecue]: http://www.macrescue.com

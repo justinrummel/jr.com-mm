@@ -57,7 +57,7 @@ Once the initial information has been collected, wait for a couple of days-weeks
 The interview is very simple, and just like other background security interviews. You listen/read/collect information that they feel is important, they ask you the same questions that you filled out on the form to verify accuracy, then finally the interview is over as long as you don't have any questions. It took about 15-20 mins. Once complete your agent may or may not give your our "Trusted Traveler" ID number. **THIS NUMBER IS IMPORTANT**. You should also get a confirmation email that requires you to re-login to the GOES website which will have the same ID. You will copy/paste this ID to all the airlines that you use as they will apply this code to the scan portion of your paper ticket (or QR code for iOS 6′s Passbook). It's the fact that the ID is printed on your barcode that will allow you go use the TSA Pre Check security gates.
 
 [easy4]: http://www.globalentry.gov/howtoapply.html
-[tsa]: http://j.mp/126bHZV
+[tsa]: https://www.tsa.gov/precheck/map
 [goes]: https://goes-app.cbp.dhs.gov/main/goes
 
 What is the first time Airport Experience

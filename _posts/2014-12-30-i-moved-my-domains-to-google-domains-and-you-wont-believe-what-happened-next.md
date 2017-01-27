@@ -19,9 +19,7 @@ OK, that title is COMPLETELY intended for click bait. I just think it's funny ho
 Overview
 ---
 
-{% twitter https://twitter.com/sudeude/status/549685535384813568 %}
-
-Anyways, [@sudeude][sudeude] [sent a tweet][sudeudeGD] inviting anyone to try Google Domains. In typical Google fashion, Google Domains is in beta thus needing an invite (we won't guess how LONG Google Domains will be in beta). I wasn't really in the need for a new domain registrar as I was happy with my current provider, however, within the past year they were sold off to another registrar so I had no emotional ties to their service. I'm also not worried about any glitches that may be produced from the migration as I use ZoneEdit (for a cost) to manage the records vs. being dependent on the registrar.
+Anyways, ~~sudeude~~ [account is now deleted] inviting anyone to try Google Domains. In typical Google fashion, Google Domains is in beta thus needing an invite (we won't guess how LONG Google Domains will be in beta). I wasn't really in the need for a new domain registrar as I was happy with my current provider, however, within the past year they were sold off to another registrar so I had no emotional ties to their service. I'm also not worried about any glitches that may be produced from the migration as I use ZoneEdit (for a cost) to manage the records vs. being dependent on the registrar.
 
 I quickly visited Google Domains page and reviewed the very short home page. "Pick a name and go!"... sure I've heard that before. But then I checked the [features page][features], and read the first item was instantly SOLD.
 
@@ -67,6 +65,4 @@ There is a GREAT tool in the Advance section for Google Apps for your Domain (Bu
 
 Google Domains does NOT provide Dynamic DNS. You can still migrate your domain to Google, however, be sure to toggle the "Don't import my settings" on step two as seen above.
 
-[sudeude]: https://twitter.com/sudeude/
-[sudeudeGD]: https://twitter.com/sudeude/status/549685535384813568
 [features]: https://domains.google.com/about/features.html

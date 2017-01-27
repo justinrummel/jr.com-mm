@@ -39,7 +39,7 @@ The issue is that "Print Screen" button captures the picture to the clipboard, a
 Mac users have the the excellent output of saving their screen shots automatically to the Desktop.  You just need to make sure you can contort your left hand to hold one of the keyboard combinations to take that picture.  Even Apple describes the ability to capture screen shots as:
 
 > Okay, you probably already know the ol' Command-Shift-3 shortcut for taking a screen grab of your entire screen, and you may even know about Command-Shift-4, which gives you a crosshair cursor so you can choose which area of the screen you want to capture. But perhaps the coolest, most-secret hidden capture shortcut is Control-Command-Shift-3 (or 4), which, instead of creating a file on your desktop, copies the capture into your Clipboard memory, so you can paste it where you want.
-> <cite>[Apple](http://www.apple.com/uk/pro/tips/secretcapture.html)</cite>
+> <cite>Apple</cite>
 
 "just use the ol' Command-Shift-4 w/ a spacebar", that is what makes things difficult for a switcher.
 
