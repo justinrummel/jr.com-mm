@@ -1,22 +1,32 @@
 language: ruby
+
 rvm:
 - 2.3.3
 
+sudo: false
+
+addons:
+  ssh_known_hosts: www.justinrummel.com
+
 before_script:
- - chmod +x ./script/cibuild # or do this locally and commit
-
-# Assume bundler is being used, therefore
-# the `install` step will run `bundle install` by default.
-script: ./script/cibuild
-
-# branch whitelist, only for GitHub Pages
-# branches:
-#  only:
-#  - gh-pages     # test the gh-pages branch
-#  - /pages-(.*)/ # test every branch which starts with "pages-"
+- chmod +x ./script/cibuild
 
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 
-sudo: false # route your build to the container-based infrastructure for a faster build
+script: ./script/cibuild
+
+before_deploy:
+- openssl aes-256-cbc -K $encrypted_bfeb93fbf318_key -iv $encrypted_bfeb93fbf318_iv -in deploy_key.enc -out deploy_key -d
+- eval "$(ssh-agent -s)"
+- chmod 600 /tmp/deploy_rsa
+- ssh-add /tmp/deploy_rsa
+
+deploy:
+  provider: script
+  skip_cleanup: true
+  script: rsync -P -cavz --delete-after --quiet $TRAVIS_BUILD_DIR/_dist justinru@www.justinrummel.com:~/public_html/
+    --exclude=/.well-known --exclude=/cgi-bin/
+  on:
+    branch: jr-branch

@@ -15,5 +15,7 @@ _asset_bundler_cache
 _cert
 _site
 codekit-config.json
+deploy_key
+deploy_key.pub
 node_modules
 npm-debug.log*

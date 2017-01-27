@@ -25,6 +25,8 @@ gem 'json'
 gem "minimal-mistakes-jekyll"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem 'html-proofer'
+gem 'net-http-persistent', '~> 2.9', '>= 2.9.4'
+gem 'travis'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
