@@ -18,7 +18,7 @@ env:
 script: ./script/cibuild
 
 before_deploy:
-- openssl aes-256-cbc -K $encrypted_bfeb93fbf318_key -iv $encrypted_bfeb93fbf318_iv -in deploy_key.enc -out deploy_key -d
+- openssl aes-256-cbc -K $encrypted_bfeb93fbf318_key -iv $encrypted_bfeb93fbf318_iv -in deploy_key.enc -out /tmp/deploy_key -d
 - eval "$(ssh-agent -s)"
 - ls -al /tmp/
 - chmod 600 /tmp/deploy_key
