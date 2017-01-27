@@ -1,0 +1,15 @@
+---
+id: disqus-comment-843837945
+date: '2013-03-27 12:06:30 +0000'
+updated: '2013-03-27 12:06:30 +0000'
+post_id: /jamf-software-casper-suite-in-an-amazon-ec2-cloud
+name: Justin
+url: https://www.justinrummel.com/
+message: <p>from <a href="https://disq.us/url?url=https%3A%2F%2Fgithub.com%2Fwdas%2Freposado%2Fblob%2Fmaster%2Fdocs%2Freposado_preferences.txt%3A4tXR0tOwbUoQvSk8Gz5FOZTy694&amp;cuid=13645"
+  rel="nofollow noopener">https://github.com/wdas/reposa...</a></p><p>"If LocalCatalogURLBase
+  is undefined, only Apple catalogs will be replicated and the URLs will not be re-written.  The
+  actual Software Update packages will not be downloaded. This allows you to have
+  custom catalogs for Apple Software Update, but clients will still download the actual
+  update packages from Apple's servers. If Reposado is configured this way, you will
+  not be able to offer deprecated updates to clients."</p>
+avatar: https://disqus.com/api/users/avatars/justinrummel.jpg

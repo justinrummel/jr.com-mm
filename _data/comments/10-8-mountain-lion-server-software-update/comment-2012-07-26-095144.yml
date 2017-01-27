@@ -1,0 +1,14 @@
+---
+id: disqus-comment-598343457
+date: '2012-07-26 09:51:44 +0000'
+updated: '2012-07-26 09:51:44 +0000'
+post_id: /10-8-mountain-lion-server-software-update
+name: Justin
+url: https://www.justinrummel.com/
+message: <p>This would need to be tested.  It's my experience with Lion (and Mt Lion)
+  that when you save a setting using <a href="http://disq.us/url?url=http%3A%2F%2FServer.app%3AyUIGNyFLBIjmJvWx3VU7WIqoHh0&amp;cuid=13645"
+  rel="nofollow noopener">Server.app</a>, it doesn't just change the one value, it
+  basically re-writes the entire config file.  So any changes to the updatesDocRoot
+  may be put back to default status of /Library/Server/Software\ Updates/</p><p>Just
+  a warning... </p>
+avatar: https://disqus.com/api/users/avatars/justinrummel.jpg

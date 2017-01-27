@@ -1,0 +1,10 @@
+---
+id: disqus-comment-1598548305
+date: '2014-09-21 04:57:36 +0000'
+updated: '2014-09-21 04:57:36 +0000'
+post_id: /sending-mail-from-os-x-server-on-verizon-fios-via-gmail
+name: Bijesh
+url: ''
+message: <p>These three lines did the trick for me:</p><p>smtp_use_tls = yes<br />smtp_sasl_security_options
+  = noanonymous<br />smtp_sasl_tls_security_options = noanonymous</p>
+avatar: //a.disquscdn.com/1485196591/images/noavatar92.png

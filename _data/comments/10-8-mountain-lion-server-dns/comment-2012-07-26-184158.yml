@@ -1,0 +1,11 @@
+---
+id: disqus-comment-598788307
+date: '2012-07-26 18:41:58 +0000'
+updated: '2012-07-26 18:41:58 +0000'
+post_id: /10-8-mountain-lion-server-dns
+name: Justin
+url: https://www.justinrummel.com/
+message: <p>If this is a home server, and you have only one DNS server... be sure
+  your Ethernet DNS Network settings are set for "127.0.0.1" on the server.  Your
+  clients will point to your servers internal IP address (e.g. 192.168.x.x/24).</p>
+avatar: https://disqus.com/api/users/avatars/justinrummel.jpg

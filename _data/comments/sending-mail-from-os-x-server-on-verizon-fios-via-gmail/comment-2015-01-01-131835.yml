@@ -1,0 +1,16 @@
+---
+id: disqus-comment-1767114828
+date: '2015-01-01 13:18:35 +0000'
+updated: '2015-01-01 13:18:35 +0000'
+post_id: /sending-mail-from-os-x-server-on-verizon-fios-via-gmail
+name: Justin
+url: https://www.justinrummel.com/
+message: '<p>A couple of days ago I received an email stating things were not working
+  again.  Doing some more googling I found <a href="http://disq.us/url?url=http%3A%2F%2Fblog.anupamsg.me%2F2012%2F02%2F14%2Fenabling-postfix-for-outbound-relay-via-gmail-on-os-x-lion-11%2F%3A_3jB8rgm1sj5rtOoXnAt8JmkO6s&amp;cuid=13645"
+  rel="nofollow noopener">http://blog.anupamsg.me/2012/0...</a> and noticed one line
+  was missing in my mods:</p><p>smtp_sasl_mechanism_filter = plain</p><p>since adding
+  this line I can now send mail from my server via these test commands:</p><p>telnet
+  localhost 25<br />MAIL FROM: email@domain.tld<br />RCPT TO: email@domain.tld<br
+  />DATA<br />This is a test message.  #1<br />.</p><p>(the period on the last line
+  is important)</p>'
+avatar: https://disqus.com/api/users/avatars/justinrummel.jpg
