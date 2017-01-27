@@ -22,7 +22,6 @@ GEM
     ffi (1.9.17-x64-mingw32)
     forwardable-extended (2.6.0)
     gemoji (2.1.0)
-    gsl (2.1.0.1)
     html-pipeline (2.5.0)
       activesupport (>= 2)
       nokogiri (>= 1.4)
@@ -113,9 +112,7 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
     rb-fsevent (0.9.8)
-    rb-gsl (1.16.0.6)
-      gsl
-    rb-inotify (0.9.7)
+    rb-inotify (0.9.8)
       ffi (>= 0.5.0)
     redcarpet (3.4.0)
     ref (2.0.0)
@@ -150,7 +147,6 @@ DEPENDENCIES
   minimal-mistakes-jekyll
   nokogiri (~> 1.6.0)
   octopress
-  rb-gsl
 
 BUNDLED WITH
    1.13.1

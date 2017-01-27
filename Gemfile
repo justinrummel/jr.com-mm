@@ -34,7 +34,7 @@ group :jekyll_plugins do
   gem 'jekyll-lunr-js-search'
   gem 'nokogiri', '~> 1.6.0'     # 1.7 requires ruby >= 2.1.0
   gem 'classifier-reborn'        # --lsi support
-  gem 'rb-gsl'                   # make lsi faster.  Don't forget brew install gsl
+#  gem 'rb-gsl'                   # make lsi faster.  Don't forget brew install gsl, Travis does not like gsl.
 #  gem 'jekyll-paginate'
 #  gem 'jekyll-sitemap'
 #  gem 'jekyll-gist'
