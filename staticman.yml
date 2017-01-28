@@ -1,6 +1,6 @@
 comments:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  allowedOrigins         : ["localhost", "justinrummel.com"]
+  allowedFields          : ['name', 'email', 'url', 'parent', 'origin', 'message']
+  allowedOrigins         : ["localhost", "justinrummel.com", "www.justinrummel.com"]
   branch                 : "jr-branch"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}

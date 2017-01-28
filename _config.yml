@@ -31,8 +31,8 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  allowedOrigins         : ["localhost", "justinrummel.com"]
+  allowedFields          : ['name', 'email', 'url', 'parent', 'origin', 'message']
+  allowedOrigins         : ["localhost", "justinrummel.com", "www.justinrummel.com"]
   branch                 : "jr-branch"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -137,6 +137,7 @@ exclude:
   - package.json
   - Rakefile
   - README
+  - script
   - tmp
   - vendor
   - /docs # ignore Minimal Mistakes /docs
