@@ -1,0 +1,25 @@
+comments:
+  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedOrigins         : ["localhost", "justinrummel.com"]
+  branch                 : "jr-branch"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  requiredFields         : ['name', 'email', 'message']
+  # with Mailgun, which you can get for free at http://mailgun.com.
+  # https://mademistakes.com/articles/improving-jekyll-static-comments/
+  notifications:
+    enabled: true
+    # Mailgun API key (encrypted)
+    apiKey: "DtgHoNuRZu+r3jw2m6vDhykWgtmVWttbJYPFXMcMdkMvnC+LtwBUqURMWFOAm7nbL9Qq7hhBOw3Lb+36nYp+qXyU1HP6T0f2ySnjngqrm0YfbtLEsmUCoIJCN/4dgCZdPC8qlkaHISQx3L3sVhLnIjUl/fXEXsrOfb2AmM0+2bA="
+    # Mailgun domain (encrypted)
+    domain: "BPvJ2L3k9ffONVpUIEUXVTPC1n+0HZ3CBcjkwfNUs+sVIDHA6/byxUiKxYYyMUPCRnUCQPGHjLhdo03VQ1r94Adme1O4zJ+QWwxdASKatvNuFJuIVeC8ZTCKQoJAQYYCKJlWRxM2IKo7srycPQ1Np+TQnEDD9d3/WaJJ/wcyQcs="
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
