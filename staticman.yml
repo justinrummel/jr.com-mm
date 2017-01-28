@@ -6,7 +6,7 @@ comments:
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  path                   : "_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
   requiredFields         : ['name', 'email', 'message']
   # with Mailgun, which you can get for free at http://mailgun.com.
   # https://mademistakes.com/articles/improving-jekyll-static-comments/
