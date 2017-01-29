@@ -1,10 +1,6 @@
----
-id: disqus-comment-599202107
+_id: disqus-comment-599202107
 date: '2012-07-27 03:19:36 +0000'
-updated: '2012-07-27 03:19:36 +0000'
-post_id: /10-8-mountain-lion-server-websites-and-wiki
 name: James
 url: ''
 message: <p>The wiki WebDAV share is available through the standard user WebDAV login
   - thanks to redirects, just "servername" will work in Pages etc.</p>
-avatar: //a.disquscdn.com/1485196591/images/noavatar92.png

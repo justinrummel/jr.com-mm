@@ -1,10 +1,6 @@
----
-id: disqus-comment-597682896
+_id: disqus-comment-597682896
 date: '2012-07-25 18:24:17 +0000'
-updated: '2012-07-25 18:24:17 +0000'
-post_id: /10-8-mountain-lion-server-software-update
 name: Dan Stranathan
 url: ''
 message: '<p>Related topic: Can a 10.6 Snow Leopard Server provide updates for 10.8
   Mountain Lion clients? (Modify /etc/swupd/swupd.conf perhaps?)</p>'
-avatar: //a.disquscdn.com/1485196591/images/noavatar92.png

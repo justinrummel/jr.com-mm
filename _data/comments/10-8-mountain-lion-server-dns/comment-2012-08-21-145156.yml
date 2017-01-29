@@ -1,11 +1,7 @@
----
-id: disqus-comment-624901557
+_id: disqus-comment-624901557
 date: '2012-08-21 14:51:56 +0000'
-updated: '2012-08-21 14:51:56 +0000'
-post_id: /10-8-mountain-lion-server-dns
 name: Ben
 url: ''
 message: '<p>Just a suggestion: I like making the new zone before deleting the old
   zone. It keeps the lookup for the server available the whole time in case you need
   to hit save and get out of there before finishing the whole setup.</p>'
-avatar: //a.disquscdn.com/1485196591/images/noavatar92.png
