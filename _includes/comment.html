@@ -1,6 +1,6 @@
 <article id="comment{% if p %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endif %}" class="js-comment comment {% if include.name == site.author.name %}admin{% endif %} {% if p %}child{% endif %}" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
-  <div class="comment__avatar-wrapper">
 
+  <div class="comment__avatar-wrapper">
     {% if include.avatar %}
       <img src="{{ include.avatar }}" alt="{{ include.name | escape }}">
     {% elsif include.email %}
@@ -8,36 +8,36 @@
     {% else %}
       <img src="{{ site.url }}/assets/images/avatar-60.png" srcset="{{ site.url }}/assets/images/avatar-120.png 2x" alt="{{ include.name | escape }}">
     {% endif %}
-
   </div>
-  <div class="comment__content-wrapper">
-    <h3 class="comment__author" itemprop="author" itemscope itemtype="http://schema.org/Person">
-      {% unless include.url == blank %}
-        <span itemprop="name"><a rel="external nofollow" itemprop="url" href="{{ include.url }}">{{ include.name }}</a></span>
-      {% else %}
-        <span itemprop="name">{{ include.name }}</span>
-      {% endunless %}
-    </h3>
-    <p class="comment__date">
-      {% if include.date %}
-        {% if include.index %}<a href="#comment{% if p %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endif %}" title="Permalink to this comment" itemprop="url">{% endif %}
-        <time datetime="{{ include.date | date_to_xmlschema }}" itemprop="datePublished">{{ include.date | date: "%B %d, %Y at %I:%M %p" }}</time>
-        {% if include.index %}</a>{% endif %}
-      {% endif %}
-    </p>
-    <div itemprop="text">{{ include.message | markdownify }}</div>
 
-    {% unless p or page.comments_locked == true %}
-    <div class="comment__reply">
-      <a rel="nofollow" class="btn" href="#comment-{{ include.index }}" onclick="return addComment.moveForm('comment-{{ include.index }}', '{{ include.index }}', 'respond', '{{ page.slug }}')">Reply to {{ include.name }}</a>
-    </div>
+  <h3 class="comment__author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    {% unless include.url == blank %}
+      <span itemprop="name"><a rel="external nofollow" itemprop="url" href="{{ include.url }}">{{ include.name }}</a></span>
+    {% else %}
+      <span itemprop="name">{{ include.name }}</span>
     {% endunless %}
+  </h3>
 
+  <div class="comment__date">
+    {% if include.date %}
+      {% if include.index %}<a href="#comment{% if p %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endif %}" title="Permalink to this comment" itemprop="url">{% endif %}
+      <time datetime="{{ include.date | date_to_xmlschema }}" itemprop="datePublished">{{ include.date | date: "%B %d, %Y at %I:%M %p" }}</time>
+      {% if include.index %}</a>{% endif %}
+    {% endif %}
   </div>
+
+  <div itemprop="text">{{ include.message | markdownify }}</div>
+
+  {% unless p or page.comments_locked == true %}
+  <div class="comment__reply">
+    <a rel="nofollow" class="btn" href="#comment-{{ include.index }}" onclick="return addComment.moveForm('comment-{{ include.index }}', '{{ include.index }}', 'respond', '{{ page.slug }}')">Reply to {{ include.name }}</a>
+  </div>
+  {% endunless %}
+
 </article>
 
 {% capture i %}{{ include.index }}{% endcapture %}
-{% assign replies = site.data.comments[page.slug] | where_exp:"item","item._parent == i" %}
+{% assign replies = site.data.comments[page.slug] | where_exp:"item", "item._parent == i" %}
 {% for reply in replies %}
   {% assign index   = forloop.index | prepend: '-' | prepend: include.index %}
   {% assign p       = reply._parent %}

@@ -21,7 +21,7 @@
             <h4 class="page__comments-title">
               {{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}
             </h4>
-            {% assign comments = site.data.comments[page.slug] | where_exp:"item","item._parent == nil" %}
+            {% assign comments = site.data.comments[page.slug] | where_exp:"item", "item._parent == nil" %}
             {% for comment in comments %}
 
               {% assign index   = forloop.index %}
