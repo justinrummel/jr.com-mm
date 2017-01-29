@@ -1,13 +1,13 @@
 comments:
-  allowedFields          : ['name', 'email', 'url', 'parent', 'origin', 'message']
+  allowedFields          : ['name', 'email', 'parent', 'origin', 'slug', 'message']
+  requiredFields         : ['name', 'email', 'origin', 'slug', 'message']
   allowedOrigins         : ["localhost", "justinrummel.com", "www.justinrummel.com"]
   branch                 : "jr-branch"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
-  requiredFields         : ['name', 'email', 'message']
+  path                   : "_data/comments/{options.slug}" # "_data/comments/{options.slug}" (default)
   # with Mailgun, which you can get for free at http://mailgun.com.
   # https://mademistakes.com/articles/improving-jekyll-static-comments/
   notifications:
