@@ -11,27 +11,41 @@
     <h4 class="page__comments-title">{{ comments_label }}</h4>
     <section class="g-comments" data-href="{{ page.url | absolute_url }}" data-first_party_property="BLOGGER" data-view_type="FILTERED_POSTMOD">Loading Google+ Comments ...</section>
   {% when "staticman" %}
+
     <section id="static-comments">
       {% if site.repository and site.staticman.branch %}
+      {% if site.data.comments[page.slug] %}
         <!-- Start static comments -->
-        <div class="js-comments">
-          {% if site.data.comments[page.slug] %}
-            <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</h4>
-            {% assign comments = site.data.comments[page.slug] | sort %}
+        <div id="comments" class="js-comments">
 
+            <h4 class="page__comments-title">
+              {{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}
+            </h4>
+            {% assign comments = site.data.comments[page.slug] | where_exp:"item","item._parent == nil" %}
             {% for comment in comments %}
-              {% assign email = comment[1].email %}
-              {% assign name = comment[1].name %}
-              {% assign url = comment[1].url %}
-              {% assign date = comment[1].date %}
-              {% assign message = comment[1].message %}
-              {% include comment.html index=forloop.index email=email name=name url=url date=date message=message %}
-            {% endfor %}
-          {% endif %}
-        </div>
-        <!-- End static comments -->
 
+              {% assign index   = forloop.index %}
+              {% assign p       = comment._parent %}
+              {% assign parent  = p | to_integer %}
+
+              {% assign avatar  = comment.avatar %}
+              {% assign email   = comment.email %}
+              {% assign name    = comment.name %}
+              {% assign url     = comment.url %}
+              {% assign date    = comment.date %}
+              {% assign message = comment.message %}
+
+              {% include comment.html index=index parent=parent avatar=avatar email=email name=name url=url date=date message=message %}
+
+            {% endfor %}
+          </div>
+          <!-- End static comments -->
+        {% endif %}
+
+
+        {% unless page.comments_locked == true %}
         <!-- Start new comment form -->
+        <div id="respond">
         <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_label | default: "Leave a Comment" }}</h4>
         <p class="small">{{ site.data.ui-text[site.locale].comment_form_info | default: "Your email address will not be published. Required fields are marked" }} <span class="required">*</span></p>
         <form id="new_comment" class="page__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
@@ -72,10 +86,15 @@
           <fieldset>
             <button type="submit" id="comment-form-submit" tabindex="5" class="btn btn--large">{{ site.data.ui-text[site.locale].comment_btn_submit | default: "Submit Comment" }}</button>
           </fieldset>
+
         </form>
-        <!-- End new comment form -->
-      {% endif %}
-    </section>
+      </div>
+      <!-- End new comment form -->
+      {% else %}
+        <p><em>Comments are closed. If you have a question concerning the content of this page, please feel free to contact me.</em></p>
+      {% endunless %}
+    {% endif %}
+  </section>
   {% when "custom" %}
     <section id="custom-comments"></section>
   {% endcase %}
