@@ -26,7 +26,7 @@
     {% endif %}
   </div>
 
-  <div itemprop="text">{{ include.message | markdownify }}</div>
+  <div class="comment__message" itemprop="text">{{ include.message | markdownify }}</div>
 
   {% unless p or page.comments_locked == true %}
   <div class="comment__reply">

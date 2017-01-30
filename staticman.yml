@@ -1,6 +1,7 @@
 comments:
   allowedFields          : ['name', 'email', 'parent', 'origin', 'slug', 'message']
-  requiredFields         : ['name', 'email', 'origin', 'slug', 'message']
+#  requiredFields         : ['name', 'email', 'origin', 'slug', 'message']
+  requiredFields         : ['name', 'email', 'message']
   allowedOrigins         : ["localhost", "justinrummel.com", "www.justinrummel.com"]
   branch                 : "jr-branch"
   commitMessage          : "New comment."

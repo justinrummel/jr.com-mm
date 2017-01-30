@@ -383,9 +383,9 @@
   margin-bottom: 4em;
   font-size: 0.9em;
 
-  &:not(:last-child) {
-    border-bottom: 1px solid $border-color;
-  }
+//  &:not(:last-child) {
+//    border-bottom: 1px solid $border-color;
+//  }
 
   // comment replies
   &.child {
@@ -416,7 +416,7 @@
   float: left;
   width: 60px;
   height: 60px;
-  margin-right: 1em;
+  margin-right: 20px;
 
 //  @include breakpoint($large) {
 //    width: 100px;
@@ -464,6 +464,23 @@
   }
 }
 
+.comment__message {
+  margin: 0;
+  margin-left: 80px;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.comment__reply {
+  margin: 0;
+  margin-left: 80px;
+
+  a {
+    text-decoration: none;
+  }
+}
 
 /*
    Related
