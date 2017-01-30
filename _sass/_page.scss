@@ -416,11 +416,13 @@
   float: left;
   width: 60px;
   height: 60px;
+  margin-right: 1em;
 
-  @include breakpoint($large) {
-    width: 100px;
-    height: 100px;
-  }
+//  @include breakpoint($large) {
+//    width: 100px;
+//    height: 100px;
+//  }
+
 }
 
 .comment__avatar {
