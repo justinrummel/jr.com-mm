@@ -24,7 +24,7 @@
             </h4>
             {% assign comments = site.data.comments[page.slug] | where_exp:"item","item._parent == nil" %}
 
-            {{ comments | inspect }}
+<!--            {{ comments | inspect }}    -->
 
             {% for comment in comments %}
 
