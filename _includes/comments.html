@@ -15,13 +15,17 @@
     <section id="static-comments">
       {% if site.repository and site.staticman.branch %}
       {% if site.data.comments[page.slug] %}
+
         <!-- Start static comments -->
         <div id="comments" class="js-comments">
 
             <h4 class="page__comments-title">
               {{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}
             </h4>
-            {% assign comments = site.data.comments[page.slug] | where_exp:"item", "item._parent == nil" %}
+            {% assign comments = site.data.comments[page.slug] | where_exp:"item","item._parent == nil" %}
+
+            {{ comments | inspect }}
+
             {% for comment in comments %}
 
               {% assign index   = forloop.index %}
@@ -33,9 +37,11 @@
               {% assign name    = comment.name %}
               {% assign url     = comment.url %}
               {% assign date    = comment.date %}
+              {% assign slug    = comment.slug %}
+              {% assign origin  = comment.origin %}
               {% assign message = comment.message %}
 
-              {% include comment.html index=index parent=parent avatar=avatar email=email name=name url=url date=date message=message %}
+              {% include comment.html index=index parent=parent avatar=avatar email=email name=name url=url date=date slug=slug origin=origin message=message %}
 
             {% endfor %}
           </div>
