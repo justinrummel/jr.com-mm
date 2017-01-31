@@ -377,6 +377,10 @@
   }
 }
 
+#comment-form-reply {
+  display: inline;
+}
+
 .comment {
   @include clearfix();
   margin: 1em 0;
