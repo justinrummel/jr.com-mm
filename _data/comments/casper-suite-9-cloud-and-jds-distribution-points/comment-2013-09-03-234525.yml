@@ -2,12 +2,12 @@ _id: disqus-comment-1028967766
 _parent: '1'
 date: '2013-09-03 23:45:25 +0000'
 name: Justin
-message: '<p>It''s simplicity!  See: http://www.justinrummel.com/casper-suite-9-jds-ubuntu-server-install-example/
-  </p><p>Also, My next
-  article needs to review syncing capabilities as outlined on pg 60 of the Casper
-  Admin Guide: "Not available when replicating to root JDS instances.  Available when
-  replicating to non-root JDS instances."</p><p>This way you could have your one Root
-  JDS feed your "Sites" JDS''s the files that are only needed for that area.  It brings
-  application deployment in a large or "enterprise-like" environment now with control
-  of where Packages are located.</p>'
+message: "It's simplicity!  See: [http://www.justinrummel.com/casper-suite-9-jds-ubuntu-server-install-example](http://www.justinrummel.com/casper-suite-9-jds-ubuntu-server-install-example)\r\n
+  Also, My next article needs to review syncing capabilities as outlined on pg 60 of the Casper
+  Admin Guide: &quot;Not available when replicating to root JDS instances.  Available when
+  replicating to non-root JDS instances.&quot;\r\n
+  This way you could have your one Root
+  JDS feed your &quot;Sites&quot; JDS's the files that are only needed for that area.  It brings
+  application deployment in a large or &quot;enterprise-like&quot; environment now with control
+  of where Packages are located."
 email: 812849b04c44245ad29c0e40cb84e3da

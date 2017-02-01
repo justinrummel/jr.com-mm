@@ -2,10 +2,10 @@ _id: disqus-comment-601725579
 _parent: '2'
 date: '2012-07-29 13:49:31 +0000'
 name: Justin
-message: <p>See http://support.apple.com/kb/TS1629
-   for common ports.</p><p>You
-  would want to start with 311 and 660. But you may want others open as well such
-  as ARD to control, ssh, or look at Profile Manager thus need APNS.</p><p>To set
-  up remotely, I would say get a VPN setup or get someone to start TeamViewer session.  Less
-  hassle than figuring out ports. :)</p>
+message: See [http://support.apple.com/kb/TS1629](http://support.apple.com/kb/TS1629)
+  for common ports.\r\n
+  You would want to start with 311 and 660. But you may want others open as well such
+  as ARD to control, ssh, or look at Profile Manager thus need APNS.\r\n
+  To set up remotely, I would say get a VPN setup or get someone to start TeamViewer session.  Less
+  hassle than figuring out ports. :)
 email: 812849b04c44245ad29c0e40cb84e3da

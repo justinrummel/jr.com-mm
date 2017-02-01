@@ -2,11 +2,11 @@ _id: disqus-comment-845093586
 _parent: '2'
 date: '2013-03-28 15:08:58 +0000'
 name: Justin
-message: '<p>Finally had time for this.  Apple''s added SMB logging into system.log</p><p>sadmin@osxs2
-  ~&gt; grep smbd /var/log/system.log</p><p>Mar 28 11:06:49 http://osxs2.rummel.co
-   smbd[79340]: jbr connected to path /Network/Servers/<a
-  href="http://osxs2.rummel.co/Volumes/Drobo/Users/jbr"
-  </p><p>Mar 28 11:06:49
-  http://osxs2.rummel.co
-   smbd[79340]: jbr connected to path /Volumes/Drobo/Shared</p>'
+message: "Finally had time for this.  Apple has added SMB logging into system.log\r\n
+  ``` bash
+  sadmin@osxs2 ~> grep smbd /var/log/system.log\r\n
+  Mar 28 11:06:49 osxs2.rummel.co smbd[79340]: jbr connected to path /Network/Servers/Users/jbr\r\n
+  Mar 28 11:06:49 osxs2.rummel.co smbd[79340]: jbr connected to path /Volumes/Drobo/Shared
+  ```
+  "
 email: 812849b04c44245ad29c0e40cb84e3da
