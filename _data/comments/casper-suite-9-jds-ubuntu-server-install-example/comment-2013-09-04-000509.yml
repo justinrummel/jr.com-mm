@@ -2,8 +2,8 @@ _id: disqus-comment-1028982522
 date: '2013-09-04 00:05:09 +0000'
 name: Justin
 message: '<p>Just wanted to post a quick comment that Removing a JDS from your server
-  is now  documented on JAMF Nation: <a href="https://jamfnation.jamfsoftware.com/article.html%3Fid=340"
-  rel="nofollow noopener">https://jamfnation.jamfsoftwar...</a> (just in case you
+  is now  documented on JAMF Nation: https://jamfnation.jamfsoftware.com/article.html%3Fid=340
+   (just in case you
   try to install a JDS on a running JSS environment... not that I did... nope.)</p><p>Good
   thing 9.01 was released!</p>'
 email: 812849b04c44245ad29c0e40cb84e3da

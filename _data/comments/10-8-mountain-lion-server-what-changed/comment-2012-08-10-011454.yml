@@ -6,6 +6,6 @@ message: <p>Hi Stephen!  Understanding why Apple does anything will only drive y
   crazy.  ;)</p><p>My guess they are relying on hardware firewalls at the "top" of
   your network, so either your ISP's router, Apple Express/Extreem, or some other
   professional box vs. putting system resources to work ipfw.  Don't forget, you have
-  Gatekeeper and pf (<a href="http://krypted.com/mac-os-x/a-cheat-sheet-for-using-pf-in-os-x-lion-and-up/"
-  rel="nofollow noopener">http://krypted.com/mac-os-x/a-...</a>. </p>
+  Gatekeeper and pf (http://krypted.com/mac-os-x/a-cheat-sheet-for-using-pf-in-os-x-lion-and-up/
+  . </p>
 email: 812849b04c44245ad29c0e40cb84e3da

@@ -3,11 +3,11 @@ _parent: '1'
 date: '2012-07-25 20:12:53 +0000'
 name: Justin
 message: <p>I'm not sure about the consolidate method, but the indpenedant method
-  should work.  From reposado's operation documentation (<a href="https://github.com/wdas/reposado/blob/master/docs/reposado_operation.txt"
-  rel="nofollow noopener">https://github.com/wdas/reposa...</a> the Mt Lion path is <a
+  should work.  From reposado's operation documentation (https://github.com/wdas/reposado/blob/master/docs/reposado_operation.txt
+   the Mt Lion path is <a
   href="http://swscan.apple.com/content/catalogs/others/index-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog"
-  rel="nofollow noopener">http://swscan.apple.com/conten...</a> </p><p>Use Apple's
-  kbase <a href="http://support.apple.com/kb/HT4771"
-  rel="nofollow noopener">http://support.apple.com/kb/HT...</a> to modify the necessary
+   </p><p>Use Apple's
+  kbase http://support.apple.com/kb/HT4771
+   to modify the necessary
   files and get the Mt Lion specific feed. </p>
 email: 812849b04c44245ad29c0e40cb84e3da

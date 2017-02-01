@@ -2,7 +2,7 @@ _id: disqus-comment-2137620109
 date: '2015-07-15 12:38:14 +0000'
 name: Lucy Park
 url: http://lucypark.kr/
-message: <p>The link [overview of this new command](<a href="https://github.com/octopress/octopress#basic-usage"
-  rel="nofollow noopener">https://github.com/octopress/o...</a> breaks now due to
+message: <p>The link [overview of this new command](https://github.com/octopress/octopress#basic-usage
+   breaks now due to
   README updates. You probably want to change it :)</p>
 avatar: https://disqus.com/api/users/avatars/e9t.jpg

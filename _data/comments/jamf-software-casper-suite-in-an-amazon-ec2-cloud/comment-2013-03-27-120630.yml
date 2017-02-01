@@ -2,8 +2,8 @@ _id: disqus-comment-843837945
 _parent: '2'
 date: '2013-03-27 12:06:30 +0000'
 name: Justin
-message: <p>from <a href="https://github.com/wdas/reposado/blob/master/docs/reposado_preferences.txt"
-  rel="nofollow noopener">https://github.com/wdas/reposa...</a></p><p>"If LocalCatalogURLBase
+message: <p>from https://github.com/wdas/reposado/blob/master/docs/reposado_preferences.txt
+  </p><p>"If LocalCatalogURLBase
   is undefined, only Apple catalogs will be replicated and the URLs will not be re-written.  The
   actual Software Update packages will not be downloaded. This allows you to have
   custom catalogs for Apple Software Update, but clients will still download the actual

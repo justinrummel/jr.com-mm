@@ -3,8 +3,8 @@ _parent: '1'
 date: '2013-03-01 17:04:46 +0000'
 name: Justin
 message: '<p>Hello!  Unfortunately the wiki themes of 10.6 are not carried over when
-  upgrading to 10.7 and 10.8 as noted in Apple''s kbase article: <a href="http://support.apple.com/kb/HT5381"
-  rel="nofollow noopener">http://support.apple.com/kb/HT...</a></p><p>You''ll need
+  upgrading to 10.7 and 10.8 as noted in Apple''s kbase article: http://support.apple.com/kb/HT5381
+  </p><p>You''ll need
   to expand the "Upgrading from Lion Server or Mac OS X Server v10.6 Snow Leopard"
   link and scroll all the way to the bottom to find this line for "Wiki".</p>'
 email: 812849b04c44245ad29c0e40cb84e3da
