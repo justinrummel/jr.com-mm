@@ -3,7 +3,7 @@ _parent: '2'
 date: '2012-07-29 13:49:31 +0000'
 name: Justin
 url: https://www.justinrummel.com/
-message: <p>See <a href="http://disq.us/url?url=http%3A%2F%2Fsupport.apple.com%2Fkb%2FTS1629%3AUKgNbligdKzLdK2-3w7Do4Q1giM&amp;cuid=13645"
+message: <p>See <a href="http://support.apple.com/kb/TS1629"
   rel="nofollow noopener">http://support.apple.com/kb/TS...</a> for common ports.</p><p>You
   would want to start with 311 and 660. But you may want others open as well such
   as ARD to control, ssh, or look at Profile Manager thus need APNS.</p><p>To set

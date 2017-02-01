@@ -4,10 +4,10 @@ date: '2013-03-28 15:08:58 +0000'
 name: Justin
 url: https://www.justinrummel.com/
 message: '<p>Finally had time for this.  Apple''s added SMB logging into system.log</p><p>sadmin@osxs2
-  ~&gt; grep smbd /var/log/system.log</p><p>Mar 28 11:06:49 <a href="http://disq.us/url?url=http%3A%2F%2Fosxs2.rummel.co%3AF2CwU5usZLV25Vdnpz5eo-SgW5g&amp;cuid=13645"
+  ~&gt; grep smbd /var/log/system.log</p><p>Mar 28 11:06:49 <a href="http://osxs2.rummel.co"
   rel="nofollow noopener">osxs2.rummel.co</a> smbd[79340]: jbr connected to path /Network/Servers/<a
-  href="http://disq.us/url?url=http%3A%2F%2Fosxs2.rummel.co%2FVolumes%2FDrobo%2FUsers%2Fjbr%3AhxJExbOO-FnLWK82ortuprOCv0E&amp;cuid=13645"
+  href="http://osxs2.rummel.co/Volumes/Drobo/Users/jbr"
   rel="nofollow noopener">osxs2.rummel.co/Volumes/Drobo/...</a></p><p>Mar 28 11:06:49
-  <a href="http://disq.us/url?url=http%3A%2F%2Fosxs2.rummel.co%3AF2CwU5usZLV25Vdnpz5eo-SgW5g&amp;cuid=13645"
+  <a href="http://osxs2.rummel.co"
   rel="nofollow noopener">osxs2.rummel.co</a> smbd[79340]: jbr connected to path /Volumes/Drobo/Shared</p>'
 avatar: https://disqus.com/api/users/avatars/justinrummel.jpg

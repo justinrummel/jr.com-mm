@@ -4,7 +4,7 @@ date: '2015-01-01 13:18:35 +0000'
 name: Justin
 url: https://www.justinrummel.com/
 message: '<p>A couple of days ago I received an email stating things were not working
-  again.  Doing some more googling I found <a href="http://disq.us/url?url=http%3A%2F%2Fblog.anupamsg.me%2F2012%2F02%2F14%2Fenabling-postfix-for-outbound-relay-via-gmail-on-os-x-lion-11%2F%3A_3jB8rgm1sj5rtOoXnAt8JmkO6s&amp;cuid=13645"
+  again.  Doing some more googling I found <a href="http://blog.anupamsg.me/2012/02/14/enabling-postfix-for-outbound-relay-via-gmail-on-os-x-lion-11/"
   rel="nofollow noopener">http://blog.anupamsg.me/2012/0...</a> and noticed one line
   was missing in my mods:</p><p>smtp_sasl_mechanism_filter = plain</p><p>since adding
   this line I can now send mail from my server via these test commands:</p><p>telnet
