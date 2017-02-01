@@ -10,4 +10,4 @@ message: <p>from <a href="https://github.com/wdas/reposado/blob/master/docs/repo
   custom catalogs for Apple Software Update, but clients will still download the actual
   update packages from Apple's servers. If Reposado is configured this way, you will
   not be able to offer deprecated updates to clients."</p>
-avatar: https://disqus.com/api/users/avatars/justinrummel.jpg
+email: 812849b04c44245ad29c0e40cb84e3da

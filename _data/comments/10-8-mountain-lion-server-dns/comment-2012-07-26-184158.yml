@@ -6,4 +6,4 @@ url: https://www.justinrummel.com/
 message: <p>If this is a home server, and you have only one DNS server... be sure
   your Ethernet DNS Network settings are set for "127.0.0.1" on the server.  Your
   clients will point to your servers internal IP address (e.g. 192.168.x.x/24).</p>
-avatar: https://disqus.com/api/users/avatars/justinrummel.jpg
+email: 812849b04c44245ad29c0e40cb84e3da

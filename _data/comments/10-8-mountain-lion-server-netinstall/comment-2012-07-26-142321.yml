@@ -7,4 +7,4 @@ message: <p>Two items:</p><p>1) try removing the space in "Share HD". Notice thi
   may break any AFP/SMB/WebDAV or NFSHomeDirectory attributes. </p><p>2) use Automator
   to creat a basic NetBoot .nbi and copy it to /library/NetBoot/NetBootSP0 folder
   so you can start the NetBoot service. </p>
-avatar: https://disqus.com/api/users/avatars/justinrummel.jpg
+email: 812849b04c44245ad29c0e40cb84e3da

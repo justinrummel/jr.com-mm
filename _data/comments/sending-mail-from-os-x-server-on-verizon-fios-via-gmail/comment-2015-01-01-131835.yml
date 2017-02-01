@@ -11,4 +11,4 @@ message: '<p>A couple of days ago I received an email stating things were not wo
   localhost 25<br />MAIL FROM: email@domain.tld<br />RCPT TO: email@domain.tld<br
   />DATA<br />This is a test message.  #1<br />.</p><p>(the period on the last line
   is important)</p>'
-avatar: https://disqus.com/api/users/avatars/justinrummel.jpg
+email: 812849b04c44245ad29c0e40cb84e3da
