@@ -2,7 +2,6 @@ _id: disqus-comment-598540604
 _parent: '1'
 date: '2012-07-26 14:23:21 +0000'
 name: Justin
-url: https://www.justinrummel.com/
 message: <p>Two items:</p><p>1) try removing the space in "Share HD". Notice this
   may break any AFP/SMB/WebDAV or NFSHomeDirectory attributes. </p><p>2) use Automator
   to creat a basic NetBoot .nbi and copy it to /library/NetBoot/NetBootSP0 folder

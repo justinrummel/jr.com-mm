@@ -2,7 +2,6 @@ _id: disqus-comment-2002100470
 _parent: '1'
 date: '2015-05-04 10:40:06 +0000'
 name: Justin
-url: https://www.justinrummel.com/
 message: <p>I have not looked at themes since this post. The item to remember is octopress
   is a Jekyll helper. So any Jekyll theme should work too. Just depends on plugins/dependencies.
   </p>
