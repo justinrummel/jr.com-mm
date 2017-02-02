@@ -2,10 +2,13 @@ _id: disqus-comment-1794646981
 _parent: '1'
 date: '2015-01-15 20:57:00 +0000'
 name: Justin
-message: Ha! No that was not my intension... it was the comment of someone not
+message: "Ha! No that was not my intension... it was the comment of someone not
   liking the name Bushel.  I would state they have not thought of the name as defined
-  on http://dictionary.reference.com/browse/bushel
-   "n. large, unspecified amount or number".\r\n\r\n
-  Hence,
-  a Bushel of Apples.
+  on [http://dictionary.reference.com/browse/bushel](http://dictionary.reference.com/browse/bushel)
+
+  ``` text\r\n
+  n. large, unspecified amount or number.\r\n
+  ```
+
+  Hence, a Bushel of Apples."
 email: 812849b04c44245ad29c0e40cb84e3da
