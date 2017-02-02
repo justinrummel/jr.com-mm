@@ -2,20 +2,25 @@ _id: disqus-comment-1767114828
 _parent: '1'
 date: '2015-01-01 13:18:35 +0000'
 name: Justin
-message: 'A couple of days ago I received an email stating things were not working
-  again.  Doing some more googling I found http://blog.anupamsg.me/2012/02/14/enabling-postfix-for-outbound-relay-via-gmail-on-os-x-lion-11/
-   and noticed one line
-  was missing in my mods:\r\n\r\n
-  smtp_sasl_mechanism_filter = plain\r\n\r\n
-  since adding
-  this line I can now send mail from my server via these test commands:\r\n\r\n
-  telnet
+message: "A couple of days ago I received an email stating things were not working again.  Doing some more googling I found
+  http://blog.anupamsg.me/2012/02/14/enabling-postfix-for-outbound-relay-via-gmail-on-os-x-lion-11/
+  and noticed one line was missing in my mods:\r\n\r\n
+
+  ``` bash\r\n
+  smtp_sasl_mechanism_filter = plain\r\n
+  ```
+
+  since adding this line I can now send mail from my server via these test commands:\r\n\r\n
+
+  ``` bash\r\n
+  telnet\r\n
   localhost 25\r\n
   MAIL FROM: email@domain.tld\r\n
-  RCPT TO: email@domain.tld<br
-  />DATA\r\n
+  RCPT TO: email@domain.tld\r\n
+  DATA\r\n
   This is a test message.  #1\r\n
-  .\r\n\r\n
-  (the period on the last line
-  is important)'
+  .\r\n
+  ```
+
+  (the period on the last line is important)"
 email: 812849b04c44245ad29c0e40cb84e3da
