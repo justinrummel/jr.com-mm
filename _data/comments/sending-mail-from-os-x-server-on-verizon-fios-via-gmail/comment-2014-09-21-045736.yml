@@ -3,5 +3,7 @@ date: '2014-09-21 04:57:36 +0000'
 name: Bijesh
 url: ''
 message: These three lines did the trick for me:\r\n\r\n
-  smtp_use_tls = yes<br />smtp_sasl_security_options
-  = noanonymous<br />smtp_sasl_tls_security_options = noanonymous
+  smtp_use_tls = yes\r\n
+  smtp_sasl_security_options
+  = noanonymous\r\n
+  smtp_sasl_tls_security_options = noanonymous

@@ -10,8 +10,12 @@ message: 'A couple of days ago I received an email stating things were not worki
   since adding
   this line I can now send mail from my server via these test commands:\r\n\r\n
   telnet
-  localhost 25<br />MAIL FROM: email@domain.tld<br />RCPT TO: email@domain.tld<br
-  />DATA<br />This is a test message.  #1<br />.\r\n\r\n
+  localhost 25\r\n
+  MAIL FROM: email@domain.tld\r\n
+  RCPT TO: email@domain.tld<br
+  />DATA\r\n
+  This is a test message.  #1\r\n
+  .\r\n\r\n
   (the period on the last line
   is important)'
 email: 812849b04c44245ad29c0e40cb84e3da

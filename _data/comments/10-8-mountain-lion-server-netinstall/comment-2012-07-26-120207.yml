@@ -4,7 +4,9 @@ name: Peaf
 url: ''
 message: Since upgrading to mountain lion nfs won't start automatically at boot...
   but i can start it manually. I've configured in etc/exports the nfs mounts to be
-  available.<br />The nfs mounts are in an external disk (Share HD). <br />I think
+  available.\r\n
+  The nfs mounts are in an external disk (Share HD). \r\n
+  I think
   to do that I've to start NetInstall.\r\n\r\n
   I edit storage settings and indicate
   Share HD to be storage for clients and data. Every time i turn NetInstall on i Get
