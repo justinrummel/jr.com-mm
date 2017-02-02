@@ -2,6 +2,6 @@ _id: disqus-comment-825523575
 date: '2013-03-11 13:15:58 +0000'
 name: nate
 url: ''
-message: <p>i wouldn't leave samba open. create some rules in your security group
+message: i wouldn't leave samba open. create some rules in your security group
   to specify allowed inbound IPs, at least. the clients report their WAN address,
-  because they're all probably behind a NAT device. that's the way it goes.</p>
+  because they're all probably behind a NAT device. that's the way it goes.

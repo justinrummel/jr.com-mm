@@ -3,7 +3,7 @@ _parent: '1'
 date: '2012-07-27 00:58:27 +0000'
 name: Mark Ma
 url: ''
-message: <p>Hmm..I did check those. Also I have Airport Extreme and Mt Lion Server
+message: Hmm..I did check those. Also I have Airport Extreme and Mt Lion Server
   auto configures it to make sure it has the correct DNS for its DHCP clients. Still
   doing this alert thing very annoying. I had to disable Push and Email notifications
-  for the time being.</p>
+  for the time being.

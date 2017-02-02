@@ -2,12 +2,13 @@ _id: disqus-comment-1866082424
 _parent: '1'
 date: '2015-02-20 18:22:31 +0000'
 name: Justin
-message: <p>Thanks Greg! Always appreciate getting comments from you.</p><p>I was
+message: Thanks Greg! Always appreciate getting comments from you.\r\n\r\n
+  I was
   surprised when changing  Menu Items manually that com.apple.mcxMenuExtras was not
   being utilized as I remember that file from using Workgroup Manager. With that file
   not being created, I had concerns about future proofing this article.  With that
   said, I may also not be backwards compatible with older OSs.  People will have to
   test and verify, but my primary goal was to get Casper Admins acquainted with mcxToProfile
   for more options outside of the default API presentation that JAMF provides in the
-  JSS.</p>
+  JSS.
 email: 812849b04c44245ad29c0e40cb84e3da

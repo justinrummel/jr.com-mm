@@ -2,10 +2,11 @@ _id: disqus-comment-598343457
 _parent: '2'
 date: '2012-07-26 09:51:44 +0000'
 name: Justin
-message: <p>This would need to be tested.  It's my experience with Lion (and Mt Lion)
+message: This would need to be tested.  It's my experience with Lion (and Mt Lion)
   that when you save a setting using http://Server.app
   , it doesn't just change the one value, it
   basically re-writes the entire config file.  So any changes to the updatesDocRoot
-  may be put back to default status of /Library/Server/Software\ Updates/</p><p>Just
-  a warning... </p>
+  may be put back to default status of /Library/Server/Software\ Updates/\r\n\r\n
+  Just
+  a warning... 
 email: 812849b04c44245ad29c0e40cb84e3da

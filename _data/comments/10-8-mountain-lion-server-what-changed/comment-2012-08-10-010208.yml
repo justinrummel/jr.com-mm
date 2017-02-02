@@ -2,10 +2,11 @@ _id: disqus-comment-615072829
 date: '2012-08-10 01:02:08 +0000'
 name: Stephen Haynes
 url: http://www.facebook.com/DStephenHaynes
-message: <p>I'm just now setting up a Mountain Lion server in our new Alexandria location,
+message: I'm just now setting up a Mountain Lion server in our new Alexandria location,
   and I was a little shocked to find the Firewall service missing. I also downloaded
   IceFloor, but I feel like I'm going to have to spend a week (I don't have) to tweak
-  this just right in order to make it run like the old Firewall service did.</p><p>Any
+  this just right in order to make it run like the old Firewall service did.\r\n\r\n
+  Any
   thoughts on why Apple removed this? More and more, I feel like they're winding down
-  Server. </p>
+  Server. 
 avatar: https://disqus.com/api/users/avatars/facebook-614337676.jpg

@@ -3,7 +3,8 @@ _parent: '4'
 date: '2012-08-10 01:14:54 +0000'
 name: Justin
 message: Hi Stephen!  Understanding why Apple does anything will only drive you
-  crazy.  ;)</p><p>My guess they are relying on hardware firewalls at the "top" of
+  crazy.  ;)\r\n\r\n
+  My guess they are relying on hardware firewalls at the "top" of
   your network, so either your ISP's router, Apple Express/Extreem, or some other
   professional box vs. putting system resources to work ipfw.  Don't forget, you have
   Gatekeeper and pf http://krypted.com/mac-os-x/a-cheat-sheet-for-using-pf-in-os-x-lion-and-up/

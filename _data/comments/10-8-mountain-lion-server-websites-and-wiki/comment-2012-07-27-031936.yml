@@ -2,5 +2,5 @@ _id: disqus-comment-599202107
 date: '2012-07-27 03:19:36 +0000'
 name: James
 url: ''
-message: <p>The wiki WebDAV share is available through the standard user WebDAV login
-  - thanks to redirects, just "servername" will work in Pages etc.</p>
+message: The wiki WebDAV share is available through the standard user WebDAV login
+  - thanks to redirects, just "servername" will work in Pages etc.
