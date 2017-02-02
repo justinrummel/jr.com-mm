@@ -3,10 +3,10 @@ _parent: '1'
 date: '2011-08-05 19:34:41 +0000'
 name: GC
 url: http://gcerullo.pip.verisignlabs.com/
-message: One thing that may explain the difference is that my test Lion install
+message: "One thing that may explain the difference is that my test Lion install
   was done cleanly on to a blank disk as opposed to an upgrade over an existing Snow
   Leopard install. \r\n\r\n
   If yours was an upgrade it may explain why you still have
   the controls. I'll have to look into this some more myself. I may have to try an
-  upgrade and see what happens.
+  upgrade and see what happens."
 avatar: https://disqus.com/api/users/avatars/openid-35618.jpg

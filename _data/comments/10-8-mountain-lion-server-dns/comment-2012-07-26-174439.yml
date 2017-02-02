@@ -2,11 +2,11 @@ _id: disqus-comment-598732022
 date: '2012-07-26 17:44:39 +0000'
 name: Mark Ma
 url: ''
-message: Great guide, thanks!\r\n\r\n
-  One question I have is that do you see Server
-  app giving you "The host name has changed" alert every time you reboot the machine?
-  This only start to happen when DNS is enabled. In its detailed message it says "The
-  host name of this server has changed from sever to server.home.private. Some services
-  may not work properly bla bla...".\r\n
-  Nothing I have tried have worked. I have
-  this issue from a fresh install. 
+message: "Great guide, thanks!\r\n\r\n
+
+  One question I have is that do you see Server app giving you \"The host name has changed\"
+  alert every time you reboot the machine? This only start to happen when DNS is enabled.
+  In its detailed message it says \"The host name of this server has changed from sever to
+  server.home.private. Some services may not work properly bla bla...\".\r\n
+
+  Nothing I have tried have worked. I have this issue from a fresh install."

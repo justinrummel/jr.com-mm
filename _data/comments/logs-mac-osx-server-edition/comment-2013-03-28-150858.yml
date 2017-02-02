@@ -3,10 +3,11 @@ _parent: '2'
 date: '2013-03-28 15:08:58 +0000'
 name: Justin
 message: "Finally had time for this.  Apple has added SMB logging into system.log\r\n
-  ``` bash
+
+  ``` bash\r\n
   sadmin@osxs2 ~> grep smbd /var/log/system.log\r\n
   Mar 28 11:06:49 osxs2.rummel.co smbd[79340]: jbr connected to path /Network/Servers/Users/jbr\r\n
-  Mar 28 11:06:49 osxs2.rummel.co smbd[79340]: jbr connected to path /Volumes/Drobo/Shared
+  Mar 28 11:06:49 osxs2.rummel.co smbd[79340]: jbr connected to path /Volumes/Drobo/Shared\r\n
   ```
   "
 email: 812849b04c44245ad29c0e40cb84e3da

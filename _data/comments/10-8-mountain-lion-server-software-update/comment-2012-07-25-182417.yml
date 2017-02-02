@@ -3,5 +3,5 @@ _parent: '1'
 date: '2012-07-25 18:24:17 +0000'
 name: Dan Stranathan
 url: ''
-message: 'Related topic: Can a 10.6 Snow Leopard Server provide updates for 10.8
-  Mountain Lion clients? (Modify /etc/swupd/swupd.conf perhaps?)'
+message: "Related topic: Can a 10.6 Snow Leopard Server provide updates for 10.8
+  Mountain Lion clients? (Modify ``` /etc/swupd/swupd.conf ``` perhaps?)"

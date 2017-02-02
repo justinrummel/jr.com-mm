@@ -2,15 +2,14 @@ _id: disqus-comment-598427020
 date: '2012-07-26 12:02:07 +0000'
 name: Peaf
 url: ''
-message: Since upgrading to mountain lion nfs won't start automatically at boot...
+message: "Since upgrading to mountain lion nfs won't start automatically at boot...
   but i can start it manually. I've configured in etc/exports the nfs mounts to be
-  available.\r\n
-  The nfs mounts are in an external disk (Share HD). \r\n
-  I think
-  to do that I've to start NetInstall.\r\n\r\n
+  available.\r\n\r\n
+  The nfs mounts are in an external disk (Share HD). \r\n\r\n
+  I think to do that I've to start NetInstall.\r\n\r\n
   I edit storage settings and indicate
   Share HD to be storage for clients and data. Every time i turn NetInstall on i Get
-  the message "Unable to start Netinstall. To start netinstall, you must have at least
-  one image available to acres by clients."\r\n\r\n
-  Any help\r\n\r\n
-  
+  the message \"Unable to start Netinstall. To start netinstall, you must have at least
+  one image available to acres by clients.\"\r\n\r\n
+  Any help\r\n\r\n"
+

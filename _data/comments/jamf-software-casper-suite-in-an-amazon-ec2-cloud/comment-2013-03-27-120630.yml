@@ -2,14 +2,8 @@ _id: disqus-comment-843837945
 _parent: '2'
 date: '2013-03-27 12:06:30 +0000'
 name: Justin
-message: from [https://github.com/wdas/reposado/blob/master/docs/reposado_preferences.txt](https://github.com/wdas/reposado/blob/master/docs/reposado_preferences.txt)
+message: "from [https://github.com/wdas/reposado/blob/master/docs/reposado_preferences.txt](https://github.com/wdas/reposado/blob/master/docs/reposado_preferences.txt)
 
-  ``` text
-  If LocalCatalogURLBase
-  is undefined, only Apple catalogs will be replicated and the URLs will not be re-written.  The
-  actual Software Update packages will not be downloaded. This allows you to have
-  custom catalogs for Apple Software Update, but clients will still download the actual
-  update packages from Apple's servers. If Reposado is configured this way, you will
-  not be able to offer deprecated updates to clients."
-  ```
+> If LocalCatalogURLBase is undefined, only Apple catalogs will be replicated and the URLs will not be re-written.  The actual Software Update packages will not be downloaded. This allows you to have custom catalogs for Apple Software Update, but clients will still download the actual update packages from Apple's servers. If Reposado is configured this way, you will not be able to offer deprecated updates to clients.
+"
 email: 812849b04c44245ad29c0e40cb84e3da
