@@ -38,6 +38,9 @@
 
 {% capture i %}{{ include.index }}{% endcapture %}
 {% assign replies = site.data.comments[page.slug] | where_exp:"item", "item._parent == i" %}
+
+<!--            {{ replies | inspect }}    -->
+
 {% for reply in replies %}
   {% assign index   = forloop.index | prepend: '-' | prepend: include.index %}
   {% assign p       = reply._parent %}
@@ -47,8 +50,8 @@
   {% assign name    = reply.name %}
   {% assign url     = reply.url %}
   {% assign date    = reply.date %}
-  {% assign slug    = comment.slug %}
-  {% assign origin  = comment.origin %}
+  {% assign slug    = reply.slug %}
+  {% assign origin  = reply.origin %}
   {% assign message = reply.message %}
-  {% include comment.html index=index parent=parent avatar=avatar email=email name=name url=url date=date slug=slug origin=orgin message=message %}
+  {% include comment.html index=index parent=parent avatar=avatar email=email name=name url=url date=date slug=slug origin=origin message=message %}
 {% endfor %}
