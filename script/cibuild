@@ -1,7 +1,14 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
+# network environment info
+curl -s http://whatismyip.akamai.com | xargs echo "IP: "
+dig whoami.akamai.net +short | xargs echo "whoami: "
+
 bundle exec jekyll build -c _config.yml
 
+# External Link checking only
 #bundle exec htmlproofer ./_site --disable-external --alt-ignore '/.*/' --allow-hash-href true
+
+# External Link and image checking
 #bundle exec htmlproofer ./_site/ --alt-ignore '/.*/' --allow-hash-href true --http-status-ignore 0,301,302,403,999 --check-img-http

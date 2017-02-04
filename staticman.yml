@@ -14,10 +14,11 @@ comments:
   # https://mademistakes.com/articles/improving-jekyll-static-comments/
   notifications:
     enabled: true
+    # To encrypt those, you can use the following endpoint: https://api.staticman.net/v2/encrypt/{TEXT TO BE ENCRYPTED}
     # Mailgun API key (encrypted)
-    apiKey: "DtgHoNuRZu+r3jw2m6vDhykWgtmVWttbJYPFXMcMdkMvnC+LtwBUqURMWFOAm7nbL9Qq7hhBOw3Lb+36nYp+qXyU1HP6T0f2ySnjngqrm0YfbtLEsmUCoIJCN/4dgCZdPC8qlkaHISQx3L3sVhLnIjUl/fXEXsrOfb2AmM0+2bA="
+    apiKey: "co8CkQak02QXbz8qXRwGouCJ5Rxr50pmMjpNaEFgfOgrvi3vqWoPsi9tjTl/9VIG6j3FD6WbsLeevZLf6dRazdUED0/FR8kpi7METcef+cYuIcxu7Df2rnUGpyAIEGqRBNhJeMo+KS4kNqxup4vCWDnJyoM3QyUqTjv4qZdMVLM="
     # Mailgun domain (encrypted)
-    domain: "BPvJ2L3k9ffONVpUIEUXVTPC1n+0HZ3CBcjkwfNUs+sVIDHA6/byxUiKxYYyMUPCRnUCQPGHjLhdo03VQ1r94Adme1O4zJ+QWwxdASKatvNuFJuIVeC8ZTCKQoJAQYYCKJlWRxM2IKo7srycPQ1Np+TQnEDD9d3/WaJJ/wcyQcs="
+    domain: "Ssoke2LtfZ62Sy3TFmStaOLcvFUzLAiUeHm+UxTuSSvPu/1b/Cgf3F2l1xopzWpBgAK4lRa7C+BMLXNEmYAH5aKQibe8TXt9yf3b9a5GUcKkh3kjcpODZvMMAAtaKf6D5POrPwcGi4lfXWFyGSuN1op5KSjYi4gAGJ0SONLJnY0="
   transforms:
     email                : "md5"
   generatedFields:
