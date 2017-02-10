@@ -26,7 +26,7 @@ before_deploy:
 deploy:
   provider: script
   skip_cleanup: true
-  script: rsync -P -cavz -e "ssh -i /tmp/deploy_key -oStrictHostKeyChecking=no" --delete $TRAVIS_BUILD_DIR/_site/ sadmin@www.justinrummel.com:var/www/justinrummel.com/html/
+  script: rsync -P -cavz -e "ssh -i /tmp/deploy_key -oStrictHostKeyChecking=no" --delete $TRAVIS_BUILD_DIR/_site/ sadmin@www.justinrummel.com:/var/www/justinrummel.com/html/
     --exclude=/.well-known --exclude=/cgi-bin/ --exclude=/.htaccess
   on:
     branch: jr-branch
