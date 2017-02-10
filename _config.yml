@@ -121,9 +121,6 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
   - Capfile
   - CHANGELOG
   - config
@@ -131,7 +128,6 @@ exclude:
   - Gemfile.lock
   - Gruntfile.js
   - gulpfile.js
-  - LICENSE
   - log
   - node_modules
   - package.json
@@ -139,7 +135,6 @@ exclude:
   - README
   - script
   - tmp
-  - vendor
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
