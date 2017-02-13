@@ -1,12 +1,9 @@
 language: ruby
 
 rvm:
-- 2.3.3
+  - 2.3.3
 
 sudo: false
-
-addons:
-  ssh_known_hosts: ssh.justinrummel.com
 
 env:
   global:
@@ -19,20 +16,30 @@ env:
     - secure: "HyFlLBVBA8zetorVNLgRB/wxmTlgp/w4q4Aw2NWODvzWSP+pfRwYnuTezymCSmCSB2ezlsMLjluy932VhIjHwd/tiLycnmEqJL2cz0MNIn4R3zcjp2/8UTZzQKa57QsXPYFCh1L4CpzESphM6S+6Uqm89FoAILMYhsbq9n3OU8ZSm5tbKUWcz/xYHUKPNp6155+8a9M6Yl2xMjY5ToV1WI931LbwpM3Bu5heNTYUULPJLrWfco5qJZzTvu8I+vunVnCkCXEwArMuH6XoPuvuL+h0+77CbHhzoGac3b1KpOa2drAFY5KyiWdRQOqO1iZ1AsoP7PiUVcf6g5KpE18l8YEs1ZWjQGhrZGuLPU6UZQz3hXz1uI+umidIhlmBfO9PDdzt+sbSgQhjX5EyQc4mBmR5TOZ5UBTw8Hhv6bKv0enpdUKrcLRBFcpupqJkBsdoyS/EMAshwYoP6HTTxbN4fXwtHyc/lV3hwOlI3eXflkVY56x4FdprRJK5aikFT4AJaP2GfgGwdGG8UG6EPl5AgfQNrN2I3S2nRz8oBUfTiEZNtWbqnp+E7FlO1Igx3KFjHLeyhcUDOZ62roR3UjjFhhMHNtECWrmK1cATcEMhpaM2XZ3zcTjy1d7IdtLga69Fa9r67egIyI2HPRqTyfwaWo7465kX+GG26MQbZgyb93o="
 
 addons:
+  ssh_known_hosts:
+    - ssh.justinrummel.com
   apt:
     packages:
-      dnsutils
+      - dnsutils
+      - rinku
+      - escape_utils
+      - email_reply_parser
+      - gemoji
+      - github-markdown
+      - escape_utils
+      - sanitize
+      - github-linguist
 
 before_script:
-- chmod +x ./script/cibuild
+  - chmod +x ./script/cibuild
 
 script: ./script/cibuild
 
 before_deploy:
-- openssl aes-256-cbc -K $encrypted_bfeb93fbf318_key -iv $encrypted_bfeb93fbf318_iv -in deploy_key.enc -out /tmp/deploy_key -d
-- eval "$(ssh-agent -s)"
-- chmod 600 /tmp/deploy_key
-- ssh-add /tmp/deploy_key
+  - openssl aes-256-cbc -K $encrypted_bfeb93fbf318_key -iv $encrypted_bfeb93fbf318_iv -in deploy_key.enc -out /tmp/deploy_key -d
+  - eval "$(ssh-agent -s)"
+  - chmod 600 /tmp/deploy_key
+  - ssh-add /tmp/deploy_key
 
 deploy:
   provider: script
@@ -42,7 +49,7 @@ deploy:
   on:
     branch: jr-branch
 
-after_success:
+after_deploy:
   - |
     # Purge CloudFlare cache.
     curl -X DELETE "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE/purge_cache" \
