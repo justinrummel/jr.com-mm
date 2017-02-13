@@ -21,14 +21,11 @@ addons:
   apt:
     packages:
       - dnsutils
-      - rinku
-      - escape_utils
-      - email_reply_parser
-      - gemoji
-      - github-markdown
-      - escape_utils
-      - sanitize
-      - github-linguist
+      - ruby-rinku
+      - ruby-gemojione
+      - ruby-github-markdown
+      - ruby-sanitize
+      - ruby-github-linguist
 
 before_script:
   - chmod +x ./script/cibuild
