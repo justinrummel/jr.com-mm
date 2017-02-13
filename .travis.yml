@@ -8,6 +8,7 @@ sudo: false
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+    # https://docs.travis-ci.com/user/environment-variables/#Encrypting-environment-variables
     # CLOUDFLARE_ZONE
     - secure: "JEUv6XtyP8lEDOErzim5AuwHB6/PRGJY7eQFWIwDXmiAhbHQhS9KxnLbUyQ1FYNpc7FsVKtQgXYodLft6wheWYaz8JSja0ZdeYHWDrrGuFMscupLCKK6PMFXb8IcOKdWZo1Alf5a+8TEIx+097jHKg+Ntb4jn3IoMOx18oLXYriw2Sd8qDdP8Qbuxczme5z3A3Fs+uOmn3B1Aclni4r50TbHPjjLHE8ypBV63FV1y5iHwi5Tw39UZ2gZtHrEmqLWKuR12kW+GHDxH4qFUKc4zIe9Ox/tyjx7nTufSxyXb6AuNkY8ykr57CDmP/IVbFGL+hdlgsr8udjes3+AWBEGpDHAJcHDEkN/tvzm81ZVeL+dMPf8GYUbvwRhHB+aZjjQY94BgdguncBJ4MhcFJBYZOYNujqakD72NNhJ7y1vru6H559IaHmSNk2XtUHrznokAtWE+ht4Dd674xmt63OV6eCrvZSvAwkG8lIxmrheI0Vf+jnVxI+5Fkatg4OsgYgtYLcMb3VKA20cEKuoUaJ3kueGV8sNfMfxAVf/xahk1StsXeFzt5Qr6nhw4plnmieWwT4w7vmy9IQx0VzknX0YszE/Sowfara06/ncgCJiyTl3eus0AAqEOxw67oSTmuhcpM8iYTKOrU8CcpJ2nXN0t7zVk1n+OY8IAxtU2mlJWtg="
     # CLOUDFLARE_AUTH_EMAIL
