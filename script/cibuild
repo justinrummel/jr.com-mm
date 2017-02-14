@@ -5,7 +5,7 @@ set -e # halt script on error
 curl -s http://whatismyip.akamai.com | xargs echo "IP: "
 dig whoami.akamai.net +short | xargs echo "whoami: "
 
-bundle exec jekyll build -c _config.yml
+bundle exec jekyll b --lsi -c _config.yml
 
 # External Link checking only
 #bundle exec htmlproofer ./_site --disable-external --alt-ignore '/.*/' --allow-hash-href true
