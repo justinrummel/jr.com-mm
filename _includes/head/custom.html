@@ -18,11 +18,11 @@
 <!-- instafeed https://github.com/stevenschobert/instafeed.js -->
 <!-- accessToken http://dmolsen.com/2013/04/05/generating-access-tokens-for-instagram/ -->
 <!-- jekyll http://chrissciolla.com/tech/jekyll-instafeedjs-tutorial.html -->
-<script async defer src="{{ '/assets/js/instafeed.min.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
+<script src="{{ '/assets/js/instafeed.min.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
 {% assign insta_link = '{{link}}' %}
 {% assign insta_image = '{{image}}' %}
 {% assign insta_caption = '{{caption}}' %}
-<script async defer type="text/javascript">
+<script type="text/javascript">
   var feed = new Instafeed({
     get: 'user',
     userId: '2083127934',
