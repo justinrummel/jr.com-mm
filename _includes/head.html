@@ -1,0 +1,56 @@
+<meta charset="utf-8">
+
+{% include seo.html %}
+
+<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}">
+
+<!--[if lte IE 9]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+<meta http-equiv="cleartype" content="on">
+<script async defer src="{{ '/assets/js/main.min.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
+<script async defer src="{{ '/assets/js/staticman.min.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
+
+<!-- If viewing the search page, include Lunr scripts -->
+{% if page.url == '/search/' %}
+  <!-- Search Results by jekyll-lunr-js-search -->
+  <script async defer src="{{ '/assets/js/lunr/lunr.min.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
+  <script async defer src="{{ '/assets/js/lunr/mustache.min.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
+  <script async defer src="{{ '/assets/js/lunr/date.format.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
+  <script async defer src="{{ '/assets/js/lunr/URI.min.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
+  <script async defer src="{{ '/assets/js/lunr/jquery.lunr.search.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
+  <script async defer type="text/javascript">
+    $(function() {
+    $('#search-query').lunrSearch({
+      indexUrl: '/assets/js/lunr/index.json',     // URL of the `index.json` index data for your site
+      results:  '#search-results',                // jQuery selector for the search results container
+      entries:  '.entries',                       // jQuery selector for the element to contain the results list, must be a child of the results element above.
+      template: '#search-results-template'        // jQuery selector for the Mustache.js template
+    });
+    });
+  </script>
+{% endif %}
