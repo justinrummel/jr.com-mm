@@ -256,6 +256,8 @@ defaults:
       comments            : true
       share               : false
       related             : true
+      sidebar:
+        nav               : "docs"
 
 
 # Default extensions when using octopress to generate new posts/pages
