@@ -33,8 +33,8 @@ group :jekyll_plugins do
   gem 'jekyll-archives'
   gem 'jekyll-lunr-js-search'
   gem 'nokogiri', '~> 1.6.0'     # 1.7 requires ruby >= 2.1.0
+  gem 'octopress'
 #  gem 'classifier-reborn'        # --lsi support
 #  gem 'rb-gsl'                   # make lsi faster.  Don't forget brew install gsl, Travis does not like gsl.
-#  gem 'octopress'
 #  gem 'jekyll-twitter-plugin'
 end
