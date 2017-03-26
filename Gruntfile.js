@@ -48,7 +48,6 @@ module.exports = function(grunt) {
                     beautify: true
                 },
                 files: {
-//                    '<%= app.source %>/assets/js/scripts.min.js': ['<%= app.source %>/assets/js/lunr/*.js', '<%= app.source %>/assets/js/main.min.js']
                     '<%= app.source %>/assets/js/search.min.js': ['<%= app.source %>/assets/js/lunr/*.js']
                 }
             },
@@ -60,7 +59,7 @@ module.exports = function(grunt) {
                 },
                 files: {
                     // 'dest/output.min.js': ['src/input1.js', 'src/input2.js']
-                    '<%= app.source %>/assets/js/scripts.min.js': ['<%= app.source %>/assets/js/lunr/*.js', '<%= app.source %>/assets/js/instafeed.min.js', '<%= app.source %>/assets/js/main.min.js']
+                    '<%= app.source %>/assets/js/scripts.min.js': ['<%= app.source %>/assets/js/lunr/*.js']
                 }
             }
         }
@@ -69,8 +68,8 @@ module.exports = function(grunt) {
     // Define Tasks
     grunt.registerTask('serve', [
         'clean:server',
-        'uglify:server',
-        'shell:jekyllServe'
+        'uglify:dist'
+//        'shell:jekyllServe'
     ]);
 
     grunt.registerTask('build', [
