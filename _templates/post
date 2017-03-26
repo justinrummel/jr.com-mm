@@ -8,7 +8,11 @@ categories:
     - "Race Report"
 tags:
     - Multisport
+    - Running
+    - Trail Run
+    - Trail Ride
     - Adventure Addicts Racing
+    - Adventure Enablers
     - Charlottesville Multisports
     - Rev3
     - VTS/MTS
@@ -29,10 +33,24 @@ header:
 <p class="align-center"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
 </figure>
 
-<!-- iframe -->
-<!-- embed-container-4x3 OR embed-container-16x9 -->
+<!-- ##### iframe Examples ##### -->
+
+<!-- Facebook Frame -->
+#### Facebook Info
 <div class="embed-container embed-container-4x3">
     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fadventureaddictsracing%2Fposts%2F1280067652054115%3A0&width=500" frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+
+<!-- Strava Frame -->
+#### Strava Ride Activity
+<div class="embed-container embed-container-16x9">
+    <iframe src='https://www.strava.com/activities/913975066/embed/65c0a4d4577068557a18b6fed6a422154de6e8b8' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+
+<!-- Relive Frame -->
+#### Relive Video
+<div class="embed-container embed-container-16x9">
+    <iframe src='https://www.relive.cc/view/913975066/embed?x-ref=sc' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 <!-- Table of Contents -->
@@ -85,6 +103,8 @@ Among the Male 40-44 category there were 5 athletes.
 
 <!--
 #### Updated 2016-09-02 (Race Photos)
+
+half third fourth fifth sixth
 
 <figure class="fourth">
 <a href="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-SM-1.jpg" /></a>
