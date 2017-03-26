@@ -4,8 +4,10 @@ author_profile: true
 ---
 
 {% if page.url == '/' and insta_image != true %}
+  <div id="IG_top">
   <h3 class="archive__subtitle">Instagram Feed</h3>
-  <figure class="sixth" id="instafeed"></figure>
+  <figure class="sixth" id="IG_topFigure"></figure>
+  </div>
 {% endif %}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
@@ -13,5 +15,12 @@ author_profile: true
 {% for post in paginator.posts %}
   {% include archive-single-main.html %}
 {% endfor %}
+
+{% if page.url == '/' and insta_image != true %}
+  <div id="IG_bottom">
+  <h3 class="archive__subtitle">Instagram Feed</h3>
+  <figure class="sixth" id="IG_bottomFigure"></figure>
+  </div>
+{% endif %}
 
 {% include paginator.html %}

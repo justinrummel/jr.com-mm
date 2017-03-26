@@ -277,6 +277,22 @@ figure {
   }
 }
 
+#IG_top {
+  display: none;
+
+  @include breakpoint($small) {
+    display: block;
+  }
+}
+
+#IG_bottom {
+  display: block;
+
+  @include breakpoint($small) {
+    display: none;
+  }
+}
+
 /* Figure captions */
 
 figcaption {

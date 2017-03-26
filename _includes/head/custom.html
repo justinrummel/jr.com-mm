@@ -19,11 +19,13 @@
 <!-- accessToken http://dmolsen.com/2013/04/05/generating-access-tokens-for-instagram/ -->
 <!-- jekyll http://chrissciolla.com/tech/jekyll-instafeedjs-tutorial.html -->
 <script src="{{ '/assets/js/instafeed.min.js' | absolute_url }}" type="text/javascript" charset="utf-8"></script>
+
 {% assign insta_link = '{{link}}' %}
 {% assign insta_image = '{{image}}' %}
 {% assign insta_caption = '{{caption}}' %}
-<script type="text/javascript">
-  var feed = new Instafeed({
+<script async type="text/javascript">
+  var IG_topfeed = new Instafeed({
+    target: 'IG_topFigure',
     get: 'user',
     userId: '2083127934',
     sortBy: 'most-recent',
@@ -33,7 +35,22 @@
     accessToken: '2083127934.0a10dbe.8d376461a7144d0aa4bd9e2c58abe5d4',
     template: '<a href="{{ insta_link }}" class="image-popup"><img src="{{ insta_image }}" alt="{{ insta_caption }}" width="150" height="150" /></a>'
   });
-  feed.run();
+  var IG_bottomfeed = new Instafeed({
+    target: 'IG_bottomFigure',
+    get: 'user',
+    userId: '2083127934',
+    sortBy: 'most-recent',
+    limit: '6',
+    resolution: 'thumbnail',
+    clientId: '0a10dbeddca94cd7a81839dfbb772eb8',
+    accessToken: '2083127934.0a10dbe.8d376461a7144d0aa4bd9e2c58abe5d4',
+    template: '<a href="{{ insta_link }}" class="image-popup"><img src="{{ insta_image }}" alt="{{ insta_caption }}" width="150" height="150" /></a>'
+  });
+
+  //  feed.run();
+  // run both feeds
+  IG_topfeed.run();
+  IG_bottomfeed.run();
 </script>
 {% endif %}
 
