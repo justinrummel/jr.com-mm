@@ -99,16 +99,14 @@ I didn't get to race the Mountain Bike segment like I wanted to, however, I know
 </figure>
 
 
-<!--
-#### Updated 2016-09-02 (Race Photos)
+#### Updated 2017-03-27 (Race Photos)
 
 <figure class="fourth">
-<a href="{{ site.url }}/assets/images/2017/03/25/AE-EMV-PRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/03/25/AE-EMV-PRO-SM-1.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2017/03/25/AE-EMV-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/03/25/AE-EMV-PRO-SM-2.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2017/03/25/AE-EMV-PRO-LG-3.jpg"><img src="{{ site.url }}/assets/images/2017/03/25/AE-EMV-PRO-SM-3.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2017/03/25/AE-EMV-PRO-LG-4.jpg"><img src="{{ site.url }}/assets/images/2017/03/25/AE-EMV-PRO-SM-4.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/03/25/AE-EMV-PRO-1.jpg"><img src="{{ site.url }}/assets/images/2017/03/25/AE-EMV-PRO-SM-1.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/03/25/AE-EMV-PRO-3.jpg"><img src="{{ site.url }}/assets/images/2017/03/25/AE-EMV-PRO-SM-3.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/03/25/AE-EMV-PRO-5.jpg"><img src="{{ site.url }}/assets/images/2017/03/25/AE-EMV-PRO-SM-5.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/03/25/AE-EMV-PRO-7.jpg"><img src="{{ site.url }}/assets/images/2017/03/25/AE-EMV-PRO-SM-7.jpg" /></a>
 </figure>
--->
 
 
 Footnotes
