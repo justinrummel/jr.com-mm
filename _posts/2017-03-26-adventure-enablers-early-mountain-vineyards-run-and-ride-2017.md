@@ -17,22 +17,22 @@ header:
     teaser: /assets/images/2017/03/25/AE-EMV-Header-Twitter.jpg   # Shrink image to 575x216
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
-Let the 2017 Race season begin!  This year I only registered for a few races when compared to last year, but with some high goals in terms of PRs, new event venues, and distances.  To get my mind and body focused I've also started signing up for some "Fun" events to simply enjoy the vibe of the racers, supporting the great people who put on these events, and the location (which is really easy when the event is at a winery).  When trying to find good vibes, there is nothing better then outdoor trail people as everything is simply laid back as racers never know what to expect in terms of terrain, weather, or anything else that could simply derail your plan... so let go of the plan and have fun.
+Let the 2017 Race season begin!  This year I only registered for a few races when compared to last year, but with some high goals in terms of PRs, new event venues, and distances.  To get my mind and body focused I've also started signing up for some "Fun" events to simply enjoy the vibe of the racers, supporting the great people who put on these events, and the location (which is easy when the event is at a winery).  When trying to find good vibes, there is nothing better than outdoor trail people as everything is simply laid back as racers never know what to expect in terms of terrain, weather, or anything else that could simply derail your plan... so let go of the plan and have fun.
 
 <!-- Table of Contents -->
 {% include toc icon="gears" title="Race Review ToC" %}
 
-This years first FUN even is [Adventure Enablers][ae] Early Mount Vineyard Spring Thaw Trail Run Series *and* Spring Thaw Mountain Bike Series located at the excellent [Early Mountain Vineyard][emv] in Madison, VA.  These are independent events, but being a Triathlete leaves you to believe it's a good idea to do both events in the same day.  Sometimes, that doesn't work out to be the best decision.  Nevertheless, it was a great day with my [Speed Sherpa][ssn] team mates who make #DirtShirpaNation so much fun!
+This year's first FUN even is [Adventure Enablers][ae] Early Mount Vineyard Spring Thaw Trail Run Series *and* Spring Thaw Mountain Bike Series located at the excellent [Early Mountain Vineyard][emv] in Madison, VA.  These are independent events, but being a Triathlete leaves you to believe it's a good idea to do both events in the same day.  Sometimes, that doesn't work out to be the best decision.  Nevertheless, it was a great day with my [Speed Sherpa][ssn] team mates who make #DirtShirpaNation so much fun!
 
 
 Run
 ---
 The plan for the run was to get to the event early at 7am so I could ride the route on my bike.  The advantage of this is I would get to see both the Run and Ride routes as they were almost identical.  I slowly took off to complete my pre-course warm-up and quickly discovered that:
 
-1. We are really close the the Shenandoah Mountains and things are hilly
+1. We are close to the Shenandoah Mountains and things are hilly
 2. I better take it easy at the begging to ensure I don't bonk before finishing the race.
 
-The leaders (the two guys who placed 1st and 2nd) quickly took off after the first climb, and those who remained were separating out quickly too as the the thick dry grass was fun, but had some debris from being recently plowed/mowed to prepare for the race.  The 2nd hill came quickly at around 1 mile marker was just over a 4% incline over 1/4 mile.  The entire course continued this relentless up and down that really tired your legs as the descents were over too quickly before you had to start climbing again.
+The leaders (the two guys who placed 1st and 2nd) quickly took off after the first climb, and those who remained were separating out quickly too as the thick dry grass was fun, but had some debris from being recently plowed/mowed to prepare for the race.  The 2nd hill came quickly at around 1 mile marker was just over a 4% incline over 1/4 mile.  The entire course continued this relentless up and down that really tired your legs as the descents were over too quickly before you had to start climbing again.
 
 | Distance Marker | Hill Distance | Percent Incline |
 |:----------------|:-------------:|:---------------:|
@@ -51,7 +51,7 @@ The leaders (the two guys who placed 1st and 2nd) quickly took off after the fir
 
 - Overall: Placed 5th out of 38
 - Gender: Placed 5th out of 23
-- Male 40-44: Placed 2nd out of 7
+- Male 40-49: Placed 2nd out of 7
 
 <!-- Strava Frame -->
 #### Strava Run Activity
@@ -62,9 +62,9 @@ The leaders (the two guys who placed 1st and 2nd) quickly took off after the fir
 
 Ride
 ---
-Of the Run and Ride events, I was really looking forward to the ride as I've been riding my mountain bike outdoors a lot lately, and I'm trying to get ready for my first Xterra[^1] race this May.  Unfortunately, tings did not go as planned.
+Of the Run and Ride events, I was really looking forward to the ride as I've been riding my mountain bike outdoors a lot lately, and I'm trying to get ready for my first Xterra[^1] race this May.  Unfortunately, things did not go as planned.
 
-<p class="align-right"><a href="{{ site.url }}/assets/images/2017/03/25/AE-EMV-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/03/25/AE-EMV-SM-1.jpg" /></a></p>I finished the 10k run with the planned 90 minute rest to change clothes into my cycling kit, eat a [Honey Stinger Waffle][stinger], and start re-hydrating as the sun was about to shine down in Madison.  When we started the run at 8am, the weather was a cloudy 55 degrees and the air temperature was cool with morning mountain air.  It was cool enough where I still had my long sleeve insulated shirt under my race shirt.  By the time we started the bike segment, it was almost 65 degrees (by 1pm it was 75) and the sun fully exposed to begin roasting all the riders.  I was feeling good on the first lap as I had already did a pre-race ride and a full 10k run so I knew the course.  However, when I hit the hill at the 2.8 mile marker, I lost power and dumped myself into a batch of thorn bushes.  I laughed[^2], yet I knew something was not right as I was able to clear the hill during the pre-race ride, but now my energy was zapped.  I told myself the 10k run was more dramatic effort than expected, and I would have to be mindful for the next couple of laps.
+<p class="align-right"><a href="{{ site.url }}/assets/images/2017/03/25/AE-EMV-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/03/25/AE-EMV-SM-1.jpg" /></a></p>I finished the 10k run with the planned 90 minute rest to change clothes into my cycling kit, eat a [Honey Stinger Waffle][stinger], and start re-hydrating as the sun was about to shine down in Madison.  When we started the run at 8am, the weather was a cloudy 55 degrees and the air temperature was cool with morning mountain air.  It was cool enough where I still had my long sleeve insulated shirt under my race shirt.  By the time we started the bike segment, it was almost 65 degrees (by 1pm it was 75) and the sun fully exposed to begin roasting all the riders.  I was feeling good on the first lap as I had already done a pre-race ride and a full 10k run so I knew the course.  However, when I hit the hill at the 2.8 mile marker, I lost power and dumped myself into a batch of thorn bushes.  I laughed[^2], yet I knew something was not right as I was able to clear the hill during the pre-race ride, but now my energy was zapped.  I told myself the 10k run was more dramatic effort than expected, and I would have to be mindful for the next couple of laps.
 
 I completed the first lap and I felt I was doing well in reserving power on the climbs yet taking full advantage of the downhills, speeding through the turns... getting to that exciting board-line of being in control but feeling you may smash into a tree.  Knowing my power was lost on the climbs I quickly got off the bike and walked up the two steep climbs of the second lap, but then I noticed I was also now fighting a headache.  CARP, I was dehydrated.  I knew at this point I needed to find the finish line and just start drinking water.  Things were getting worse as I completed the second lap as my hands were slipping of the handle bars, and I felt my arms getting extremely tired as I was holding my entire body upright while trying not to fall over to the side from being weak.  I completed two full laps with decent splits of 37 minutes and 41 minutes, but the fact I only completed two laps vs. the 3-4 target lap goal, I was out of any ranking.  In 120 minutes, I drank 1.5 Liters of water which lasted me to the finish line, and then I started drinking another liter of race water and a spare water bottle in my truck with an electrolyte mix.
 
@@ -74,7 +74,7 @@ I completed the first lap and I felt I was doing well in reserving power on the 
 
 - Overall: Placed 13th out of 14
 - Gender: Placed 20th out of 23
-- Male 40-44: Placed 13th out of 14
+- Male 35-99: Placed 13th out of 14
 
 <!-- Strava Frame -->
 #### Strava Ride Activity
