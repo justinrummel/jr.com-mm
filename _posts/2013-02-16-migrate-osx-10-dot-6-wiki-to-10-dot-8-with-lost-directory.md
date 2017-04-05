@@ -53,7 +53,7 @@ sudo rm /Library/Application Support/Apple/WikiServer/directoryIndex.db
 sudo serveradmin start web
 {% endhighlight %}
 
-The end result is a working 10.6 Wiki server.  So what about the the new hardware that cannot run 10.6.8 Server...  VMware to the rescue!  You can install 10.6.8 Server in VMware Fusion as it's a Server OS (thus is compliant to Apple's EULA).  *Now* we can upgrade to 10.8 and move the Wiki content from the VM to the real server by following [Apple's kbase article][HT5585].  You would think that wouldn't you.
+The end result is a working 10.6 Wiki server.  So what about the new hardware that cannot run 10.6.8 Server...  VMware to the rescue!  You can install 10.6.8 Server in VMware Fusion as it's a Server OS (thus is compliant to Apple's EULA).  *Now* we can upgrade to 10.8 and move the Wiki content from the VM to the real server by following [Apple's kbase article][HT5585].  You would think that wouldn't you.
 
 Let's review what we have and where we will go:
 
@@ -72,7 +72,7 @@ Final solution?  Thank goodness Apple updated their [Kerberos][kerb] to [Heimdal
 1.	export wiki postgres db with the ```pg_dump``` command.
 2.	copy /Library/Server/Wiki/FileData from the old server to the new server
 3.	change permissions on the new Server for FileData ```sudo chown -R _teamsserver:_teamsserver``` & ```sudo chmod -R +a "www allow search"```
-4.	On the new server ```dropdb``` the the existing db (thus loosing ALL content previously there), ```createdb``` to have a bare but ready db and then ```pg_restore``` your info from your collab.pgdump.
+4.	On the new server ```dropdb``` the existing db (thus losing ALL content previously there), ```createdb``` to have a bare but ready db and then ```pg_restore``` your info from your collab.pgdump.
 
 Lessons Learned
 ---

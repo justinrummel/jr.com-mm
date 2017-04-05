@@ -20,7 +20,7 @@ Here are my notes from the DEP session (with a little VPP knowledge).
 - If you have a device with Activation Lock enabled, but you don't have the Apple ID's password to restore the device (e.g. you have a "brick" in your hand), call AppleCare immediately. You will need to verify that you do own the device so be ready with purchase details.
 - Supervised devices will allow to "push" apps from VPP. So enable Supervision in DEP.
 - DEP is not for BYOD as DEP is for devices owned by the organization (makes sense once you say it out loud)!!!
-- Apple's License model is you can use VPPMD apps on organization issued devices AND personal device.
+- Apple's License model is that you can use VPPMD apps on organization issued devices AND personal device.
 
 [2014-05-01]: http://www.macdmv.com/may-1st-meet-up-recap
 [DEP]: https://www.apple.com/education/it/dep/

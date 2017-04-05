@@ -19,7 +19,7 @@ While we were bushwhacking, biking, and canoeing through the Mark Twain National
 List of in order of time to the best of my memory:
 
 - To the guys who cranked the *Licensed to Ill* Beasty Boys album at 6am, THANKS!  The loud music blasting from your truck set the fun atmosphere and attitude for the rest of the day.
-- Upon "GO", it was interesting to watch 57 teams comprising of almost 150 people split into two different directions.  Over the past year doing Triathlons where there is only one way to go... this was different.
+- Upon "GO", it was interesting to watch 57 teams composed of almost 150 people split into two different directions.  Over the past year doing Triathlons where there is only one way to go... this was different.
 - And in about 15 seconds our mass group split again with one taking the gravel car path while we, team Roadkill, decided to jump off that path and bushwhack straight up the hilltop.
 - While bushwhacking I was educated in what poison ivy looks like.  No not the bad way, but just that it was everywhere.  Also, when you are attacked by a swarm of bees ([and not SyncServer mac nerds][bees]) you don't care how you dance, or sound when you scream (not us, but witnessed).
 - We finished the first five checkpoints (of 39 checkpoints total) in about an hour, and that is when I realized that waterproof socks are required.  Running in wet socks (and shoes) is a perfect mix to generate blisters on your feet, and I felt it starting after the first hour.  Luckily we came to the section of the multi-sport where I felt confident I could excel, the bike.

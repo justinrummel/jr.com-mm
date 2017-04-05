@@ -22,7 +22,7 @@ After last week's poor swim performance at [Jamestown International]({{ site.url
 - The event was close to our home which eliminated any need for a hotel stay or any extra time away from the family as this was a last minute decision.
 - It was a short Sprint distance (750 meter swim, 12 mile bike, 5k run) so it wouldn't take too much time away from any planned Father's Day activities.
 
-The main goal of this race was **fun**!  So, no post-race thoughts... no section-by-section analysis, just confirmation that I went out and did a OWS in a lake with no wetsuit and didn't hate (all) of it.  Plus, I was able to spend some great face-to-face time with teammates that I haven't seen since our Sherpa Virgina Training Camp.
+The main goal of this race was **fun**!  So, no post-race thoughts... no section-by-section analysis, just confirmation that I went out and did a OWS in a lake with no wetsuit and didn't hate (all) of it.  Plus, I was able to spend some great face-to-face time with teammates that I haven't seen since our Sherpa Virginia Training Camp.
 
 Last but not least, I had a pretty awesome private cheering section.
 

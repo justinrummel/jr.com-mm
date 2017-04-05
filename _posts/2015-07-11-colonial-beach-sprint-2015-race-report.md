@@ -31,7 +31,7 @@ I was stupid and didn't do any of it.  It was raining badly and VTSMTS announced
 
 #### Bike
 
-- Bike was good except for the very start.  Just out of Transition 1 (T1) and running to the bike mount point, I realized something was wrong.  My seat had become loose and was now flopping up and down.  I lucked out and some spectators offered help and got their allen wrench to tighten the seat, and I was then on my way.  With such a crappy job on the swim, it wasn't hard to pick off people one by one on the bike course.  The two 90 degree (or sharper) turns in rain were extremely dangerous!  The second one I was lucky that cops had stop traffic, because I would have head-on collision with normal traffic patterns.  Speaking of traffic, PEOPLE OF COLONIAL BEACH; Virginia has a new law of giving cyclists three feet of space!  Please obey for the safty of riders.
+- Bike was good except for the very start.  Just out of Transition 1 (T1) and running to the bike mount point, I realized something was wrong.  My seat had become loose and was now flopping up and down.  I lucked out and some spectators offered help and got their allen wrench to tighten the seat, and I was then on my way.  With such a crappy job on the swim, it wasn't hard to pick off people one by one on the bike course.  The two 90 degree (or sharper) turns in rain were extremely dangerous!  The second one I was lucky that cops had stop traffic, because I would have head-on collision with normal traffic patterns.  Speaking of traffic, PEOPLE OF COLONIAL BEACH; Virginia has a new law of giving cyclists three feet of space!  Please obey for the safety of riders.
 
 #### Run
 

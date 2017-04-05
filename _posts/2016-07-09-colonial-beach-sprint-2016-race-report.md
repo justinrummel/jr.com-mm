@@ -17,7 +17,7 @@ header:
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 
-<p class="align-left"><a href="{{ site.url }}/assets/images/2016/07/09/Colonial-LG-1.jpg"><img src="{{ site.url }}/assets/images/2016/07/09/Colonial-SM-1.jpg" /></a></p>Colonial Beach Sprint is the only race this year where I get to compare myself and see my acomplishments for the amount of training I have done since December, as this is the only race that I have previously done.  All other races in 2016 are brand new to me (thus setting expectations for the years to come).  I knew I could PR (Personal Record) the course due to my fitness levels improving in all three disciplines, but this year we had MUCH better weather to endure compared to [last year Colonial Beach Sprint race]({{ site.url }}/colonial-beach-sprint-2015-race-report/).  And to note, I did PR in all three sections!  But of course, something irritated me and I'm having to take time to calm down and put things back into perspective and congratulate myself on a good performance.
+<p class="align-left"><a href="{{ site.url }}/assets/images/2016/07/09/Colonial-LG-1.jpg"><img src="{{ site.url }}/assets/images/2016/07/09/Colonial-SM-1.jpg" /></a></p>Colonial Beach Sprint is the only race this year where I get to compare myself and see my accomplishments for the amount of training I have done since December, as this is the only race that I have previously done.  All other races in 2016 are brand new to me (thus setting expectations for the years to come).  I knew I could PR (Personal Record) the course due to my fitness levels improving in all three disciplines, but this year we had MUCH better weather to endure compared to [last year Colonial Beach Sprint race]({{ site.url }}/colonial-beach-sprint-2015-race-report/).  And to note, I did PR in all three sections!  But of course, something irritated me and I'm having to take time to calm down and put things back into perspective and congratulate myself on a good performance.
 
 First, I would like to note that the course has improved compared to last year as the last right hand turn is now a completely new intersection which is nicely paved and slightly less than the 120˚ turn[^1].
 
@@ -30,7 +30,7 @@ First, I would like to note that the course has improved compared to last year a
 
 #### Bike
 
-- Another PR for me in terms of course times <b><u>and</u></b> average speed.  I beat last year's time by 8 MINUTES AND 39 SECONDS!  Of course this is not quite fair as I had a transition issue on my bike last year plus the conditions were completely different, however, it's significant enough for me to confidently state I killed that bike course.  How much?  I averaged 23.5 MPR over the entire course! Also, check these stats:
+- Another PR for me in terms of course times <b><u>and</u></b> average speed.  I beat last year's time by 8 MINUTES AND 39 SECONDS!  Of course this is not quite fair as I had a transition issue on my bike last year plus the conditions were completely different, however, it's significannot enough for me to confidently state I killed that bike course.  How much?  I averaged 23.5 MPR over the entire course! Also, check these stats:
 
 	+ Age Group: 2nd Fastest
 	+ Men (and Overall): 14th fastest

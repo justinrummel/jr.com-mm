@@ -148,7 +148,7 @@ I reviewed the HTML source for the download page to see what patterns I could ex
 - The Development version is separated into three number tuple
 - The first section is the number 1
 - The second section is two digits, but the first digit is greater than 1
-- The third section is comprised of 1 or 2 digits
+- The third section is consists of 1 or 2 digits
 - Ends with "Intel 64.dmg"
 
 This gave me the regex of: ```<string>Wireshark 1\.[2-9][1-9]\.\d{1,2} Intel 64\.dmg</string>``` and is now available on my official autopkg repo located at: [https://github.com/autopkg/justinrummel-recipes/tree/master/WiresharkDev](https://github.com/autopkg/justinrummel-recipes/tree/master/WiresharkDev).

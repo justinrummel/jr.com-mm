@@ -43,7 +43,7 @@ In my test environment I have four domains:
 
 - justinrummel.net
 - apple.edu
-- exmaple.prv
+- example.prv
 - newco.prv
 
 All of these domains live in my lab network of 192.168.1.1/24 subnet, meaning all machines have 192.168.1.x IP address. Some machines may have multiple records within multiple zones; for instance my Software Update Server (SUS) is always "sus.zone.tld" so: sus.justinrummel.net, sus.apple.edu, sus.example.prv, sus.newco.prv all point to my one SUS server who's IP address is 192.168.1.111.

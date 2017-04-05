@@ -27,7 +27,7 @@ Environment
 ---
 
 ### JSS
-- EC2 (Amazon Elastic Compute Cloud) Amazon Micro instance was sufficient to host the JSS even though it technically doesn't meet the requirements listed by JAMF in terms of RAM and CPU.  Obviously as your environment grows, so will your server resource needs.  The main point is you can get something started **VERY** cheaply.
+- EC2 (Amazon Elastic Compute Cloud) Amazon Micro instance was sufficient to host the JSS even though it technically doesn't meet the requirements listed by JAMF in terms of RAM and CPU.  Obviously as your environment grows, so will your server resource needs.  The main point is that you can get something started **VERY** cheaply.
 - Created a 1TB EBS (Amazon Elastic Block Store) drive to store data.  Note, EC2 instances that are greater than "micro" have "local instance storage".  This storage will be deleted if the server is restarted (think of it as a giant /tmp folder).  Therefore, it is critical... no matter what EC2 instance type you create (micro, small, large, etc) that you create an EBS drive.
 - Attached the EBS to our EC2 server via Amazon's Management Console.
 

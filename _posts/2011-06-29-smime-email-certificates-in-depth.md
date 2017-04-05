@@ -209,7 +209,7 @@ XEHpIjv25NNgLXMtlk95TgAaFE6M/Fm1vqs=
 ---END CERTIFICATE---
 {% endhighlight %}
 
-We can now see that the entity who issued my certificate (The "third party") is "COMODO CA Limited". My certification is valid until Jun 16 23:59:59 2012. This is a little easier to comprehend, and it also lets us know that this is a certificate specific for the email address.
+We can now see that the entity who issued my certificate (The "third-party") is "COMODO CA Limited". My certification is valid until Jun 16 23:59:59 2012. This is a little easier to comprehend, and it also lets us know that this is a certificate specific for the email address.
 
 Private Keys
 ---
