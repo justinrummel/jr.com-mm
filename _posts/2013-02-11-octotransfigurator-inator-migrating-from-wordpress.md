@@ -56,7 +56,7 @@ Octopress has most of the directions you need to fire up an Octopress site on th
 
 3.	Themes that are "based" off the original may still be missing items.
 
-	I decided to use the [Darkstripes][darkstripes] theme with the minor modifications.  One thing I learned is that sometimes theme remove elements from css, which DESTORY plugins.  In my case, the FlickrImage plugin required the $noise-bg variable which is on the default "classic" theme.  For some reason the author of "Darkstripes" removed this, thus generated a couple of debuging-hell hours to track down what was wrong. The nice thing, when Octopress goes wrong on generating pages, it usually has a clue why within the error output.
+	I decided to use the [Darkstripes][darkstripes] theme with the minor modifications.  One thing I learned is that sometimes theme remove elements from css, which DESTROY plugins.  In my case, the FlickrImage plugin required the $noise-bg variable which is on the default "classic" theme.  For some reason the author of "Darkstripes" removed this, thus generated a couple of debuging-hell hours to track down what was wrong. The nice thing, when Octopress goes wrong on generating pages, it usually has a clue why within the error output.
 
 [darkstripes]: https://github.com/amelandri/darkstripes
 
