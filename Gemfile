@@ -21,8 +21,9 @@ gem 'json'
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
-#gem "jekyll", "~> 3.3.0"
-gem "minimal-mistakes-jekyll"
+# gem "jekyll", "~> 3.3.0"
+# gem "minimal-mistakes-jekyll"
+gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem 'html-proofer'
 gem 'net-http-persistent', '~> 2.9', '>= 2.9.4'
