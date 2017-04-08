@@ -18,7 +18,7 @@ header:
     caption: "Photo credit: [**Ubuntu**](https://design.ubuntu.com/brand/ubuntu-logo)"
 ---
 
-In my previous article [Resizing a VMware Fusion Ubuntu Server Virtual Hard Drive (via Easy Mode)]({{ site.url }}/resizing-a-vmware-fusion-ubuntu-server-virtual-hard-drive-via-easy-mode/), I described what was needed to enlarge your Virtual Hard Drive (VHD) on a VMware Fusion VM that was setup by the "Easy Install" method.  If you are confused by what the "Easy Install" method is, there is a prompt when creating a new VM that asks you to provide information for a new account:
+In my previous article [Resizing a VMware Fusion Ubuntu Server Virtual Drive (via Easy Mode)]({{ site.url }}/resizing-a-vmware-fusion-ubuntu-server-virtual-hard-drive-via-easy-mode/), I described what was needed to enlarge your Virtual Drive (VHD) on a VMware Fusion VM that was setup by the "Easy Install" method.  If you are confused by what the "Easy Install" method is, there is a prompt when creating a new VM that asks you to provide information for a new account:
 
 - Full Name
 - Username
@@ -29,7 +29,7 @@ In my previous article [Resizing a VMware Fusion Ubuntu Server Virtual Hard Driv
 	<figcaption>Red pill, or blue pill?</figcaption>
 </figure>
 
-By deselecting the "Use Easy Install" checkbox, you will be required to walk through the OS install setup just like if you were loading a physical CD into a physical machine.  One of the steps during the setup assistant for Ubuntu Server is partitioning your Hard Drive which has a default value of "Guided - use entire disk and set up LVM".
+By deselecting the "Use Easy Install" checkbox, you will be required to walk through the OS install setup just like if you were loading a physical CD into a physical machine.  One of the steps during the setup assistant for Ubuntu Server is partitioning your Drive which has a default value of "Guided - use entire disk and set up LVM".
 
 <figure>
 	<a href="{{ site.url }}/assets/images/2015/02/06/HardVHD-2.png"><img src="{{ site.url }}/assets/images/2015/02/06/HardVHD-2_800.png" alt="HardVHD 1"></a>

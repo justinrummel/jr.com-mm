@@ -17,7 +17,7 @@ header:
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 
-For the past few months during the triathlon off-season, I've been drawn to running and biking outdoors in trails around the area to just "have fun".  I knew I needed a break from racing and simply enjoying being outside, and the time I've spent since the purchase of my new [2016 Scott Scale 930 Mountain Bike][930] has made me feel like a kid again as if I was riding through the neighborhood "dirt trails" exploring new areas that have yet been charted (at least before they were destroyed for new home development).  It seems to me I have a new calling to be out in the woods, so you are going to see a lot more of trail Ride / Run (Xterra) posts for 2017.
+For the past few months during the triathlon off-season, I've been drawn to running and biking outdoors in trails around the area to just "have fun".  I knew I needed a break from racing and simply enjoying being outside, and the time I've spent since the purchase of my new [2016 Scott Scale 930 Mountain Bike][930] has made me feel like a kid again as if I were riding through the neighborhood "dirt trails" exploring new areas that have yet been charted (at least before they were destroyed for new home development).  It seems to me I have a new calling to be out in the woods, so you are going to see a lot more of trail Ride / Run (Xterra) posts for 2017.
 
 {% include toc icon="gears" title="Race Review ToC" %}
 

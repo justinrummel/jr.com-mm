@@ -17,7 +17,7 @@ header:
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 
-<p class="align-left"><a href="{{ site.url }}/assets/images/2016/05/15/Kinetic-1.jpg"><img src="{{ site.url }}/assets/images/2016/05/15/Kinetic-1sm.jpg" /></a></p>There are simply too many words to describe the past couple of months, but the end result is I finally finished my first "Half" (70.3 mile) triathlon.  Mental toughness is required, as the numerous temptations to quit continuously 'punch you in the face': between drinking five gallons of water during the swim, the soreness of your legs and your "saddle" area while cycling 56 miles, or on the run where everyone simply looks beat down... trying to muster enough strength to finish their half marathon.  Knowing that I was able to overcome all of those and cross the finish line was great (plus there was free pizza and a finishers medal).
+<p class="align-left"><a href="{{ site.url }}/assets/images/2016/05/15/Kinetic-1.jpg"><img src="{{ site.url }}/assets/images/2016/05/15/Kinetic-1sm.jpg" /></a></p>There are simply too many words to describe the past couple of months, but the final result is I finished my first "Half" (70.3 mile) triathlon.  Mental toughness is required, as the numerous temptations to quit continuously 'punch you in the face': between drinking five gallons of water during the swim, the soreness of your legs and your "saddle" area while cycling 56 miles, or on the run where everyone simply looks beat down... trying to muster enough strength to finish their half marathon.  Knowing that I was able to overcome all of those and cross the finish line was great (plus there was free pizza and a finishers medal).
 
 {% include toc icon="gears" title="Race Review ToC" %}
 

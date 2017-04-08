@@ -23,7 +23,7 @@ header:
 
 #### Swim
 
-- I'm officially a broken record, so... no news flash my swim sucks!  At this point I have no idea why I'm doing this sport and I'm thinking of quiting because I'm not having fun while doing open water swims.  The one fact that holds me back is the amount of time and money I have spent on this sport which used to make me happy (any business person will recognize this as 'sunk costs', and knows it should not be included when evaluating if something is a good idea).  I'm glad we are now at the end of the year so I can meditate on what will happen next year, possibly escape... hopefully gain some perspective that won't leave me so down while racing once the swim is completed.
+- I'm officially a broken record, so... no news flash my swim sucks!  At this point I have no idea why I'm doing this sport and I'm thinking of quiting because I'm not having fun while doing open water swims.  The one fact that holds me back is the amount of time and money I have spent on this sport which used to make me happy (any business person will recognize this as 'sunk costs', and knows it should not be included when evaluating if something is a good idea).  I'm glad we are now at the end of the year so I can meditate on what will happen next year, possibly escape... gain some perspective that won't leave me so down while racing once the swim is completed.
 
 	+ [Training Peaks Swim Data](http://tpks.ws/MZUV0)
 

@@ -12,7 +12,7 @@ tags:
 
 Last Friday I was feeling a little jealous of the San Francisco area Mac Admin's group [Macbrained][macbrained] on getting a group of individuals together to discuss new items in the Apple world (Mavericks and iOS7).  I know many Mac Admin's in the DC Metro area and believe that a DC group would thrive!  I was venting my frustrations to [@natewalck][nate] on [freenode's osx-server channel][irc] of which he replied: "make one!".  Tom happened to be in the channel as well... and in about 10 minutes we purchased a domain, established email accounts, and created a twitter user for future broadcasts.
 
-We are still in the beginning stages, but we are targeting to find a good location in January to host the first meeting.  At this time, we need to find out the level of interest from the DC, MD, VA (DMV) area so we can find a suitable venue.  If there are items you would like to discuss, let us know!  Anything is open!  iOS 7 changes, Mavericks changes, security, CLI, Government (or other high security requirement areas) focus topics... you name it, lets talk about it.
+We are still in the beginning stages, but we are targeting to find a good location in January to host the first meeting.  At this time, we need to find out the level of interest from the DC, MD, VA (DMV) area so we can find a suitable venue.  If there are items you would like to discuss, let us know!  Anything is open!  iOS 7 changes, Mavericks changes, security, CLI, Government (or other high security requirement areas) focus topics... you name it, let's talk about it.
 
 So please sign up for more information at [MacDMV][macdmv], or email/tweet Tom or myself with questions or concerns.
 

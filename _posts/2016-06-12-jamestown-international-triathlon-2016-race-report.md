@@ -23,7 +23,7 @@ header:
 
 #### Swim
 
-- My anger at myself is unparalleled while I'm thinking about my performance on the swim.  The first 600m was all against the current, but if you were having issues (drowning) the water was shallow enough you could just stand up and you'll be OK.  But then we  had to return back to the start line that was 100m out farther into the James River where I basically hopped from one boat aid to another, because I was so tired and I mentally had checked out from the first section.  I'm not giving this section anymore space as it would be all negative.
+- My anger at myself is unparalleled while I'm thinking about my performance on the swim.  The first 600m was all against the current, but if you were having issues (drowning) the water was shallow enough you could just stand up and you'll be OK.  But then we  had to return back to the start line that was 100m out farther into the James River where I hopped from one boat aid to another, because I was so tired and I mentally had checked out from the first section.  I'm not giving this section anymore space as it would be all negative.
 - [Training Peaks Swim Data](http://tpks.ws/kUQY5)
 
 #### Transition 1

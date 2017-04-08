@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 0b78bef67939539d5f43c5801c31f6cbe29a47e5
+  revision: 7a4d221ccf355b6a92f12a7e96859ca33f2cd96a
   specs:
     minimal-mistakes-jekyll (4.3.1)
       jekyll (~> 3.3)
@@ -107,7 +107,7 @@ GEM
       mini_portile2 (~> 2.1.0)
     nokogiri (1.6.8.1-x64-mingw32)
       mini_portile2 (~> 2.1.0)
-    octokit (4.6.2)
+    octokit (4.7.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     octopress (3.0.11)
       jekyll (>= 2.0)

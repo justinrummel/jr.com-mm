@@ -17,7 +17,7 @@ header:
     caption: "Photo credit: [**Colleen Rummel**](https://www.wineplz.com)"
 ---
 
-After last week's poor swim performance at [Jamestown International]({{ site.url }}/jamestown-international-triathlon-2016-race-report/), I decided I need more opportunities for Open Water Swim (OWS) to hopefully get out of this head funk I have for swimming.  Fortunately there was another race this weekend, the [Rev3 Montclair Sprint](http://rev3tri.com/montclair-tri/)!  This was a good race to participate for two reasons:
+After last week's poor swim performance at [Jamestown International]({{ site.url }}/jamestown-international-triathlon-2016-race-report/), I decided I need more opportunities for Open Water Swim (OWS) to get out of this head funk I have for swimming.  Fortunately there was another race this weekend, the [Rev3 Montclair Sprint](http://rev3tri.com/montclair-tri/)!  This was a good race to participate for two reasons:
 
 - The event was close to our home which eliminated any need for a hotel stay or any extra time away from the family as this was a last minute decision.
 - It was a short Sprint distance (750 meter swim, 12 mile bike, 5k run) so it wouldn't take too much time away from any planned Father's Day activities.

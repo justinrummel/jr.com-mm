@@ -30,7 +30,7 @@ First, I would like to note that the course has improved compared to last year a
 
 #### Bike
 
-- Another PR for me in terms of course times <b><u>and</u></b> average speed.  I beat last year's time by 8 MINUTES AND 39 SECONDS!  Of course this is not quite fair as I had a transition issue on my bike last year plus the conditions were completely different, however, it's significannot enough for me to confidently state I killed that bike course.  How much?  I averaged 23.5 MPR over the entire course! Also, check these stats:
+- Another PR for me in terms of course times <b><u>and</u></b> average speed.  I beat last year's time by 8 MINUTES AND 39 SECONDS!  This is not quite fair as I had a transition issue on my bike last year plus the conditions were completely different, however, it's significannot enough for me to confidently state I killed that bike course.  How much?  I averaged 23.5 MPR over the entire course! Also, check these stats:
 
 	+ Age Group: 2nd Fastest
 	+ Men (and Overall): 14th fastest
@@ -43,7 +43,7 @@ First, I would like to note that the course has improved compared to last year a
 
 #### Post Race
 
-You may be wondering with a Bike and Run Course PR, epic results on those two, and everyone knows by now you can't swim for $hit... why am I pissed?  Because I received my first penalty.  I don't know the official reason for the penalty, but I believe it was on the bike segment and it would be for drafting[^3].  Four of us were basically matched for speed on the back half of the course and somehow we started leapfrogging each other.  I'm sure we were too close, thus we got dinged for drafting.  Because of this penalty, I was awarded two minutes on my total time, bringing me from Fourth place to Seventh.  It may not seem like much, but that is three spots and I'm trying for Super Series points for 2016 so I need all the help I can get, and now this race is almost worthless in terms of points.  I won't know for sure for another week or so until the [Super Series][SS] points page is updated.
+You may be wondering with a Bike and Run Course PR, epic results on those two, and everyone knows by now you can't swim for $hit... why am I pissed?  Because I received my first penalty.  I don't know the official reason for the penalty, but I believe it was on the bike segment and it would be for drafting[^3].  Four of us were matched for speed on the back half of the course and somehow we started leapfrogging each other.  I'm sure we were too close, thus we got dinged for drafting.  Because of this penalty, I was awarded two minutes on my total time, bringing me from Fourth place to Seventh.  It may not seem like much, but that is three spots and I'm trying for Super Series points for 2016 so I need all the help I can get, and now this race is almost worthless in terms of points.  I won't know for sure for another week or so until the [Super Series][SS] points page is updated.
 
 Race Results
 ---
@@ -83,7 +83,7 @@ Footnotes
 
 [^1]: Last year I nearly had a head on collision with a car last year, but fortunately traffic was stopped and I could safely maneuver around their front bumper.
 [^2]: I would like to give a shout-out to the teenage girl behind me towards the finish line.  I thought you were the dude in my Age Group that I just passed at mile 2.5, and I could hear you sprinting to the finish line.  You had me scared... I sprinted too... and my HR data show my HR peaked to 193.  You almost killed me, but thanks for the push.
-[^3]: "'Drafting' is basically riding right behind another competitor on the bike course. By drafting behind someone you gain an unfair advantage because it allows you to ride at the same speed as the person you’re following without exerting as much energy. In the sport of triathlon for age group events here in the U.S. drafting is not allowed" - [VTS/MTS website FAQ][FAQ]
+[^3]: "'Drafting' is riding right behind another competitor on the bike course. By drafting behind someone you gain an unfair advantage because it allows you to ride at the same speed as the person you’re following without exerting as much energy. In the sport of triathlon for age group events here in the U.S. drafting is not allowed" - [VTS/MTS website FAQ][FAQ]
 [^4]: Goal Times were based on: 2:36 /100m swim (based on Jamestown horrible performance, then minus 20s /100m), 21mph ride, 7:21 /mi run.
 [^5]: Official Race Results available at [VTS/MTS Colonial Beach Sprint Results page][colonial_results].
 [^6]: With two minute penalty.

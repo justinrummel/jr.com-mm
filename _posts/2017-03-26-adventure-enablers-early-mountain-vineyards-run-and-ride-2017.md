@@ -43,7 +43,7 @@ The leaders (the two guys who placed 1st and 2nd) quickly took off after the fir
 | 2.8 mile | .2 miles | 7.6% |
 | 3.5 mile | .3 miles | 4.6% |
 
-<p class="align-left"><a href="{{ site.url }}/assets/images/2017/03/25/AE-EMV-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/03/25/AE-EMV-SM-2.jpg" /></a></p>If that wasn't enough, the remaining miles essentially was up and down with an average incline of .5%.  It's as if EMV has the ability to always be climbing up and never descends to give you a chance of recovery.  I was happy with the results as I was able to stick to my plan after my pre-course ride of keeping things easy at the beginning (average pace of 8:12), then once I passed the 2nd aid station at mile marker 3.5, to try and increase speed (average pace of 8:06).
+<p class="align-left"><a href="{{ site.url }}/assets/images/2017/03/25/AE-EMV-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/03/25/AE-EMV-SM-2.jpg" /></a></p>If that wasn't enough, the remaining miles essentially was up and down with an average incline of .5%.  It's as if EMV has the ability to always be climbing up and never descends to give you a chance of recovery.  I was happy with the results as I was able to stick to my plan after my pre-course ride of keeping things easy at the beginning (average pace of 8:12), then once I passed the 2nd aid station at mile marker 3.5 I increased speed (average pace of 8:06).
 
 #### Rankings
 
