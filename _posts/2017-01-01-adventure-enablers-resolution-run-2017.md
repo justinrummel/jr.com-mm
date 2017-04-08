@@ -25,7 +25,7 @@ But today... it's New Years Day!  What better way to spend the time than with a 
 
 <p class="align-left"><a href="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00001.jpg"><img src="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-SM-00001.jpg" /></a></p>As for my performance, I did well for not training and eating too much junk food the past couple of months.  I've ridden [Conway Robinson State Forest Park][CRSP] a couple of times on my mountain bike, so I was familiar with the trail and knew where it would be technical for foot placement along where some slick wet/mud areas would show up.  I was doing well until the 2.5 mile mark where there is a continuous uphill climb that caught me by surprise, thus I didn't adjust my stride like I should have and peaked really high on my heart rate at 186 bpm.
 
-Hopefully throughout the year I'll be able to convince them to join me in other outdoor "adventures".
+I hope throughout the year I'll be able to convince them to join me in other outdoor "adventures".
 
 <div class="embed-container embed-container-16x9">
 	<iframe src='https://www.strava.com/activities/817859885/embed/04db389c4915a6cd21cefff9587724595709021c' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

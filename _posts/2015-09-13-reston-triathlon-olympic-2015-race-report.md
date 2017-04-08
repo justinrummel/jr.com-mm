@@ -18,7 +18,7 @@ header:
 
 Amazing what one year makes; for the good or bad.  This is the second time I've raced the Reston Triathlon, so I'm going to compare my numbers to see where there was any improvement.
 
-What I remember about last year's race was it was a nice warm fall day that made it great for the bike and run, but that my swim was **horrible**.  Why?  It could have been the warm water making it wetsuit illegal, or if it was due to the fact that I really don't like swimming in a lake since you can't see anything once your face is in the water.  I believe I remembered my bike and run being at top of my A game for the race which helped me make up for my poor start.
+What I remember about last year's race was it was a nice warm fall day that made it great for the bike and run, but that my swim was **horrible**.  Why?  It could have been the warm water making it wetsuit illegal, or if it was due to that I really don't like swimming in a lake since you can't see anything once your face is in the water.  I believe I remembered my bike and run being at top of my A game for the race which helped me make up for my poor start.
 
 As for this year it was a cool 65&deg; and the water temperature was at 77&deg;, which makes it wetsuit legal.  The swim was awesome (you will see the time difference in a bit)!  I haven't been feeling well the past two weeks so my goal for the bike and run was to push myself just above easy-strong pace.  Nothing fast, because I really didn't know how much my body would handle.
 

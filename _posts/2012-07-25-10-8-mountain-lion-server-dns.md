@@ -19,7 +19,7 @@ header:
 
 You have just installed Mountain Lion Server, now what!? Going on the assumption you are staring at Server.app right after a clean install, the first thing that needs attention is DNS!
 
-There is no faster way to make things difficult for OS X (and OS X Server) than to have bad DNS information. This has been true since the beginning of OS X so hopefully this doesn't come as a surprise. However, what is new with Mt Lion is that we get to configure DNS via the newly updated Server.app.
+There is no faster way to make things difficult for OS X (and OS X Server) than to have bad DNS information. This has been true since the beginning of OS X so this shouldn't come as a surprise. However, what is new with Mt Lion is that we get to configure DNS via the newly updated Server.app.
 
 DNS Setup
 ---

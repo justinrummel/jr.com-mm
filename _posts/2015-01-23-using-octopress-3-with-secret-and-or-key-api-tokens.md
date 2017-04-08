@@ -23,14 +23,14 @@ Twitter API Token
 
 I wanted a plugin that will pull and display a tweet it as if it was being viewed on a browser ([as seen on this post]({{ site.url }}/i-moved-my-domains-to-google-domains-and-you-wont-believe-what-happened-next/)).  My quick Google searching resulted in this Jekyll plugin [https://github.com/rob-murray/jekyll-twitter-plugin](https://github.com/rob-murray/jekyll-twitter-plugin) which seemed perfect as it was a gem that could be defined vs. having to install a plugin.  The only change I needed to perform from the setup documentation was the gem needed to be declared inside the ```group :jekyll_plugins do``` section vs. under the main list ([see my current Gemfile as the example][gemfile]).  The Twitter plugin performs API calls and pulls the tweet as desired and displays it perfectly (example as illustrated in the [jekyll-twitter-plugin's README.md][readme]).
 
-In order to place API calls to Twitter you need to create an API application by going to [https://apps.twitter.com/app/new](https://apps.twitter.com/app/new) and filling out their form. Once it's complete you can see your new App listed in the [https://twitter.com/settings/applications](https://twitter.com/settings/applications) section on your Twitter account.  Your new app has four important items to make API calls:
+To place API calls to Twitter you need to create an API application by going to [https://apps.twitter.com/app/new](https://apps.twitter.com/app/new) and filling out their form. Once it's complete you can see your new App listed in the [https://twitter.com/settings/applications](https://twitter.com/settings/applications) section on your Twitter account.  Your new app has four important items to make API calls:
 
 - consumer_key
 - consumer_secret
 - access_token
 - access_token_secret
 
-To use these tokens, you have two choices: embed them into your shell environment or declare them into your Octopress environment.  I personally use the [fish shell][fish], and for whatever reason I couldn't ```set``` the variables correctly, so now I'll have to attempt option #2.  **But wait!**  That means my super-secrete, special, precious keys may be in the public as I push my code changes to a github repo (for better support by Brandon)!  That won't work!  I did a little more research and found that Jekyll has the ability to reference multiple .yml files to build or server a site by using the ```-c``` flag.  Example: [^1]
+To use these tokens, you have two choices: embed them into your shell environment or declare them into your Octopress environment.  I prefer to use the [fish shell][fish], and for whatever reason I couldn't ```set``` the variables correctly, so now I'll have to attempt option #2.  **But wait!**  That means my super-secrete, special, precious keys may be in the public as I push my code changes to a github repo (for better support by Brandon)!  That won't work!  I did a little more research and found that Jekyll has the ability to reference multiple .yml files to build or server a site by using the ```-c``` flag.  Example: [^1]
 
 {% highlight bash %}
 jekyll s -c _config.yml,_AccessKeys.yml,_localhost.yml --drafts

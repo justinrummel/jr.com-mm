@@ -11,7 +11,7 @@ tags:
     - Lion
     - OSX
     - S/MIME
-excerpt: "We have discussed the basics of S/MIME in my post [What Is S/MIME Email and Why Should I Be Using It]({{ site.url }}/what-is-smime-email-and-why-should-i-be-using-it/), and from the last article [Acquiring a S/MIME Certificate for Free]({{ site.url }}/acquiring-a-smime-certificate-for-free/) you should have your S/MIME certificate installed. Now lets get into some more technical aspects of S/MIME."
+excerpt: "We have discussed the basics of S/MIME in my post [What Is S/MIME Email and Why Should I Be Using It]({{ site.url }}/what-is-smime-email-and-why-should-i-be-using-it/), and from the last article [Acquiring a S/MIME Certificate for Free]({{ site.url }}/acquiring-a-smime-certificate-for-free/) you should have your S/MIME certificate installed. Now let's get into some more technical aspects of S/MIME."
 header:
     image: /assets/images/lion-OG-Header.jpg     # Twitter (use 'overlay_image')
     overlay_image: /assets/images/lion-OG-Header.jpg       # Article header at 2048x768
@@ -20,7 +20,7 @@ header:
     caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
 ---
 
-We have discussed the basics of S/MIME in my post [What Is S/MIME Email and Why Should I Be Using It]({{ site.url }}/what-is-smime-email-and-why-should-i-be-using-it/), and from the last article [Acquiring a S/MIME Certificate for Free]({{ site.url }}/acquiring-a-smime-certificate-for-free/) you should have your S/MIME certificate installed. Now lets get into some more technical aspects of S/MIME.
+We have discussed the basics of S/MIME in my post [What Is S/MIME Email and Why Should I Be Using It]({{ site.url }}/what-is-smime-email-and-why-should-i-be-using-it/), and from the last article [Acquiring a S/MIME Certificate for Free]({{ site.url }}/acquiring-a-smime-certificate-for-free/) you should have your S/MIME certificate installed. Now let's get into some more technical aspects of S/MIME.
 
 A Certificate, is a Certificate, is a Certificate
 ---
@@ -45,13 +45,13 @@ The second way is more interesting and leads us to use Terminal.
 $ security find-certificate -a -e j@justinrummel.com -p > ~/Desktop/myPublicCert.pem
 {% endhighlight %}
 
-It's always best to test before exporting items and assume that you have the correct information. So lets shorten the command to
+It's always best to test before exporting items and assume that you have the correct information. So let's shorten the command to
 
 {% highlight bash %}
 $ security find-certificate -a -e j@justinrummel.com*.
 {% endhighlight %}
 
-What we are doing is using the Mac OS X *security* command to find your certificate within the default keychain (your Login keychain), which is usually located at: /Users/*yourusername*/Library/Keychains/login.keychain. We find all the matching values by utilizing the "-a" flag. We want to do this because as time passes you are going to collect expired certificates and we want to keep old certificates just in case you want to decrypted a message in a couple of years. The next flag is "-e" for your email. This should return hopefully one result, but if not, you most likely have expired certificates (and that's OK).
+What we are doing is using the Mac OS X *security* command to find your certificate within the default keychain (your Login keychain), which is usually located at: /Users/*yourusername*/Library/Keychains/login.keychain. We find all the matching values by utilizing the "-a" flag. We want to do this because as time passes you are going to collect expired certificates and we want to keep old certificates just in case you want to decrypted a message in a couple of years. The next flag is "-e" for your email. Hopefully, this should return one result, but if not, you most likely have expired certificates (and that's OK).
 
 ![Show Expired]({{ site.url }}/assets/images/2011/06/Show-Expired.png){: .image-right }If you want to see your expired certificates, the easist way to do this is open Keychain access, enable View => "Show Expired Certificates" and find any records with your email address that has a red "X" (meaning "expired"). Once you know you have one certificate, include the "-p" flag for .pem file type and export (the "> ~/Desktop/myPublicCert.pem" section).
 
@@ -209,7 +209,7 @@ XEHpIjv25NNgLXMtlk95TgAaFE6M/Fm1vqs=
 ---END CERTIFICATE---
 {% endhighlight %}
 
-We can now see that the entity who issued my certificate (The "third-party") is "COMODO CA Limited". My certification is valid until Jun 16 23:59:59 2012. This is a little easier to comprehend, and it also lets us know that this is a certificate specific for the email address.
+We can now see that the entity who issued my certificate (The "third-party") is "COMODO CA Limited". My certification is valid until Jun 16 23:59:59 2012. This is a little easier to comprehend, and it also let us know that this is a certificate specific for the email address.
 
 Private Keys
 ---

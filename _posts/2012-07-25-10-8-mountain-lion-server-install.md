@@ -41,7 +41,7 @@ On the Server.app welcome screen, click "Continue" and agree to Apples EULA. If 
 
 ![3-mtl-install]({{ site.url }}/assets/images/2012/07/3-mtl-install.png){: .align-center}
 
-The next screen is the "Accessing your Server" window. I always choose Domain Name, as my experiences has been installing OS X Server in Education, Business, and Government... never a personal home server. With that said, if I was installing this in my house I would still chose "Domain Name" option.
+The next screen is the "Accessing your Server" window. I always choose Domain Name, as my experiences has been installing OS X Server in Education, Business, and Government... never a personal home server. With that said, if I were installing this in my house I would still chose "Domain Name" option.
 
 ![4-mtl-install]({{ site.url }}/assets/images/2012/07/4-mtl-install.png){: .align-center}
 

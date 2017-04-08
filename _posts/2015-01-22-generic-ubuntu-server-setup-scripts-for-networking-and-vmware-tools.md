@@ -25,7 +25,7 @@ Server Setup
 
 On ever Ubuntu Server setup there are a couple of items that you should do first before trying to install the JDS or JSS installers.  We need the following:
 
-- Server FQDN (hopefully you have already populated your internal DNS with the associated IP address)
+- Server FQDN (you should have already populated your internal DNS with the associated IP address)
 - Networking info (IP Address, gateway, subnet mask, etc)
 - Install openssh-server (and possibly curl) on our new VM
 

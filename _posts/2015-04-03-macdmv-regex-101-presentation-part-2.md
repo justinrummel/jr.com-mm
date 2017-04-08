@@ -26,10 +26,10 @@ header:
 Mac Admin Examples
 ---
 
-Lets take our knowledge gained from the previous article and apply it to a more practical (or at least somewhat a practical) example that an Mac Admin may want to accomplish; read a plist file.  YES, defaults read would be much easier.  YES /usr/libexec/PlistBuddy would be another reasonable solution... but we're playing with regex so grab a chair and sit down!
+Let's take our knowledge gained from the previous article and apply it to a more practical (or at least somewhat a practical) example that an Mac Admin may want to accomplish; read a plist file.  YES, defaults read would be much easier.  YES /usr/libexec/PlistBuddy would be another reasonable solution... but we're playing with regex so grab a chair and sit down!
 
 ### Regex the Dock
-My first example we'll read the Dock (com.apple.dock.plist).  The dock is located on a per user basis, thus it lives in the User's Library => Preference folder.  Lets find out information regarding our dock, first lets print the entire file.
+My first example we'll read the Dock (com.apple.dock.plist).  The dock is located on a per user basis, thus it lives in the User's Library => Preference folder.  Let's find out information regarding our dock, first let's print the entire file.
 
 {% highlight bash %}
 defaults read ~/Library/Preferences/com.apple.dock.plist
@@ -126,7 +126,7 @@ The "URLDownloader" performs the download operation and "EndOfCheckPhase" ensure
 
 "URLTextSearcher" has two Arguments that are required: "url" (our source URL) and "re_pattern" (regex!)
 
-What Shea is requesting is for Autopkg to visit our URL "https://vivaldi.com" and find the regex pattern of "https://vivaldi\.com/download/Vivaldi[0-9TP_.]+\.dmg".  The actual regex is being displayed in the brackets (along with just before and after), so lets focus dissecting in this area.
+What Shea is requesting is for Autopkg to visit our URL "https://vivaldi.com" and find the regex pattern of "https://vivaldi\.com/download/Vivaldi[0-9TP_.]+\.dmg".  The actual regex is being displayed in the brackets (along with just before and after), so let's focus dissecting in this area.
 
 - ```Vivaldi``` 	Having this in the beginning states the download name MUST start with "Vivaldi"
 - ```[0-9]```  	This section states any number from zero to 9 may possibly in use

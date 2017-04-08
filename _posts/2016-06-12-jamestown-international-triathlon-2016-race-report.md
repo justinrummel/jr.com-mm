@@ -47,7 +47,7 @@ I was feeling good!  Fun bike, great T2... but I may have felt a little too good
 
 #### Post Race
 
-The three hour drive back home I was simply pissed.  I know I could have done better on the run and WAY better on the swim.  The guy in my age group that was 10th place in swimming beat me by over 10 minutes for that portion of the race.  The difference between 3rd and myself on the run was only three minutes, so I know everyone gave it all.  Hopefully I'll get some more Open Water Swim time with my [Speed Sherpa](http://www.speedsherpa.com/) team mates in the next couple of weeks before Colonial Beach... which reminds me I need to change that from the International distance to the Sprint... because SCREW SWIMMING!
+The three hour drive back home I was simply pissed.  I know I could have done better on the run and WAY better on the swim.  The guy in my age group that was 10th place in swimming beat me by over 10 minutes for that portion of the race.  The difference between 3rd and myself on the run was only three minutes, so I know everyone gave it all.  I hope to get some more Open Water Swim time with my [Speed Sherpa](http://www.speedsherpa.com/) team mates in the next couple of weeks before Colonial Beach... which reminds me I need to change that from the International distance to the Sprint... because SCREW SWIMMING!
 
 Race Results
 ---

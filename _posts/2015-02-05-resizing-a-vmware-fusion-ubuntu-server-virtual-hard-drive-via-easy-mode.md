@@ -24,7 +24,7 @@ Doing a quick search to see [what VMware has to say about this issue][1020778] r
 Increase size?  I don't think that word means what you think it means
 ---
 
-First lets get a baseline of a default "Easy Install" of Ubuntu Server.  We can see that we have a 20GB VHD by several ways:
+First let's get a baseline of a default "Easy Install" of Ubuntu Server.  We can see that we have a 20GB VHD by several ways:
 
 - Looking at our VMware Fusion Setup
 - Running ```sudo fdisk -l```

@@ -120,7 +120,7 @@ ethernet
 exit 0;
 {% endhighlight %}
 
-Here is the result of my test environment.  You're results should hopefully have more AD serviers populated, but otherwise it would be close to this gist:
+Here is the result of my test environment.  You're results should have more AD servers populated, but otherwise it would be close to this gist:
 
 {% gist 4bae71d761d2fcd8bd19 %}
 
@@ -128,7 +128,7 @@ Here is the result of my test environment.  You're results should hopefully have
 Your "dns_server" should be the IP address for one of your domain controllers.  With that said, only your internal AD DNS servers should be listed in a client's network settings.  Providing internal and external DNS options (like Google's or OpenDNS) in your DHCP scope settings will only confuse an Apple device.  If any of these commands return unexpected results, there is something wrong with your network.
 
 #### LDAP testing
-Next lets make sure that we are dealing with the standard ldap port of 389 with an administrator account that should be allowed to view the entire directory tree if needed.
+Next let's make sure that we are dealing with the standard ldap port of 389 with an administrator account that should be allowed to view the entire directory tree if needed.
 
 {% highlight bash %}
 ldapsearch -H ldap://dc01.pretend.co -b "dc=pretend,dc=co" -x -D "PRETEND\administrator" -W -L "(objectClass=group)" name member

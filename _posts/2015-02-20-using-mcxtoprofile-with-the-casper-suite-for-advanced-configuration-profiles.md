@@ -21,12 +21,12 @@ header:
 
 JAMF Software's Casper Suite has the ability to use Configuration Profiles (Apple's preferred method for managing OSX and iOS) since version 8.0, and introduced Apple Push Notification Service ([APNS]({{ site.url }}/search/?q=apns)) support since Casper Suite 8.4.  The combination of using Configurations Profiles with APNS allows administrators the ability to push management settings, which will be installed immediately and securely on their client machines.  However, Apple has been slow to provide Configuration Profiles a 1:1 feature parity that Mac Administrators were used to be able to configure through MCX via Workgroup Manager ([RIP][rip]).  There is a need to extract legacy MCX Settings and convert them into a working Configuration Profiles to manage options in a meticulous fashion: thus [mcxToProfile][m2p].
 
-Tim Sutton ([@tvsutton][tvsutton]) created mcxToProfile to solve this problem, and this utility is not new.  In fact, the initial commit to the GitHub repo was on June 20th 2012 and the latest update was October 11th 2013!  However, I feel that too many Casper administrators believe if there is not a Configuration Profile checkbox available from the JSS then they should figure out an alternative method which doesn't include a profile.  This is not true, have options!  For example...
+Tim Sutton ([@tvsutton][tvsutton]) created mcxToProfile to solve this problem, and this utility is not new.  The initial commit to the GitHub repo was on June 20th 2012 and the latest update was October 11th 2013!  However, I feel that too many Casper administrators believe if there is not a Configuration Profile checkbox available from the JSS then they should figure out an alternative method which doesn't include a profile.  This is not true, have options!  For example...
 
 VPN Settings (Advanced)
 ---
 
-When you configure VPN Settings (VPN Server, Authentication type, parameters, etc) via the JSS, the configuration part is easy and, more importantly, it works!  However, there are a few items that we could do that would really help the end user experience.
+When you configure VPN Settings (VPN Server, Authentication type, parameters, etc) via the JSS, the configuration part is easy and it works!  However, there are a few items that we could do that would really help the end user experience.
 
 ![VPN Settings]({{ site.url }}/assets/images/2015/02/19/VPN-Settings.png){: .align-right}
 
@@ -53,7 +53,7 @@ Locals-Mac:~ ladmin$ defaults read ~/Library/Preferences/com.apple.systemuiserve
 
 There is some extra stuff with the file, but we'll clean it out a little later.
 
-Next lets take a look at ~/Preferences/com.apple.networkConnect.plist.  Again, default in a freshly installed system this file does not exist.  However, when we start toggling the VPN display options from the VPN Menu Item the file gets written with the needed key/pair attributes:
+Next let's take a look at ~/Preferences/com.apple.networkConnect.plist.  Again, default in a freshly installed system this file does not exist.  However, when we start toggling the VPN display options from the VPN Menu Item the file gets written with the needed key/pair attributes:
 
 {% highlight bash %}
 Locals-Mac:~ ladmin$ defaults read ~/Library/Preferences/com.apple.networkConnect.plist
@@ -64,7 +64,7 @@ Locals-Mac:~ ladmin$ defaults read ~/Library/Preferences/com.apple.networkConnec
 {% endhighlight %}
 
 #### I Love it when a Plan Comes Together
-First lets get the mcxToProfile python script downloaded onto our machine.  We can do this by opening Terminal and doing a ```git clone``` command which pulls down the script plus the README.md file with examples.
+First let's get the mcxToProfile python script downloaded onto our machine.  We can do this by opening Terminal and doing a ```git clone``` command which pulls down the script plus the README.md file with examples.
 
 {% highlight bash %}
 Locals-Mac:Desktop ladmin$ git clone https://github.com/timsutton/mcxToProfile.git
@@ -88,7 +88,7 @@ drwxr-xr-x  13 ladmin  staff    442 Feb 20 07:29 .git
 -rwxr-xr-x   1 ladmin  staff  17320 Feb 20 07:29 mcxToProfile.py
 {% endhighlight %}
 
-With mcxToProfile we can identify multiple plist files that can be merged into one file to be imported into the JSS. This is clearly demonstrated in one of mcxToProfile examples available at [https://github.com/timsutton/mcxToProfile#example-usage](https://github.com/timsutton/mcxToProfile#example-usage).  Since my desire to display the VPN Menu Item and show the connection status are my personal suggestions to end users, I'm also applying the ``` --manage Once``` option so changes can be made by the user at a later time.  To generate our one plist file that we will import into the JSS, perform the following command:
+With mcxToProfile we can identify multiple plist files that can be merged into one file to be imported into the JSS. This is clearly demonstrated in one of mcxToProfile examples available at [https://github.com/timsutton/mcxToProfile#example-usage](https://github.com/timsutton/mcxToProfile#example-usage).  Since my desire to display the VPN Menu Item and show the connection status are my personal suggestions to end users, I'm also applying the ``` --manage Once``` option so changes can be made by the user later.  To generate our one plist file that we will import into the JSS, perform the following command:
 
 {% highlight bash %}
 Locals-Mac:~ ladmin$ ./mcxToProfile.py --plist ~/Library/Preferences/com.apple.networkConnect.plist --plist ~/Library/Preferences/com.apple.systemuiserver.plist --identifier com.local.vpnSetup --manage Once
@@ -98,7 +98,7 @@ This results in a nicely contained com.local.vpnSetup.mobileconfig file that has
 
 {% gist 0ac03f516bd3b81de5f6 %}
 
-Once you Create a new Configuration Profile in the JSS by <a href="{{ site.url }}/assets/images/2015/02/19/Upload-JSS.png">uploading our new combined plist file</a>, we can then deploy to our test environment as demonstrated in this short video:
+Once you create a new Configuration Profile in the JSS by <a href="{{ site.url }}/assets/images/2015/02/19/Upload-JSS.png">uploading our new combined plist file</a>, we can then deploy to our test environment as demonstrated in this short video:
 
 <div class="embed-container embed-container-16x9">
     <iframe src='//player.vimeo.com/video/120099841?portrait=0' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

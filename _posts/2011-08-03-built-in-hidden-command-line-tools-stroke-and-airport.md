@@ -69,7 +69,7 @@ Things you can’t do for people who use nmap include fingerprinting, service in
 Wireless discovery with *airport*
 ---
 
-The airport command is more powerful than stroke as you are able to use this for preferences setting, network scanning, or packet capturing! First lets find the command by cd to the **/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/** directory, then type ``` ./airport ```
+The airport command is more powerful than stroke as you are able to use this for preferences setting, network scanning, or packet capturing! First let's find the command by cd to the **/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/** directory, then type ``` ./airport ```
 
 If you just typed that out... you’ll notice a long list of options for this command. More than I want to copy and paste for this post, and much more than stroke!
 

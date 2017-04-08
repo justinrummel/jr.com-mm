@@ -25,7 +25,7 @@ First up, Screen Shots
 Issue
 ---
 
-Screen Shots is a interesting item, because Mac users really despise most Windows users solution to screen shots which is "**embed a picture into a word document**".  Note to all Windows users, this is WRONG (send the picture, not a word document with a picture).  To better understand why this predicament exists, lets dissect the difference between the two platforms between the "Screen Shot Capturing" user's perspective vs. the end recipient:
+Screen Shots is a interesting item, because Mac users really despise most Windows users solution to screen shots which is "**embed a picture into a word document**".  Note to all Windows users, this is WRONG (send the picture, not a word document with a picture).  To better understand why this predicament exists, let's dissect the difference between the two platforms between the "Screen Shot Capturing" user's perspective vs. the end recipient:
 
 ### Windows Users ###
 Taking a screen shot is easy and that is the *key* element of windows user's behavior, the method of getting a screen shot is very simple for Windows users as it involves a keyboard button.

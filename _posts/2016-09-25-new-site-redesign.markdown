@@ -21,7 +21,7 @@ Over the past week I've been fighting an infection that was draining all of my e
 
 Migrating my articles from the old template to the new template was completed in a couple of hours, but then the <strike>obsessive compulsive</strike> detailed oriented aspects of a site redesign became overwhelming and took a couple more nights to complete the final touches that would make it worthy for viewing by the two people that actually look at this site[^2].  Everything functions as expected, but there still may be some formatting issues on a couple of articles that need to be corrected, in addition some article YAML changes to ensure that tags and categories are working.
 
-I know this is not really interesting, but hopefully the site change will inspire some new content outside of race reports.
+I know this is not really interesting, but I hope the site change will inspire some new content outside of race reports.
 
 <figure>
 <a href="{{ site.url }}/assets/images/2016/09/25/JR.COM-OG.png"><img src="{{ site.url }}/assets/images/2016/09/25/JR.COM-OG.png" /></a>

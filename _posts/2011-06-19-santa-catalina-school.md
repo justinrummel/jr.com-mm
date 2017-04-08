@@ -16,7 +16,7 @@ header:
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 
-I spent two days working at Santa Catalina School, (Monterey, CA), and at the end of the second day I went out and capture some pictures of their facilities because I have never seen a K-12 school look so beautiful. This is what landscape architecture majors dream of designing. Unfortunately I didn’t may much attention to each shot as I had limited time, so most of the pictures were set for Auto at ISO 200. I should have done a -1 EV for the outdoor shots, and better yet brought my circular polarizer filter. Hopefully I’ll be able to return and take even more pictures.
+I spent two days working at Santa Catalina School, (Monterey, CA), and at the end of the second day I went out and capture some pictures of their facilities because I have never seen a K-12 school look so beautiful. This is what landscape architecture majors dream of designing. Unfortunately I didn’t may much attention to each shot as I had limited time, so most of the pictures were set for Auto at ISO 200. I should have done a -1 EV for the outdoor shots, and better yet brought my circular polarizer filter. Someday I hope I’ll be able to return and take even more pictures.
 
 <figure class="third">
 <a href="https://www.flickr.com/photos/justinrummel/5849866578/"><img src="https://farm3.static.flickr.com/2513/5849866578_4dd072eab6_m.jpg" title="20110617-Santa_Catalina-022" /></a>

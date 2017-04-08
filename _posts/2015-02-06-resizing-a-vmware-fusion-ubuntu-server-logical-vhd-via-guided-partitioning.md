@@ -40,7 +40,7 @@ LVM stands for Logicial Volume Management.  I found the <s>best</s> quickest exp
 > You can think of LVM as "dynamic partitions", meaning that you can create/resize/delete LVM "partitions" (they're called "Logical Volumes" in LVM-speak) from the command line while your Linux system is running: no need to reboot the system to make the kernel aware of the newly-created or resized partitions.
 > <cite>[The Benefits of LVM](http://askubuntu.com/a/3833)</cite>
 
-So lets see what we are working with and how it differs from the "Easy Install".  We'll launch our new Ubuntu Server VM and perform the same tasks as last time to get a sense of how much space is available.
+So let's see what we are working with and how it differs from the "Easy Install".  We'll launch our new Ubuntu Server VM and perform the same tasks as last time to get a sense of how much space is available.
 
 {% highlight bash %}
 sadmin@ubuntu:~$ sudo fdisk -l
@@ -78,7 +78,7 @@ Disk /dev/mapper/ubuntu--vg-swap_1 doesn't contain a valid partition table
 
 HELLO!  That was a lot more information than last time! The biggest clue as that we are dealing with a LVM system (outside the amount of text that is returned from one command) is the "Linux LVM" description for /dev/sda5.
 
-Lets see what are the results from our command after we increase our VM size from 20GB to 30 GB (like we did last time).
+Let's see what are the results from our command after we increase our VM size from 20GB to 30 GB (like we did last time).
 
 {% highlight bash %}
 sadmin@ubuntu:~$ sudo fdisk -l
@@ -231,7 +231,7 @@ old_desc_blocks = 2, new_desc_blocks = 2
 The filesystem on /dev/ubuntu-vg/root is now 7272448 blocks long.
 {% endhighlight %}
 
-We're done!  Lets verify by quickly rerunning our LVM commands [ ```lvscan``` \| ```lvs``` ] and/or doing a ```df -H | grep mappter```
+We're done!  Let's verify by quickly rerunning our LVM commands [ ```lvscan``` \| ```lvs``` ] and/or doing a ```df -H | grep mappter```
 
 {% highlight bash %}
 sadmin@ubuntu:~$ sudo lvscan

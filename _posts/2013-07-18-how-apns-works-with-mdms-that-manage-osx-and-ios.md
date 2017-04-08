@@ -38,7 +38,7 @@ You as the OS X and/or iOS Administrator want your devices to do *something*.  I
 <a href="{{ site.url }}/assets/images/2013/07/18/apns-4.png"><img src="{{ site.url }}/assets/images/2013/07/18/apns-4_480.png" alt="" title="" /></a>
 </figure>
 
-- It's this token that allows Apple's APNS network to find and talk to your devices through your firewall. They key element is when APNS push commands are sent, the only bits of information in the payload from Apple is **"HEY *Device*!  Talk to your MDM"** and nothing else.  That is where APNS stops being the middle man and lets a secure communication take over between your devices and MDM only.
+- It's this token that allows Apple's APNS network to find and talk to your devices through your firewall. They key element is when APNS push commands are sent, the only bits of information in the payload from Apple is **"HEY *Device*!  Talk to your MDM"** and nothing else.  That is where APNS stops being the middle man and let's a secure communication take over between your devices and MDM only.
 
 <figure>
 <a href="{{ site.url }}/assets/images/2013/07/18/apns-5.png"><img src="{{ site.url }}/assets/images/2013/07/18/apns-5_480.png" alt="" title="" /></a>

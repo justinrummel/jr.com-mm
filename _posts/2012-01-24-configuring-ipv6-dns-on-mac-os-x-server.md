@@ -97,14 +97,14 @@ $ justinrummel@jrummel-mbp:~$ ipv6calc --in ipv6addr --out revnibbles.arpa fe80:
 	1.0.c.0.0.d.e.f.f.f.9.2.c.0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa.
 {% endhighlight %}
 
-Since these are link-local, you can see that at a certain point the numbers become repetitive. Lets make things easy by cutting the "last half" of the string (minus the ".ipv6.arpa." at the end) and this will become our reverse zone (later in this article), and in for our reverse zone file's "$ORIGIN" section.
+Since these are link-local, you can see that at a certain point the numbers become repetitive. Let's make things easy by cutting the "last half" of the string (minus the ".ipv6.arpa." at the end) and this will become our reverse zone (later in this article), and in for our reverse zone file's "$ORIGIN" section.
 
 {% highlight bash %}
 $ justinrummel@jrummel-mbp:~$ ipv6calc --in ipv6addr --out revnibbles.arpa fe80::20c:29ff:fed0:c01 | sed 's/.ip6.arpa.//' | cut -c 33-64
 	0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f
 {% endhighlight %}
 
-Now it's time to create our new reverse IPv6 DNS zone file so we can translate our ARPA values to DNS names. Lets name the file "reverse-v6-fe80-64.IP6.ARPA" as this tells us it's the reverse IPv6 file for link-local (fe80) addresses. There is really no good way to do this other than copy/paste my example below and adjust your own values.
+Now it's time to create our new reverse IPv6 DNS zone file so we can translate our ARPA values to DNS names. Let's name the file "reverse-v6-fe80-64.IP6.ARPA" as this tells us it's the reverse IPv6 file for link-local (fe80) addresses. There is really no good way to do this other than copy/paste my example below and adjust your own values.
 
 {% highlight dns %}
 $TTL 3d	; Default TTL (bind 8 needs this, bind 9 ignores it)
@@ -186,7 +186,7 @@ $ justinrummel@jrummel-mbp:~$ ping6 -I en0 -c 1 jss.newco.prv
 Conclusion
 ---
 
-Hopefully Apple will soon give us the capabilities of setting IPv6 records within Server Admin sometime in the near future as it will become important as operating systems and networks progress and fully utilize IPv6. And don't forget on June 6th 2012 we'll be celebrating [World IPv6 Launch: this time it's for real][world-ipv6-launch]
+I believe Apple will soon give us the capabilities of setting IPv6 records within Server Admin sometime in the near future, as it will become important as operating systems and networks progress and fully utilize IPv6. And don't forget on June 6th 2012 we'll be celebrating [World IPv6 Launch: this time it's for real][world-ipv6-launch]
 
 If you have any troubles with your IPv6 values not returning, my guess there is something minor such as one to many zeros in your IPv6 ARPA zone name and/or you have a simple typo. I'll try to help as much as I can if there are any questions.
 

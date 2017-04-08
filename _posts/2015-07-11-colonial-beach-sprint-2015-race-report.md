@@ -19,7 +19,7 @@ I know my usually audience is not interested in Triathlons, however, still not s
 
 Colonial Beach Sprint is a 750 meter open water swim (OWS) (not a pool), 14 mile bike, and 3.1 mile run that is mostly flat.
 
-For those of you outside of the Virginia area, this morning was 100% rain the entire time.  I'm a fair weather endurance person.  I bike and run outside to enjoy the time outside, not to fight mother nature.  So when it's raining at a race, the "fun" aspect of racing wears off quickly.
+For those of you outside the Virginia area, this morning was 100% rain the entire time.  I'm a fair weather endurance person.  I bike and run outside to enjoy the time outside, not to fight mother nature.  So when it's raining at a race, the "fun" aspect of racing wears off quickly.
 
 {% include toc icon="gears" title="Race Review ToC" %}
 
@@ -27,7 +27,7 @@ I was stupid and didn't do any of it.  It was raining badly and VTSMTS announced
 
 #### Swim
 
-- The PA system was horrible.  They were trying to relay information throughout the morning, but I always seem to be in the wrong place to hear anything.  Needless to say I was in waist high water, well behind were I should be for the start of wave one, as the air-horn signaled "GO".  Have I mentioned how much I hate OWS?  About 350-400m I started panicking (not fun while swimming).  Actually raised my arm for assistance, but none of the paddle boaters moved to help.  So with pour route choices and panicking, I got back into finishing the swim by doing a side stroke (vs. freestyle).  Horrible. HATE HATE HATE OWS.
+- The PA system was horrible.  They were trying to relay information throughout the morning, but I always seem to be in the wrong place to hear anything.  I was in waist high water, well behind were I should be for the start of wave one, as the air-horn signaled "GO".  Have I mentioned how much I hate OWS?  About 350-400m I started panicking (not fun while swimming).  Actually raised my arm for assistance, but none of the paddle boaters moved to help.  So with pour route choices and panicking, I got back into finishing the swim by doing a side stroke (vs. freestyle).  Horrible. HATE HATE HATE OWS.
 
 #### Bike
 

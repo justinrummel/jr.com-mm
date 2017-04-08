@@ -19,7 +19,7 @@ OK, that title is COMPLETELY intended for click bait. I just think it's funny ho
 Overview
 ---
 
-Anyways, ~~sudeude~~ [account is now deleted] inviting anyone to try Google Domains. In typical Google fashion, Google Domains is in beta thus needing an invite (we won't guess how LONG Google Domains will be in beta). I wasn't really in the need for a new domain registrar as I was happy with my current provider, however, within the past year they were sold off to another registrar so I had no emotional ties to their service. I'm also not worried about any glitches that may be produced from the migration as I use ZoneEdit (for a cost) to manage the records vs. being dependent on the registrar.
+Anyway, ~~sudeude~~ [account is now deleted] inviting anyone to try Google Domains. In typical Google fashion, Google Domains is in beta thus needing an invite (we won't guess how LONG Google Domains will be in beta). I wasn't really in the need for a new domain registrar as I was happy with my current provider, however, within the past year they were sold off to another registrar so I had no emotional ties to their service. I'm also not worried about any glitches that may be produced from the migration as I use ZoneEdit (for a cost) to manage the records vs. being dependent on the registrar.
 
 I quickly visited Google Domains page and reviewed the very short home page. "Pick a name and go!"... sure I've heard that before. But then I checked the [features page][features], and read the first item was instantly SOLD.
 
@@ -40,7 +40,7 @@ Process Review
 - **Getting my Invite** - I assume once I DM'd my super secret personal email, the invite was sent, however, it took several hours to get the invite link from Google (so be patient).
 - **Requirements Check** - Nothing surprising here, you MUST have your domain unlocked and any privacy features must be disabled.
 - **Authorization Code** - Request this from my current Registrar and copy/paste into Google's migration form.
-- **Officially migrating the domain** - This is where things get interesting.  Google has to send the request to your current registrar, who then (usually) sends you an email to immediately approve, cancel, or ignore which will then fully process in about 5 days (depends on your registrar's process).  Needless to say it could be a couple of hours, or days to complete.
+- **Officially migrating the domain** - This is where things get interesting.  Google has to send the request to your current registrar, who then (usually) sends you an email to immediately approve, cancel, or ignore which will then fully process in about 5 days (depends on your registrar's process).  Warning, it could be a couple of hours or days to complete.
 
 <figure>
 <a href="{{ site.url }}/assets/images/2014/12/30/1-Ready.png"><img src="{{ site.url }}/assets/images/2014/12/30/1-Ready_480.png" alt="1-Ready" title="1-Ready" /></a><br />
@@ -51,7 +51,7 @@ Process Review
 Results
 ---
 
-I have to say I'm impressed that Google found all my custom A, MX, CNAME, and TXT records and brought them over to their management interface. It was truly *seemless* without any interruption of my services.
+I have to say I'm impressed that Google found all my custom A, MX, CNAME, and TXT records and brought them over to their management interface. It was *seemless* without any interruption of my services.
 
 There is a GREAT tool in the Advance section for Google Apps for your Domain (Business/EDU/GOV) that generates the necessary CNAME, MX etc needed for those type of domains. It is a simple dropdown and review two checkboxes to enable. It will also pre-validate to make sure you are not creating any duplicates or conflicting records. In addition you can select to create an App Engine subdomain that points to your Engine ID to quickly create the needed records.
 
