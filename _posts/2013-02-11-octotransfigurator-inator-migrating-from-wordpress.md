@@ -15,7 +15,7 @@ header:
     caption: "Photo credit: [**Octopress**](http://octopress.org)"
 ---
 
-Lets face it, this site has become stale over the winter months... but largely due to dedicating time to researching, writing, practicing for my two MacIT presentations that happened from Jan 30 - Feb 2nd. Now that I'm finished with MacIT, I need to post PDF links and Vimeo video links that I promised during my session.  But as I look at my site I've realized that it needs something new.  I'm tired of looking at the little squares that were on the top right hand corner.  I'm tired of the default blue.  I'm tired of Wordpress... but there are two issues:
+Let's face it, this site has become stale over the winter months... but largely due to dedicating time to researching, writing, practicing for my two MacIT presentations that happened from Jan 30 - Feb 2nd. Now that I'm finished with MacIT, I need to post PDF links and Vimeo video links that I promised during my session.  But as I look at my site I've realized that it needs something new.  I'm tired of looking at the little squares that were on the top right hand corner.  I'm tired of the default blue.  I'm tired of Wordpress... but there are two issues:
 
 1. What should I use as my new CMS/BLOG/BlahBlahBlah to replace Wordpress?
 2. How to migrate the existing data, not loose Google search results, and keep existing features intact (such as post to Twitter once a new page is created).
@@ -81,7 +81,7 @@ Octopress has most of the directions you need to fire up an Octopress site on th
 Final Thoughts
 ---
 
-The page generation has me concerned.  When I first started cleaning up the export of my old Wordpress articles to Markdown, generation was FAST!  It was nothing for me to change a word, generate, preview and see the results immediately.  Now with the additional plugins, it takes a couple of minutes.  I may have to rethink about my Flickr account integration.  Also, I've archived my old website on my web hosting provider's server just in case I need to revert back for some reason.
+The page generation has me concerned.  When I first started cleaning up the export of my old Wordpress articles to Markdown, generation was FAST!  It was nothing for me to change a word, generate, preview and see the results immediately.  Now with the additional plugins, it takes a couple of minutes.  I may have to rethink about my Flickr account integration.  Also, I've archived my old website on my web hosting provider's server just in case I need to revert for some reason.
 
 Also, apparently I watch too much [Phineas & Ferb][Phineas_and_Ferb] with my kids, and have a particular affinity for the [Evil Dr. Heinz Doofenshmirtz][DoofDaily] (as the title suggests).
 

@@ -24,7 +24,7 @@ From the last article, I hope you are now wondering "where do I get this awesome
 How To
 ---
 
-For this How To, I'm going to use Instant SSL. I have nothing against StartSSL (in fact they also give out free one year SSL website certificates!), but I find Instant's process simpler and more direct.
+For this How To, I'm going to use Instant SSL. I have nothing against StartSSL (they also give out free one year SSL website certificates!), but I find Instant's process simpler and more direct.
 
 1.  Request your certificate by going to
 2.  Click on the "Get it Free Now" button located in the top-middle section of the page.

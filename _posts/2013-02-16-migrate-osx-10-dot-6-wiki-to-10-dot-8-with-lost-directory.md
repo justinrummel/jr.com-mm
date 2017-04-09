@@ -26,7 +26,7 @@ I happened to have Wiki data from a 10.6.8 server that was saved by a simple bac
 
 The environment that I stepped into was:
 
-> Now that 10.8 is available (and our Xserve is no longer supported because it was made prior to 2009) lets move that data to a new server, and because the only thing we need is the /Library/Collaboration folder just save that data to an storage array and scrap the server...	we don't need that anymore.
+> Now that 10.8 is available (and our Xserve is no longer supported because it was made prior to 2009) let's move that data to a new server, and because the only thing we need is the /Library/Collaboration folder just save that data to an storage array and scrap the server...	we don't need that anymore.
 > <cite>Anonymous, famous last words</cite>
 
 So there are two things to remember when migrating Wiki data:
@@ -53,7 +53,7 @@ sudo rm /Library/Application Support/Apple/WikiServer/directoryIndex.db
 sudo serveradmin start web
 {% endhighlight %}
 
-The end result is a working 10.6 Wiki server.  So what about the new hardware that cannot run 10.6.8 Server...  VMware to the rescue!  You can install 10.6.8 Server in VMware Fusion as it's a Server OS (thus is compliant to Apple's EULA).  *Now* we can upgrade to 10.8 and move the Wiki content from the VM to the real server by following [Apple's kbase article][HT5585].  You would think that wouldn't you.
+The result is a working 10.6 Wiki server.  So what about the new hardware that cannot run 10.6.8 Server...  VMware to the rescue!  You can install 10.6.8 Server in VMware Fusion as it's a Server OS (thus is compliant to Apple's EULA).  *Now* we can upgrade to 10.8 and move the Wiki content from the VM to the real server by following [Apple's kbase article][HT5585].  You would think that wouldn't you.
 
 Let's review what we have and where we will go:
 
@@ -62,7 +62,7 @@ Let's review what we have and where we will go:
 3.	Software Updates for Mt Lion
 4.	Download and install Server.app for OS X
 
-End result is a full functioning Wiki service... that is running on your local VM.  Now I could just install VMWare on the new hardware and just be done, but Fusion is not really production worthy for this environment so that was not an option.  When I tried to migrate the data following [Apple's kbase article][HT5585] the end result was several Wiki groups that could not be administered.  What happened?  The "Directory Admin" that was running in your VM has a different UUID than the "Directory Admin" running on your new Mac hardware that may either:
+We now have a full functioning Wiki service... that is running on your local VM.  Now I could just install VMWare on the new hardware and just be done, but Fusion is not really production worthy for this environment so that was not an option.  When I tried to migrate the data following [Apple's kbase article][HT5585] the result was several Wiki groups that could not be administered.  What happened?  The "Directory Admin" that was running in your VM has a different UUID than the "Directory Admin" running on your new Mac hardware that may either:
 
 1.	Be running as an ODM
 2.	May be joined to a ODM via Directory Utility.

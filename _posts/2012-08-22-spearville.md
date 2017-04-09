@@ -20,7 +20,7 @@ time since I've posted any photography pictures as lately I've been traveling wi
 
 The windmills pictures were from [Spearville, OK][future-of-spearville], which is host to a GIANT wind farm that "has expanded to 99 turbines that produce 148.5 megawatts producing enough electrical energy to supply 48,761 homes. The wind farm annually provides $519,000 to Ford County and $244,000 to our local school district".
 
-The "other" pictures (and I say other b/c there is simply no description for these images) were taken in Mullinville, OK of the "[Kanza Art Studio][Kanza]". I didn't have enough time to truly explore and enjoy these metal art sculptures... but I needed to document just in case I (or anyone who reads this page) happen to be close to Dodge City, OK it is a MUST to stop and enjoy the beauty and humor in these sculptures.
+The "other" pictures (and I say other b/c there is simply no description for these images) were taken in Mullinville, OK of the "[Kanza Art Studio][Kanza]". I didn't have enough time to explore and enjoy these metal art sculptures... but I needed to document just in case I (or anyone who reads this page) happen to be close to Dodge City, OK it is a MUST to stop and enjoy the beauty and humor in these sculptures.
 
 Lastly, while "getting out of Dodge" (couldn't resist) driving towards the Wichita airport I drove past the "[Pink Fire Trucks][pinkfiretrucks]" caravan. See their page for future locations and their mission.
 

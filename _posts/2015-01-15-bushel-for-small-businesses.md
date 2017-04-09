@@ -25,7 +25,7 @@ Bushel is an Apple device (OSX and iOS) management tool that will assist with it
 Features
 ---
 
-Your Bushel web interface is hosted for you on Bushel's servers.  This helps companies who either don't want to deal with having a server internally (knowing how to configure, setup internal and external networking, and/or with the maintenance requirements), or a company that fully embraces the a cloud infrastructure. I see this as a great positive!  If you have a company policy that states "no cloud infrastructures" will be used then you are most likely too big for Bushel.
+Your Bushel web interface is hosted for you on Bushel's servers.  This helps companies who either don't want to deal with having a server internally (knowing how to configure, setup internal and external networking, and/or with the maintenance requirements), or a company that fully embraces a cloud infrastructure. I see this as a great positive!  If you have a company policy that states "no cloud infrastructures" will be used then you are most likely too big for Bushel.
 
 Enrolling your Apple devices is made easy by either logging into your Bushel account and clicking on the "Enroll" button, inviting people by email, or by using Apple's Device Enrollment Program (DEP).
 
@@ -61,7 +61,7 @@ Use Cases
 - Shadow IT within Corporate Environments
 - [Retail][retail-environments]
 
-The common trend is there is a small group of people who have a need to *slightly* manage some devices (more than what would be acceptable to do the same repetitive thing on one device at a time), however they don't have a full IT person to take care of them. Or, there is a consultant that could help with the setup of Bushel, but then handover the control to that small group.  As long as the settings on the OSX/iOS devices that you want to control fall into the feature list above, [Bushel is PERFECT][bushel]!  "But wait, there's more"... you can try out everything for FREE for up to three devices.  When you want to get more advance options (custom iOS restrictions or application install outside of the Mac App Store), that is when you need to start looking at a product geared for the Enterprise... like the [Casper Suite][casper]!
+The common trend is there is a small group of people who have a need to *slightly* manage some devices (more than what would be acceptable to do the same repetitive thing on one device at a time), however they don't have a full IT person to take care of them. Or, there is a consultant that could help with the setup of Bushel, but then handover the control to that small group.  As long as the settings on the OSX/iOS devices that you want to control fall into the feature list above, [Bushel is PERFECT][bushel]!  "But wait, there's more"... you can try out everything for FREE for up to three devices.  When you want to get more advance options (custom iOS restrictions or application install outside the Mac App Store), that is when you need to start looking at a product geared for the Enterprise... like the [Casper Suite][casper]!
 
 [bushel]: http://bushel.com
 [toast]: http://instagram.com/p/x11noxIW0u/

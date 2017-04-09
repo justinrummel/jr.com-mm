@@ -21,7 +21,7 @@ For this post, it is a good idea to review my last article on how [Apple's Push 
 Network APNS issues
 ---
 
-First and foremost, when APNS doesn't work I'm blaming your network.  Are you allowing the proper ports out of your environment; specifically ports 2195, 2196, and 5223?  You can do some testing for 2195 and 2196 be trying using the '[nc][nc]' command ```gateway.push.apple.com``` and ```feedback.push.apple.com``` over port 2195 and 2196 respectively, and this needs to happen FROM your MDM (JSS specifically regarding the Casper Suite).  Below are successfully examples using the nc command:
+First, when APNS doesn't work I'm blaming your network.  Are you allowing the proper ports out of your environment; specifically ports 2195, 2196, and 5223?  You can do some testing for 2195 and 2196 be trying using the '[nc][nc]' command ```gateway.push.apple.com``` and ```feedback.push.apple.com``` over port 2195 and 2196 respectively, and this needs to happen FROM your MDM (JSS specifically regarding the Casper Suite).  Below are successfully examples using the nc command:
 
 {% highlight bash %}
 # nc test for APNS
@@ -49,12 +49,12 @@ It goes without saying that DNS needs to work from the Server and your clients. 
 Certificate issues
 ---
 
-Along with DNS, there may be certificate issues.  With Certificates you MUST use the Fully Qualified Domain Name (FQDN).  Sorry... I know "server1" is much easier than "server1.domain.tld", but that doesn't work when you need certificates to validate.  USE the FQDN.  In fact, ALWAYS use FQDN in any setting on the JSS with the exception for NetBoot server, and that is a requirement because the bless command is looking for an IP address.
+Along with DNS, there may be certificate issues.  With Certificates you MUST use the Fully Qualified Domain Name (FQDN).  Sorry... I know "server1" is much easier than "server1.domain.tld", but that doesn't work when you need certificates to validate.  USE the FQDN.  ALWAYS use FQDN in any setting on the JSS with the exception for NetBoot server, and that is a requirement because the bless command is looking for an IP address.
 
 Tokens
 ---
 
-Lastly I want to bring up a strange issue that I discovered some time ago when testing OS X 10.8 and the Casper Suite by creating multiple Virtual Machines with VM Ware Fusion.  I hope this was an issue because I created 10 VMs on my MacBook Pro Retina, Mid 2012 and started enrolling them into my test JSS.  With the help of JAMF Support we discovered at some point my VM's were not getting a token from Apple.  The way I found this was by searching inside the MySQL database.&nbsp;[^1]
+Lastly I want to bring up a strange issue that I discovered when testing OS X 10.8 and the Casper Suite by creating multiple Virtual Machines with VM Ware Fusion.  I hope this was an issue because I created 10 VMs on my MacBook Pro Retina, Mid 2012 and started enrolling them into my test JSS.  With the help of JAMF Support we discovered at some point my VM's were not getting a token from Apple.  The way I found this was by searching inside the MySQL database.&nbsp;[^1]
 
 {% highlight bash %}
 # searching for tokens in MySQL
@@ -83,7 +83,7 @@ mysql> select computer_name, computer_id, apn_token from computers;
 mysql>
 {% endhighlight %}
 
-You can see there are two computers that I enrolled into my JSS, however, they never received an APNS token.  The end result is these computers will never receive any PUSH commands because Apple has no way of finding the devices.  My initial clue that something was wrong was after the two computers were successfully enrolled, I looked for them to assign a Configuration Profile.  They were missing in the "Individual Computers" list.  It must be a MySQL command that requires the apn_token be return in order to populate the list.
+You can see there are two computers that I enrolled into my JSS, however, they never received an APNS token.  The result is these computers will never receive any PUSH commands because Apple has no way of finding the devices.  My initial clue that something was wrong was after the two computers were successfully enrolled, I looked for them to assign a Configuration Profile.  They were missing in the "Individual Computers" list.  It must be a MySQL command that requires the apn_token be return to populate the list.
 
 Sources
 ---
