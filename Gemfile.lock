@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 7a4d221ccf355b6a92f12a7e96859ca33f2cd96a
+  revision: eaf366e405a0f988fa90cd7fe0bc136df60ea34b
   specs:
     minimal-mistakes-jekyll (4.3.1)
       jekyll (~> 3.3)
@@ -78,7 +78,7 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
-    jekyll-sitemap (1.0.0)
+    jekyll-sitemap (1.1.1)
       jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
