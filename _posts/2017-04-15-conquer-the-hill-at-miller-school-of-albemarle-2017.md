@@ -52,18 +52,6 @@ Once I arrived at the race site, I was able to get my racing bib, get my gear in
 
 However, any future Charlottesville, VA race will require a visit to Starr Hill brewery with the [106 Street Food Truck][106]'s awesome Chicken Mesquite wrap that was absolutely the best meal I have ate in a long time (this statement is completely influenced by the fact I just rode my bike for almost four hours.)
 
-<!-- 
-
-Race Results
----
-
-#### Rankings[^2]
-
-- Overall: Placed 10th out of 100 (top 10%).
-- Gender: Placed 10th out of 50 (top 20%).
-- Male 40-44: Placed 5th out of 9
-
--->
 
 Photos
 ---
@@ -102,7 +90,5 @@ Footnotes
 ---
 
 [^1]: Yes.  I snatched from the ground, drank, and enjoyed someone else's full water bottle because I was that desperate.
-[^2]: Official Race Results available at [EVENT Results page][event_results].
 
 [106]: http://106streetfood.wixsite.com/106streetfood
-[event_results]: https://www.bikereg.com/Results/
