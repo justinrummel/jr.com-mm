@@ -53,6 +53,7 @@ Once I arrived at the race site, I was able to get my racing bib, get my gear in
 However, any future Charlottesville, VA race will require a visit to Starr Hill brewery with the [106 Street Food Truck][106]'s awesome Chicken Mesquite wrap that was absolutely the best meal I have ate in a long time (this statement is completely influenced by the fact I just rode my bike for almost four hours.)
 
 <!-- 
+
 Race Results
 ---
 
@@ -89,16 +90,12 @@ Photos
 <a href="{{ site.url }}/assets/images/2017/04/15/Conquer-the-Hill-LG-9.jpg"><img src="{{ site.url }}/assets/images/2017/04/15/Conquer-the-Hill-SM-9.jpg" /></a>
 </figure>
 
-
 #### Event Photos
 
 <figure class="half">
 <a href="{{ site.url }}/assets/images/2017/04/15/Conquer-the-Hill-PRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/04/15/Conquer-the-Hill-PRO-SM-1.jpg" /></a>
 <a href="{{ site.url }}/assets/images/2017/04/15/Conquer-the-Hill-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/04/15/Conquer-the-Hill-PRO-SM-2.jpg" /></a>
 </figure>
--->
-
-
 
 
 Footnotes
