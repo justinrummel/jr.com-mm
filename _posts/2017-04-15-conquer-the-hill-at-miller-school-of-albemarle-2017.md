@@ -53,6 +53,15 @@ Once I arrived at the race site, I was able to get my racing bib, get my gear in
 However, any future Charlottesville, VA race will require a visit to Starr Hill brewery with the [106 Street Food Truck][106]'s awesome Chicken Mesquite wrap that was absolutely the best meal I have ate in a long time (this statement is completely influenced by the fact I just rode my bike for almost four hours.)
 
 
+Results
+---
+
+- MALE Cat3/Beginner Men 35+: 5th of 7
+- All Participants: 83rd of 120
+
+Results are posted by [Race Category][CAT] or by [the number of laps][LAP].
+
+
 Photos
 ---
 
@@ -92,3 +101,5 @@ Footnotes
 [^1]: Yes.  I snatched from the ground, drank, and enjoyed someone else's full water bottle because I was that desperate.
 
 [106]: http://106streetfood.wixsite.com/106streetfood
+[CAT]: https://www.badtothebone.biz/docs/results/conquer_hill_CAT_2017.TXT
+[LAP]: https://www.badtothebone.biz/docs/results/conquer_hill_bylaptime_2017.TXT
