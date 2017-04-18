@@ -80,7 +80,7 @@ Photos
 
 #### Event Photos
 
-<figure class="half">
+<figure class="third">
 <a href="{{ site.url }}/assets/images/2017/04/15/Conquer-the-Hill-PRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/04/15/Conquer-the-Hill-PRO-SM-1.jpg" /></a>
 <a href="{{ site.url }}/assets/images/2017/04/15/Conquer-the-Hill-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/04/15/Conquer-the-Hill-PRO-SM-2.jpg" /></a>
 </figure>
