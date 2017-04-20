@@ -1,15 +1,3 @@
-GIT
-  remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: d4b1eeb6bf544b9e4e2581478b944de8eb089330
-  specs:
-    minimal-mistakes-jekyll (4.4.0)
-      jekyll (~> 3.3)
-      jekyll-feed (~> 0.9.1)
-      jekyll-gist (~> 1.4)
-      jekyll-paginate (~> 1.1)
-      jekyll-sitemap (~> 1.0)
-      jemoji (~> 0.8)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -97,6 +85,13 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
     mini_portile2 (2.1.0)
+    minimal-mistakes-jekyll (4.3.1)
+      jekyll (~> 3.3)
+      jekyll-feed (~> 0.9.1)
+      jekyll-gist (~> 1.4)
+      jekyll-paginate (~> 1.1)
+      jekyll-sitemap (~> 1.0)
+      jemoji (~> 0.8)
     minitest (5.10.1)
     multi_json (1.12.1)
     multipart-post (2.0.0)
@@ -169,7 +164,7 @@ DEPENDENCIES
   jekyll-archives
   jekyll-lunr-js-search
   json
-  minimal-mistakes-jekyll!
+  minimal-mistakes-jekyll (~> 4.3.1)
   net-http-persistent (~> 2.9, >= 2.9.4)
   nokogiri (~> 1.6.0)
   octopress
