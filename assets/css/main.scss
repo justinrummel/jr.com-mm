@@ -1,0 +1,413 @@
+---
+# main.scss
+---
+
+@charset "utf-8";
+/* Import gem theme importer */
+@import "minimal-mistakes";
+
+
+/* Theme overrides */
+/* ==========================================================================
+   ARCHIVE
+   ========================================================================== */
+
+.archive__item-title {
+  margin-top: 0;
+  margin-bottom: 0.25em;
+  font-family: $sans-serif-narrow;
+
+  a + a {
+    opacity: 0.5;
+  }
+}
+
+.archive__item-excerpt {
+  margin-top: 0;
+  margin-bottom: 3em;
+  font-size: $type-size-6;
+
+  & + p {
+    text-indent: 0;
+  }
+}
+
+
+/* ==========================================================================
+   Media and embeds
+   ========================================================================== */
+
+/* Figures and images */
+
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fourth {
+  > a,
+  > img {
+    @include breakpoint($small) {
+      width: calc(25% - 0.5em);
+    }
+  }
+
+  figcaption {
+    width: 100%;
+  }
+}
+
+.fifth {
+  > a,
+  > img {
+    @include breakpoint($small) {
+      width: calc(20% - 0.5em);
+    }
+  }
+
+  figcaption {
+    width: 100%;
+  }
+}
+
+.sixth {
+  > a,
+  > img {
+    @include breakpoint($small) {
+      width: calc(16.666% - 0.5em);
+    }
+  }
+
+  figcaption {
+    width: 100%;
+  }
+}
+
+
+#IG_top {
+  display: none;
+
+  @include breakpoint($small) {
+    display: block;
+  }
+}
+
+#IG_bottom {
+  display: block;
+
+  @include breakpoint($small) {
+    display: none;
+  }
+}
+
+
+/* ==========================================================================
+   ROUND CORNERS
+   ========================================================================== */
+
+// .rounded(VALUE);
+@mixin rounded($radius:4px) {
+  -webkit-border-radius : $radius;
+  -moz-border-radius : $radius;
+  border-radius : $radius;
+}
+
+// .border-radius(VALUE,VALUE,VALUE,VALUE);
+@mixin border-radius($topright: 0, $bottomright: 0, $bottomleft: 0, $topleft: 0) {
+  -webkit-border-top-right-radius : $topright;
+  -webkit-border-bottom-right-radius : $bottomright;
+  -webkit-border-bottom-left-radius : $bottomleft;
+  -webkit-border-top-left-radius : $topleft;
+  -moz-border-radius-topright : $topright;
+  -moz-border-radius-bottomright : $bottomright;
+  -moz-border-radius-bottomleft : $bottomleft;
+  -moz-border-radius-topleft : $topleft;
+  border-top-right-radius : $topright;
+  border-bottom-right-radius : $bottomright;
+  border-bottom-left-radius : $bottomleft;
+  border-top-left-radius : $topleft;
+  -webkit-background-clip : padding-box;
+  -moz-background-clip : padding;
+  background-clip : padding-box;
+}
+
+
+/* ==========================================================================
+   Tag Inline List
+   ========================================================================== */
+
+.inline-list {
+  list-style: none;
+  font-size: 50%;
+  margin-left: 0;
+  padding-left: 0;
+  li {
+    list-style-type: none;
+    display: inline;
+  }
+}
+
+.entry-meta {
+  text-transform: uppercase;
+  color: lighten($text-color,60);
+  a {
+    color: lighten($text-color,60);
+  }
+  .vcard {
+    &:before {
+      content: " by ";
+    }
+  }
+  .tag {
+    display: inline-block;
+    margin: 4px;
+    color: #494e52;
+    @include rounded(3px);
+    background-color: lighten($text-color,50);
+      span {
+        float: left;
+        padding: 2px 6px;
+      }
+      .count {
+          background-color: lighten($text-color,40);
+          @include border-radius(3px,3px,0,0);
+      }
+      &:hover {
+          background-color: lighten($text-color,40);
+      }
+  }
+  .entry-reading-time {
+    float: right;
+  }
+}
+
+.page__hero {
+  position: relative;
+  margin-bottom: 2em;
+  @include clearfix;
+  animation: intro 0.3s both;
+  animation-delay: 0.25s;
+
+  &--overlay {
+    position: relative;
+    min-height: 384px;
+    margin-bottom: 2em;
+    padding: 3em 0;
+    @include clearfix;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    animation: intro 0.3s both;
+    animation-delay: 0.25s;
+
+    a {
+      color: #fff;
+    }
+
+    .wrapper {
+      padding-left: 1em;
+      padding-right: 1em;
+      padding-top: 3em;
+
+      @include breakpoint($x-large) {
+        max-width: $x-large;
+      }
+    }
+
+    .page__title,
+    .page__meta,
+    .page__lead,
+    .btn {
+      color: #fff;
+      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+    }
+
+    .page__lead {
+      max-width: $medium;
+    }
+
+    .page__date {
+      color: #fff;
+      text-align: center;
+    }
+
+    .page__title {
+      font-size: $type-size-2;
+      text-align: center;
+
+      @include breakpoint($small) {
+        font-size: $type-size-1;
+      }
+    }
+  }
+}
+
+
+/* ==========================================================================
+   Comments
+   ========================================================================== */
+
+.page__comments-form {
+  padding: 1em;
+  margin-bottom: 60px;
+  background: $lighter-gray;
+  transition: $global-transition;
+
+  &.disabled {
+    input,
+    button,
+    textarea,
+    label {
+      pointer-events: none;
+      cursor: not-allowed;
+      filter: alpha(opacity=65);
+      box-shadow: none;
+      opacity: 0.65;
+    }
+  }
+}
+
+#comment-form-reply {
+  display: inline;
+}
+
+.comment {
+  @include clearfix();
+  margin: 1em 0;
+  position: relative;
+  margin-bottom: 4em;
+  font-size: 0.9em;
+
+//  &:not(:last-child) {
+//    border-bottom: 1px solid $border-color;
+//  }
+
+  // comment replies
+  &.child {
+    margin-left: 4.5em;
+
+    &:before,
+    &:after {
+      position: absolute;
+      left: 1.5em;
+      content: '';
+      width: 0.5em;
+      background-color: #e3e3e3;
+    }
+
+    &:before {
+      top: -3em;
+      height: 2em;
+    }
+
+    &:after {
+      top: 4em;
+      bottom: -1em;
+    }
+  }
+}
+
+.comment__avatar-wrapper {
+  float: left;
+  width: 60px;
+  height: 60px;
+  margin-right: 20px;
+
+//  @include breakpoint($large) {
+//    width: 100px;
+//    height: 100px;
+//  }
+
+}
+
+.comment__message {
+  margin: 0;
+  margin-left: 80px;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.comment__reply {
+  margin: 0;
+  margin-left: 80px;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+
+/* ==========================================================================
+   Responsive Video Embed
+   ========================================================================== */
+
+/* 16x9 Aspect Ratio */
+.embed-container-16x9 {
+  padding-bottom: 56.25%;
+}
+
+/* 4x3 Aspect Ratio */
+.embed-container-4x3 {
+  padding-bottom: 75%;
+}
+
+.embed-container {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  margin-bottom: 1em;
+  max-width: 100%;
+  max-height: 100%;
+
+  iframe,
+  object,
+  embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+
+/* ==========================================================================
+   Images
+   ========================================================================== */
+
+.align-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 10px;
+
+  @include breakpoint($small) {
+    float: left;
+    margin-right: 1em;
+  }
+}
+
+.align-right {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10px;
+
+  @include breakpoint($small) {
+    float: right;
+    margin-left: 1em;
+  }
+}
+
+.align-center {
+  display: block;
+  width: 100%;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0;
+  padding-right: 0;
+}
