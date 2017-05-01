@@ -69,7 +69,7 @@ Among the Male 40-44 category there were 21 athletes (excluding the one in my ag
 <a href="{{ site.url }}/assets/images/2016/07/31/Culpeper-PRO-LG-3.jpg"><img src="{{ site.url }}/assets/images/2016/07/31/Culpeper-PRO-SM-3.jpg" /></a>
 </figure>
 
-#### Tables
+#### Splits
 
 | Culpeper Sprint    | 750m Swim    | T1   | 16.9 Mile Bike | T2   | 5k Run   | Total       |
 |:-------------------|:------------:|:----:|:--------------:|:----:|:--------:|------------:|

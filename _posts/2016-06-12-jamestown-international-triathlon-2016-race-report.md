@@ -75,7 +75,7 @@ Among the Male 40-44 category there were 26 athletes
 <a href="{{ site.url }}/assets/images/2016/06/12/Jamestown-PRO-2.jpg"><img src="{{ site.url }}/assets/images/2016/06/12/Jamestown-PRO-sm-2.jpg" /></a>
 </figure>
 
-#### Tables
+#### Splits
 
 | Jamestown          | 1500m Swim  | T1   | 40k Bike  | T2   | 10k Run  | Total   |
 |:-------------------|:-----------:|:----:|:---------:|:----:|:--------:|--------:|

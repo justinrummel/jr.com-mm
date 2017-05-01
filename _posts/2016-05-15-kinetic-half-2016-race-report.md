@@ -79,7 +79,7 @@ Oh, and pro tip... [you should really really really wear sunscreen]({{ site.url 
 </figure>
 
 
-#### Tables
+#### Splits
 
 | Kinetic            | 1.2 Mile Swim | T1   | 56 Mile Bike  | T2   | 13.1 Mile Run   | Total   |
 |:-------------------|:-------------:|:----:|:-------------:|:----:|:---------------:|--------:|

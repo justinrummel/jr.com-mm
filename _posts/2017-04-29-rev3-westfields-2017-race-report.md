@@ -25,6 +25,8 @@ This led me to call a fellow teammate to get some non-emotional advice if I shou
 
 The race morning started like any other weekday morning where I wake up at 4:00am and eat a quick breakfast, getting mentally ready for the day.  I arrived at the race site early as I wanted to do a short warm-up to see how my leg was going to behave.  I did a quick 1.5 mile ride to make sure the bike was ready to go, and get my calf ready for my warmup 1 mile run.  After my warm-up I could tell that my calf was tight, but it didn't hurt.  It was go time!
 
+Race Breakdown
+---
 
 #### Swim
 
@@ -44,7 +46,8 @@ The race morning started like any other weekday morning where I wake up at 4:00a
 
 	+ [Training Peaks Run Data](http://tpks.ws/ue6Jn)
 
-#### Post Race
+Post Race Thoughts
+---
 
 <p class="align-right"><a href="{{ site.url }}/assets/images/2017/04/30/Rev3-Westfields-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/04/30/Rev3-Westfields-SM-1.jpg" /></a></p>This race was so much fun for several reasons:
 
@@ -87,7 +90,7 @@ half third fourth fifth sixth
 </figure>
 -->
 
-#### Tables
+#### Splits
 
 | Rev3 Westfields Sprint | 250y Swim    | T1   | 11.8 Mile Bike | T2   | 3.1 Mile Run   | Total       |
 |:-----------------------|:------------:|:----:|:--------------:|:----:|:--------------:|------------:|

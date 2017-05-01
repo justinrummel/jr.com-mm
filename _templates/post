@@ -56,6 +56,8 @@ header:
 <!-- Table of Contents -->
 {% include toc icon="gears" title="Race Review ToC" %}
 
+Race Breakdown
+---
 
 #### Swim
 
@@ -75,7 +77,8 @@ header:
 
 	+ [Training Peaks Run Data](http://tpks.ws/blah)
 
-#### Post Race
+Post Race Thoughts
+---
 
 blah blah blah
 
@@ -114,7 +117,7 @@ half third fourth fifth sixth
 </figure>
 -->
 
-#### Tables
+#### Splits
 
 | EVENT Sprint       | 750m Swim    | T1   | 16.6 Mile Bike | T2   | 5k Run   | Total       |
 |:-------------------|:------------:|:----:|:--------------:|:----:|:--------:|------------:|

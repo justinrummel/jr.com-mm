@@ -68,7 +68,7 @@ Among the Male 40-44 category there were 23 athletes (excluding the Overall winn
 <a href="{{ site.url }}/assets/images/2016/07/09/Colonial-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2016/07/09/Colonial-PRO-SM-2.jpg" /></a>
 </figure>
 
-#### Tables
+#### Splits
 
 | Colonial Sprint    | 750m Swim    | T1   | 14 Mile Bike | T2   | 5k Run   | Total       |
 |:-------------------|:------------:|:----:|:------------:|:----:|:--------:|------------:|

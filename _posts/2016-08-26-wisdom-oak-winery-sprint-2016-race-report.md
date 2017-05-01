@@ -78,7 +78,7 @@ Among the Male 40-44 category there were 5 athletes.
 </figure>
 
 
-#### Tables
+#### Splits
 
 | WOW Sprint    | 750m Swim    | T1   | 16.6 Mile Bike | T2   | 5k Run   | Total       |
 |:-------------------|:------------:|:----:|:--------------:|:----:|:--------:|------------:|
