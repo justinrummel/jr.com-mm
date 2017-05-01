@@ -34,7 +34,7 @@ The race morning started like any other weekday morning where I wake up at 4:00a
 
 #### Bike
 
-- The bike course was a closed off two-lane "commercial zoned" area of Chantilly, VA that comprised of two loops of mostly flat, with an occasional low rolling "hills" (not really hills... but not 100% flat).  The first loop I tried to keep a high cadence while pushing myself just under "race pace" to make sure I didn't burn myself out.  The second lap was the time to kick it a little harder as I wasn't sure what was going to happen on the run.
+- The bike course was a closed off two-lane "commercial zoned" area of Chantilly, VA that consists of two loops of mostly flat, with an occasional low rolling "hills" (not really hills... but not 100% flat).  The first loop I tried to keep a high cadence while pushing myself just under "race pace" to make sure I didn't burn myself out.  The second lap was the time to kick it a little harder as I wasn't sure what was going to happen on the run.
 
 	+ [Training Peaks Bike Data](http://tpks.ws/sDwC1)
 
