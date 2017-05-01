@@ -16,7 +16,7 @@ header:
     teaser: /assets/images/2017/04/30/Rev3-Westfields-Header-Twitter.jpg   # Shrink image to 575x216
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
-<p class="align-left"><a href="{{ site.url }}/assets/images/2017/04/30/Rev3-Westfields-LG-3.jpg"><img src="{{ site.url }}/assets/images/2017/04/30/Rev3-Westfields-SM-3.jpg" /></a></p>**The 2017 race season has officially started!!!**  This one was close as it almost didn't happen.  Ever since [Cherry Blossom 10 Mile Run]({{ site.url }}/cherry-blossom-ten-mile-run-2017/) my left calf has not been the same.  Then, when you combine a week calf with TKD Family Class of spinning back hook kicks... you will get a pulled calf muscle.  To make things worse, I haven't been the smartest injured runner as I ran a 5k (while traveling in Costa Rica for work) where I strained it again, and then felt MORE pain during the [Speed Sherpa][SS] team training camp last weekend while doing our Sunday nine mile fun run.  I am NOT the brightest injured athlete.
+<p class="align-left"><a href="{{ site.url }}/assets/images/2017/04/30/Rev3-Westfields-LG-3.jpg"><img src="{{ site.url }}/assets/images/2017/04/30/Rev3-Westfields-SM-3.jpg" /></a></p>**The 2017 race season has officially started!!!**  This one was close as it almost didn't happen.  Ever since [Cherry Blossom 10 Mile Run]({{ site.url }}/cherry-blossom-ten-mile-run-2017/) my left calf has not been the same.  Then, when you combine a weak calf with TKD Family Class of spinning back hook kicks... you will get a pulled calf muscle.  To make things worse, I haven't been the smartest injured runner as I ran a 5k (while traveling in Costa Rica for work) where I strained it again, and then felt MORE pain during the [Speed Sherpa][SS] team training camp last weekend while doing our Sunday nine mile fun run.  I am NOT the brightest injured athlete.
 
 This led me to call a fellow teammate to get some non-emotional advice if I should race or not.  I'm pretty sure I was highly advised against racing from my pain level descriptions as of yesterday (Saturday) afternoon... but was then altered to "see what you feel like tomorrow morning".[^1]
 
@@ -52,6 +52,7 @@ Post Race Thoughts
 <p class="align-right"><a href="{{ site.url }}/assets/images/2017/04/30/Rev3-Westfields-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/04/30/Rev3-Westfields-SM-1.jpg" /></a></p>This race was so much fun for several reasons:
 
 - Racing with teammates makes ANY event that much better.  Great to see Joe and Federico racing, and teammates Kathy and Josh supporting racers by volunteering!
+- Since the race venue was close to home, my family was able to cheer me on... in fact they were pacing me for a while on the bike while they were trying to find parking!
 - Joking with racers while on the course makes the event better
 - Getting a hi-five from Kathy as I exited the water
 - Seeing other volunteers or official Rev3 staff shouting encouragement
