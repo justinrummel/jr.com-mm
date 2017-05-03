@@ -58,7 +58,7 @@ Post Race Thoughts
 - Seeing other volunteers or official Rev3 staff shouting encouragement
 - Fellow [Wattie Inc][wattie] racers giving each other a supportive head nod or a shout-out of encouragement
 - Brave female survivor of the crazy squirrel that attempted to attack her during my second loop.
-- Enjoying the suck during the final mile of the run where I began thinking I could place in the top three of my age group and step on the podium.
+- "[Embrace the suck][suck]" during the final mile of the run where I began thinking I could place in the top three of my age group and step on the podium.
 
 The race itself was great.  As always Rev3 did a spectacular job of communicating what to expect, ensuring the course was well marked, and had some great extras like food (breakfast burritos for finishers), music entertainment, and some great awards at the end.
 
@@ -111,3 +111,4 @@ Footnotes
 [SS]: http://www.speedsherpa.com
 [event_results]: http://rev3tri.com/westfields/results/
 [wattie]: https://www.wattieink.com
+[suck]: https://www.google.com/search?q=Chris+McCormack+embrace+the+suck
