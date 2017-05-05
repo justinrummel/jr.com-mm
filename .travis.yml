@@ -51,3 +51,7 @@ after_deploy:
       -H "X-Auth-Key: $CLOUDFLARE_AUTH_KEY" \
       -H "Content-Type: application/json" \
         --data '{"purge_everything":true}'
+
+notifications:
+  email:
+    - justin@rummel.co
