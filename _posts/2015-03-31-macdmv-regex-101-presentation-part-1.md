@@ -45,9 +45,9 @@ Below are some of the command line utilities that can use some principals of reg
 Most of the tools that I have reviewed are focusing on programming languages such as perl, python, ruby, javascript, php, Objective C, etc.  As you start learning new tools to assist in managing your Apple environment (munki, autopkg, puppet, Casper Suite, etc) regex can definitely assist as these tools use programming languages to achieve their goals.
 
 ### Beginning of words
-Lets play around with some examples.  I'm taking my two source texts (singe line and multi lined) of "The Crazy Ones" and try to find "stuff" and review the results.  In the below pictures you will first see an attempt to find the word "```the```" anywhere within my test sources, then use "```^the```" to only find those letters at the beginning.
+Let's play around with some examples.  I'm taking my two source texts (singe line and multi lined) of "The Crazy Ones" and try to find "stuff" and review the results.  In the below pictures you will first see an attempt to find the word "```the```" anywhere within my test sources, then use "```^the```" to only find those letters at the beginning.
 
-In order to try help illustrate I've created a text table to show which text items I'm trying to search and the words that were matched.  Below the text table are screenshots of the results because in this case pictures are far better explaining the results than text.
+To help illustrate, I've created a text table to show which text items I'm trying to search and the words that were matched.  Below the text table are screenshots of the results because in this case pictures are far better explaining the results than text.
 
 | Test Options           | Apple single line | Apple multi Line    |
 |:-----------------------|:-----------------:|--------------------:|
@@ -102,7 +102,7 @@ Let's try to find the periods at the end of our multi line sample text.  First, 
 
 Sometimes you need to watch out for special characters and "escape" them so our program (or CLI command) can understand what we want such as the period "." (or "\\" by escaping our escaping character). Also note there is always a different way to do something.  One way may be better than the other, such as in this example if I *really* only wanted the periods at the end of sentences I should look for "```.$```", as sometimes in my writing I'll use an ellipsis (...) to indicate a more dramatic pause vs. just a comma.  The use of "```\.```" would give me false positives on ellipsis within any of my articles.
 
-Lets find the special characters in our multi line sample text.
+Let's find the special characters in our multi line sample text.
 
 | Test Options       | Apple Multi Line       |
 |:-------------------|-----------------------:|
@@ -166,7 +166,7 @@ This is where things get complicated.  Trying to slice through line after line t
 
 String matching requirements are bundle together by enclosing their unique elements in-line.  Use parenthesis to enclose Assertions or Character Classes while adding Bracket Expressions or curly brackets for Quantifiers inside those parenthesis.
 
-Lets find the words before periods in our multi line sample text.
+Let's find the words before periods in our multi line sample text.
 
 | Test Options               | Apple Multi Line                                     |
 |:---------------------------|-------------------------------------------------:|

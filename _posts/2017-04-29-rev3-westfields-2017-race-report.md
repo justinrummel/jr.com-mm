@@ -52,7 +52,7 @@ Post Race Thoughts
 <p class="align-right"><a href="{{ site.url }}/assets/images/2017/04/30/Rev3-Westfields-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/04/30/Rev3-Westfields-SM-1.jpg" /></a></p>This race was so much fun for several reasons:
 
 - Racing with teammates makes ANY event that much better.  Great to see Joe and Federico racing, and teammates Kathy and Josh supporting racers by volunteering!
-- Since the race venue was close to home, my family was able to cheer me on... in fact they were pacing me for a while on the bike while they were trying to find parking!
+- Since the race venue was close to home, my family was able to cheer me on... and for a while they were pacing me while I was pounding on the bike and they were trying to find parking!
 - Joking with racers while on the course makes the event better
 - Getting a hi-five from Kathy as I exited the water
 - Seeing other volunteers or official Rev3 staff shouting encouragement
