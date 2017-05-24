@@ -17,10 +17,10 @@ tags:
     - Rev3
     - VTS/MTS
 header:
-    image: /assets/images/2016/09/27/29681800390_4366dbecc9_k-Header.jpg            # Twitter (use 'overlay_image')
-    overlay_image: /assets/images/2016/09/27/29681800390_4366dbecc9_k-Header.jpg    # Article header at 2048x768
+    image: /assets/images/2017/01/01/29681800390_4366dbecc9_k-Header.jpg            # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2017/01/01/29681800390_4366dbecc9_k-Header.jpg    # Article header at 2048x768
     overlay_filter: 0.15
-    teaser: /assets/images/2016/09/27/29681800390_4366dbecc9_k-Header-Twitter.jpg   # Shrink image to 575x216
+    teaser: /assets/images/2017/01/01/29681800390_4366dbecc9_k-Header-Twitter.jpg   # Shrink image to 575x216
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 
@@ -61,21 +61,21 @@ Race Breakdown
 
 #### Swim
 
-- blah blah blah
+blah blah blah
 
-	+ [Training Peaks Swim Data](http://tpks.ws/blah)
+- [Training Peaks Swim Data](http://tpks.ws/blah)
 
 #### Bike
 
-- blah blah blah
+blah blah blah
 
-	+ [Training Peaks Bike Data](http://tpks.ws/blah)
+- [Training Peaks Bike Data](http://tpks.ws/blah)
 
 #### Run
 
-- blah blah blah
+blah blah blah
 
-	+ [Training Peaks Run Data](http://tpks.ws/blah)
+- [Training Peaks Run Data](http://tpks.ws/blah)
 
 Post Race Thoughts
 ---
@@ -130,7 +130,7 @@ half third fourth fifth sixth
 Footnotes
 ---
 
-[^1]: Goal Times were based on beating <a href="{{ site.url }}/event-race-report/">last year's race</a>
-[^2]: Official Race Results available at [EVENT Results page][event_results].
+[^2]: Goal Times were based on beating <a href="{{ site.url }}/event-race-report/">last year's race</a>
+[^3]: Official Race Results available at [EVENT Results page][event_results].
 
 [event_results]: http://eventpage.com
