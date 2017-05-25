@@ -31,6 +31,7 @@ gem 'travis'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem 'liquid-md5'
   gem 'jekyll-archives'
   gem 'jekyll-lunr-js-search'
   gem 'nokogiri', '~> 1.6.0'     # 1.7 requires ruby >= 2.1.0

@@ -191,6 +191,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - liquid-md5
   - jemoji
   - jekyll-lunr-js-search
 
