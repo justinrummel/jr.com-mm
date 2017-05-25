@@ -6,7 +6,7 @@ layout: null
     "version": "https://jsonfeed.org/version/1",
   {% assign site_title = site.title | site.name %}
   {% if site_title %}
-    "title": {{ site_title | smartify | json }},
+    "title": "{{ site_title | smartify | json }}",
   {% endif %}
   {% if site.description %}
     "description": {{ site.description | json }},
@@ -18,12 +18,12 @@ layout: null
     "expired": false,
   {% if site.author %}
     "author": {
-      "name": {{ site.author.name | default: site.author | json }},
+      "name": "{{ site.author.name | default: site.author | json }}",
       {% if site.author.url %}
-        "url": {{ site.author.url | json }}
+        "url": "{{ site.author.url | json }}",
       {% endif %}
       {% if site.author.avatar %}
-        "avatar": {{ site.author.avatar | json }}
+        "avatar": "{{ site.author.avatar | json }}"
       {% endif %}
     },
   {% endif %}
@@ -31,9 +31,9 @@ layout: null
     {% assign posts = site.posts | where_exp: "post", "post.draft != true" %}
     {% for post in posts limit: 10 %}
       {
-        "id": {{ post.id | absolute_url | json }},
+        "id": "{{ post.id | absolute_url | json }}",
         "url": "{{ post.url | absolute_url }}",
-        "title": {{ post.title | smartify | strip_html | normalize_whitespace | json }},
+        "title": "{{ post.title | smartify | strip_html | normalize_whitespace | json }}",
         {% if post.excerpt and post.excerpt != empty %}
           {% assign post_text = post.description | strip_html | normalize_whitespace | json %}
           "content_text": {{ post_text }}
