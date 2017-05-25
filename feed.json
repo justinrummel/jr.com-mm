@@ -23,7 +23,7 @@ layout: null
         "url": {{ site.author.url | json }}
       {% endif %}
       {% if site.author.avatar %}
-        "avatar": {{ site.author.url | json }}
+        "avatar": {{ site.author.avatar | json }}
       {% endif %}
     },
   {% endif %}
