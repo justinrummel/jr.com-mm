@@ -35,10 +35,10 @@ layout: json
         {% assign post_image = post.header.teaser | absolute_url | xml_escape %}
         "image": "{{ post_image }}",
 
-        {% assign content_text = post.description | strip_html | normalize_whitespace | jsonify %}
+        {% assign content_text = post.description | strip_html | strip_newlines | normalize_whitespace | jsonify %}
         "content_text": {{ content_text }},
 
-        {% assign content_html = post.content | strip_newlines | jsonify %}
+        {% assign content_html = post.content | strip_newlines | normalize_whitespace | jsonify %}
         "content_html": {{ content_html }},
 
         "tags": [
