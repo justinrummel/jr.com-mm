@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Montclair Sprint 2016 Non-Race Report"
+title: "Rev3: Montclair Sprint 2016 Non-Race Report"
 date: 2016-06-19T16:39:32-04:00
 modified:
 description: "My NON-Race Report for the 2016 Rev3 Montclair Sprint Triathlon." 	# For Twitter, not the Title
