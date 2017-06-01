@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: ec5b255bfb8034cdccad1107c54d9de1dc438a72
+  revision: 9de3cade3bafb11a4c1f7567a84c8ebe2da70fec
   specs:
     minimal-mistakes-jekyll (4.4.1)
       jekyll (~> 3.3)
@@ -22,6 +22,7 @@ GEM
     backports (3.8.0)
     colorator (1.1.0)
     colored (1.2)
+    concurrent-ruby (1.0.5)
     ethon (0.10.1)
       ffi (>= 1.3.0)
     faraday (0.12.1)
@@ -52,7 +53,7 @@ GEM
       parallel (~> 1.3)
       typhoeus (~> 0.7)
       yell (~> 2.0)
-    i18n (0.8.1)
+    i18n (0.8.4)
     jekyll (3.4.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
