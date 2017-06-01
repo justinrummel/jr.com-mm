@@ -20,11 +20,11 @@ layout: json
     {% assign posts = site.posts | where_exp: "post", "post.draft != true" %}
     {% for post in posts limit: 10 %}
       {
+        "id": "{{ post.url | absolute_url | md5 }}",
         "title": {{ post.title | smartify | strip_html | normalize_whitespace | jsonify }},
+        "url": "{{ post.url | absolute_url }}",
         "date_published": "{{ post.date | date_to_xmlschema }}",
         "date_modified": "{{ post.modified | default: post.date | date_to_xmlschema }}",
-        "id": "{{ post.url | absolute_url | md5 }}",
-        "url": "{{ post.url | absolute_url }}",
         "author": {
           "name": {{ site.author.name | jsonify }}
         },
@@ -35,11 +35,11 @@ layout: json
         {% endfor %}
         "tags": {{ tag_array | sort | uniq | jsonify }}
 
-        {% assign post_banner = post.header.image | absolute_url | xml_escape %}
-        "banner_image": "{{ post_banner }}",
-
         {% assign post_image = post.header.teaser | absolute_url | xml_escape %}
         "image": "{{ post_image }}",
+
+        {% assign post_banner = post.header.image | absolute_url | xml_escape %}
+        "banner_image": "{{ post_banner }}",
 
         {% assign content_text = post.description | strip_html | strip_newlines | normalize_whitespace | jsonify %}
         "content_text": {{ content_text }},
