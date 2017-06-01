@@ -33,7 +33,7 @@ layout: json
         {% for category in post.categories %}
           {% assign tag_array = tag_array | push: category %}
         {% endfor %}
-        "tags": {{ tag_array | sort | uniq | jsonify }}
+        "tags": {{ tag_array | sort | uniq | jsonify }},
 
         {% assign post_image = post.header.teaser | absolute_url | xml_escape %}
         "image": "{{ post_image }}",
