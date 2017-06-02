@@ -2,7 +2,7 @@
 layout: single
 title: "Rev3: Salute 2017 Race Report"
 date: 2017-05-27T13:00:00-04:00
-modified:
+modified: 2017-06-02T15:15:00-04:00
 description: "New Race Report as I'm getting back to Sprint racing, collecting more hardware, all for the Rev3 VA Sprint Series!"
 categories:
     - "Race Report"
@@ -90,18 +90,21 @@ Among the Male 40-44 category there were 21 athletes:
 - Run: Ranked 6th
 
 
-<!--
-#### Updated 2016-09-02 (Race Photos)
-
-half third fourth fifth sixth
+#### Updated 2016-06-02 (Race Photos)
 
 <figure class="fourth">
-<a href="{{ site.url }}/assets/images/2017/05/27/Rev3-Salute-PRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/05/27/Rev3-Salute-PRO-SM-1.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2017/05/27/Rev3-Salute-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/05/27/Rev3-Salute-PRO-SM-2.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2017/05/27/Rev3-Salute-PRO-LG-3.jpg"><img src="{{ site.url }}/assets/images/2017/05/27/Rev3-Salute-PRO-SM-3.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2017/05/27/Rev3-Salute-PRO-LG-4.jpg"><img src="{{ site.url }}/assets/images/2017/05/27/Rev3-Salute-PRO-SM-4.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/05/27/Salute/141381-038-035h.jpg"><img src="{{ site.url }}/assets/images/2017/05/27/Salute/141381-038-035t.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/05/27/Salute/141381-038-036h.jpg"><img src="{{ site.url }}/assets/images/2017/05/27/Salute/141381-038-036t.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/05/27/Salute/141381-039-001h.jpg"><img src="{{ site.url }}/assets/images/2017/05/27/Salute/141381-039-001t.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/05/27/Salute/141381-042-007h.jpg"><img src="{{ site.url }}/assets/images/2017/05/27/Salute/141381-042-007t.jpg" /></a>
 </figure>
--->
+<figure class="fourth">
+<a href="{{ site.url }}/assets/images/2017/05/27/Salute/141381-042-018h.jpg"><img src="{{ site.url }}/assets/images/2017/05/27/Salute/141381-042-018t.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/05/27/Salute/141381-042-029h.jpg"><img src="{{ site.url }}/assets/images/2017/05/27/Salute/141381-042-029t.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/05/27/Salute/141381-043-004h.jpg"><img src="{{ site.url }}/assets/images/2017/05/27/Salute/141381-043-004t.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/05/27/Salute/141381-012-003h.jpg"><img src="{{ site.url }}/assets/images/2017/05/27/Salute/141381-012-003t.jpg" /></a>
+</figure>
+
 
 #### Splits
 
