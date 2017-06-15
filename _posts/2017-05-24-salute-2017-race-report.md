@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Rev3: Salute 2017 Race Report"
+title: "Rev3: Salute Sprint 2017 Race Report"
 date: 2017-05-27T13:00:00-04:00
 modified: 2017-06-02T15:15:00-04:00
 description: "New Race Report as I'm getting back to Sprint racing, collecting more hardware, all for the Rev3 VA Sprint Series!"

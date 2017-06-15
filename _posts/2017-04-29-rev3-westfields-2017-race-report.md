@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Rev3: Westfields 2017 Race Report"
+title: "Rev3: Westfields Sprint 2017 Race Report"
 date: 2017-04-30T15:15:15-04:00
 modified:
 description: "Triathlon season has official begun with Rev3 Westfileds Sprint!" 	# For Twitter, not the Title
