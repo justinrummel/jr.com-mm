@@ -16,7 +16,7 @@ header:
     teaser: /assets/images/2017/06/18/Rev3-Montclair-Header-Twitter.jpg   # Shrink image to 575x216
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
-Rev3's Montclair is the only race this year that I have previously participated in 2016, which make it a great opportunity to compare and see how I am improving.  Training has been going well for the past few months so I'm eager to see how my fitness is improving not only since January, but also when compared to last year.  Of course, this is not always safe as race conditions change due to weather or other circumstances... but both 2016 and 2017 conditions are very similar.
+Rev3's Montclair is the only race this year that I have previously participated in 2016, which make it a great opportunity to compare and see how I am improving.  Training has been going well for the past few months so I'm eager to see how my fitness is improving not only since January, but also when compared to last year.  This is not always safe as race conditions change due to weather or other circumstances... but both 2016 and 2017 conditions are very similar.
 
 <!-- Table of Contents -->
 {% include toc icon="gears" title="Race Review ToC" %}
@@ -27,7 +27,7 @@ Race Breakdown
 
 #### Swim
 
-Being so close the the race venue, I was able to squeeze in a quick swim warm-up just before the race director began the race announcements.  Earlier this week the water temperature for Lake Montclair was 84.6 degrees, which for a swimmer is very unappealing hot yucky mess.  Fortunately, the water "cooled down" to 80&deg; for race morning.  With the water tempterature measuring at 80&deg; raceing with a wetsuit is not possible.  Instead, I put on my [Roka Swim Skin][roka-ss] for a quick lap to the final orange buoy and back so I could experience the last 75m of the swim.
+Being so close to the race venue, I was able to squeeze in a quick swim warm-up just before the race director began the race announcements.  Earlier this week the water temperature for Lake Montclair was 84.6 degrees, which for a swimmer is very unappealing hot yucky mess.  Fortunately, the water "cooled down" to 80&deg; for race morning.  With the water tempterature measuring at 80&deg; raceing with a wetsuit is not possible.  Instead, I put on my [Roka Swim Skin][roka-ss] for a quick lap to the final orange buoy and back so I could experience the last 75m of the swim.
 
 When you compare last year to this year I had great improvement in the swim, even though I needed a quick 10 second break just before the turn around point (I was having negative thoughts which was effecting my swim).  Also, not sure if it was me but trying to get to the first buoy was *really* difficult compared to the swim back.  It may because I finally got my 20ft diameter of personal space and was able to relax, but I couldn't get my swim rhythm in check until the 500m mark[^1].
 
@@ -61,7 +61,7 @@ I remember having a great ride last year, so any chance of improving my time was
 Post Race Thoughts
 ---
 
-I'm beginning to really like this course.  Where else can you get a quick open water lake swim, rollers to attack on the uphill sections (and take advantage on the downhills, peaking at 38mph), and finish with a challenging run.  What makes this even better is since this is so close my family, and many [Speed Sherpa][ss] teammates are able to join as well (plus always making new race friends before and after the event).
+I'm beginning to really like this course.  Where else can you get a quick open water lake swim, rollers to attack on the uphill sections (and take advantage on the downhills, peaking at 38mph), and finish with a challenging run.  What makes this even better is since this is so close my family, and many [Speed Sherpa][ss] teammates register/race as well (plus always making new race friends before and after the event).
 
 It really is a blast to hear people cheer you on from the crowed and from other racers on the course.  Someday I may even be able to climb onto the podium, but for now I will just enjoy the race.
 
