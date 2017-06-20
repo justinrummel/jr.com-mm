@@ -88,18 +88,13 @@ Among the Male 40-44 category there were 32 athletes.
 - Run: Ranked 11th
 
 
-<!--
-#### Updated 2016-09-02 (Race Photos)
+#### Updated 2016-06-20 (Race Photos)
 
-half third fourth fifth sixth
-
-<figure class="fourth">
-<a href="{{ site.url }}/assets/images/2017/06/18/EVENT-PRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/06/18/EVENT-PRO-SM-1.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2017/06/18/EVENT-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/06/18/EVENT-PRO-SM-2.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2017/06/18/EVENT-PRO-LG-3.jpg"><img src="{{ site.url }}/assets/images/2017/06/18/EVENT-PRO-SM-3.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2017/06/18/EVENT-PRO-LG-4.jpg"><img src="{{ site.url }}/assets/images/2017/06/18/EVENT-PRO-SM-4.jpg" /></a>
+<figure class="third">
+<a href="{{ site.url }}/assets/images/2017/06/18/Montclair/141618-012-033h.jpg"><img src="{{ site.url }}/assets/images/2017/06/18/Montclair/141618-012-033f.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/06/18/Montclair/141618-012-034h.jpg"><img src="{{ site.url }}/assets/images/2017/06/18/Montclair/141618-012-034f.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/06/18/Montclair/141618-010-009h.jpg"><img src="{{ site.url }}/assets/images/2017/06/18/Montclair/141618-010-009f.jpg" /></a>
 </figure>
--->
 
 #### Splits
 
