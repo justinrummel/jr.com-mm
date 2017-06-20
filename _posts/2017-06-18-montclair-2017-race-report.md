@@ -2,7 +2,7 @@
 layout: single
 title: "Rev3: Montclair Sprint 2017 Race Report"
 date: 2017-06-18T17:30:00-04:00
-modified:
+modified: 2017-06-20T13:00:00-04:00
 description: "Rev3's Montclair; The only event in 2017 where I can compare how well I am improving year over year."
 categories:
     - "Race Report"
