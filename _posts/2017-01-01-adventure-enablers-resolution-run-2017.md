@@ -23,7 +23,7 @@ For the past few months during the triathlon off-season, I've been drawn to runn
 
 But today... it's New Years Day!  What better way to spend the time than with a little run in the woods with friends and family.  Somehow I was able to convince the entire family to join me out in the woods to participate in ~~Rev 3 Adventure~~ [Adventure Enablers][AE] - [2017 Resolution Trail Run][RR].  There were three distance options to choose from: 10k, 5k, and 1-Mile Fun Run.  The whole family had a blast.  I wish I could have seen Colleen and the boys take off for their 1-Mile run as the photographs tell the story their group had the best time.
 
-<p class="align-left"><a href="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00001.jpg"><img src="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-SM-00001.jpg" /></a></p>As for my performance, I did well for not training and eating too much junk food the past couple of months.  I've ridden [Conway Robinson State Forest Park][CRSP] a couple of times on my mountain bike, so I was familiar with the trail and knew where it would be technical for foot placement along where some slick wet/mud areas would show up.  I was doing well until the 2.5 mile mark where there is a continuous uphill climb that caught me by surprise, thus I didn't adjust my stride like I should have and peaked really high on my heart rate at 186 bpm.
+<p class="align-left"><a href="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00001.jpg"><img src="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-SM-00001.jpg" alt="" /></a></p>As for my performance, I did well for not training and eating too much junk food the past couple of months.  I've ridden [Conway Robinson State Forest Park][CRSP] a couple of times on my mountain bike, so I was familiar with the trail and knew where it would be technical for foot placement along where some slick wet/mud areas would show up.  I was doing well until the 2.5 mile mark where there is a continuous uphill climb that caught me by surprise, thus I didn't adjust my stride like I should have and peaked really high on my heart rate at 186 bpm.
 
 I hope throughout the year I'll be able to convince them to join me in other outdoor "adventures".
 
@@ -44,15 +44,15 @@ Race Results
 Race Results details are now [available][race_results], and more pictures can be seen on [flickr][72157674908384433] from the fantastic photographers at the race.
 
 <figure class="third">
-<a href="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00002.jpg"><img src="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00002.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00006.jpg"><img src="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00006.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00007.jpg"><img src="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00007.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00002.jpg"><img src="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00002.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00006.jpg"><img src="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00006.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00007.jpg"><img src="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00007.jpg" alt="" /></a>
 </figure>
 
 <figure class="third">
-<a href="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00017.jpg"><img src="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00017.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00021.jpg"><img src="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00021.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00030.jpg"><img src="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00030.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00017.jpg"><img src="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00017.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00021.jpg"><img src="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00021.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00030.jpg"><img src="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00030.jpg" alt="" /></a>
 </figure>
 
 

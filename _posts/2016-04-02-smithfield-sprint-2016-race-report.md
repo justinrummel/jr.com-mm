@@ -86,9 +86,9 @@ If you want accurate pace info for races I've had been using Running Free Online
 #### Updated 2016-04-05 (Race Photos)
 
 <figure class="third">
-<a href="{{ site.url }}/assets/images/2016/04/05/SMI_S1321_800.jpg"><img src="{{ site.url }}/assets/images/2016/04/05/SMI_S1321_256.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2016/04/05/SMI_B2587_800.jpg"><img src="{{ site.url }}/assets/images/2016/04/05/SMI_B2587_256.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2016/04/05/SMI_R3582_800.jpg"><img src="{{ site.url }}/assets/images/2016/04/05/SMI_R3582_256.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/04/05/SMI_S1321_800.jpg"><img src="{{ site.url }}/assets/images/2016/04/05/SMI_S1321_256.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2016/04/05/SMI_B2587_800.jpg"><img src="{{ site.url }}/assets/images/2016/04/05/SMI_B2587_256.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2016/04/05/SMI_R3582_800.jpg"><img src="{{ site.url }}/assets/images/2016/04/05/SMI_R3582_256.jpg" alt="" /></a>
 </figure>
 
 Footnotes

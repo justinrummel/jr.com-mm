@@ -17,7 +17,7 @@ header:
     caption: "Fellow 'The Chill' Racers"
 ---
 
-<p class="align-right"><a href="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-LG-004.jpg"><img src="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-SM-004.jpg" /></a></p>It was great to get back into Adventure Racing as I wasn't able to do any in 2016.  This time I stepped outside my comfort zone and registered for a race that was local vs. being dependent on my brother-in-law in Missouri taking care of everything (bikes, gear packs, getting us to/from the race, orienteering, etc).  I was able to ~~trick~~ recruit three other [Speed Sherpa][ss] teammates to try Adventure Racing while take a stab at being team captain... which really means acting as a "sherpa" to ensure everyone is prepared, ready for a great time, and does not include being able to read navigational tools (more details below).
+<p class="align-right"><a href="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-LG-004.jpg"><img src="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-SM-004.jpg" alt="" /></a></p>It was great to get back into Adventure Racing as I wasn't able to do any in 2016.  This time I stepped outside my comfort zone and registered for a race that was local vs. being dependent on my brother-in-law in Missouri taking care of everything (bikes, gear packs, getting us to/from the race, orienteering, etc).  I was able to ~~trick~~ recruit three other [Speed Sherpa][ss] teammates to try Adventure Racing while take a stab at being team captain... which really means acting as a "sherpa" to ensure everyone is prepared, ready for a great time, and does not include being able to read navigational tools (more details below).
 
 {% include toc icon="gears" title="Race Review ToC" %}
 
@@ -40,7 +40,7 @@ The pre-race debrief for the 3hr race participants was perfect.  It catered to t
 
 #### Beginning Run
 
-<p class="align-left"><a href="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-LG-005.jpg"><img src="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-SM-005.jpg" /></a></p>It was finally 10am and everyone is ready to start.  We set ourself towards the back of the path as even though we had mapped out our route, we forgot about the beginning so we just decided to watch which way others were heading.  When the start siren blasted, we were off and quickly found ourselves in the front pack with our previous endurance training.  Truthfully, we haven't got into endurance training as it's only the middle of January which starts triathlon season, but our off season is still above everyone else.  We quickly did find ourselves in the front of all the 3hr race participants and began navigating to find the first checkpoint.  This is where we soon realized that our navigation skills will be the our downfall.  Some of the highlights include:
+<p class="align-left"><a href="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-LG-005.jpg"><img src="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-SM-005.jpg" alt="" /></a></p>It was finally 10am and everyone is ready to start.  We set ourself towards the back of the path as even though we had mapped out our route, we forgot about the beginning so we just decided to watch which way others were heading.  When the start siren blasted, we were off and quickly found ourselves in the front pack with our previous endurance training.  Truthfully, we haven't got into endurance training as it's only the middle of January which starts triathlon season, but our off season is still above everyone else.  We quickly did find ourselves in the front of all the 3hr race participants and began navigating to find the first checkpoint.  This is where we soon realized that our navigation skills will be the our downfall.  Some of the highlights include:
 
 - Finding BP1, we were not sure if we were in the correct location.  I was confident in reading the map and the surroundings correctly and began exploring.  After a couple of minutes, I was able to find BP1 but we lost some time standing and deliberating trying to determine our true location on the map.
 - After CP2 we thought we found the road to cut across to pick up CP3, but again LOTS of time waisted trying to asses our true location as what we were seeing on the map did not match with what we were seeing around ourselves.  This was the most "LOST" we would find ourselves all day, but it was very heart breaking that after 2 CP and 1 BP we felt hopeless in our navigation skills.
@@ -64,7 +64,7 @@ Back to trail running, we set out to find CP9 which was easily found as it was r
 Race Results
 ---
 
-<p class="align-right"><a href="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-LG-001.jpg"><img src="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-SM-001.jpg" /></a></p>This was such a blast!  And I think I have successfully converted three fellow teammates to do more Adventure Races with me in the future.  The race organizers were very helpful, but also reasonably strict when the race was actually in session (CP8/11 had volunteers.  We asked to confirm "Is this CP 8", and they properly replied "we cannot confirm or deny").  Some of the things I learned were:
+<p class="align-right"><a href="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-LG-001.jpg"><img src="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-SM-001.jpg" alt="" /></a></p>This was such a blast!  And I think I have successfully converted three fellow teammates to do more Adventure Races with me in the future.  The race organizers were very helpful, but also reasonably strict when the race was actually in session (CP8/11 had volunteers.  We asked to confirm "Is this CP 8", and they properly replied "we cannot confirm or deny").  Some of the things I learned were:
 
 - It's a 3hr race.  You do not need 1.5L of water.  I should have known this beforehand as when I did the [Perfect 10 Rogaine]({{ site.url }}/2014-the-perfect-10-rogaine/) (10 hr Adventure Race) I only filled my bag with 2L of water.  Better planning next time.
 - Fully read the directions to get to the race facility, there may be clues.
@@ -87,19 +87,19 @@ After the race there was a GREAT post-race food and awards ceremony.  There was 
 - Overall: 2nd place for the 3/4 Co-Ed category! (out of three)[^3]
 
 <figure>
-<p class="align-center"><a href="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-LG-003.jpg"><img src="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-MD-003.jpg" /></a></p>
+<p class="align-center"><a href="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-LG-003.jpg"><img src="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-MD-003.jpg" alt="" /></a></p>
 </figure>
 
 
 #### Updated 2017-01-19 (Race Photos by Vlad[^4])
 
 <figure class="half">
-<a href="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-PRO-SM-2.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-PRO-LG-4.jpg"><img src="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-PRO-SM-4.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-PRO-SM-2.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-PRO-LG-4.jpg"><img src="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-PRO-SM-4.jpg" alt="" /></a>
 </figure>
 <figure class="half">
-<a href="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-PRO-LG-5.jpg"><img src="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-PRO-SM-5.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-PRO-LG-3.jpg"><img src="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-PRO-SM-3.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-PRO-LG-5.jpg"><img src="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-PRO-SM-5.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-PRO-LG-3.jpg"><img src="{{ site.url }}/assets/images/2017/01/15/AA_TheChill-PRO-SM-3.jpg" alt="" /></a>
 </figure>
 
 

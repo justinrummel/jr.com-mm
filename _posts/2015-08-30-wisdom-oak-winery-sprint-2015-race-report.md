@@ -53,9 +53,9 @@ Here are my thoughts after [reading the results][wow-sprint-2015].
 	+ padded time was calculated by 2min for 100m pace ([SDI of 1.07][swim-predict]), 18 mph bike pace, 8 minute mile pace; thus 17:20 + 55:40 + 24 (+ 4 minutes for transition time) = 101 minutes.
 
 <figure class="third">
-<a href="{{ site.url }}/assets/images/2015/08/30/WOW-LG-1.jpg"><img src="{{ site.url }}/assets/images/2015/08/30/WOW-SM-1.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2015/08/30/WOW-LG-2.jpg"><img src="{{ site.url }}/assets/images/2015/08/30/WOW-SM-2.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2015/08/30/WOW-LG-3.jpg"><img src="{{ site.url }}/assets/images/2015/08/30/WOW-SM-3.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2015/08/30/WOW-LG-1.jpg"><img src="{{ site.url }}/assets/images/2015/08/30/WOW-SM-1.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2015/08/30/WOW-LG-2.jpg"><img src="{{ site.url }}/assets/images/2015/08/30/WOW-SM-2.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2015/08/30/WOW-LG-3.jpg"><img src="{{ site.url }}/assets/images/2015/08/30/WOW-SM-3.jpg" alt="" /></a>
 </figure>
 
 Footnotes

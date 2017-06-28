@@ -17,7 +17,7 @@ header:
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 
-<p class="align-left"><a href="{{ site.url }}/assets/images/2016/07/09/Colonial-LG-1.jpg"><img src="{{ site.url }}/assets/images/2016/07/09/Colonial-SM-1.jpg" /></a></p>Colonial Beach Sprint is the only race this year where I get to compare myself and see my accomplishments for the amount of training I have done since December, as this is the only race that I have previously done.  All other races in 2016 are brand new to me (thus setting expectations for the years to come).  I knew I could PR (Personal Record) the course due to my fitness levels improving in all three disciplines, but this year we had MUCH better weather to endure compared to [last year Colonial Beach Sprint race]({{ site.url }}/colonial-beach-sprint-2015-race-report/).  And to note, I did PR in all three sections!  But of course, something irritated me and I'm having to take time to calm down and put things back into perspective and congratulate myself on a good performance.
+<p class="align-left"><a href="{{ site.url }}/assets/images/2016/07/09/Colonial-LG-1.jpg"><img src="{{ site.url }}/assets/images/2016/07/09/Colonial-SM-1.jpg" alt="" /></a></p>Colonial Beach Sprint is the only race this year where I get to compare myself and see my accomplishments for the amount of training I have done since December, as this is the only race that I have previously done.  All other races in 2016 are brand new to me (thus setting expectations for the years to come).  I knew I could PR (Personal Record) the course due to my fitness levels improving in all three disciplines, but this year we had MUCH better weather to endure compared to [last year Colonial Beach Sprint race]({{ site.url }}/colonial-beach-sprint-2015-race-report/).  And to note, I did PR in all three sections!  But of course, something irritated me and I'm having to take time to calm down and put things back into perspective and congratulate myself on a good performance.
 
 First, I would like to note that the course has improved compared to last year as the last right hand turn is now a completely new intersection which is nicely paved and slightly less than the 120˚ turn[^1].
 
@@ -38,7 +38,7 @@ First, I would like to note that the course has improved compared to last year a
 
 #### Run
 
-- <p class="align-right"><a href="{{ site.url }}/assets/images/2016/07/09/Colonial-LG-2.jpg"><img src="{{ site.url }}/assets/images/2016/07/09/Colonial-SM-2.jpg" /></a></p>This year's run was so much better than last year in terms of pure enjoyment.  Don't get me wrong... watching the angry mob of ducks SWIMMING by the route in 2015 was entertaining, but not having waterlogged shoes stomping through a 5k definitely helped.  I beat last year's time by 20 seconds[^2], but again different race conditions should have resulted in better times regardless.  My run has not nearly improved over the year as my bike skills.  I will have to work on that for next year (YES and swimming needs work... I didn't forget that!  UGH!  GET OFF MY CASE!!! HASHTAG StompsAway).
+- <p class="align-right"><a href="{{ site.url }}/assets/images/2016/07/09/Colonial-LG-2.jpg"><img src="{{ site.url }}/assets/images/2016/07/09/Colonial-SM-2.jpg" alt="" /></a></p>This year's run was so much better than last year in terms of pure enjoyment.  Don't get me wrong... watching the angry mob of ducks SWIMMING by the route in 2015 was entertaining, but not having waterlogged shoes stomping through a 5k definitely helped.  I beat last year's time by 20 seconds[^2], but again different race conditions should have resulted in better times regardless.  My run has not nearly improved over the year as my bike skills.  I will have to work on that for next year (YES and swimming needs work... I didn't forget that!  UGH!  GET OFF MY CASE!!! HASHTAG StompsAway).
 - [Training Peaks Run Data](http://tpks.ws/3jVbl)
 
 #### Post Race
@@ -64,8 +64,8 @@ Among the Male 40-44 category there were 23 athletes (excluding the Overall winn
 #### Updated 2016-07-13 (Race Photos)
 
 <figure class="third">
-<a href="{{ site.url }}/assets/images/2016/07/09/Colonial-PRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2016/07/09/Colonial-PRO-SM-1.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2016/07/09/Colonial-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2016/07/09/Colonial-PRO-SM-2.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2016/07/09/Colonial-PRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2016/07/09/Colonial-PRO-SM-1.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2016/07/09/Colonial-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2016/07/09/Colonial-PRO-SM-2.jpg" alt="" /></a>
 </figure>
 
 #### Splits
