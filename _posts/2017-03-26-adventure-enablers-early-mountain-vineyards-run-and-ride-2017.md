@@ -56,7 +56,7 @@ The leaders (the two guys who placed 1st and 2nd) quickly took off after the fir
 <!-- Strava Frame -->
 #### Strava Run Activity
 <div class="embed-container embed-container-16x9">
-    <iframe src='https://www.strava.com/activities/913974345/embed/0aafc21ae5dbc04baa6f0b7b093dacc192c3ab74' frameborder='0' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='https://www.strava.com/activities/913974345/embed/0aafc21ae5dbc04baa6f0b7b093dacc192c3ab74' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 
@@ -79,13 +79,13 @@ I completed the first lap and I felt I was doing well in reserving power on the 
 <!-- Strava Frame -->
 #### Strava Ride Activity
 <div class="embed-container embed-container-16x9">
-    <iframe src='https://www.strava.com/activities/913975066/embed/65c0a4d4577068557a18b6fed6a422154de6e8b8' frameborder='0' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='https://www.strava.com/activities/913975066/embed/65c0a4d4577068557a18b6fed6a422154de6e8b8' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 <!-- Relive Frame -->
 #### Relive Video
 <div class="embed-container embed-container-16x9">
-    <iframe src='https://www.relive.cc/view/913975066/embed?x-ref=sc' frameborder='0' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='https://www.relive.cc/view/913975066/embed?x-ref=sc' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 

@@ -25,7 +25,7 @@ Updated 2014-11-03
 Now that the [JNUC 2014 videos have been released][jnuc], I've embedded the video from JAMF Software.
 
 <div class="embed-container embed-container-16x9">
-    <iframe src='//www.youtube.com/embed/4Ms6DRED3NU' frameborder='0' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='//www.youtube.com/embed/4Ms6DRED3NU' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 

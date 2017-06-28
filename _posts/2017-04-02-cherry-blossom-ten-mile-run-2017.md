@@ -38,7 +38,7 @@ It was fun running through the flat roads of DC, on what normally would be an in
 <!-- Strava Frame -->
 #### Strava Ride Activity
 <div class="embed-container embed-container-16x9">
-    <iframe src='https://www.strava.com/activities/924877103/embed/17e85200c7791a1da4a72e1a3f18c00f32dcea1a' frameborder='0' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='https://www.strava.com/activities/924877103/embed/17e85200c7791a1da4a72e1a3f18c00f32dcea1a' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 

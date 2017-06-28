@@ -45,7 +45,7 @@ As for the race, I knew I was in trouble from the beginning.  My heart rate felt
 
 <!-- **Strava Ride Activity**
 <div class="embed-container embed-container-16x9">
-    <iframe src='https://www.strava.com/activities/997394937/embed/e4576df072c4b46752186428faae5fa980a838e6' frameborder='0' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='https://www.strava.com/activities/997394937/embed/e4576df072c4b46752186428faae5fa980a838e6' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div> -->
 
 #### Run
@@ -56,7 +56,7 @@ As for the race, I knew I was in trouble from the beginning.  My heart rate felt
 
 <!-- **Strava Run Activity**
 <div class="embed-container embed-container-16x9">
-    <iframe src='https://www.strava.com/activities/997394948/embed/10fed54962df02b07816affba5bd89b99a483f60' frameborder='0' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='https://www.strava.com/activities/997394948/embed/10fed54962df02b07816affba5bd89b99a483f60' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div> -->
 
 
@@ -70,7 +70,7 @@ I wanted to thank [Michelle and Liz][aaa] for orchestrating an amazing event.  T
 <!-- Relive Frame -->
 #### Relive Ride Video
 <div class="embed-container embed-container-16x9">
-    <iframe src='https://www.relive.cc/view/997394937/embed?x-ref=sc' frameborder='0' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='https://www.relive.cc/view/997394937/embed?x-ref=sc' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 
