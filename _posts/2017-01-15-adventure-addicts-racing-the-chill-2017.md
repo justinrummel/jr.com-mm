@@ -30,11 +30,11 @@ The pre-race debrief for the 3hr race participants was perfect.  It catered to t
 3. The yellow line traveling from CP5 to CP 6/7/8 (and potentially BP4) is the only path you can ride your bike, else bikes are off limits in the park.
 
 <div class="embed-container embed-container-4x3">
-	<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fadventureaddictsracing%2Fposts%2F1280067652054115%3A0&width=500" frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+	<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fadventureaddictsracing%2Fposts%2F1280067652054115%3A0&width=500" frameborder='0' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 <div class="embed-container embed-container-16x9">
-	<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fadventureaddictsracing%2Fphotos%2Fa.320696644657892.74695.240117346049156%2F1280064738721073%2F%3Ftype%3D3&width=500" frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+	<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fadventureaddictsracing%2Fphotos%2Fa.320696644657892.74695.240117346049156%2F1280064738721073%2F%3Ftype%3D3&width=500" frameborder='0' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 
@@ -78,7 +78,7 @@ After the race there was a GREAT post-race food and awards ceremony.  There was 
 
 
 <div class="embed-container embed-container-16x9">
-	<iframe src='https://www.strava.com/activities/831895403/embed/a52900b72c885a85ccf812c00dee369cb3b7392e' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+	<iframe src='https://www.strava.com/activities/831895403/embed/a52900b72c885a85ccf812c00dee369cb3b7392e' frameborder='0' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 

@@ -35,14 +35,14 @@ Once I arrived at the race site, I was able to get my racing bib, get my gear in
 <!-- Strava Frame -->
 #### Strava Ride Activity
 <div class="embed-container embed-container-16x9">
-    <iframe src='https://www.strava.com/activities/943701913/embed/e83ea2c06399862fb9f8db945c968587d267a6bd' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='https://www.strava.com/activities/943701913/embed/e83ea2c06399862fb9f8db945c968587d267a6bd' frameborder='0' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 
 <!-- Relive Frame -->
 #### Relive Video
 <div class="embed-container embed-container-16x9">
-    <iframe src='https://www.relive.cc/view/943701913/embed?x-ref=sc' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='https://www.relive.cc/view/943701913/embed?x-ref=sc' frameborder='0' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 

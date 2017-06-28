@@ -40,7 +40,7 @@ Next we're going to input our FQDN and Networking info into the script so it can
 This script is available on my github repo at: [https://github.com/justinrummel/Random-Scripts/blob/master/VMWare/ubuntuSetup.sh](https://github.com/justinrummel/Random-Scripts/blob/master/VMWare/ubuntuSetup.sh), watch it in action below.
 
 <div class="embed-container embed-container-16x9">
-    <iframe src='//player.vimeo.com/video/117528351?portrait=0' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='//player.vimeo.com/video/117528351?portrait=0' frameborder='0' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 

@@ -43,7 +43,7 @@ I remember having a great ride last year, so any chance of improving my time was
 
 ###### Strava Ride Activity
 <div class="embed-container embed-container-16x9">
-    <iframe src='https://www.strava.com/activities/1042592408/embed/8e2b993b136f82d87723794001b3a2bf2939c1aa' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='https://www.strava.com/activities/1042592408/embed/8e2b993b136f82d87723794001b3a2bf2939c1aa' frameborder='0' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 
@@ -55,7 +55,7 @@ I remember having a great ride last year, so any chance of improving my time was
 
 ###### Strava Run Activity
 <div class="embed-container embed-container-16x9">
-    <iframe src='https://www.strava.com/activities/1042592359/embed/1e15ff97d4516f461974691e105e0a77116376c6' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='https://www.strava.com/activities/1042592359/embed/1e15ff97d4516f461974691e105e0a77116376c6' frameborder='0' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 Post Race Thoughts

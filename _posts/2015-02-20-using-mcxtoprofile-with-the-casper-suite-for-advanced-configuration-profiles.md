@@ -101,7 +101,7 @@ This results in a nicely contained com.local.vpnSetup.mobileconfig file that has
 Once you create a new Configuration Profile in the JSS by <a href="{{ site.url }}/assets/images/2015/02/19/Upload-JSS.png">uploading our new combined plist file</a>, we can then deploy to our test environment as demonstrated in this short video:
 
 <div class="embed-container embed-container-16x9">
-    <iframe src='//player.vimeo.com/video/120099841?portrait=0' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='//player.vimeo.com/video/120099841?portrait=0' frameborder='0' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 

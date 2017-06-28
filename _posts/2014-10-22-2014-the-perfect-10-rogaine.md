@@ -34,7 +34,7 @@ I'm not sure which was harder, the 14 hr Berryman from 2013 or 9 hour Rogaine be
 In the end we were able to acquire 580 points out of a possible 1300 by traveling over 22 miles around the Ozarks.  Nobody cleared the course, even though one person [did get 1200 points][1200]!  We did a little lost between miles 14-15, but everything is pretty accurate from my Timex TGT watch.
 
 <div class="embed-container embed-container-16x9">
-    <iframe src='https://www.strava.com/activities/209124354/embed/1590b2431d819da54286e9d8a9456d8a13b5a040' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='https://www.strava.com/activities/209124354/embed/1590b2431d819da54286e9d8a9456d8a13b5a040' frameborder='0' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 
