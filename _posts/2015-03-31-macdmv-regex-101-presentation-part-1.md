@@ -59,7 +59,6 @@ To help illustrate, I've created a text table to show which text items I'm tryin
 |----
 | ```^The``` (beginning) | none              | The, They           |
 |=====
-{: rules="groups"}
 
 #### Single Line Results
 <figure class="fourth">
@@ -92,7 +91,6 @@ Let's try to find the periods at the end of our multi line sample text.  First, 
 |----
 | ```\.```          | periods as desired     |
 |=====
-{: rules="groups"}
 
 <figure class="third">
 <a href="{{ site.url }}/assets/images/2015/02/25/period-1.png"><img src="{{ site.url }}/assets/images/2015/02/25/period-1_256.png" /></a>
@@ -112,7 +110,6 @@ Let's find the special characters in our multi line sample text.
 |----
 | ```(,\|'\|\.)```  | special characters     |
 |=====
-{: rules="groups"}
 
 <figure class="third">
 <a href="{{ site.url }}/assets/images/2015/02/25/special-1.png"><img src="{{ site.url }}/assets/images/2015/02/25/special-1_256.png" /></a>
@@ -180,7 +177,6 @@ Let's find the words before periods in our multi line sample text.
 |----
 | ```(?<=\s)(\S{4})(?=.$)``` | only the four letter words that precede a period |
 |=====
-{: rules="groups"}
 
 <figure class="fifth">
 <a href="{{ site.url }}/assets/images/2015/02/25/middle-1.png"><img src="{{ site.url }}/assets/images/2015/02/25/middle-1_256.png" /></a>

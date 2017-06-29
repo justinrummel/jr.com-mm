@@ -111,7 +111,6 @@ half third fourth fifth sixth
 | Goal Times[^3]     | 20:00 + 2\*   | 2:00 | 2:20:00  | 1:00 | 1:05:00  | 3:50:00     |
 |=====
 | Actual Times[^4]   | 20:28        | 1:39 | 2:34:44  | 0:50 | 1:24:54  | 4:22:36     |
-{: rules="groups"}
 
 \* Swim time includes a short quarter mile run to transition
 

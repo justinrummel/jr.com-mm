@@ -85,7 +85,6 @@ Among the Male 40-44 category there were 5 athletes.
 | Goal Times[^1]     | 14:30        | 1:30 | 55:00          | 1:00 | 25:30    | 1:37:45     |
 |=====
 | Actual Times[^2]   | 21:38        | 1:09 | 49:53          | 0:37 | 25:55    | 1:39:13     |
-{: rules="groups"}
 
 
 Footnotes

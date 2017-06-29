@@ -81,7 +81,6 @@ If you want accurate pace info for races I've had been using Running Free Online
 | Goal Times[^1]     | 5:30      | 2:00 | 30:00         | 2:00 | 23:15    | 1:02:45 |
 |=====
 | Actual Times[^2]   | 5:24      | 1:35 | 29:09         | 1:45 | 21:31    | 0:59:22 |
-{: rules="groups"}
 
 #### Updated 2016-04-05 (Race Photos)
 

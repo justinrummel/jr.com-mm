@@ -86,7 +86,6 @@ Oh, and pro tip... [you should really really really wear sunscreen]({{ site.url 
 | Goal Times[^2]     | 38:00         | 3:00 | 3:17:00       | 3:00 | 1:58:00         | 5:59:00 |
 |=====
 | Actual Times[^3]   | 38:43         | 4:03 | 2:47:50       | 1:49 | 1:58:01         | 5:30:24 |
-{: rules="groups"}
 
 
 Footnotes

@@ -98,7 +98,6 @@ half third fourth fifth sixth
 | Goal Times[^2]         | 4:10         | 2:00 | 35:30          | 1:00 | 25:00          | 1:07:10     |
 |=====
 | Actual Times[^3]       | 4:09         | 1:51 | 31:10          | 0:58 | 22:26          | 1:00:34     |
-{: rules="groups"}
 
 
 Footnotes
