@@ -25,12 +25,12 @@ header:
 ---
 
 <!-- Article picture, left or right -->
-<p class="align-right"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
-<p class="align-left"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
+<p class="align-right"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" alt="" /></a></p>
+<p class="align-left"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" alt="" /></a></p>
 
 <!-- big picture in center -->
 <figure>
-<p class="align-center"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" /></a></p>
+<p class="align-center"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" alt="" /></a></p>
 </figure>
 
 <!-- ##### iframe Examples ##### -->
@@ -38,19 +38,19 @@ header:
 <!-- Facebook Frame -->
 #### Facebook Info
 <div class="embed-container embed-container-4x3">
-    <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fadventureaddictsracing%2Fposts%2F1280067652054115%3A0&width=500" frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fadventureaddictsracing%2Fposts%2F1280067652054115%3A0&width=500" scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 <!-- Strava Frame -->
 #### Strava Ride Activity
 <div class="embed-container embed-container-16x9">
-    <iframe src='https://www.strava.com/activities/913975066/embed/65c0a4d4577068557a18b6fed6a422154de6e8b8' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='https://www.strava.com/activities/913975066/embed/65c0a4d4577068557a18b6fed6a422154de6e8b8' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 <!-- Relive Frame -->
 #### Relive Video
 <div class="embed-container embed-container-16x9">
-    <iframe src='https://www.relive.cc/view/913975066/embed?x-ref=sc' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='https://www.relive.cc/view/913975066/embed?x-ref=sc' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 <!-- Table of Contents -->
@@ -84,7 +84,7 @@ blah blah blah
 
 <!-- Strava Frame -->
 <div class="embed-container embed-container-16x9">
-    <iframe src='https://www.strava.com/activities/831895403/embed/a52900b72c885a85ccf812c00dee369cb3b7392e' frameborder='0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='https://www.strava.com/activities/831895403/embed/a52900b72c885a85ccf812c00dee369cb3b7392e' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 
@@ -110,10 +110,10 @@ Among the Male 40-44 category there were 5 athletes.
 half third fourth fifth sixth
 
 <figure class="fourth">
-<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-SM-1.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-SM-2.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-LG-3.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-SM-3.jpg" /></a>
-<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-LG-4.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-SM-4.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-SM-1.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-SM-2.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-LG-3.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-SM-3.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-LG-4.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-SM-4.jpg" alt="" /></a>
 </figure>
 -->
 
@@ -124,7 +124,6 @@ half third fourth fifth sixth
 | Goal Times[^2]     | 14:30        | 1:30 | 55:00          | 1:00 | 25:30    | 1:37:45     |
 |=====
 | Actual Times[^3]   | 21:38        | 1:09 | 49:53          | 0:37 | 25:55    | 1:39:13     |
-{: rules="groups"}
 
 
 Footnotes
