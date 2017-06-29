@@ -28,7 +28,7 @@ But today... it's New Years Day!  What better way to spend the time than with a 
 I hope throughout the year I'll be able to convince them to join me in other outdoor "adventures".
 
 <div class="embed-container embed-container-16x9">
-	<iframe src='https://www.strava.com/activities/817859885/embed/04db389c4915a6cd21cefff9587724595709021c' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+	<iframe src='https://www.strava.com/activities/817859885/embed/04db389c4915a6cd21cefff9587724595709021c' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 

@@ -41,7 +41,7 @@ Larry Weeks is a 25 meter outdoor pool, so we completed 12 laps for the total 30
 <!--
 #### Strava Ride Activity
 <div class="embed-container embed-container-16x9">
-    <iframe src='https://www.strava.com/activities/1007920001/embed/169fecf4b6100f1f9cb18a0a1c734b3d096dd7fc' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='https://www.strava.com/activities/1007920001/embed/169fecf4b6100f1f9cb18a0a1c734b3d096dd7fc' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 -->
 
@@ -54,7 +54,7 @@ Larry Weeks is a 25 meter outdoor pool, so we completed 12 laps for the total 30
 <!--
 #### Strava Run Activity
 <div class="embed-container embed-container-16x9">
-    <iframe src='https://www.strava.com/activities/1007919960/embed/8f621625419d05dc31f2a322a7553d686fd38e11' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='https://www.strava.com/activities/1007919960/embed/8f621625419d05dc31f2a322a7553d686fd38e11' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 -->
 
@@ -70,7 +70,7 @@ Once again big thanks to Rev3 for a great time and a great race!  Course was wel
 
 #### Relive Video
 <div class="embed-container embed-container-16x9">
-    <iframe src='https://www.relive.cc/view/1007920001/embed?x-ref=sc' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src='https://www.relive.cc/view/1007920001/embed?x-ref=sc' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 
