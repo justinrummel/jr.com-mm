@@ -29,7 +29,7 @@ The race venue was excellent as parking was between the transition area and the 
 Race Breakdown
 ---
 
-#### Swim
+### Swim
 
 As I mentioned above, the race started off the boat ramp in Gordon Creek.  The water temperature was 84.1&deg; which means **NOBODY** can wear a wetsuit.  I am becoming more comfortable in not swimming in a wetsuit in a lake, but for the past two years (see <a href="{{ site.url }}/search/?q=colonial+beach">Colonial Beach</a> or <a href="{{ site.url }}/jamestown-international-triathlon-2016-race-report/">Jamestown</a>), racing without a wetsuit in a river has nearly made me quit triathlons altogether.
 
@@ -42,13 +42,13 @@ Surprisingly, I *enjoyed* the first half of the swim!  I felt relaxed!  I didn't
 
 - [Training Peaks Swim Data](http://tpks.ws/uueja)
 
-#### Bike
+### Bike
 
 > HAMMER TIME.  A pure time trial that will be blazingly fast- this is 15 miles of FTP test.  Very little terrain and I want this to be completely aero and target is 225 watts.  A single turnaround and then blaze it home.  Crush the hell out of this.
 >
 > <cite>Josh</cite>
 
-These are the race notes that [Coach Josh][ss] gave me on Friday.  He knows me well and I wanted to step up to his challenge of throwing down an average of 225 watts.  It was possible as elevation chart showed for the bike segment was mostly flat ride.  I pushed myself hard as my left chest was hurting for a bit (don't know if it was heart or lung) during the fist 7.5 miles that forced me out of aero position to get my breathing back under control.  The ride back was not as smooth as we were on a super-wide paved sidewalk which had some dips and wooden bridges that I thought for sure was going to cause a flat[^3].  I had a blast!  However, I was dumb and pushed the wrong button on my watch so I actually recorded the longest swim **ever** with over 16 miles of swimming and most of that was on the road!  I don't think I hit the 225 watt average, but Strava is guessing that I averaged 210 watts over the entire bike segment, and held an average pace of 22.4 mph.  Getting my post-race data fix will have to wait till the next race. *\*sigh\**
+These are the race notes that [Coach Josh][ss] gave me on Friday.  He knows me well and I wanted to step up to his challenge of throwing down an average of 225 watts.  It was possible as elevation chart indicated a mostly flat ride for the bike segment.  I know I pushed myself hard as my left chest was hurting for a bit (don't know if it was heart or lung) during the fist 7.5 miles that forced me out of aero position to get my breathing back under control.  The ride back was not as smooth as we were on a super-wide paved sidewalk which had some dips and wooden bridges that I thought for sure was going to cause a flat[^3].  I had a blast!  However, I was dumb and pushed the wrong button on my watch so I actually recorded the longest swim **ever** with over 16 miles of swimming and most of that was on the road!  I did't hit the 225 watt challenge as Strava is guessing that I averaged 210 watts over the entire bike segment, and held an average pace of 22.4 mph.  Getting my post-race data fix will have to wait till the next race. *\*sigh\**
 
 #### Strava Ride Activity
 <div class="embed-container embed-container-16x9">
@@ -57,7 +57,7 @@ These are the race notes that [Coach Josh][ss] gave me on Friday.  He knows me w
 
 - [Training Peaks Bike Data](http://tpks.ws/fFiUW)
 
-#### Run
+### Run
 
 Once I reached the bike dismount I quickly ran through transition, discover my watch self-imposed watch malfunction and fixed it, and then I was able to hit the run.  Remember when I mentioned on the bike that it felt like my heart or lung was hurting?  It was *really* hurting on the run.  Just before I reached the 1/2 mile marker... I walked.  I **HAD** to walk!!!  The pain in my chest was unbearable and didn't know what was going on.  As I was walking I tried to relax, feel my heart beat to make sure it wasn't fluttering or doing anything odd (other than beating extremely fast), and be aware of anyone who passed me.  While on the bike I knew of two people in my age group that were ahead of me.  One of them was not in sight, but the other I had passed in transition... so as long as I didn't see that guy... I was OK.  After two minutes of walking (and not seeing my competition), I restarted my run but now it was significantly much slower than I have been racing for the past couple of months.  I'm used to being able to race at a 7:30 pace, but I didn't want to have to walk again.  I was moving much slower, and the entire time I was paranoid that someone in my age group was going to pass me any minute.  I didn't get to enjoy the run like normal as I felt that my body was simply done with sprint racing for the day.
 
