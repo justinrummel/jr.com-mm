@@ -26,15 +26,15 @@ Results, I beat my time last year (not that hard with a horrible swim), but I al
 
 {% include toc icon="gears" title="Race Review ToC" %}
 
-#### Swim
+### Swim
 
 - Swim time was 27:48.  I shaved off 11:06 from last year, ELEVEN minutes!  That is where I got all of my gains when comparing to this year vs. last year.
 
-#### Bike
+### Bike
 
 - Bike time was 1:15:59 which was only 13 seconds faster than last year.  It is interesting that I almost got the same time as last year, even though I don't feel like I'm at my peak fitness.
 
-#### Run
+### Run
 
 - Run time was 52:30 which was 25 seconds slower than last year.  Not really surprised, but again I didn't push myself like I remember last year and I'm almost the same pace.
 

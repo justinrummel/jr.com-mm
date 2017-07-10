@@ -25,15 +25,15 @@ My race plan was to just stay calm.  My killer at [Colonial Beach][cb-2015] was 
 
 {% include toc icon="gears" title="Race Review ToC" %}
 
-#### Swim
+### Swim
 
 - Prior to the Sprint start, the Olympic distance male and female racers started first (as they had to do two laps vs. one)[^2].  This helped because I could watch and get a comfortable idea of sighting cues (ability to find the next buoy) throughout the lake course, but also to size up my competition (it's a race, hello!).  This helped me a lot!  I kept myself calm.  Another bonus was the water temperature was measured at 77 degrees prior to race start, which meant I could use my wetsuit FOR THE FIRST TIME!  Usually you never try something new during a race, but I wasn't looking at WOW as my "A race", but a learning experience for OWS and how to use my wetsuit during a race.  What I found out is sighting is so much easier when using one of these things!  I did have some slight issues with breathing around the 600 meter mark, but I think that was due to a poor morning nutrition plan of a second 1/2 bagel and peanut butter.
 
-#### Bike
+### Bike
 
 - I always love the bike, and this time we have hills!!!  I used every single ring during this race as climbing up the hills required me to drop to the lowest ring on the crank ([violating rule #90][the-rules]), to not having enough gears on the rear cassette for the downhills to get full top speed (even though I had a top speed of 45 mph for two seconds).
 
-#### Run
+### Run
 
 - OMG the first 1.2 miles is all up hill.  So I don't like running up hill as much as I like biking up hill.  At one point I simply power walked as I didn't think my "run" was any faster.  After going up, there was a short flat spot to get to the half way point, then you turned around and return where you started by going down the same hill.  This was nice to have some speed where I was pacing a 7 min mile for 800 meters.  The bad thing about downhill is it really beats your feet and knees.  I need to improve on this for next year.
 

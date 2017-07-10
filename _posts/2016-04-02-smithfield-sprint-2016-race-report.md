@@ -25,7 +25,7 @@ Now that I've began the race (officially starting at 11:41.45), here are my thou
 
 {% include toc icon="gears" title="Race Review ToC" %}
 
-#### Swim
+### Swim
 
 - The water was warm, but not bath water temps.  The line was well organized and people fell into place without any issues.
 
@@ -33,7 +33,7 @@ Now that I've began the race (officially starting at 11:41.45), here are my thou
 
 - OMG MUD!  From the Rain that has not stopped since I arrived (around 8:00 am), there have now been almost two hours of racers going in and out of transition with their shoes and bikes destroying the grass and thus the ground is a mud pit of which "mud runners" would swoon.  For how small the transition area is between the swim and the in/out parts for the bike and run, I should have been closer to a 1 minute transition, however, I decided to put on my water proof jacket for the bike because I'm a wimp when it comes to being cold and wet.
 
-#### Bike
+### Bike
 
 - It felt a little windy, guessing around 5-10 MPH winds as I constantly felt that I had to lean one direction or the other on the "out and back" bike segment.  The route was good in that most of the uphills were at the beginning, which allowed you to hammer it home on the back half.
 
@@ -41,7 +41,7 @@ Now that I've began the race (officially starting at 11:41.45), here are my thou
 
 - HERMAGERD MUD!!!  Just when you thought T1 was bad, T2 was MUDiculous.  I almost lost my shoe TWICE just in transition for how much thick gooey mud was on the ground.  Again my transition was slow, because now I had to remove the wet "waterproof" jacket.
 
-#### Run
+### Run
 
 - I enjoyed the run.  We zigzaged through downtown Smithfield to catch a road that led out to the country while passing a few subdivisions.  The route peaked at the half way point, so again get half way and then it's relatively downhill to the finish line.
 

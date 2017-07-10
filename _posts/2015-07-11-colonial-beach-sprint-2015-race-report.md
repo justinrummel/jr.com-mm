@@ -25,15 +25,15 @@ For those of you outside the Virginia area, this morning was 100% rain the entir
 
 I was stupid and didn't do any of it.  It was raining badly and VTSMTS announced that a decision to cancel the swim or the race entirely would be at 6:00 am.  Once that happened couldn't really concentrate.  I was more worried about trying to keep my shoes dry for the run (by placing setting up my transition area) vs. properly warming up and getting my head into the race.
 
-#### Swim
+### Swim
 
 - The PA system was horrible.  They were trying to relay information throughout the morning, but I always seem to be in the wrong place to hear anything.  I was in waist high water, well behind were I should be for the start of wave one, as the air-horn signaled "GO".  Have I mentioned how much I hate OWS?  About 350-400m I started panicking (not fun while swimming).  Actually raised my arm for assistance, but none of the paddle boaters moved to help.  So with pour route choices and panicking, I got back into finishing the swim by doing a side stroke (vs. freestyle).  Horrible. HATE HATE HATE OWS.
 
-#### Bike
+### Bike
 
 - Bike was good except for the very start.  Just out of Transition 1 (T1) and running to the bike mount point, I realized something was wrong.  My seat had become loose and was now flopping up and down.  I lucked out and some spectators offered help and got their allen wrench to tighten the seat, and I was then on my way.  With such a crappy job on the swim, it wasn't hard to pick off people one by one on the bike course.  The two 90 degree (or sharper) turns in rain were extremely dangerous!  The second one I was lucky that cops had stop traffic, because I would have head-on collision with normal traffic patterns.  Speaking of traffic, PEOPLE OF COLONIAL BEACH; Virginia has a new law of giving cyclists three feet of space!  Please obey for the safety of riders.
 
-#### Run
+### Run
 
 - Wet shoes are heavy.  I wanted to be faster than 24 minutes, but 20 steps out of T2 and my shoes were waterlogged and heavy.  I did have enough energy for a last kick at the end about 100 ft from the turn to the finish line.
 

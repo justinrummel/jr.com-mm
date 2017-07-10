@@ -21,13 +21,13 @@ header:
 
 {% include toc icon="gears" title="Race Review ToC" %}
 
-#### Swim
+### Swim
 
 - I'm officially a broken record, so... no news flash my swim sucks!  At this point I have no idea why I'm doing this sport and I'm thinking of quiting because I'm not having fun while doing open water swims.  The one fact that holds me back is the amount of time and money I have spent on this sport which used to make me happy (any business person will recognize this as 'sunk costs', and knows it should not be included when evaluating if something is a good idea).  I'm glad we are now at the end of the year so I can meditate on what will happen next year, possibly escape... gain some perspective that won't leave me so down while racing once the swim is completed.
 
 	+ [Training Peaks Swim Data](http://tpks.ws/MZUV0)
 
-#### Bike
+### Bike
 
 - Oh, my swim sucked... so excuse me while I **CRUSH** this bike course.  I was fourth fasted cyclist of all race participants, with the only three who beat me were the top three overall winners... including the brother of a Tour de France racer.  Strava has me pegged me as top fourth ever which I'll happily take until the next faster person comes around and pushes me down the ladder.  I was able to beat last years bike split by over five minutes, reminding me now why I **DO** enjoy this sport.  This year's cycling training has definitely improved my splits and am very grateful of [Josh][josh] and his coaching.
 
@@ -38,7 +38,7 @@ header:
 </div>
 
 
-#### Run
+### Run
 
 - I felt great coming off the bike and thought I had a great strategy of being strong, yet reserved for the first half of the run and then letting gravity take over on the downhill as the route is a simple "out-and-back".  It appears I had the same strategy last year and when I compare between last year and this year's efforts I was 25 seconds slower according to the race times (although Strava says I was 14 seconds faster, so I'm confused).  This run is a crushing route where the first 1.25 miles is essentially uphill at varying degrees of incline.  After you are exhausted from running up you get a mild breather of flat roads for a half of mile, and then you get to take advantage of going down hill... but at the expense of your knees as each pounding step shakes your entire body.
 

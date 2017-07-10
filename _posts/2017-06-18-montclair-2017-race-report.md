@@ -25,7 +25,7 @@ Rev3's Montclair is the only race this year that I have previously participated 
 Race Breakdown
 ---
 
-#### Swim
+### Swim
 
 Being so close to the race venue, I was able to squeeze in a quick swim warm-up just before the race director began the race announcements.  Earlier this week the water temperature for Lake Montclair was 84.6 degrees, which for a swimmer is very unappealing hot yucky mess.  Fortunately, the water "cooled down" to 80&deg; for race morning.  With the water tempterature measuring at 80&deg; raceing with a wetsuit is not possible.  Instead, I put on my [Roka Swim Skin][roka-ss] for a quick lap to the final orange buoy and back so I could experience the last 75m of the swim.
 
@@ -33,7 +33,7 @@ When you compare last year to this year I had great improvement in the swim, eve
 
 - [Training Peaks Swim Data](http://tpks.ws/72JPt)
 
-#### Bike
+### Bike
 
 <p class="align-right"><a href="{{ site.url }}/assets/images/2017/06/18/Rev3-Montclair-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/06/18/Rev3-Montclair-SM-1.jpg" alt="" /></a></p>This course is a perfect representation of "Virginia Rollers".  It is a relentless pattern of three small rollers where total elevation climb is about 40ft, but then you get slapped with a 100ft climb over a mile long that tires you out quickly if you don't recognize what is in front of you.  Since this is a two loop oscillating course, we get that 100ft climb four times.
 
@@ -47,7 +47,7 @@ I remember having a great ride last year, so any chance of improving my time was
 </div>
 
 
-#### Run
+### Run
 
 <p class="align-left"><a href="{{ site.url }}/assets/images/2017/06/18/Rev3-Montclair-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/06/18/Rev3-Montclair-SM-2.jpg" alt="" /></a></p>This run is **hard** as you must climb the same road you left when you were on the bike, AND you get one of the fun 100' climbs immediately afterwards... meaning you really don't start going "downhill" till mile two of a 3.1 mile course.  Knowing this, I took it easy the first two miles... maybe a little too easy as the run was the only section where I didn't improve my time (Splits table is below).  It was fun reading the motivational chalk drawings while on the run course, as it was just enough distraction from the burning legs or lungs.
 

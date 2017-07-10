@@ -29,13 +29,13 @@ XTERRA Charlottesville wasn't going to be easy.  The course leans towards the "[
 Race Breakdown
 ---
 
-#### Swim
+### Swim
 
 <p class="align-left"><a href="{{ site.url }}/assets/images/2017/05/20/AA-XTerra-LG-5.jpg"><img src="{{ site.url }}/assets/images/2017/05/20/AA-XTerra-SM-5.jpg" alt="" /></a></p>The Miller School (MSA) constructed a new "beach" entry just for the race.  All racers lined up on the beach and waited for the horn to sound, then began to sprint off the beach and into the chilly water.  I tried to keep myself calm on the first loop, concentrating on my form making sure at being efficient (something I've been working on for the past couple of months).  It was a little difficult at the beginning as me and 25-30 of my newest swim lane buddies all starting at the same time trying to find our rhythm.  There were times that I held back so so I can stay away from people, assuming that I could pass them on the second loop.  Exiting the lake was done by a newly installed step system which was also constructed by MSA just a couple of days bfore the race.  The school really stepped up in course setup and ensuring racers would enjoy the challenge.
 
 - [Training Peaks Swim Data](http://tpks.ws/LiPv4)
 
-#### Bike
+### Bike
 
 <p class="align-right"><a href="{{ site.url }}/assets/images/2017/05/20/AA-XTerra-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/05/20/AA-XTerra-SM-1.jpg" alt="" /></a></p>The bike route was slightly different than the <a href="{{ site.url }}/conquer-the-hill-at-miller-school-of-albemarle-2017/">Conquer the Hill</a> route, but used most of the same paths.  Some parts were either trimmed back (or removed completely) such as the beginning stage of puke hill, along with the more technical steep descents just after "Narnia" when riding away from the lake.  What was nice is Conquer the Hill also used some of the same routes as the run segment, so by doing Conquer the Hill in April I had a great advantage of knowing the entire course.[^1]
 
@@ -48,7 +48,7 @@ As for the race, I knew I was in trouble from the beginning.  My heart rate felt
     <iframe src='https://www.strava.com/activities/997394937/embed/e4576df072c4b46752186428faae5fa980a838e6' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div> -->
 
-#### Run
+### Run
 
 <p class="align-left"><a href="{{ site.url }}/assets/images/2017/05/20/AA-XTerra-LG-6.jpg"><img src="{{ site.url }}/assets/images/2017/05/20/AA-XTerra-SM-6.jpg" alt="" /></a></p>I highly underestimated the affects of mountain biking would have on my body when doing a trail run.  I had to quickly resort to "walk up hills" while "jogging down or on the flats", which if it wasn't for the fact I was in a race I wouldn't have minded the extra time in the beautiful MSA trail system.  Most racers where looking pretty beat down at this time, all wanting to simply "finish", however, there was also small efforts of positive enforcement as we all suffering with each other.  I actually started to feel better on the second loop of the run, to where I almost return to my normal pace right at the end because it was flat.  Hills simply kill.
 

@@ -28,13 +28,13 @@ Salute is held at Larry Weeks outdoor pool in Vint Hill, VA.  If you ever get a 
 Race Breakdown
 ---
 
-#### Swim
+### Swim
 
 Larry Weeks is a 25 meter outdoor pool, so we completed 12 laps for the total 300m swim of the sprint race.  Self seeding was done at pool side which allows people to place themselves near a clearly marked sign that signifies their expected time for a 100y pace.  I wanted to push myself a little towards the middle of the 1:30/100y and 1:45/100y section, but I eventually got pushed back.  This was fine, as I always get anxious if people are tapping my feet/legs as I don't want to be the reason in slowing other racers down.  The one downside to Larry Weeks pool is it's really only six lanes wide, so swimmers had to stay to one side of a lane to make sure they didn't have a head-on collision with another racer.  This made passing VERY difficult and dangerous... which is exactly what happened on lap four.  A guy behind me tried to sprint around myself and the lady in front, but instead he ran into another racer (teammate Federico).  When we got to the wall, the lady (who I was tapping during the lap) kindly let me pass while the race director had a "talk" with the attempted passer about pool safety.
 
 - [Training Peaks Swim Data](http://tpks.ws/yYliI)
 
-#### Bike
+### Bike
 
 <p class="align-right"><a href="{{ site.url }}/assets/images/2017/05/27/Rev3-Salute-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/05/27/Rev3-Salute-SM-1.jpg" alt="" /></a></p>The bike route is mostly flat, so you follow [Rule #90][rule90] and keep it in the big ring!  I was able to keep a good pace and maintained a 3.08 W/kg average, then pushed a little harder on the second loop with a 3.20 W/kg average.  I might have been able to shave off a couple more seconds on the total time, but during the 2nd loop slower riders were on the course and the neighborhood residents were venturing out to enjoy the holiday weekend.  A truck was keeping safe by going slow behind the slower riders, but then I was being held back by the slower truck.  Half way through the second loop I was a little worried what was going to happen on the run, as my right calf was telling me I was pushing a little hard.  Aptly, I replied with "Shut up legs, deal with it!  This is a sprint race and there is no time for falling apart!"
 
@@ -47,7 +47,7 @@ Larry Weeks is a 25 meter outdoor pool, so we completed 12 laps for the total 30
 
 - [Training Peaks Bike Data](http://tpks.ws/5wjkn)
 
-#### Run
+### Run
 
 <p class="align-left"><a href="{{ site.url }}/assets/images/2017/05/27/Rev3-Salute-LG-4.jpg"><img src="{{ site.url }}/assets/images/2017/05/27/Rev3-Salute-SM-4.jpg" alt="" /></a></p>The run course was different this year as there was construction in the Vint Hill neighborhood.  Excluding the small section on the side of the main field, we were on nicely paved residential sidewalks for a "snake" patter that went out and back.  There were some sections that had a small incline such as the last 1/3 mile to get to the turnaround point, but what was great is the last mile was mostly downhill so you could really push yourself and negative split the run.  My right calf gave me little reminders that it was not happy with me, but it didn't have any affect on my performance... simply made some slight form corrections to make sure everything stayed happy.
 

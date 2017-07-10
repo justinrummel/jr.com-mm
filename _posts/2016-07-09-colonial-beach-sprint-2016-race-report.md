@@ -23,12 +23,12 @@ First, I would like to note that the course has improved compared to last year a
 
 {% include toc icon="gears" title="Race Review ToC" %}
 
-#### Swim
+### Swim
 
 - Another poor swim.  Had to hang on two paddle boats this time which is simply not acceptable anymore.  Teammate and Superstar [Madi][madi] stated she thought the waves were harder this year than last year, but I had the opposite memory as I KNOW I wanted to quit at the 350m mark ([see 2015 race report]({{ site.url }}/colonial-beach-sprint-2015-race-report/)), and this time I was able to swim all the way to the 500m mark before I wanted to quit!  HASHTAG WINNING!  I did swim faster this year by almost four minutes so there was an improvement, but I think I'm going to stick with pools or lakes from this point forward (Sorry [AlaskaMan][AlaskaMan]).
 	+ [Training Peaks Swim Data](http://tpks.ws/B60BR)
 
-#### Bike
+### Bike
 
 - Another PR for me in terms of course times <b><u>and</u></b> average speed.  I beat last year's time by 8 MINUTES AND 39 SECONDS!  This is not quite fair as I had a transition issue on my bike last year plus the conditions were completely different, however, it's significannot enough for me to confidently state I killed that bike course.  How much?  I averaged 23.5 MPR over the entire course! Also, check these stats:
 
@@ -36,7 +36,7 @@ First, I would like to note that the course has improved compared to last year a
 	+ Men (and Overall): 14th fastest
 	+ [Training Peaks Bike Data](http://tpks.ws/kdXUg)
 
-#### Run
+### Run
 
 - <p class="align-right"><a href="{{ site.url }}/assets/images/2016/07/09/Colonial-LG-2.jpg"><img src="{{ site.url }}/assets/images/2016/07/09/Colonial-SM-2.jpg" alt="" /></a></p>This year's run was so much better than last year in terms of pure enjoyment.  Don't get me wrong... watching the angry mob of ducks SWIMMING by the route in 2015 was entertaining, but not having waterlogged shoes stomping through a 5k definitely helped.  I beat last year's time by 20 seconds[^2], but again different race conditions should have resulted in better times regardless.  My run has not nearly improved over the year as my bike skills.  I will have to work on that for next year (YES and swimming needs work... I didn't forget that!  UGH!  GET OFF MY CASE!!! HASHTAG StompsAway).
 - [Training Peaks Run Data](http://tpks.ws/3jVbl)
