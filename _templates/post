@@ -25,13 +25,14 @@ header:
 ---
 
 <!-- Article picture, left or right -->
-<p class="align-right"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" alt="" /></a></p>
-<p class="align-left"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" alt="" /></a></p>
+<figure class="align-right"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" alt="" /></a></figure>
+<figure class="align-left"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" alt="" /></a></figure>
 
 <!-- big picture in center -->
-<figure>
-<p class="align-center"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" alt="" /></a></p>
+<figure class="align-center"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" alt="" /></a>
+<figcaption>blah blah blah</figcaption>
 </figure>
+
 
 <!-- ##### iframe Examples ##### -->
 

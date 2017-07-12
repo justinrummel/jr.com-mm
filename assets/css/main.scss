@@ -45,6 +45,10 @@ iframe {
   margin-right: auto;
 }
 
+figure {
+  margin: 0 0;
+}
+
 .fourth {
   > a,
   > img {
@@ -387,7 +391,7 @@ iframe {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding-right: 10px;
+  /* padding-right: 10px; */
 
   @include breakpoint($small) {
     float: left;
@@ -399,7 +403,7 @@ iframe {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 10px;
+  /* padding-left: 10px; */
 
   @include breakpoint($small) {
     float: right;

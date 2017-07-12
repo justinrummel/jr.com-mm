@@ -27,5 +27,5 @@ The main goal of this race was **fun**!  So, no post-race thoughts... no section
 Last but not least, I had a pretty awesome private cheering section.
 
 <figure>
-<p class="align-center"><a href="{{ site.url }}/assets/images/2016/06/19/Montclair-lg1.jpg"><img src="{{ site.url }}/assets/images/2016/06/19/Montclair-md1.jpg" alt="" /></a></p>
+<figure class="align-center"><a href="{{ site.url }}/assets/images/2016/06/19/Montclair-lg1.jpg"><img src="{{ site.url }}/assets/images/2016/06/19/Montclair-md1.jpg" alt="" /></a></figure>
 </figure>

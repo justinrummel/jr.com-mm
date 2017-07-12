@@ -35,7 +35,7 @@ When you compare last year to this year I had great improvement in the swim, eve
 
 ### Bike
 
-<p class="align-right"><a href="{{ site.url }}/assets/images/2017/06/18/Rev3-Montclair-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/06/18/Rev3-Montclair-SM-1.jpg" alt="" /></a></p>This course is a perfect representation of "Virginia Rollers".  It is a relentless pattern of three small rollers where total elevation climb is about 40ft, but then you get slapped with a 100ft climb over a mile long that tires you out quickly if you don't recognize what is in front of you.  Since this is a two loop oscillating course, we get that 100ft climb four times.
+<figure class="align-right"><a href="{{ site.url }}/assets/images/2017/06/18/Rev3-Montclair-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/06/18/Rev3-Montclair-SM-1.jpg" alt="" /></a></figure>This course is a perfect representation of "Virginia Rollers".  It is a relentless pattern of three small rollers where total elevation climb is about 40ft, but then you get slapped with a 100ft climb over a mile long that tires you out quickly if you don't recognize what is in front of you.  Since this is a two loop oscillating course, we get that 100ft climb four times.
 
 I remember having a great ride last year, so any chance of improving my time was going to be a difficult challenge.  I am no longer racing against other age groupers... I am racing myself.  Same plan as always for the bike segment, feel the first loop and then turn it up on the second loop.  Out of the 326 racers, I was the 20th fastest person on the bike.  However, to put into perspective how difficult the Male 40-44 Age Group bracket is, there were still four people in my AG that were faster out of that 19.
 
@@ -49,7 +49,7 @@ I remember having a great ride last year, so any chance of improving my time was
 
 ### Run
 
-<p class="align-left"><a href="{{ site.url }}/assets/images/2017/06/18/Rev3-Montclair-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/06/18/Rev3-Montclair-SM-2.jpg" alt="" /></a></p>This run is **hard** as you must climb the same road you left when you were on the bike, AND you get one of the fun 100' climbs immediately afterwards... meaning you really don't start going "downhill" till mile two of a 3.1 mile course.  Knowing this, I took it easy the first two miles... maybe a little too easy as the run was the only section where I didn't improve my time (Splits table is below).  It was fun reading the motivational chalk drawings while on the run course, as it was just enough distraction from the burning legs or lungs.
+<figure class="align-left"><a href="{{ site.url }}/assets/images/2017/06/18/Rev3-Montclair-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/06/18/Rev3-Montclair-SM-2.jpg" alt="" /></a></figure>This run is **hard** as you must climb the same road you left when you were on the bike, AND you get one of the fun 100' climbs immediately afterwards... meaning you really don't start going "downhill" till mile two of a 3.1 mile course.  Knowing this, I took it easy the first two miles... maybe a little too easy as the run was the only section where I didn't improve my time (Splits table is below).  It was fun reading the motivational chalk drawings while on the run course, as it was just enough distraction from the burning legs or lungs.
 
 - [Training Peaks Run Data](http://tpks.ws/Xhsdw)
 
