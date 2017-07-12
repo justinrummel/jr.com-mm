@@ -31,6 +31,7 @@ gem 'travis'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem 'liquid', '~> 3.0.6'		# would be nice if osx updated ruby
   gem 'liquid-md5'
   gem 'jekyll-archives'
   gem 'jekyll-lunr-js-search'
