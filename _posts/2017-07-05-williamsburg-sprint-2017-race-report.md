@@ -2,7 +2,7 @@
 layout: single
 title: "Rev3: Williamsburg Sprint 2017 Race Report"
 date: 2017-07-08T17:00:00-04:00
-modified:
+modified: 2017-07-12T20:00:00-04:00
 description: "Last minute registration ends in a age group podium win at Rev3's Williamsburg Sprint Race."
 categories:
     - "Race Report"
@@ -93,18 +93,14 @@ Among the Male 40-44 category there were 14 athletes.
 - Run: Ranked 4th
 
 
-<!--
-#### Updated 2016-09-02 (Race Photos)
+#### Updated 2017-07-12 (Race Photos)
 
-half third fourth fifth sixth
-
-<figure class="fourth">
-<a href="{{ site.url }}/assets/images/2017/07/08/Williamsburg-PRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/07/08/Williamsburg-PRO-SM-1.jpg" alt="" /></a>
+<figure class="third">
 <a href="{{ site.url }}/assets/images/2017/07/08/Williamsburg-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/07/08/Williamsburg-PRO-SM-2.jpg" alt="" /></a>
 <a href="{{ site.url }}/assets/images/2017/07/08/Williamsburg-PRO-LG-3.jpg"><img src="{{ site.url }}/assets/images/2017/07/08/Williamsburg-PRO-SM-3.jpg" alt="" /></a>
 <a href="{{ site.url }}/assets/images/2017/07/08/Williamsburg-PRO-LG-4.jpg"><img src="{{ site.url }}/assets/images/2017/07/08/Williamsburg-PRO-SM-4.jpg" alt="" /></a>
 </figure>
--->
+
 
 #### Splits
 
