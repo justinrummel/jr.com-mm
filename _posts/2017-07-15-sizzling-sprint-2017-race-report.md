@@ -3,7 +3,7 @@ layout: single
 title: "Rev3: Sizzling Sprint 2017 Race Report"
 date: 2017-07-15T21:10:11-04:00
 modified:
-description: "You have 140 characters, use it." 	# For Twitter, not the Title
+description: "Race report for the Rev3 Sizzling Sprint; the final sprint race for 2017." 	# For Twitter, not the Title
 categories:
     - "Race Report"
 tags:
