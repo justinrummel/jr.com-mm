@@ -23,6 +23,8 @@ gem 'json'
 
 # gem "jekyll", "~> 3.3.0"
 # gem "minimal-mistakes-jekyll"
+
+gem 'sass', '~> 3.4.24'			# so much sass warning for 3.4.25, need to stop the noise
 gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem 'html-proofer'
@@ -31,13 +33,13 @@ gem 'travis'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'liquid', '~> 3.0.6'		# would be nice if osx updated ruby
+  gem 'liquid', '~> 3.0.6'			# would be nice if osx updated ruby
   gem 'liquid-md5'
   gem 'jekyll-archives'
   gem 'jekyll-lunr-js-search'
-  gem 'nokogiri', '~> 1.6.0'     # 1.7 requires ruby >= 2.1.0
+  gem 'nokogiri', '~> 1.6.0' 		# 1.7 requires ruby >= 2.1.0
   gem 'octopress'
-#  gem 'classifier-reborn'        # --lsi support
-#  gem 'rb-gsl'                   # make lsi faster.  Don't forget brew install gsl, Travis does not like gsl.
+#  gem 'classifier-reborn'        	# --lsi support
+#  gem 'rb-gsl'                   	# make lsi faster.  Don't forget brew install gsl, Travis does not like gsl.
 #  gem 'jekyll-twitter-plugin'
 end

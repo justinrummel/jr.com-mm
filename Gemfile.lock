@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 031c2aa77e95948b9dc286f408d27101aed33a6c
+  revision: 5843de91c222cd518d47db80f5187f37bfbf67f0
   specs:
     minimal-mistakes-jekyll (4.4.2)
       jekyll (~> 3.4)
@@ -137,11 +137,7 @@ GEM
     ref (2.0.0)
     rouge (1.11.1)
     safe_yaml (1.0.4)
-    sass (3.5.0)
-      sass-listen (~> 3.0.7)
-    sass-listen (3.0.7)
-      rb-fsevent (>= 0.9.3)
-      rb-inotify (>= 0.9.7)
+    sass (3.4.25)
     sawyer (0.8.1)
       addressable (>= 2.3.5, < 2.6)
       faraday (~> 0.8, < 1.0)
@@ -181,6 +177,7 @@ DEPENDENCIES
   net-http-persistent (~> 2.9, >= 2.9.4)
   nokogiri (~> 1.6.0)
   octopress
+  sass (~> 3.4.24)
   travis
 
 BUNDLED WITH
