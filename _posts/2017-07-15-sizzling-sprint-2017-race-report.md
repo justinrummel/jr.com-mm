@@ -2,7 +2,7 @@
 layout: single
 title: "Rev3: Sizzling Sprint 2017 Race Report"
 date: 2017-07-15T21:10:11-04:00
-modified:
+modified: 2017-07-18T21:30:11-04:00
 description: "Race report for the Rev3 Sizzling Sprint; the final sprint race for 2017." 	# For Twitter, not the Title
 categories:
     - "Race Report"
@@ -16,7 +16,7 @@ header:
     teaser: /assets/images/2017/07/16/Sizzling-Header-Twitter.jpg   # Shrink image to 575x216
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
-<figure class="align-left"><a href="{{ site.url }}/assets/images/2017/07/16/Sizzling-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/07/16/Sizzling-SM-1.jpg" alt="" /></a></figure>[Rev3 Sizzling Sprint][sizzling] is the last sprint race hosted by Rev3, and my last Sprint for 2017.  I was hoping to have an improvement since May where the [Salute Sprint][salute] was held and is the exact same course, plus it is nice to think that over the past couple of months I would improve in at least one of the events (at least just a little).  Being the last race of the Rev3 Series, there was double pressure for me to get on the podium to protect my overall standing and try to win my Age Group division.
+<figure class="align-left"><a href="{{ site.url }}/assets/images/2017/07/16/Sizzling-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/07/16/Sizzling-SM-1.jpg" alt="" /></a></figure>[Rev3 Sizzling Sprint][sizzling] is the last sprint race hosted by Rev3, and my last Sprint for 2017.  I was hoping to have an improvement since May where the [Salute Sprint][salute] was held and is the same course, plus it is nice to think that over the past couple of months I would improve in at least one of the events (at least just a little).  Being the last race of the Rev3 Series, there was double pressure for me to get on the podium to protect my overall standing and try to win my Age Group division.
 
 <figure class="align-right"><a href="{{ site.url }}/assets/images/2017/07/16/Sizzling-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/07/16/Sizzling-SM-2.jpg" alt="" /></a></figure>Race day morning started like every other morning this year with a quick bite to eat, arrive at the race location a couple hours before the start, then try to warm up to get my muscles ready to fire.  I was able to ride the bike loop once on Saturday for my pre-race day workout and had no concerns navigating that section of the race.  Therefor for my race-day warm-up I decided to bike the run route, and then did a quick solo jog to clear my head.  In-between my warmup and the starting horn I was able to talk to a few racers in the morning including Speed Sherpa teammates, fellow AG racers, and new tri-friends that I have gained throughout the season.
 
@@ -80,18 +80,14 @@ Among the Male 40-44 category there were 13 athletes.
 - Run: Ranked 3rd
 
 
-<!--
-#### Updated 2016-09-02 (Race Photos)
+#### Updated 2017-07-18 (Race Photos)
 
-half third fourth fifth sixth
-
-<figure class="fourth">
-<a href="{{ site.url }}/assets/images/2017/07/16/SizzlingPRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/07/16/SizzlingPRO-SM-1.jpg" alt="" /></a>
-<a href="{{ site.url }}/assets/images/2017/07/16/SizzlingPRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/07/16/SizzlingPRO-SM-2.jpg" alt="" /></a>
-<a href="{{ site.url }}/assets/images/2017/07/16/SizzlingPRO-LG-3.jpg"><img src="{{ site.url }}/assets/images/2017/07/16/SizzlingPRO-SM-3.jpg" alt="" /></a>
-<a href="{{ site.url }}/assets/images/2017/07/16/SizzlingPRO-LG-4.jpg"><img src="{{ site.url }}/assets/images/2017/07/16/SizzlingPRO-SM-4.jpg" alt="" /></a>
+<figure class="third">
+<a href="{{ site.url }}/assets/images/2017/07/16/Sizzling-PRO-LG-3.jpg"><img src="{{ site.url }}/assets/images/2017/07/16/Sizzling-PRO-SM-3.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2017/07/16/Sizzling-PRO-LG-4.jpg"><img src="{{ site.url }}/assets/images/2017/07/16/Sizzling-PRO-SM-4.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2017/07/16/Sizzling-PRO-LG-7.jpg"><img src="{{ site.url }}/assets/images/2017/07/16/Sizzling-PRO-SM-7.jpg" alt="" /></a>
 </figure>
--->
+
 
 #### Splits
 
