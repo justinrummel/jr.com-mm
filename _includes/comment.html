@@ -50,6 +50,9 @@
   {% assign name        = reply.name %}
   {% assign url         = reply.url %}
   {% assign date        = reply.date %}
+  {% assign slug        = reply.slug %}
+  {% assign origin      = reply.origin %}
   {% assign message     = reply.message %}
-  {% include comment.html index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message %}
+
+  {% include comment.html index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date slug=slug origin=origin message=message %}
 {% endfor %}

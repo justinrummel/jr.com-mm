@@ -37,8 +37,10 @@
             {% assign name        = comment.name %}
             {% assign url         = comment.url %}
             {% assign date        = comment.date %}
+            {% assign slug        = comment.slug %}
+            {% assign origin      = comment.origin %}
             {% assign message     = comment.message %}
-            {% include comment.html index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message %}
+            {% include comment.html index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date slug=slug origin=origin message=message %}
 
             {% endfor %}
           </div>
