@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 5843de91c222cd518d47db80f5187f37bfbf67f0
+  revision: 822fa4d1f81e67024da2f7c86eaf869c00c20f0c
   specs:
     minimal-mistakes-jekyll (4.4.2)
       jekyll (~> 3.4)
@@ -24,7 +24,7 @@ GEM
     colored (1.2)
     ethon (0.10.1)
       ffi (>= 1.3.0)
-    faraday (0.12.1)
+    faraday (0.12.2)
       multipart-post (>= 1.2, < 3)
     faraday_middleware (0.11.0.1)
       faraday (>= 0.7.4, < 1.0)
@@ -99,7 +99,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
     mini_portile2 (2.1.0)
-    minitest (5.10.2)
+    minitest (5.10.3)
     multi_json (1.12.1)
     multipart-post (2.0.0)
     net-http-persistent (2.9.4)
