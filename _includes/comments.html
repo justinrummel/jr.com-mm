@@ -22,26 +22,23 @@
             <h4 class="page__comments-title">
               {{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}
             </h4>
-            {% assign comments = site.data.comments[page.slug] | where_exp:"item","item._parent == nil" %}
+            {% assign comments = site.data.comments[page.slug] | where_exp: "item", "item.replying_to == nil" %}
 
 <!--            {{ comments | inspect }}    -->
 
             {% for comment in comments %}
 
-              {% assign index   = forloop.index %}
-              {% assign p       = comment._parent %}
-              {% assign parent  = p | to_integer %}
+              {% assign index       = forloop.index %}
+              {% assign r           = comment.replying_to %}
+              {% assign replying_to = r | to_integer %}
 
-              {% assign avatar  = comment.avatar %}
-              {% assign email   = comment.email %}
-              {% assign name    = comment.name %}
-              {% assign url     = comment.url %}
-              {% assign date    = comment.date %}
-              {% assign slug    = comment.slug %}
-              {% assign origin  = comment.origin %}
-              {% assign message = comment.message %}
-
-              {% include comment.html index=index parent=parent avatar=avatar email=email name=name url=url date=date slug=slug origin=origin message=message %}
+            {% assign avatar      = comment.avatar %}
+            {% assign email       = comment.email %}
+            {% assign name        = comment.name %}
+            {% assign url         = comment.url %}
+            {% assign date        = comment.date %}
+            {% assign message     = comment.message %}
+            {% include comment.html index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message %}
 
             {% endfor %}
           </div>
@@ -87,7 +84,7 @@
           </fieldset> -->
           <fieldset class="hidden" style="display: none;">
             <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
-            <input type="hidden" id="comment-parent" name="options[parent]" value="">
+            <input type="hidden" id="comment-parent" name="fields[replying_to]" value="">
             <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug }}">
             <label for="comment-form-location">Not used. Leave blank if you are a human.</label>
             <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>

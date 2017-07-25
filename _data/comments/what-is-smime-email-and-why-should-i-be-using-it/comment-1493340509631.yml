@@ -1,5 +1,5 @@
 _id: 65463a40-2bac-11e7-8a38-856f741990e0
-_parent: '2'
+replying_to: '2'
 message: "Hello Diane,\r\n\r\nMy guess is the person that you are trying to send an email has not sent a \"signed\" email.  This would then provide you with their public key which would allow you to encrypt your email."
 name: Justin
 email: 812849b04c44245ad29c0e40cb84e3da

@@ -1,5 +1,5 @@
 _id: e5708590-365b-11e7-8856-9b031097afe5
-_parent: '3'
+replying_to: '3'
 message: "When security is a **primary** concern, S/MIME is a good thing.  This article is pretty old as it was originally written in 2011, but it is still valid.  \r\n\r\nI'm sure there are other options today that allow you to securely send data that may fit users needs better than generating certificate keys, but this still used."
 name: Justin
 email: 812849b04c44245ad29c0e40cb84e3da

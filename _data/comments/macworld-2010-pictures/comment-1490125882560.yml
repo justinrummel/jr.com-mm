@@ -1,5 +1,5 @@
 _id: c23ff6a0-0e6f-11e7-ba33-add746872269
-_parent: '3'
+replying_to: '3'
 message: Testing staticman.js now refactored into comment-provider/staticman.html
 name: Me
 email: 15eafca7e392482b2c2b6617afffdaaf
