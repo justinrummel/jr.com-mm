@@ -186,7 +186,7 @@ timezone                  : America/New_York # http://en.wikipedia.org/wiki/List
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
