@@ -27,6 +27,7 @@ gem 'json'
 
 gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem 'ffi'				#html-proofer requirement
 gem 'html-proofer'
 gem 'travis'
 
