@@ -50,8 +50,7 @@
 
         {% unless page.comments_locked == true %}
 
-
-
+        <script src="https://www.google.com/recaptcha/api.js"></script>
         <!-- Start new comment form -->
         <div id="respond">
         <h2 class="page__comments-title">
@@ -89,6 +88,8 @@
             <input type="hidden" id="comment-parent" name="fields[replying_to]" value="">
             <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug }}">
             <label for="comment-form-location">Not used. Leave blank if you are a human.</label>
+            <input type="text" name="options[reCaptcha][siteKey]" value="6Lfj9ysUAAAAAOWg3kjG9nsoDgJpZBo7PhxAMh1c">
+            <input type="text" name="options[reCaptcha][secret]" value="jlq9b/ZJ74mENEygF6jhYrTs/YUQVZoeMKl9giynbSXBmU5spAj1ETwwzaMOzsRqLukAEvAku5v5Af7O++2n2NGeSLQNOixSJfqCDrNMk3Ob6A4aRN11CQT5qFRlJxyVGmia8tZzqEyd1mrbZpd+AVsIh2sC5jhdrx+zgogCLkk=">
             <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
           </fieldset>
           <!-- Start comment form alert messaging -->
@@ -96,6 +97,9 @@
             <strong class="js-notice-text"></strong>
           </p>
           <!-- End comment form alert messaging -->
+          <fieldset>
+            <div class="g-recaptcha" data-sitekey="6Lfj9ysUAAAAAOWg3kjG9nsoDgJpZBo7PhxAMh1c"></div>
+          </fieldset>
           <fieldset>
 <!--             <label for="comment-form-reply"><input type="checkbox" id="comment-form-reply" name="options[subscribe]" value="email">&nbsp;Notify me of new comments by email.</label> -->
             <button type="submit" id="comment-form-submit" tabindex="5" class="btn btn--large">{{ site.data.ui-text[site.locale].comment_btn_submit | default: "Submit Comment" }}</button>
