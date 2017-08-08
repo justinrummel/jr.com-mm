@@ -186,23 +186,6 @@ figure {
   }
 }
 
-/* ==========================================================================
-   Should be removed once https://github.com/mmistakes/minimal-mistakes/issues/1155#issuecomment-320513850 is resolved
-   ========================================================================== */
-
-.page {
-    @include breakpoint($large) {
-    float: right;
-    width: span(8 of 12);
-    margin-right: span(2 of 12);
-    padding-left: gutter(0.5 of 12);
-    padding-right: gutter(2 of 12);
-  }
-}
-
-/* ==========================================================================
-   End
-   ========================================================================== */
 
 .page__hero {
   position: relative;

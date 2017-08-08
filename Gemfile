@@ -25,9 +25,9 @@ gem 'json'
 # gem "minimal-mistakes-jekyll"
 # gem 'net-http-persistent', '~> 2.9', '>= 2.9.4'
 
-gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"
+gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes", :branch => "layout-adjustments"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
-gem 'ffi'				#html-proofer requirement
+gem 'ffi'                                 # html-proofer requirement
 gem 'html-proofer'
 gem 'travis'
 
@@ -37,9 +37,9 @@ group :jekyll_plugins do
   gem 'jekyll-archives'
   gem 'jekyll-lunr-js-search', '~>3.2.0'
   gem 'octopress'
-#  gem 'liquid', '~> 3.0.6'			# would be nice if osx updated ruby
-#  gem 'nokogiri', '~> 1.6.0' 			# 1.7 requires ruby >= 2.1.0
-#  gem 'classifier-reborn'        		# --lsi support
-#  gem 'rb-gsl'                   		# make lsi faster.  Don't forget brew install gsl, Travis does not like gsl.
+#  gem 'liquid', '~> 3.0.6'               # would be nice if osx updated ruby
+#  gem 'nokogiri', '~> 1.6.0'             # 1.7 requires ruby >= 2.1.0
+#  gem 'classifier-reborn'                # --lsi support
+#  gem 'rb-gsl'                           # make lsi faster.  Don't forget brew install gsl, Travis does not like gsl.
 #  gem 'jekyll-twitter-plugin'
 end
