@@ -194,7 +194,7 @@ Additional Sources
 ---
 
 - [IPv6 Converter](http://ipv6-literal.com/)
-- [IPv6 REVERSE ZONE BUILDER](http://mike.kz/ipv6-zone-builder/)
+- [IPv6 REVERSE ZONE BUILDER](http://mike.kz/updated-ipv6-reverse-zone-builder/)
 
 [advance10.5]: http://www.amazon.com/Apple-Training-Advanced-System-Administration/dp/032156314X "Mac OS X Advanced System Administration v10.5"
 [ipv6calc]: http://mirrors.bieringer.de/www.deepspace6.net/projects/ipv6calc.html#id1506183 "ipv6calc"

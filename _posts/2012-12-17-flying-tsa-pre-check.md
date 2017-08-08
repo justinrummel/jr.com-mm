@@ -37,7 +37,7 @@ If you try to help by answering these questions before you start, they usually e
 Which Airports or Airlines are participating
 ---
 
-It's important to know that TSA Pre Check is available only if the airport AND the airline participate. This is because the airport is the entity who assigns a specifically area for TSA Pre Check approved individuals AND the way they know you are OK is they use a barcode scanner on your ticket (or e-ticket like using Apple's Passbook app on iOS 6) as been supplied by the airline. You can find a list of Airlines (then their associated airports) at: <http://www.tsa.gov/tsa-precheck/tsa-precheck-airlines-airports> OR at CBP site: <http://www.globalentry.gov/tsa.html>
+It's important to know that TSA Pre Check is available only if the airport AND the airline participate. This is because the airport is the entity who assigns a specifically area for TSA Pre Check approved individuals AND the way they know you are OK is they use a barcode scanner on your ticket (or e-ticket like using Apple's Passbook app on iOS 6) as been supplied by the airline. You can find a list of Airlines (then their associated airports) at: <https://www.tsa.gov/precheck/participating-airlines> OR at CBP site: <http://www.globalentry.gov/tsa.html>
 
 What is the signup process
 ---
