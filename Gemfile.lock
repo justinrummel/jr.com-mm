@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 4c0d70a35dc7608202ead55e3ef3859a02576737
+  revision: 1f5886713e5e06bf78625130b1b216e749f00dfd
   branch: layout-adjustments
   specs:
     minimal-mistakes-jekyll (4.5.0)
