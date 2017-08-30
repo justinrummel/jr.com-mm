@@ -77,7 +77,7 @@ Race Results
 After the race there was a GREAT post-race food and awards ceremony.  There was also a fun push-up competition that I participated in, but had no chance of winning as this brick wall of a guy just powered through as people dropped one-by-one.  I also won a free [Road ID][id] out of the raffle, and won a free book by confessing the embarrassing story previously mentioned of reading the compass incorrectly that the red line points north.  The book title is "Squiggly Lines" by [Mark Lattanzi][ML] and is set to be available March of 2017, but you can pre-order on his website's store: [www.tanznavigation.org/sqlines/index.php](http://www.tanznavigation.org/sqlines/).
 
 
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-strava">
 	<iframe src='https://www.strava.com/activities/831895403/embed/a52900b72c885a85ccf812c00dee369cb3b7392e' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 

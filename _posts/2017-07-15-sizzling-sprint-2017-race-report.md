@@ -37,7 +37,7 @@ I can't really expand on the pool as it matches [Salute][salute].  However, I am
 Since I was able to ride the route on Saturday, I knew: when turns were coming, when road obstacles were approaching, when the "hills" would start/end and the gears I wanted to use.  I didn't have any cars in my way this morning unlike [Salute][salute], and was picking off riders one by one.  I felt free, alive, and was flying.
 
 #### Strava Bike Activity
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-strava">
     <iframe src='https://www.strava.com/activities/1086606294/embed/3fb9521292c57a94955ea99fad6f4478f4d116a7' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
@@ -48,7 +48,7 @@ Since I was able to ride the route on Saturday, I knew: when turns were coming, 
 Last week I received a bike challenge from [Coach Josh][ss], but this week was a run challenge!  Hit the 5k w/ a sub 7:00m pace!  I knew this was going to be hard, again I was familiar with the route, plus I used it for my warm-up earlier.  I wasn't sure if I was going to achieve that challenge, but when I crossed the finish line I was happy knowing that pushed myself.
 
 #### Strava Run Activity
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-strava">
     <iframe src='https://www.strava.com/activities/1086606254/embed/aeb183beb4973d2cff7b6cb5e36f0613df58124d' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 

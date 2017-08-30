@@ -33,7 +33,7 @@ header:
 
 	+ [Training Peaks Bike Data](http://tpks.ws/YhqqD)
 
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-strava">
     <iframe src='https://www.strava.com/segments/5445873/embed' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 

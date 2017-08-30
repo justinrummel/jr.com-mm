@@ -36,7 +36,7 @@ As I mentioned above, the race started off the boat ramp in Gordon Creek.  The w
 Surprisingly, I *enjoyed* the first half of the swim!  I felt relaxed!  I didn't stress about how I was doing compared to others.  I didn't care who was around me, or if they were invading my mandatory 20ft diameter of personal swim space.  I was still doing well at the halfway point through the second turn going into the Chickahominy River, but I quickly noticed that I was not traveling as quickly compared to the creek.  I felt like I was fighting a current even though I believed I should be going downstream[^2].  **Then, I was kicked**.  I know this wasn't on purpose, but the person in front of me was doing the breaststroke and did a perfect underwater side kick strait to my chest.  This should have been a game ending situation as I choked on some water, started to panic, became aware that I was this floating obstetrical in the way of several other racers which made me self conscious and stressed.  And then I stood up.  The water was only four feet deep.  I was able to recompose myself and began to look ahead of me and found that 20% of the people in front of me figured out the same thing.  By the time we reached the end I would guess 90% of the people were doing this slow arm pull while running in the sloppy, wet, peanut butter mud, seaweed infested water that everyone was begging to end.
 
 #### Strava Swim Activity
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-strava">
     <iframe src='https://www.strava.com/activities/1074128053/embed/c5aa06396bcc559dae94a74c054d57f5e29dad35' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
@@ -51,7 +51,7 @@ Surprisingly, I *enjoyed* the first half of the swim!  I felt relaxed!  I didn't
 These are the race notes that [Coach Josh][ss] gave me on Friday.  He knows me well and I wanted to step up to his challenge of throwing down an average of 225 watts.  It was possible as elevation chart indicated a mostly flat ride for the bike segment.  I know I pushed myself hard as my left chest was hurting for a bit (don't know if it was heart or lung) during the fist 7.5 miles that forced me out of aero position to get my breathing back under control.  The ride back was not as smooth as we were on a super-wide paved sidewalk which had some dips and wooden bridges that I thought for sure was going to cause a flat[^3].  I had a blast!  However, I was dumb and pushed the wrong button on my watch so I actually recorded the longest swim **ever** with over 16 miles of swimming and most of that was on the road!  I did't hit the 225 watt challenge as Strava is guessing that I averaged 210 watts over the entire bike segment, and held an average pace of 22.4 mph.  Getting my post-race data fix will have to wait till the next race. *\*sigh\**
 
 #### Strava Ride Activity
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-strava">
     <iframe src='https://www.strava.com/activities/1074130099/embed/b9f0d9d444b3bbabef6abdb5d83ce1f88ced1bfc' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
@@ -62,7 +62,7 @@ These are the race notes that [Coach Josh][ss] gave me on Friday.  He knows me w
 Once I reached the bike dismount I quickly ran through transition, discover my watch self-imposed watch malfunction and fixed it, and then I was able to hit the run.  Remember when I mentioned on the bike that it felt like my heart or lung was hurting?  It was *really* hurting on the run.  Just before I reached the 1/2 mile marker... I walked.  I **HAD** to walk!!!  The pain in my chest was unbearable and didn't know what was going on.  As I was walking I tried to relax, feel my heart beat to make sure it wasn't fluttering or doing anything odd (other than beating extremely fast), and be aware of anyone who passed me.  While on the bike I knew of two people in my age group that were ahead of me.  One of them was not in sight, but the other I had passed in transition... so as long as I didn't see that guy... I was OK.  After two minutes of walking (and not seeing my competition), I restarted my run but now it was significantly much slower than I have been racing for the past couple of months.  I'm used to being able to race at a 7:30 pace, but I didn't want to have to walk again.  I was moving much slower, and the entire time I was paranoid that someone in my age group was going to pass me any minute.  I didn't get to enjoy the run like normal as I felt that my body was simply done with sprint racing for the day.
 
 #### Strava Run Activity
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-strava">
     <iframe src='https://www.strava.com/activities/1073565361/embed/c9b62e85c7c2bbc88785f44743ca6b63d9bcd08c' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 

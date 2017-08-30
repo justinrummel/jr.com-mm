@@ -42,7 +42,7 @@ I remember having a great ride last year, so any chance of improving my time was
 - [Training Peaks Bike Data](http://tpks.ws/h5mkL)
 
 ###### Strava Ride Activity
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-strava">
     <iframe src='https://www.strava.com/activities/1042592408/embed/8e2b993b136f82d87723794001b3a2bf2939c1aa' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
@@ -54,7 +54,7 @@ I remember having a great ride last year, so any chance of improving my time was
 - [Training Peaks Run Data](http://tpks.ws/Xhsdw)
 
 ###### Strava Run Activity
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-strava">
     <iframe src='https://www.strava.com/activities/1042592359/embed/1e15ff97d4516f461974691e105e0a77116376c6' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 

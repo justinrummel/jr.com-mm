@@ -44,7 +44,7 @@ As for the race, I knew I was in trouble from the beginning.  My heart rate felt
 - [Training Peaks Bike Data](http://tpks.ws/1AzIf)
 
 <!-- **Strava Ride Activity**
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-strava">
     <iframe src='https://www.strava.com/activities/997394937/embed/e4576df072c4b46752186428faae5fa980a838e6' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div> -->
 
@@ -55,7 +55,7 @@ As for the race, I knew I was in trouble from the beginning.  My heart rate felt
 - [Training Peaks Run Data](http://tpks.ws/6ja6j)
 
 <!-- **Strava Run Activity**
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-strava">
     <iframe src='https://www.strava.com/activities/997394948/embed/10fed54962df02b07816affba5bd89b99a483f60' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div> -->
 
@@ -69,7 +69,7 @@ I wanted to thank [Michelle and Liz][aaa] for orchestrating an amazing event.  T
 
 <!-- Relive Frame -->
 #### Relive Ride Video
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-relive">
     <iframe src='https://www.relive.cc/view/997394937/embed?x-ref=sc' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 

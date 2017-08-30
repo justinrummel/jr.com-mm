@@ -35,7 +35,7 @@ This was my first attempt at a trail race so I would be lying to myself if I did
 
 I ended up doing very well considering I had only ran twice throughout October, and both of those runs were 4 miles each.  I technically [came in fifth place among the 58 racers][running].  However, I was not eligible for any awards as I was competing in the ride and run category versus single sport 10K runners.  This is where I also found out that the ride and run contestants were TRUE endurance athletes as we were six of the top 10.
 
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-strava">
 	<iframe src='https://www.strava.com/activities/766663771/embed/537c91b0dea367383f6e87b93f2a4c96fd5eec61' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
@@ -52,7 +52,7 @@ My race plan was simple, go strong (but not hard) on the first loop then step it
 - a crash that literally ripped my spare kit off my bike
 - and more crashes after crashes
 
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-strava">
 	<iframe src='https://www.strava.com/activities/766663771/embed/537c91b0dea367383f6e87b93f2a4c96fd5eec61' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 

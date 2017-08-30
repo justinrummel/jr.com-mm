@@ -40,7 +40,7 @@ Larry Weeks is a 25 meter outdoor pool, so we completed 12 laps for the total 30
 
 <!--
 #### Strava Ride Activity
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-strava">
     <iframe src='https://www.strava.com/activities/1007920001/embed/169fecf4b6100f1f9cb18a0a1c734b3d096dd7fc' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 -->
@@ -53,7 +53,7 @@ Larry Weeks is a 25 meter outdoor pool, so we completed 12 laps for the total 30
 
 <!--
 #### Strava Run Activity
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-strava">
     <iframe src='https://www.strava.com/activities/1007919960/embed/8f621625419d05dc31f2a322a7553d686fd38e11' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 -->
@@ -69,7 +69,7 @@ Post Race Thoughts
 Once again big thanks to Rev3 for a great time and a great race!  Course was well marked, which always makes people happy that they didn't miss a turn!  The event was STACKED with some really great athletes.  Racing against [Speed Sherpa][ss] teammates Josh and Federico made this even better!  We were so well matched against each other there was just over 2 minutes separating between the three of us on our total times.
 
 #### Relive Video
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-relive">
     <iframe src='https://www.relive.cc/view/1007920001/embed?x-ref=sc' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 

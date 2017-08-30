@@ -349,14 +349,58 @@ figure {
    Responsive Video Embed
    ========================================================================== */
 
+/* Relive Ratio */
+.embed-container-relive {
+  /* Default */
+  padding-bottom: 58%;
+
+  @include breakpoint($small) {
+    /* When you are on a small screen, use this */
+    padding-bottom: 62.25%;
+  }
+
+  @include breakpoint($medium) {
+    /* greater than 800 */
+    padding-bottom: 60%;
+  }
+}
+
+.embed-container-strava {
+  /* Smallets */
+  padding-bottom: 125%;
+
+  @include breakpoint($small) {
+    /* When you are on a small screen, use this */
+    padding-bottom: 66.66%;
+  }
+
+  @include breakpoint($medium) {
+    /* greater than 800 */
+    padding-bottom: 50%;
+  }
+
+  @include breakpoint($large) {
+    /* greater than 800 */
+    padding-bottom: 68%;
+  }
+}
+
 /* 16x9 Aspect Ratio */
 .embed-container-16x9 {
-  padding-bottom: 56.25%;
+  padding-bottom: 120%;
+
+  @include breakpoint($small) {
+    padding-bottom: 66.66%;
+  }
 }
 
 /* 4x3 Aspect Ratio */
 .embed-container-4x3 {
   padding-bottom: 75%;
+
+  @include breakpoint($small) {
+    padding-bottom: 75%;
+  }
 }
 
 .embed-container {
@@ -395,6 +439,7 @@ figure {
   /* padding-right: 10px; */
 
   @include breakpoint($small) {
+    /* When you are on a small screen, use this */
     float: left;
     margin-right: 1em;
   }
