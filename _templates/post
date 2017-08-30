@@ -44,13 +44,13 @@ header:
 
 <!-- Strava Frame -->
 #### Strava Ride Activity
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-strava">
     <iframe src='https://www.strava.com/activities/913975066/embed/65c0a4d4577068557a18b6fed6a422154de6e8b8' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 <!-- Relive Frame -->
 #### Relive Video
-<div class="embed-container embed-container-16x9">
+<div class="embed-container embed-container-relive">
     <iframe src='https://www.relive.cc/view/913975066/embed?x-ref=sc' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
