@@ -1,6 +1,7 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: f6ed6f6225bb64fb24dbdde0f26e850883b92143
+  revision: 91125d2e8390e71bea62247bbfca0542c4e4978f
+  branch: color-skins
   specs:
     minimal-mistakes-jekyll (4.5.1)
       jekyll (~> 3.5, >= 3.5.1)
@@ -103,7 +104,7 @@ GEM
     mercenary (0.3.6)
     mini_portile2 (2.2.0)
     minitest (5.10.3)
-    multi_json (1.12.1)
+    multi_json (1.12.2)
     multipart-post (2.0.0)
     net-http-persistent (2.9.4)
     net-http-pipeline (1.0.1)
