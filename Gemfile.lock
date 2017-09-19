@@ -1,9 +1,8 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 80e452e4999007d593ba393b7de99b12f3c5b71d
-  branch: color-skins
+  revision: e194bc0c7e2bfc6c12d291bccc947d4aa68beb10
   specs:
-    minimal-mistakes-jekyll (4.5.2)
+    minimal-mistakes-jekyll (4.6.0)
       jekyll (~> 3.5, >= 3.5.1)
       jekyll-data (~> 1.0)
       jekyll-feed (~> 0.9.2)

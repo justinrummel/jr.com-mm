@@ -25,8 +25,8 @@ gem 'json'
 # gem 'net-http-persistent', '~> 2.9', '>= 2.9.4'
 
 # gem "minimal-mistakes-jekyll"
-# gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"
-gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes", :branch => 'color-skins'
+gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"
+# gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes", :branch => 'color-skins'
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem 'ffi'                                 # html-proofer requirement
 gem 'html-proofer'
