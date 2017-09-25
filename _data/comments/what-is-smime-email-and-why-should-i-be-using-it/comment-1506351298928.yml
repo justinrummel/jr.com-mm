@@ -1,0 +1,7 @@
+_id: 7fdc23d0-a201-11e7-a643-05c91d92cbad
+message: "Hello Justin,\r\n\r\nI hope you are still reading these comments. I stumbled into this page because I'm trying to understand what S/MIME offers over regular SSL/TLS. If you are already sending encrypted email with SSL/TLS, why would you use S/MIME? Doesn't SSL/TLS already ensures authentication, integrity and confidentiality?"
+name: Alejandro Guerrero
+email: 2160de91eeffc339a9670dd7d4d18d54
+replying_to: ''
+hidden: ''
+date: '2017-09-25T14:54:58.915Z'
