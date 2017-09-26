@@ -1,0 +1,7 @@
+_id: 83f0cfd0-a250-11e7-a643-05c91d92cbad
+message: "Hello Alejandro,\r\n\r\nThink of this the same way you are doing encryption.  True encryption security of data being transferred from one party to the other requires two levels: encryption over the wire, and encryption at rest.  \r\n\r\nEncryption over the wire is your TLS connection.  This establishes your Handshake so the two parties can pass data to each other in a secure fashion.  However, once the file is on the server... a generic email will be in plain text.  While an S/MIME email is going to be a bunch of text garbage unless it can be decrypted by your private S/MIME key.\r\n\r\nHope this helps."
+name: Justin
+email: 812849b04c44245ad29c0e40cb84e3da
+replying_to: '6'
+hidden: ''
+date: '2017-09-26T00:20:35.881Z'
