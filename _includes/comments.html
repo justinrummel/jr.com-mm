@@ -22,7 +22,7 @@
             <h4 class="page__comments-title">
               {{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}
             </h4>
-            {% assign comments = site.data.comments[page.slug] | where_exp: "item", "item.replying_to == nil" %}
+            {% assign comments = site.data.comments[page.slug] | where_exp: 'item', 'item.replying_to == blank' | sort: 'date' %}
 
 <!--            {{ comments | inspect }}    -->
 
@@ -32,15 +32,15 @@
               {% assign r           = comment.replying_to %}
               {% assign replying_to = r | to_integer %}
 
-            {% assign avatar      = comment.avatar %}
-            {% assign email       = comment.email %}
-            {% assign name        = comment.name %}
-            {% assign url         = comment.url %}
-            {% assign date        = comment.date %}
-            {% assign slug        = comment.slug %}
-            {% assign origin      = comment.origin %}
-            {% assign message     = comment.message %}
-            {% include comment.html index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date slug=slug origin=origin message=message %}
+              {% assign avatar      = comment.avatar %}
+              {% assign email       = comment.email %}
+              {% assign name        = comment.name %}
+              {% assign url         = comment.url %}
+              {% assign date        = comment.date %}
+              {% assign slug        = comment.slug %}
+              {% assign origin      = comment.origin %}
+              {% assign message     = comment.message %}
+              {% include comment.html index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date slug=slug origin=origin message=message %}
 
             {% endfor %}
           </div>

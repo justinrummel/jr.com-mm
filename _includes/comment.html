@@ -39,7 +39,7 @@
 {% capture i %}{{ include.index }}{% endcapture %}
 {% assign replies = site.data.comments[page.slug] | where_exp: "item", "item.replying_to == i" %}
 
-<!--            {{ replies | inspect }}    -->
+<!-- {{ replies | inspect }} -->
 
 {% for reply in replies %}
   {% assign index       = forloop.index | prepend: '-' | prepend: include.index %}
