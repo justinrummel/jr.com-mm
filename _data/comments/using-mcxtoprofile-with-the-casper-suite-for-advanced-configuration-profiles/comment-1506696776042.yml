@@ -1,0 +1,7 @@
+_id: e02fc710-a525-11e7-988c-0da33b08c6af
+message: "Hi Justin,\r\n\r\nI'm using the mcx_preferences to set language settings (input source, region etc.). It's working but afterwards some user want to change their settings. Is it possible to remove the \"management frequency\" (I was using --manage Once). They can remove the configuration profile but after a relogin/restart it will be back. The second question is: How does the mcx_data_timestamp work? Is it the time range how long the user can change his settings and save them or will the profile be reverted when the date is passed without saving any new settings made by the user? \r\n\r\nThanks for sharing your information!"
+name: r0xx
+email: 7869b619df4902f27a461f2aedbb2789
+replying_to: ''
+hidden: ''
+date: '2017-09-29T14:52:56.026Z'
