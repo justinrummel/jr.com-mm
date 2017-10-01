@@ -1,12 +1,13 @@
 language: ruby
 
 rvm:
-  - 2.4.1
+  - 2.3.3
 
 sudo: false
 
 env:
   global:
+    - JEKYLL_ENV=production
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
     # https://docs.travis-ci.com/user/environment-variables/#Encrypting-environment-variables
     # CLOUDFLARE_ZONE
