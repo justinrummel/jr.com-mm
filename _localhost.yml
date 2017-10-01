@@ -17,7 +17,6 @@ compress_html:
   ignore:
     envs                  : development
 
-
 webrick:
   headers:
     My-Header             : My-Value

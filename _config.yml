@@ -198,8 +198,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - liquid-md5
   - jemoji
+  - liquid-md5
   - jekyll-lunr-js-search
 
 # mimic GitHub Pages with --safe
@@ -248,7 +248,6 @@ compress_html:
   comments                : ["<!-- ", " -->"]
   blanklines              : true
   profile                 : false
-
 
 # https://mmistakes.github.io/minimal-mistakes/docs/installation/
 # Defaults
