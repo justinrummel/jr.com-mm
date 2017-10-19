@@ -1,0 +1,7 @@
+_id: 82299ae0-b508-11e7-9670-3b6a9dc04145
+message: "An interesting article and a very good starter for those on Sierra or High Sierra who wish to have IPv6 within a local network. I have such a small network and am running High Sierra on my mail iMacs, but El Capitan and Server 5.2 on my (Early 2009) Mac mini.\r\n\r\nI started to follow your examples, but they didn't seem to be adopted by the Server app when DNS was restarted. It seems, though, that IPv6 addresses may be added within the Server app in the same way one might add/modify an A record, with the reverse zone being generated at the same time (although the moment a different AAAA address is added, a new reverse zone is also generated, Server.app not seeming to understand the theory of your example above!!)."
+name: Jan Cobb
+email: 6bf2863d7c89bdc0c2ee2d1493c5268a
+replying_to: ''
+hidden: ''
+date: '2017-10-19T20:03:01.122Z'
