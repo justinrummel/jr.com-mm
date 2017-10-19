@@ -365,6 +365,15 @@ figure {
   }
 }
 
+/* 9x16 Aspect Ratio */
+.embed-container-9x16 {
+  padding-bottom: 67.5%;
+
+  @include breakpoint($small) {
+    padding-bottom: 33%;
+  }
+}
+
 /* 16x9 Aspect Ratio */
 .embed-container-16x9 {
   padding-bottom: 120%;
