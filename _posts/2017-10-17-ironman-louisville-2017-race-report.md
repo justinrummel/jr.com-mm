@@ -107,7 +107,7 @@ Jumping into the water was similar to Saturday's practice swim, however, the win
 
 
 <!-- Strava Frame -->
-**Strava Ride Activity**
+**Strava Swim Activity**
 <div class="embed-container embed-container-strava">
     <iframe src='https://www.strava.com/activities/1232722392/embed/7a76bbc7f84c9993580c6967a911dfaded4bde63' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
@@ -157,7 +157,7 @@ Getting back to the flat section of the course on River, RD... I soon could hear
 
 
 <!-- Strava Frame -->
-**Strava Ride Activity**
+**Strava Bike Activity**
 <div class="embed-container embed-container-strava">
     <iframe src='https://www.strava.com/activities/1232722559/embed/e054506a76c50079d28e3c5c75126c4ab26be763' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
@@ -186,7 +186,7 @@ Not sure why it took so long, but around mile 22 the realizations finally hit th
 
 
 <!-- Strava Frame -->
-**Strava Ride Activity**
+**Strava Run Activity**
 <div class="embed-container embed-container-strava">
     <iframe src='https://www.strava.com/activities/1232722421/embed/da26ef57282696bae11c6dc727e834cf73f36a8b' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
