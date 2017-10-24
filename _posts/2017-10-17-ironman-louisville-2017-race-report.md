@@ -236,6 +236,7 @@ At this point I need to give out a few thanks:
     + Dr. John at [Haymarket Physical Therapy][hpt] in Bristow.  I came in TWICE this year of "I have pain in my leg, and I'm racing in 10 days".  Your expertise has a long time customer and advocate of your services.
     + Kur at [VeloFit][velofit].  You were able to dial me in to ensure I can stay in aero for the entire bike segment.
     + Haymarket Bicycles Fit Studio for doing a final tune of the bike.
+    + My employer for being so understanding in letting me have a flexible work schedule so I can be productive yet train in the early mornings.
 - And lastly to my IMLOU SpeedSherpa teammates and fellow SpeedSherpa crew.  Training with you for the past couple of months has been wonderful, and seeing everyone cross the finish was a true gift in itself.  You catered to my crazy questions as I was the only one that had not done an IRONMAN event before, I would be lost without everyone's help.  The SpeedSherpa crew, it was wonderful to see everyone's comments on Facebook (or by direct message) of confidence and encouragement.  Thanks for strong virtual support!  It was wonderful to read your comments and discussion with each other while the SS IMLOU racers were out on the course.
 
 
