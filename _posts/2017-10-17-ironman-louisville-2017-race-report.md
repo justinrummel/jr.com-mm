@@ -233,7 +233,7 @@ At this point I need to give out a few thanks:
 - Second my coach, Josh.  You kept things positive and you had unwavering confidence in my ability since December... even with two injuries this season (just before camp and two weeks before IMLOU).  Greatly appreciate your guidance and friendship.
 - A couple of local shout outs to:
     + Coach Abi at [Freedom Aquatic Center Master Team][fac].  You improved my swim so much this year, and is what made it possible for me to complete the 2.4 mile swim.
-    + Dr. John at [Haymarket Physical Therapy][hpt] in Bristow.  I came in TWICE this year of "I have pain in my leg, and I'm racing in 10 days".  Your expertise has a long time customer and advocate of your services.
+    + Dr. John and the entire staff at [Haymarket Physical Therapy][hpt] in Bristow.  I came in TWICE this year of "I have pain in my leg, and I'm racing in 10 days".  Your expertise has a long time customer and advocate of your services.
     + Kur at [VeloFit][velofit].  You were able to dial me in to ensure I can stay in aero for the entire bike segment.
     + Haymarket Bicycles Fit Studio for doing a final tune of the bike.
     + My employer for being so understanding in letting me have a flexible work schedule so I can be productive yet train in the early mornings.
