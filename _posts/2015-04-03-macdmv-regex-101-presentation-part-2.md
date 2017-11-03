@@ -70,14 +70,14 @@ Picture example
 
 <figure>
 	<a href="{{ site.url }}/assets/images/2015/02/25/2-_CFURLString.png"><img src="{{ site.url }}/assets/images/2015/02/25/2-_CFURLString_800.png" alt="HardVHD 1"></a>
-	<figcaption>Same as "bundle-identifier" but now using "_CFURLString" in the first line</figcaption>
+	<figcaption class="align-text-center">Same as "bundle-identifier" but now using "_CFURLString" in the first line</figcaption><br />
 </figure>
 
 #### Now Find the file-label
 
 <figure>
 	<a href="{{ site.url }}/assets/images/2015/02/25/3-file-label.png"><img src="{{ site.url }}/assets/images/2015/02/25/3-file-label_800.png" alt="HardVHD 1"></a>
-	<figcaption>Close to "bundle-identifier" but now we must take into consideration results with or without quotes and that the names may have spaces.</figcaption>
+	<figcaption class="align-text-center">Close to "bundle-identifier" but now we must take into consideration results with or without quotes and that the names may have spaces.</figcaption><br />
 </figure>
 
 Some of you may notice that "bundle-identifier" has 24 results while "_CFURLString" has 27.  I have three folders in my Dock thus they don't have a bundle-identifier, just the folder path sting that is returned from "_CFURLString".  The file-label result was tricky to figureout, but still simple in design.  I had to take into consideration that the label may NOT have quotations surrounding the label as they will only appear when there is a space in the name.

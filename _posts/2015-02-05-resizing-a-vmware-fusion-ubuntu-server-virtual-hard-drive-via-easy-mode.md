@@ -55,7 +55,7 @@ Now it would be really nice if VMware Fusion's tools to increase the VHD worked 
 
 <figure>
 	<a href="{{ site.url }}/assets/images/2015/02/05/EasyVHD-1.png"><img src="{{ site.url }}/assets/images/2015/02/05/EasyVHD-1_800.png" alt="EasyVHD 1"></a>
-	<figcaption>Result VMware Fusion VHD setting after adjusting from 20GB to 30GB.</figcaption>
+	<figcaption class="align-text-center">Result VMware Fusion VHD setting after adjusting from 20GB to 30GB.</figcaption><br />
 </figure>
 
 We start our Ubuntu Server to verify that our new drive is now 30GB of storage, however what we see is the Virtual Environment believes we have 30GB (32.2 specifically) but our /dev/sda1 partition is still at 19GBs?!
@@ -89,7 +89,7 @@ First we are going to use a Linux Live CD called [GParted][gparted].  Download t
 <figure class="half">
 	<a href="{{ site.url }}/assets/images/2015/02/05/EasyVHD-2.png"><img src="{{ site.url }}/assets/images/2015/02/05/EasyVHD-2_256.png" alt="EasyVHD 2"></a>
 	<a href="{{ site.url }}/assets/images/2015/02/05/EasyVHD-3.png"><img src="{{ site.url }}/assets/images/2015/02/05/EasyVHD-3_256.png" alt="EasyVHD 3"></a>
-	<figcaption>GParted attached as a CD/DVD drive, then booting from that drive.</figcaption>
+	<figcaption class="align-text-center">GParted attached as a CD/DVD drive, then booting from that drive.</figcaption><br />
 </figure>
 
 Assuming you are a native English speaking individual and that you have a "US" keyboard setup, you can safely hit the Enter key for a couple of times to get to the GParted application.  GParted will show you some critical information that we must overcome:
@@ -107,27 +107,27 @@ Unfortunately with this GUI application you cannot just "drag" or "move" the ext
 
 <figure>
 	<a href="{{ site.url }}/assets/images/2015/02/05/EasyVHD-4.png"><img src="{{ site.url }}/assets/images/2015/02/05/EasyVHD-4_800.png" alt="EasyVHD 4"></a>
-	<figcaption>Select the /dev/sda2 "extended" and Resize/Move to take over the unallocated area, and hit apply.</figcaption>
+	<figcaption class="align-text-center">Select the /dev/sda2 "extended" and Resize/Move to take over the unallocated area, and hit apply.</figcaption><br />
 </figure>
 
 <figure>
 	<a href="{{ site.url }}/assets/images/2015/02/05/EasyVHD-5.png"><img src="{{ site.url }}/assets/images/2015/02/05/EasyVHD-5_800.png" alt="EasyVHD 5"></a>
-	<figcaption>Select the /dev/sda5 "linux-swap" and Resize/Move to the end of our extended area, and hit apply.</figcaption>
+	<figcaption class="align-text-center">Select the /dev/sda5 "linux-swap" and Resize/Move to the end of our extended area, and hit apply.</figcaption><br />
 </figure>
 
 <figure>
 	<a href="{{ site.url }}/assets/images/2015/02/05/EasyVHD-6.png"><img src="{{ site.url }}/assets/images/2015/02/05/EasyVHD-6_800.png" alt="EasyVHD 6"></a>
-	<figcaption>Select the /dev/sda2 "extended" to create <b>new</b> unallocated space preceding the "linux-swap" space.</figcaption>
+	<figcaption class="align-text-center">Select the /dev/sda2 "extended" to create <b>new</b> unallocated space preceding the "linux-swap" space.</figcaption><br />
 </figure>
 
 <figure>
 	<a href="{{ site.url }}/assets/images/2015/02/05/EasyVHD-7.png"><img src="{{ site.url }}/assets/images/2015/02/05/EasyVHD-7_800.png" alt="EasyVHD 7"></a>
-	<figcaption>Select the /dev/sda1 and Resize/Move to take over our new unallocated area.</figcaption>
+	<figcaption class="align-text-center">Select the /dev/sda1 and Resize/Move to take over our new unallocated area.</figcaption><br />
 </figure>
 
 <figure>
 	<a href="{{ site.url }}/assets/images/2015/02/05/EasyVHD-8.png"><img src="{{ site.url }}/assets/images/2015/02/05/EasyVHD-8_800.png" alt="EasyVHD 8"></a>
-	<figcaption>Verify our primary partition now has the 30GB storage (minus 2GB for swap in this example).</figcaption>
+	<figcaption class="align-text-center">Verify our primary partition now has the 30GB storage (minus 2GB for swap in this example).</figcaption><br />
 </figure>
 
 To verify everything is running again, change your startup disk back to your Drive in VMware Fusion, restart your VM and run the same commands from the beginning.

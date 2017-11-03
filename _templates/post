@@ -30,7 +30,7 @@ header:
 
 <!-- big picture in center -->
 <figure class="align-center"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" alt="" /></a>
-<figcaption>blah blah blah</figcaption>
+<figcaption class="align-text-center">blah blah blah</figcaption><br />
 </figure>
 
 

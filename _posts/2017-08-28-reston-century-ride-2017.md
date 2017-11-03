@@ -25,7 +25,7 @@ Anyone in the Northern Virginia area who is looking to achieve a long ride (32, 
 <a href="{{ site.url }}/assets/images/2017/08/28/Reston_Century-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/08/28/Reston_Century-LG-1.jpg" alt="" /></a>
 <a href="{{ site.url }}/assets/images/2017/08/28/Reston_Century-LG-3.jpg"><img src="{{ site.url }}/assets/images/2017/08/28/Reston_Century-LG-3.jpg" alt="" /></a>
 <a href="{{ site.url }}/assets/images/2017/08/28/Reston_Century-LG-5.jpg"><img src="{{ site.url }}/assets/images/2017/08/28/Reston_Century-LG-5.jpg" alt="" /></a>
-<figcaption>Pictures of the different rest stop areas</figcaption><br />
+<figcaption class="align-text-center">Pictures of the different rest stop areas</figcaption><br />
 </figure>
 
 As for the ride, I was able to see different parts of Virginia that I haven't seen before on my usual routes.  I was also able to see the infamous "[Taylorstown][taylor]" hill which is on average 5% incline over 1.6 miles, however, at some spots the incline is really steep at +10%.  That hill was then followed by another called "[Stumptown][stump]" which was another 1.6 mile ascent with an average of 3% incline, but peaked at 12%!  Doing this on a Triathlon bike, which usually doesn't have the larger gears on the rear cassette, makes both of these hills a grueling endeavor.
@@ -44,7 +44,7 @@ As for the ride, I was able to see different parts of Virginia that I haven't se
 </div>
 
 <figure class="align-center"><a href="{{ site.url }}/assets/images/2017/08/28/Reston_Century-Team-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/08/28/Reston_Century-Team-MD-1.jpg" alt="" /></a>
-<figcaption>Such a great ride with these friends!</figcaption>
+<figcaption class="align-text-center">Such a great ride with these friends!</figcaption><br />
 </figure>
 
 

@@ -70,7 +70,7 @@ With the good run but a horrible ride, I [placed 7th out of the nine competitors
 <a href="{{ site.url }}/assets/images/2016/11/15/EX2-RR-LG-1.jpg"><img src="{{ site.url }}/assets/images/2016/11/15/EX2-RR-SM-1.jpg" alt="" /></a>
 <a href="{{ site.url }}/assets/images/2016/11/15/EX2-RR-LG-2.jpg"><img src="{{ site.url }}/assets/images/2016/11/15/EX2-RR-SM-2.jpg" alt="" /></a>
 <a href="{{ site.url }}/assets/images/2016/11/15/EX2-RR-LG-3.jpg"><img src="{{ site.url }}/assets/images/2016/11/15/EX2-RR-SM-3.jpg" alt="" /></a>
-<figcaption>Professional Pictures by Brian W. Knight/<a href="http://www.swimbikerunphoto.com/about/">Swim Bike Run Photography</a></figcaption>
+<figcaption class="align-text-center">Professional Pictures by Brian W. Knight/<a href="http://www.swimbikerunphoto.com/about/">Swim Bike Run Photography</a></figcaption><br />
 </figure>
 
 [tin]: http://www.triitnow.com/DUIT/duit.htm

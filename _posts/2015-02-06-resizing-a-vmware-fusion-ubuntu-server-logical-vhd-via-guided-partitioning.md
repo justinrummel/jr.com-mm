@@ -26,7 +26,7 @@ In my previous article [Resizing a VMware Fusion Ubuntu Server Virtual Drive (vi
 
 <figure>
 	<a href="{{ site.url }}/assets/images/2015/02/06/HardVHD-1.png"><img src="{{ site.url }}/assets/images/2015/02/06/HardVHD-1_800.png" alt="HardVHD 1"></a>
-	<figcaption>Red pill, or blue pill?</figcaption>
+	<figcaption class="align-text-center">Red pill, or blue pill?</figcaption><br />
 </figure>
 
 By deselecting the "Use Easy Install" checkbox, you will be required to walk through the OS install setup just like if you were loading a physical CD into a physical machine.  One of the steps during the setup assistant for Ubuntu Server is partitioning your Drive which has a default value of "Guided - use entire disk and set up LVM".
