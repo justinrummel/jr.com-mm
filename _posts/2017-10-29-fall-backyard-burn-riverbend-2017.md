@@ -22,9 +22,11 @@ This year EX2 Adventures is hosting "[Fall Backyard Burn Trail Running Series][b
 
 Overall the 5 mile loop was fun.  There were four challenging hills during the loop which really took a toll against my body the second time around.  I didn't expect to podium in my age group, and I didn't!  But who cares, I was able to get back into the woods.
 
-<figure class="half">
+<figure class="fourth">
 <a href="{{ site.url }}/assets/images/2017/10/29/EX2-Riverbend-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/10/29/EX2-Riverbend-SM-1.jpg" alt="" /></a>
 <a href="{{ site.url }}/assets/images/2017/10/29/EX2-Riverbend-LG-PRO-1.jpg"><img src="{{ site.url }}/assets/images/2017/10/29/EX2-Riverbend-SM-PRO-1.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2017/10/29/EX2-Riverbend-LG-PRO-2.jpg"><img src="{{ site.url }}/assets/images/2017/10/29/EX2-Riverbend-SM-PRO-2.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2017/10/29/EX2-Riverbend-LG-PRO-3.jpg"><img src="{{ site.url }}/assets/images/2017/10/29/EX2-Riverbend-SM-PRO-3.jpg" alt="" /></a>
 </figure>
 
 <!-- Strava Frame -->
