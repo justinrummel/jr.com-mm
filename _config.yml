@@ -201,7 +201,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - liquid-md5
-  - jekyll-lunr-js-search
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -279,8 +278,3 @@ post_layout               : post
 page_layout               : page
 page_layout               : photos
 
-
-# Lunr https://github.com/slashdotdash/jekyll-lunr-js-search
-lunr_search:
-  js_dir                  : "/assets/js/lunr"
-  min_length              : 3
