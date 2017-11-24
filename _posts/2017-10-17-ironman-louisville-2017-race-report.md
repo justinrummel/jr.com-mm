@@ -209,7 +209,7 @@ At this point you're exhausted and tired, and the support staff knows it.  You a
 >SS: That is good.  We're going to take you this way
 >ME: Great, do you have pizza
 >
->SS: He... yes.  Do you have any friends or family here
+>SS: Hehe... yes.  Do you have any friends or family here
 >ME: Yeah. some food would be great too
 
 My hunger was overwhelming... but when you burn about 7000 calories and only take in about 4000 over the entire day... it will catch up.  For the rest of the night, I stood by the sidelines and tried to record everyone crossing the finish line to capture their moment in time and welcome them after completing such an amazing effort.
