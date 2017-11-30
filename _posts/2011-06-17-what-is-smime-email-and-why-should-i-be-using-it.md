@@ -44,7 +44,7 @@ So how do you encrypt email?
 ---
 Question: If you send a letter through the post office do you simply print a piece of paper and drop off in a mailbox, or do you put it in an envelope. Why put it in an envelope? So people won't read the contents of inside the envelope! If you are worried about people reading your letter, why do you send an email without a virtual "envelope"? As an email passes through every router and switch... and from one mail server to another... without it being inside a virtual "envelope" (thus encrypted), anyone could look at your letter. Yes it's a little dramatic, but it is possible.
 
-Now that I have peaked your interested in sending signed and/or encrypted email messages, how is it possible? Well, it first deals with certificates. Certificates don't have to be hard, but it takes a bit to get used to and there are several complications when dealing with certificates:
+Now that I have piqued your interested in sending signed and/or encrypted email messages, how is it possible? Well, it first deals with certificates. Certificates don't have to be hard, but it takes a bit to get used to and there are several complications when dealing with certificates:
 
 1.  Certificates must come from a "Third-Party".
 2.  Certificates must be shared in some fashion (Fortunately email makes this simple).
