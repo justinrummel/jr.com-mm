@@ -1,0 +1,12 @@
+_id: 7e538ce0-d908-11e7-84b8-65f7ac69ee30
+message: >-
+  PGP/GPG is a different application than S/MIME, but functionally it does the
+  same thing.  What makes PGP/GPG different is you have to have that installed
+  vs. only using certificates on your machine.
+name: Justin
+email: 812849b04c44245ad29c0e40cb84e3da
+replying_to: '8'
+hidden: ''
+date: '2017-12-04T15:33:37.085Z'
+tags:
+  - user-generated
