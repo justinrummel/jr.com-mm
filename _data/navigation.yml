@@ -7,27 +7,8 @@ main:
   - title: Resume
     url: /resume/
 
-#  - title: "Posts Archive"
-#    url: /posts/
-#
-#  - title: "Tag Archive"
-#    url: /tags/
-#
-#  - title: "Category Archive"
-#    url: /categories/
-
-#  - title: Archives
-#    url:
-#    children:
-#      - title: "Posts Archive"
-#        url: /posts/
-#      - title: "Tag Archive"
-#        url: /tags/
-#      - title: "Category Archive"
-#        url: /categories/
-
-  - title: Search
-    url: /search/
+#  - title: Search
+#    url: /search/
 
 docs:
   - title:
