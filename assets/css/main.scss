@@ -16,6 +16,9 @@
   margin-top: 0;
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
+  line-height: initial;
+  overflow: hidden;
+  text-overflow: ellipsis;
 
   a + a {
     opacity: 0.5;
@@ -195,7 +198,9 @@ figure {
   position: relative;
   margin-bottom: 2em;
   @include clearfix;
-  animation: intro 0.3s both;
+  -webkit-animation: $intro-transition;
+  animation: $intro-transition;
+  -webkit-animation-delay: 0.25s;
   animation-delay: 0.25s;
 
   &--overlay {
@@ -207,7 +212,9 @@ figure {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    animation: intro 0.3s both;
+    -webkit-animation: $intro-transition;
+    animation: $intro-transition;
+    -webkit-animation-delay: 0.25s;
     animation-delay: 0.25s;
 
     a {
@@ -268,9 +275,9 @@ figure {
   margin-bottom: 4em;
   font-size: 0.9em;
 
-//  &:not(:last-child) {
-//    border-bottom: 1px solid $border-color;
-//  }
+  &:not(:last-child) {
+    border-bottom: 1px solid $border-color;
+  }
 
   // comment replies
   &.child {
@@ -458,4 +465,20 @@ figure {
   margin-right: auto;
   padding-left: 0;
   padding-right: 0;
+}
+
+.fa-strava {
+  color: #fff !important;
+  fill: #fff !important;
+  width: 18px !important;
+  margin-top: -4px;
+  margin-left: 2px !important;
+  margin-right: 2px !important;
+}
+
+.fa-json {
+  color: #fff !important;
+  fill: #fff !important;
+  width: 0.9em;
+  margin-top: -3px;
 }
