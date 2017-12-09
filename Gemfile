@@ -2,8 +2,8 @@ source "https://rubygems.org"
 
 ### MM Gems
 # gem "minimal-mistakes-jekyll"
-# gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"
-gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes", :branch => 'masthead-search'
+gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"
+# gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes", :branch => 'masthead-search'
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem 'ffi'                                 # html-proofer requirement

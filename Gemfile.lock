@@ -1,15 +1,14 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 205ea7365b93521357ca25ccede7a7e42ea7f730
-  branch: masthead-search
+  revision: 5490b6f46a21d715f14766b8b73bf4d60c0b145c
   specs:
-    minimal-mistakes-jekyll (4.7.1)
-      jekyll (~> 3.5, >= 3.5.1)
+    minimal-mistakes-jekyll (4.8.0)
+      jekyll (~> 3.6)
       jekyll-data (~> 1.0)
       jekyll-feed (~> 0.9.2)
       jekyll-gist (~> 1.4)
       jekyll-paginate (~> 1.1)
-      jekyll-sitemap (~> 1.0)
+      jekyll-sitemap (~> 1.1)
       jemoji (~> 0.8)
 
 GEM
