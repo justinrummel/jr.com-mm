@@ -467,18 +467,23 @@ figure {
   padding-right: 0;
 }
 
-.fa-strava {
+/* NEED a better way to do this
+.fa-json {
+  background: url(/assets/images/json-feed.svg) no-repeat top left;
+  background-size: contain;
   color: #fff !important;
   fill: #fff !important;
-  width: 18px !important;
-  margin-top: -4px;
-  margin-left: 2px !important;
-  margin-right: 2px !important;
+  width: 0.8em;
+  height: 0.8em;
+  margin-top: -3px;
+}
+*/
+
+/* Strava color: https://www.schemecolor.com/strava.php */
+.orange {
+  color: #fc4c02;
 }
 
-.fa-json {
-  color: #fff !important;
-  fill: #fff !important;
-  width: 0.9em;
-  margin-top: -3px;
+.white {
+  color: #fff;
 }
