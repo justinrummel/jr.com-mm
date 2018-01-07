@@ -17,19 +17,19 @@ tags:
     - Rev3
     - VTS/MTS
 header:
-    image: /assets/images/2017/01/01/29681800390_4366dbecc9_k-Header.jpg            # Twitter (use 'overlay_image')
-    overlay_image: /assets/images/2017/01/01/29681800390_4366dbecc9_k-Header.jpg    # Article header at 2048x768
+    image: /assets/images/2018/01/01/29681800390_4366dbecc9_k-Header.jpg            # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2018/01/01/29681800390_4366dbecc9_k-Header.jpg    # Article header at 2048x768
     overlay_filter: 0.15
-    teaser: /assets/images/2017/01/01/29681800390_4366dbecc9_k-Header-Twitter.jpg   # Shrink image to 575x216
+    teaser: /assets/images/2018/01/01/29681800390_4366dbecc9_k-Header-Twitter.jpg   # Shrink image to 575x216
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 
 <!-- Article picture, left or right -->
-<figure class="align-right"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" alt="" /></a></figure>
-<figure class="align-left"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" alt="" /></a></figure>
+<figure class="align-right"><a href="{{ site.url }}/assets/images/2018/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2018/01/01/EVENT-SM-1.jpg" alt="" /></a></figure>
+<figure class="align-left"><a href="{{ site.url }}/assets/images/2018/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2018/01/01/EVENT-SM-1.jpg" alt="" /></a></figure>
 
 <!-- big picture in center -->
-<figure class="align-center"><a href="{{ site.url }}/assets/images/2017/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-SM-1.jpg" alt="" /></a>
+<figure class="align-center"><a href="{{ site.url }}/assets/images/2018/01/01/EVENT-LG-1.jpg"><img src="{{ site.url }}/assets/images/2018/01/01/EVENT-SM-1.jpg" alt="" /></a>
 <figcaption class="align-text-center">blah blah blah</figcaption><br />
 </figure>
 
@@ -111,10 +111,10 @@ Among the Male 40-44 category there were 5 athletes.
 half third fourth fifth sixth
 
 <figure class="fourth">
-<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-SM-1.jpg" alt="" /></a>
-<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-SM-2.jpg" alt="" /></a>
-<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-LG-3.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-SM-3.jpg" alt="" /></a>
-<a href="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-LG-4.jpg"><img src="{{ site.url }}/assets/images/2017/01/01/EVENT-PRO-SM-4.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2018/01/01/EVENT-PRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2018/01/01/EVENT-PRO-SM-1.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2018/01/01/EVENT-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2018/01/01/EVENT-PRO-SM-2.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2018/01/01/EVENT-PRO-LG-3.jpg"><img src="{{ site.url }}/assets/images/2018/01/01/EVENT-PRO-SM-3.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2018/01/01/EVENT-PRO-LG-4.jpg"><img src="{{ site.url }}/assets/images/2018/01/01/EVENT-PRO-SM-4.jpg" alt="" /></a>
 </figure>
 -->
 
