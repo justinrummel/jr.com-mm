@@ -100,8 +100,8 @@ author:
   name                    : "Justin Rummel"
   avatar                  : "https://www.gravatar.com/avatar/812849b04c44245ad29c0e40cb84e3da.jpg?s=110"
   bio                     : "Father, husband, Apple enthusiast, and age grouper triathlete."
-#  location                :
-#  email                   :
+  location                : False
+  email                   : False
   url                     : "https://www.justinrummel.com/"
   facebook                : "justinrummel"
   github                  : "justinrummel"
