@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 9634bb84fb488cd1f92a1734cfb4c51305f20aa6
+  revision: bbf3cbc5fd64a3e1885f3f99eb90ba92af84063d
   specs:
     minimal-mistakes-jekyll (4.9.0)
       jekyll (~> 3.6)
@@ -109,7 +109,7 @@ GEM
     mercenary (0.3.6)
     mini_portile2 (2.3.0)
     minitest (5.11.1)
-    multi_json (1.12.2)
+    multi_json (1.13.0)
     multipart-post (2.0.0)
     net-http-persistent (2.9.4)
     net-http-pipeline (1.0.1)
