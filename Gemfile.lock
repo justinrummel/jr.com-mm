@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 9d994f621b0b0d95ab150ac09987f42c90d5d26c
+  revision: 1493db8fdf083e5cdeda0a8e3d59216ec277fba0
   specs:
-    minimal-mistakes-jekyll (4.9.1)
+    minimal-mistakes-jekyll (4.10.0)
       jekyll (~> 3.6)
       jekyll-data (~> 1.0)
       jekyll-feed (~> 0.9.2)
@@ -35,8 +35,8 @@ GEM
       multipart-post (>= 1.2, < 3)
     faraday_middleware (0.12.2)
       faraday (>= 0.7.4, < 1.0)
-    ffi (1.9.18)
-    ffi (1.9.18-x64-mingw32)
+    ffi (1.9.21)
+    ffi (1.9.21-x64-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
     gh (0.15.1)
@@ -60,7 +60,7 @@ GEM
       typhoeus (~> 0.7)
       yell (~> 2.0)
     http_parser.rb (0.6.0)
-    i18n (0.9.3)
+    i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     jekyll (3.7.2)
       addressable (~> 2.4)
