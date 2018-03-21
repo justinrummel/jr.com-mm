@@ -72,18 +72,21 @@ This is the first of three successive weekends I'll be racing with Adventure Ena
 <figcaption class="align-text-center">Start/Finish line of Adventure Enablers</figcaption><br />
 </figure>
 
-<!--
-#### Updated 2016-09-02 (Race Photos)
+#### Updated 2018-03-20 (Race Photos)
 
 half third fourth fifth sixth
 
 <figure class="fourth">
-<a href="{{ site.url }}/assets/images/2018/03/17/EVENT-PRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2018/03/17/EVENT-PRO-SM-1.jpg" alt="" /></a>
-<a href="{{ site.url }}/assets/images/2018/03/17/EVENT-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2018/03/17/EVENT-PRO-SM-2.jpg" alt="" /></a>
-<a href="{{ site.url }}/assets/images/2018/03/17/EVENT-PRO-LG-3.jpg"><img src="{{ site.url }}/assets/images/2018/03/17/EVENT-PRO-SM-3.jpg" alt="" /></a>
-<a href="{{ site.url }}/assets/images/2018/03/17/EVENT-PRO-LG-4.jpg"><img src="{{ site.url }}/assets/images/2018/03/17/EVENT-PRO-SM-4.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2018/03/17/AE_EMV_4734_LG.jpg"><img src="{{ site.url }}/assets/images/2018/03/17/AE_EMV_4734_SM.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2018/03/17/AE_EMV_4756_LG.jpg"><img src="{{ site.url }}/assets/images/2018/03/17/AE_EMV_4756_SM.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2018/03/17/AE_EMV_4757_LG.jpg"><img src="{{ site.url }}/assets/images/2018/03/17/AE_EMV_4757_SM.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2018/03/17/AE_EMV_4758_LG.jpg"><img src="{{ site.url }}/assets/images/2018/03/17/AE_EMV_4758_SM.jpg" alt="" /></a>
 </figure>
--->
+<figure class="fourth">
+<a href="{{ site.url }}/assets/images/2018/03/17/AE_EMV_5042_LG.jpg"><img src="{{ site.url }}/assets/images/2018/03/17/AE_EMV_5042_SM.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2018/03/17/AE_EMV_5043_LG.jpg"><img src="{{ site.url }}/assets/images/2018/03/17/AE_EMV_5043_SM.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2018/03/17/AE_EMV_5080_LG.jpg"><img src="{{ site.url }}/assets/images/2018/03/17/AE_EMV_5080_SM.jpg" alt="" /></a>
+</figure>
 
 
 Footnotes
