@@ -24,8 +24,8 @@
     {% if site.author.strava %}
       <li><a href="https://www.strava.com/athletes/{{ site.author.strava }}"><i class="fab fa-fw fa-strava" aria-hidden="true"></i> Strava</a></li>
     {% endif %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-    <li><a href="{{ '/feed.json' | absolute_url }}" class="fa-json white"> JSON</a></li>
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    <li><a href="{{ '/feed.json' | relative_url }}" class="fa-json white"> JSON</a></li>
   </ul>
 </div>
 

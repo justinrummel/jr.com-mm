@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 1493db8fdf083e5cdeda0a8e3d59216ec277fba0
+  revision: 7d25db8f01845c7bc6cab8e800f81513402f3e11
   specs:
-    minimal-mistakes-jekyll (4.10.0)
+    minimal-mistakes-jekyll (4.11.1)
       jekyll (~> 3.6)
       jekyll-data (~> 1.0)
       jekyll-feed (~> 0.9.2)
@@ -35,8 +35,8 @@ GEM
       multipart-post (>= 1.2, < 3)
     faraday_middleware (0.12.2)
       faraday (>= 0.7.4, < 1.0)
-    ffi (1.9.21)
-    ffi (1.9.21-x64-mingw32)
+    ffi (1.9.23)
+    ffi (1.9.23-x64-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
     gh (0.15.1)
@@ -62,7 +62,7 @@ GEM
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
-    jekyll (3.7.2)
+    jekyll (3.7.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -139,7 +139,7 @@ GEM
     pusher-client (0.6.2)
       json
       websocket (~> 1.0)
-    rb-fsevent (0.10.2)
+    rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
     redcarpet (3.4.0)
