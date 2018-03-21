@@ -74,8 +74,6 @@ This is the first of three successive weekends I'll be racing with Adventure Ena
 
 #### Updated 2018-03-20 (Race Photos)
 
-half third fourth fifth sixth
-
 <figure class="fourth">
 <a href="{{ site.url }}/assets/images/2018/03/17/AE_EMV_4734_LG.jpg"><img src="{{ site.url }}/assets/images/2018/03/17/AE_EMV_4734_SM.jpg" alt="" /></a>
 <a href="{{ site.url }}/assets/images/2018/03/17/AE_EMV_4756_LG.jpg"><img src="{{ site.url }}/assets/images/2018/03/17/AE_EMV_4756_SM.jpg" alt="" /></a>
