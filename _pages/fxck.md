@@ -15,7 +15,7 @@ header:
     teaser: /assets/images/2018/03/3-/FXCK-Cancer-Triathlon-Team-Header-Twitter.jpg   # Shrink image to 575x216
     caption: "Photo credit: [**Jayson Williams**](https://fxckcancer.crowdchange.co/790/page/4372)"
 ---
-<figure class="align-right"><img src="{{ site.url }}/assets/images/2018/03/30/scar-256.jpg" alt="Justin Rummel profile pic" /></figure>A couple of weeks ago I discovered a triathlon team who had a mission other than friendship and fitness.  Don't get me wrong, those are the two main reasons I've been doing triathlons for the past five years and I love my [Speed Sherpa][SS], but after my recent surgery I've become more aware that mine was easy... mine was lucky... and not everyone has those cards dealt to them while living their life.  That is why I have now joined the Fxck Cancer Triathlon Team.
+<figure class="align-right"><img src="{{ site.url }}/assets/images/2018/03/30/scar-256.jpg" alt="Justin Rummel profile pic" /></figure>A couple of weeks ago I discovered a triathlon team who had a mission other than friendship and fitness.  Don't get me wrong, those are the two main reasons I've been doing triathlons for the past five years and I love my [Speed Sherpa][SS] family, but after my recent surgery I've become more aware that mine was easy... mine was lucky... and not everyone has those cards dealt to them while living their life.  That is why I have now joined the Fxck Cancer Triathlon Team.
 
 When you join their team, you have also made a commit to raise money that will be donated to the main 501c3 Non Profit Organization by the end of 2018.  Not really sure how to raise money (I'm *not* a sales person), I'll see what I can do utilizing my website and social media outlets to see if anyone becomes inspired.
 
@@ -27,7 +27,11 @@ So who is Fxck Cancer? In their words:
 
 Is this Tax Deductible?
 
-> F C Cancer Foundation is a 501c3 nonprofit organization (Tax ID#26-2359885), which fights cancer by raising awareness and educating about early cancer detection and prevention, ultimately putting an end to late stage cancer diagnosis.
+> Yes! F C Cancer Foundation is a 501c3 nonprofit organization (Tax ID# 26-2359885)
+
+Will donors receive donation receipts?
+
+> Yes. When donations are made, the donor will receive a confirmation email. A separate email will be sent by a F C Cancer Foundation director to acknowledge the gift and provide tax-deductibility information, which can be used for tax purposes. When logged in, the donor may click "Profile" and "My Receipts" to view a history of contributions
 
 Other questions are most likely answered on their [FAQ page][faq].
 
