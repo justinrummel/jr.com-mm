@@ -13,7 +13,7 @@ header:
     overlay_filter: 0.15
     show_overlay_excerpt: false
     teaser: /assets/images/2018/03/3-/FXCK-Cancer-Triathlon-Team-Header-Twitter.jpg   # Shrink image to 575x216
-    caption: "Photo credit: [**Jayson Williams**](https://fxckcancer.crowdchange.co/790/page/4372)"
+    caption: "Photo credit: [**Fxck Cancer Triathlon Team**](http://www.fxckcancer.org/TriTeam)"
 ---
 <figure class="align-right"><img src="{{ site.url }}/assets/images/2018/03/30/scar-256.jpg" alt="Justin Rummel profile pic" /></figure>A couple of weeks ago I discovered a triathlon team who had a mission other than friendship and fitness.  Don't get me wrong, those are the two main reasons I've been doing triathlons for the past five years and I love my [Speed Sherpa][SS] family, but after my recent surgery I've become more aware that mine was easy... mine was lucky... and not everyone has those cards dealt to them while living their life.  That is why I have now joined the Fxck Cancer Triathlon Team.
 
