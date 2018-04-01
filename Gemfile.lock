@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 7d25db8f01845c7bc6cab8e800f81513402f3e11
+  revision: 847d96df522d807593c8380889665f5a31a332c3
   specs:
     minimal-mistakes-jekyll (4.11.1)
       jekyll (~> 3.6)
@@ -146,7 +146,7 @@ GEM
     rouge (3.1.1)
     ruby_dep (1.5.0)
     safe_yaml (1.0.4)
-    sass (3.5.5)
+    sass (3.5.6)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -186,4 +186,4 @@ DEPENDENCIES
   travis
 
 BUNDLED WITH
-   1.15.4
+   1.16.1
