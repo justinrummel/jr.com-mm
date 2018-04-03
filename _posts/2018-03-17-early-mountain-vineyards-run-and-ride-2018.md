@@ -2,7 +2,7 @@
 layout: single
 title: "Adventure Enablers: Early Mountain Vineyards Run and Ride 2018"
 date: 2018-03-17T17:20:57-04:00
-modified:
+modified: 2018-03-20T17:20:00-04:00
 description: "First two races of the year are already in the bag with Adventure Enablers Run/Ride events at Early Mountain Vineyards." 	# For Twitter, not the Title
 categories:
     - "Race Report"
