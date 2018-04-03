@@ -2,7 +2,7 @@
 layout: single
 title: "Adventure Enablers: Pocahontas Run and Ride 2018"
 date: 2018-03-31T19:00:00-04:00
-modified:
+modified: 2018-04-02T20:00:00-04:00
 description: "Another Adventure Enablers Run/Ride race weekend at Pocahontas State Park." 	# For Twitter, not the Title
 categories:
     - "Race Report"
@@ -80,6 +80,30 @@ From this point forward, I had the best ride EVER!  Pocahontas State Park is ama
 <a href="{{ site.url }}/assets/images/2018/03/31/AE-Pocahontas-LG-4.jpg"><img src="{{ site.url }}/assets/images/2018/03/31/AE-Pocahontas-SM-4.jpg" alt="" /></a>
 <a href="{{ site.url }}/assets/images/2018/03/31/AE-Pocahontas-LG-3.jpg"><img src="{{ site.url }}/assets/images/2018/03/31/AE-Pocahontas-SM-3.jpg" alt="" /></a>
 <a href="{{ site.url }}/assets/images/2018/03/31/AE-Pocahontas-LG-6.jpg"><img src="{{ site.url }}/assets/images/2018/03/31/AE-Pocahontas-SM-6.jpg" alt="" /></a>
+</figure>
+
+### Updated 2018-04-02 (Race Photographer Photos)
+
+#### Run
+<figure class="third">
+<a href="{{ site.url }}/assets/images/2018/03/31/AE-PPro-RUN-5194-X3.jpg"><img src="{{ site.url }}/assets/images/2018/03/31/AE-PPro-RUN-5194-S.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2018/03/31/AE-PPro-RUN-5195-X3.jpg"><img src="{{ site.url }}/assets/images/2018/03/31/AE-PPro-RUN-5195-S.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2018/03/31/AE-PPro-RUN-5314-X3.jpg"><img src="{{ site.url }}/assets/images/2018/03/31/AE-PPro-RUN-5314-S.jpg" alt="" /></a>
+</figure>
+<figure class="third">
+<a href="{{ site.url }}/assets/images/2018/03/31/AE-PPro-RUN-5315-X3.jpg"><img src="{{ site.url }}/assets/images/2018/03/31/AE-PPro-RUN-5315-S.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2018/03/31/AE-PPro-RUN-5316-X3.jpg"><img src="{{ site.url }}/assets/images/2018/03/31/AE-PPro-RUN-5316-S.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2018/03/31/AE-PPro-RUN-5318-X3.jpg"><img src="{{ site.url }}/assets/images/2018/03/31/AE-PPro-RUN-5318-S.jpg" alt="" /></a>
+</figure>
+
+#### Bike
+<figure class="half">
+<a href="{{ site.url }}/assets/images/2018/03/31/AE-PPro-BIKE-5536-X3.jpg"><img src="{{ site.url }}/assets/images/2018/03/31/AE-PPro-BIKE-5536-S.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2018/03/31/AE-PPro-BIKE-5550-X3.jpg"><img src="{{ site.url }}/assets/images/2018/03/31/AE-PPro-BIKE-5550-S.jpg" alt="" /></a>
+</figure>
+<figure class="half">
+<a href="{{ site.url }}/assets/images/2018/03/31/AE-PPro-BIKE-5551-X3.jpg"><img src="{{ site.url }}/assets/images/2018/03/31/AE-PPro-BIKE-5551-S.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2018/03/31/AE-PPro-BIKE-5552-X3.jpg"><img src="{{ site.url }}/assets/images/2018/03/31/AE-PPro-BIKE-5552-S.jpg" alt="" /></a>
 </figure>
 
 
