@@ -2,7 +2,7 @@
 layout: single
 title: "FXCK Cancer Triathlon Team"
 date: 2018-03-30T17:00:00-04:00
-modified: 2018-03-30T17:00:00-04:00
+modified: 2018-04-07T21:00:00-04:00
 description: "Charity challenge for Justin Rummel in support of the FXCK Cancer Triathlon Team!"
 permalink: /fxck/
 author_profile: false
