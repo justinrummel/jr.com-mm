@@ -19,7 +19,7 @@ header:
 
 When you join the FCTT team, you have also made a commitment to raise money that will be donated to the main "F C Cancer Foundation" 501c3 Non Profit Organization by the end of 2018.  Not really sure how to raise money (I'm *not* a sales person), I'll see what I can do utilizing my website and social media outlets to see if anyone becomes inspired.
 
-How do you donate?  Glad you asked! Visit [my donation page][donate], and click on the big white "DONATE" button.  From there; enter the standard info when making charity donations (name, address, credit card) and unfortunately agree to create an account (name, email, password... Facebook has sold more info on you than that).  There are predefined monetary options, or choose "Other" on the far right hand side to set your own amount.  Anything that you can contribute would be greatly appreciated in hitting my goal.
+How do you donate?  Glad you asked! Visit [my donation page][donate], and click on the big white "DONATE" button.  From there; enter the standard info when making charity donations (name, address, credit card) and unfortunately agree to create an account (name, email, password... Facebook has sold more info on you than that).  There are predefined monetary options, or choose "Other" on the far right hand side to set your own amount.  Anything that you can contribute would be greatly appreciated in hitting my goal.[^1]
 
 So who is Fxck Cancer? In their words: 
 
@@ -36,6 +36,11 @@ Will donors receive donation receipts?
 Other questions are most likely answered on their [FAQ page][faq].
 
 I'm still being coached by Speed Sherpa coach Josh, and will still race for Speed Sherpa for my A races (Xterra, AG Nationals, Ironman NC)... but in-between those events I'll be trying to promote Fxck Cancer team in hopes to make a small contribution to a great cause.
+
+Footnotes
+---
+
+[^1]: Had an issue early in April where the "SIGN UP" section didn't load as expected.  When you visit the donation site, it should look like this.<br /><br /> ![Example]({{ site.url }}/assets/images/2018/03/30/form.jpg)
 
 [SS]: http://www.speedsherpa.com
 [donate]: https://bit.rummel.co/fxckcancer
