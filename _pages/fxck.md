@@ -2,7 +2,7 @@
 layout: single
 title: "FXCK Cancer Triathlon Team"
 date: 2018-03-30T17:00:00-04:00
-modified: 2018-04-07T21:00:00-04:00
+modified: 2018-04-09T21:15:00-04:00
 description: "Charity challenge for Justin Rummel in support of the FXCK Cancer Triathlon Team!"
 permalink: /fxck/
 author_profile: false
@@ -19,7 +19,7 @@ header:
 
 When you join the FCTT team, you have also made a commitment to raise money that will be donated to the main "F C Cancer Foundation" 501c3 Non Profit Organization by the end of 2018.  Not really sure how to raise money (I'm *not* a sales person), I'll see what I can do utilizing my website and social media outlets to see if anyone becomes inspired.
 
-How do you donate?  Glad you asked! Visit [my donation page][donate], and click on the big white "DONATE" button.  From there; enter the standard info when making charity donations (name, address, credit card) and unfortunately agree to create an account (name, email, password... Facebook has sold more info on you than that).  There are predefined monetary options, or choose "Other" on the far right hand side to set your own amount.  Anything that you can contribute would be greatly appreciated in hitting my goal.[^1]
+How do you donate?  Glad you asked! Visit [my donation page][donate], and click on the big white "DONATE" button.  Once the page loads I find it easier to first scroll down to the "SIGN UP" section and create an account by entering your: name, email, password.[^1]  Once you click on "SIGN UP" and successfully have an account, then scroll back to the top and enter the standard info when making charity donations (name, address, credit card).  There are predefined monetary options, or choose "Other" on the far right hand side to set your own amount.  Anything that you can contribute would be greatly appreciated in hitting my goal.[^2]
 
 So who is Fxck Cancer? In their words: 
 
@@ -40,7 +40,8 @@ I'm still being coached by Speed Sherpa coach Josh, and will still race for Spee
 Footnotes
 ---
 
-[^1]: Had an issue early in April where the "SIGN UP" section didn't load as expected.  When you visit the donation site, it should look like this.<br /><br /> ![Example]({{ site.url }}/assets/images/2018/03/30/form.jpg)
+[^1]: Individuals reported early in April where the "SIGN UP" section was missing.  When you visit the donation site, it should look like the image below.  If not, try to use [Google Chrome](https://www.google.com/chrome/).  I don't have control over the site, sorry.<br /><br /> ![Example]({{ site.url }}/assets/images/2018/03/30/form.jpg)
+[^2]: It appears that Discover Card does not work, try Visa or Mastercard.  I don't have control over the site, sorry.
 
 [SS]: http://www.speedsherpa.com
 [donate]: https://bit.rummel.co/fxckcancer
