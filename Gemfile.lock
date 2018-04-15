@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 847d96df522d807593c8380889665f5a31a332c3
+  revision: d4b4c890db45fbbf25b69fbc849ab49c2dc895f1
   specs:
     minimal-mistakes-jekyll (4.11.1)
       jekyll (~> 3.6)
@@ -20,7 +20,7 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     addressable (2.4.0)
-    backports (3.11.1)
+    backports (3.11.2)
     colorator (1.1.0)
     colorize (0.8.1)
     concurrent-ruby (1.0.5)
