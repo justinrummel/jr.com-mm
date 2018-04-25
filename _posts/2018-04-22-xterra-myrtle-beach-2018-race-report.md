@@ -84,7 +84,7 @@ I felt really good for the first 1/2, but still fighting the open water panic th
 Post Race Thoughts
 ---
 
-XTERRA Myrtle Beach was a blast!  The race participants were focused but laid back so there wasn't any mean glares/stares sizing up each other's competition.  As mentioned above the Horry County Bike and Run Park was well groomed for race day, much to the thanks of the race coordinator as they were doing the final touches on Saturday removing any soft sand in the corners, security plenty of signs so you wouldn't get lost on the course, and had added additional carpet to ensure there wouldn't be any damage from all the racers whipping around the turns.  I feel better than ever on the mountain bike (although still not really a top competitor), and I cannot wait for XTERRA Charlottesville, VA that is happening in four weeks.
+<figure class="align-left"><a href="{{ site.url }}/assets/images/2018/04/22/XTERRA-MB-LG-6.jpg"><img src="{{ site.url }}/assets/images/2018/04/22/XTERRA-MB-SM-6.jpg" alt="" /></a></figure>XTERRA Myrtle Beach was a blast!  The race participants were focused but laid back so there wasn't any mean glares/stares sizing up each other's competition.  As mentioned above the Horry County Bike and Run Park was well groomed for race day, much to the thanks of the race coordinator as they were doing the final touches on Saturday removing any soft sand in the corners, security plenty of signs so you wouldn't get lost on the course, and had added additional carpet to ensure there wouldn't be any damage from all the racers whipping around the turns.  I feel better than ever on the mountain bike (although still not really a top competitor), and I cannot wait for XTERRA Charlottesville, VA that is happening in four weeks.
 
 
 Race Results
@@ -96,7 +96,7 @@ Race Results
 - Gender: Placed 30th out of 77 (top 39%).
 - Male 40-44: Placed 7th of 16
 
-Among the Male 40-44 category there were 5 athletes.
+Among the Male 40-44 category:
 
 - Swim: Ranked 6th
 - Bike: Ranked 7th
