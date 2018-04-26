@@ -30,7 +30,7 @@ First, I would like to note that the course has improved compared to last year a
 
 ### Bike
 
-- Another PR for me in terms of course times <b><u>and</u></b> average speed.  I beat last year's time by 8 MINUTES AND 39 SECONDS!  This is not quite fair as I had a transition issue on my bike last year plus the conditions were completely different, however, it's significannot enough for me to confidently state I killed that bike course.  How much?  I averaged 23.5 MPR over the entire course! Also, check these stats:
+- Another PR for me for total course times <b><u>and</u></b> average speed.  I beat last year's time by 8 MINUTES AND 39 SECONDS!  This is not quite fair as I had a transition issue on my bike last year plus the conditions were completely different, however, it's significant enough for me to confidently state I killed that bike course.  How much?  I averaged 23.5 MPR over the entire course! Also, check these stats:
 
 	+ Age Group: 2nd Fastest
 	+ Men (and Overall): 14th fastest

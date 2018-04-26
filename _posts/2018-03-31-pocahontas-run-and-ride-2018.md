@@ -22,7 +22,7 @@ It's another race weekend and once again I find myself participating in a well o
 <!-- Table of Contents -->
 {% include toc icon="gears" title="Race Review ToC" %}
 
-I've never been at Pocahontas State Park before, so for these races I was going to go in blind (no pre-rides on purpose) to work on my ability to react to unknown trails.  The only way I know how to correlate this idea is to sight reading music when I was growing up.  Often while playing drums/piano/marimba our music teacher would give us challenges to just sight read music and play.  My sister was great at this, I always sucked.  I assume this is a good skill to have just in case any future races surprise me with an unexpected path.
+I've never been at Pocahontas State Park before, so for these races I was going in blind (no pre-rides on purpose) to work on my ability to react to unknown trails.  The only way I know how to correlate this idea is to sight reading music when I was growing up.  Often while playing drums/piano/marimba our music teacher would give us challenges to just sight read music and play.  My sister was great at this, I always sucked.  I assume this is a good skill to have just in case any future races surprise me with an unexpected path.
 
 ### Run
 

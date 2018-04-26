@@ -31,7 +31,7 @@ Run
 
 The half marathon started at 9 AM while the 10K runners started at 10:15 AM, so naturally I was there at 8 AM.  I don't know why I must be at the race event so early, but my nerves simply cannot handle being rushed in the morning as I cannot stand the feeling of being late... and I know I will forget something important (like my bike, or running shoes... or clothes).  On the positive side this allows me to hang out around "transition" to soak in the racer positive vibes at the event, and I must say EX2 people are awesome!  So laid back and more than happy to BS about nothing while we wait for the start of each event.
 
-This was my first attempt at a trail race so I would be lying to myself if I didn't admit I was nervous.  I have ran on trails around my house or near the office, but those were warm-ups or workouts... not a race.  I'm glad I was able to do the run first as it allowed me to slowly take in the new trail before trying to race downhill crossing vicious tree root systems, ferocious rocks, and streams on a bike.  I had a blast!  Any time you envision a trail run requiring you to expertly navigate around the forest fighting against anything that mother nature may throw at you, Schaeffer Farms provided.
+This was my first attempt at a trail race so I would be lying to myself if I didn't admit I was nervous.  I have run on trails around my house or near the office, but those were warm-ups or workouts... not a race.  I'm glad I was able to do the run first as it allowed me to slowly take in the new trail before trying to race downhill crossing vicious tree root systems, ferocious rocks, and streams on a bike.  I had a blast!  Any time you envision a trail run requiring you to expertly navigate around the forest fighting against anything that mother nature may throw at you, Schaeffer Farms provided.
 
 I ended up doing very well considering I had only ran twice throughout October, and both of those runs were 4 miles each.  I technically [came in fifth place among the 58 racers][running].  However, I was not eligible for any awards as I was competing in the ride and run category versus single sport 10K runners.  This is where I also found out that the ride and run contestants were TRUE endurance athletes as we were six of the top 10.
 
@@ -49,7 +49,7 @@ My race plan was simple, go strong (but not hard) on the first loop then step it
 
 - calf cramp in the other leg (after a crash)
 - a double quad spasms that was so painful that I couldn't walk (after another crash)
-- a crash that literally ripped my spare kit off my bike
+- a crash that ripped my spare tire kit off my bike
 - and more crashes after crashes
 
 <div class="embed-container embed-container-strava">

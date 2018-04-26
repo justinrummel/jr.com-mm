@@ -130,7 +130,7 @@ Just after the half way point I was able to stop and pick up my Bike Special Nee
 
 >The high was 80, the low was 55 (at 11:59pm).
 >
->It almost certainly felt colder than that on the run because of the wind, but with temps above 50 that won't register on any "wind chill" calculation.
+>It felt colder on the run because of the wind, but with temps above 50 that won't register on any "wind chill" calculation.
 >
 >Average wind for the 24-hrs was 13.8mph, but that number was pulled down by lighter winds before the race. Most of the day was a solid 20 mph with frequent 30+ gusts, max sustained 32 mph and peak gust 45 mph. Strongest winds happened after the cold front, which made it a dead crosswind coming back on the bike.
 >
@@ -164,7 +164,7 @@ Getting back to the flat section of the course on River, RD... I soon could hear
 
 ### Run
 
-I have never ran a marathon.  In fact, I have never ran more than 18 miles during my training sessions so going the extra eight miles pounding pavement had me concerned... but I was determined to overcome the pain with a positive mindset and to have fun.
+I have never ran a marathon.  I have never ran more than 18 miles during my training sessions so going the extra eight miles pounding pavement had me concerned... but I was determined to overcome the pain with a positive mindset and to have fun.
 
 I now have a new requirement for long distance races... the run has to be flat!  I love hills on the bike, but hills on the run simply crush you (I know from couple of <a href="{{ site.url }}/reston-triathlon-olympic-2015-race-report/">Reston</a> triathlons I've done in the past).  I felt really good at the beginning (a little too good with a sub 8 min/mi pace), and quickly started on my plan:
 
