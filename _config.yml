@@ -21,7 +21,7 @@ locale                   : "en_US"
 title                    : "Justin Rummel . com"
 title_separator          : "-"
 name                     : "Justin Rummel"
-description              : 'Father, husband, Apple enthusiast.  🏊 🚴 🏃 with <a href="https://www.instagram.com/explore/tags/speedsherpanation/">#speedsherpanation</a> and <a href="https://www.instagram.com/explore/tags/fxckcancertriteam/">#fxckcancertriteam</a>'
+description              : 'Father, husband, Apple enthusiast.  🏊 🚴 🏃 with <a href="https://www.instagram.com/explore/tags/speedsherpanation/">#speedsherpanation</a>, <a href="https://www.instagram.com/explore/tags/fxckcancertriteam/">#fxckcancertriteam</a>, and <a href="https://www.instagram.com/explore/tags/bikelaw/">#bikelaw</a>'
 url                      : https://www.justinrummel.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : justinrummel/jr.com-mm # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,7 +113,7 @@ analytics:
 author:
   name                    : "Justin Rummel"
   avatar                  : "https://www.gravatar.com/avatar/812849b04c44245ad29c0e40cb84e3da.jpg?s=110"
-  bio                     : 'Father, husband, Apple enthusiast.  🏊 🚴 🏃 with <a href="https://www.instagram.com/explore/tags/speedsherpanation/">#speedsherpanation</a> and <a href="https://www.instagram.com/explore/tags/fxckcancertriteam/">#fxckcancertriteam</a>'
+  bio                     : 'Father, husband, Apple enthusiast.  🏊 🚴 🏃 with <a href="https://www.instagram.com/explore/tags/speedsherpanation/">#speedsherpanation</a>, <a href="https://www.instagram.com/explore/tags/fxckcancertriteam/">#fxckcancertriteam</a>, and <a href="https://www.instagram.com/explore/tags/bikelaw/">#bikelaw</a>'
   location                : False
   email                   : False
   url                     : "https://www.justinrummel.com/"
