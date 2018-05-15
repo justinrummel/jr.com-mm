@@ -29,9 +29,9 @@ teaser                   : /assets/images/sierra-teaser.jpg # path of fallback t
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "staticman_v2" # false (default), "staticman", "staticman_v2"
   disqus:
-    shortname            : "justinrummel" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:                # https://developers.facebook.com/docs/plugins/comments
@@ -39,30 +39,24 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-#  allowedFields          : ['name', 'email', 'url', 'parent', 'origin', 'message']
-#  allowedOrigins         : ["localhost", "justinrummel.com", "www.justinrummel.com"]
-  branch                 : "jr-branch"
-#  commitMessage          : "New comment."
-#  filename               : comment-{@timestamp}
-#  format                 : "yml"
-#  moderation             : false
-#  path                   : "_data/comments/{options.slug}" # "_data/comments/{options.slug}" (default)
-#  requiredFields         : ['name', 'email', 'message']
-  # with Mailgun, which you can get for free at http://mailgun.com.
-  # https://mademistakes.com/articles/improving-jekyll-static-comments/
-#  notifications:
-#    enabled: true
-    # Mailgun API key (encrypted)
-#    apiKey: "DtgHoNuRZu+r3jw2m6vDhykWgtmVWttbJYPFXMcMdkMvnC+LtwBUqURMWFOAm7nbL9Qq7hhBOw3Lb+36nYp+qXyU1HP6T0f2ySnjngqrm0YfbtLEsmUCoIJCN/4dgCZdPC8qlkaHISQx3L3sVhLnIjUl/fXEXsrOfb2AmM0+2bA="
-    # Mailgun domain (encrypted)
-#    domain: "BPvJ2L3k9ffONVpUIEUXVTPC1n+0HZ3CBcjkwfNUs+sVIDHA6/byxUiKxYYyMUPCRnUCQPGHjLhdo03VQ1r94Adme1O4zJ+QWwxdASKatvNuFJuIVeC8ZTCKQoJAQYYCKJlWRxM2IKo7srycPQ1Np+TQnEDD9d3/WaJJ/wcyQcs="
-#  transforms:
-#    email                : "md5"
-#  generatedFields:
-#    date:
-#      type               : "date"
-#      options:
-#        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+  allowedFields          : # ['name', 'email', 'url', 'message']
+  branch                 : "jr-branch" # needed to validate on _includes/comments.html
+  commitMessage          : # "New comment."
+  filename               : # comment-{@timestamp}
+  format                 : # "yml"
+  moderation             : # true
+  path                   : # "/_data/comments/{options.slug}" (default)
+  requiredFields         : # ['name', 'email', 'message']
+  transforms:
+    email                : # "md5"
+  generatedFields:
+    date:
+      type               : # "date"
+      options:
+        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+reCaptcha:
+  siteKey                :
+  secret                 :
 atom_feed:
   path                   : https://feeds.feedburner.com/jr # blank (default) uses feed.xml
 search                   : true # false (default)
@@ -107,6 +101,7 @@ analytics:
   provider                : google # false (default), "google", "google-universal", "custom"
   google:
     tracking_id           : UA-41781912-1
+    anonymize_ip          : # true, false (default)
 
 
 # Site Author
@@ -262,6 +257,7 @@ compress_html:
   comments                : ["<!-- ", " -->"]
   blanklines              : true
   profile                 : false
+
 
 # https://mmistakes.github.io/minimal-mistakes/docs/installation/
 # Defaults
