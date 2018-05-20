@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: f744cea6a1752c670162a508a2857aa10ed17884
+  revision: 50dca72f4bad3fc1f1869e50ae655be8ca922a9a
   specs:
     minimal-mistakes-jekyll (4.11.2)
       jekyll (~> 3.6)
@@ -62,7 +62,7 @@ GEM
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
-    jekyll (3.8.1)
+    jekyll (3.8.2)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
