@@ -131,7 +131,7 @@ Footnotes
 ---
 
 [^1]: Ironman still wins for the longest transition times, but that is simply a numbers issue with so many racers.
-[^2]: T1 is comprised of 2 minutes of transition plus 2 minutes of running to transition from the lake.
+[^2]: T1 is consists of 2 minutes of transition plus 2 minutes of running to transition from the lake.
 [^3]: Goal Times were based on beating <a href="{{ site.url }}/xterra-charlottesville-2017-race-report/">last year's race</a>, but with only 1/2 the total distance.
 [^4]: Official Race Results available at [EVENT Results page][event_results].
 
