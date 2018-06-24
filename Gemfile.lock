@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 50dca72f4bad3fc1f1869e50ae655be8ca922a9a
+  revision: fc3e7a61769253f10d325525b0a7a334166f49ac
   specs:
-    minimal-mistakes-jekyll (4.11.2)
+    minimal-mistakes-jekyll (4.12.0)
       jekyll (~> 3.6)
       jekyll-data (~> 1.0)
       jekyll-feed (~> 0.9.2)
@@ -31,12 +31,12 @@ GEM
       ffi (>= 1.3.0)
     eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
-    faraday (0.15.1)
+    faraday (0.15.2)
       multipart-post (>= 1.2, < 3)
     faraday_middleware (0.12.2)
       faraday (>= 0.7.4, < 1.0)
-    ffi (1.9.23)
-    ffi (1.9.23-x64-mingw32)
+    ffi (1.9.25)
+    ffi (1.9.25-x64-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
     gh (0.15.1)
@@ -62,7 +62,7 @@ GEM
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
-    jekyll (3.8.2)
+    jekyll (3.8.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -95,7 +95,7 @@ GEM
       html-pipeline (~> 2.2)
       jekyll (~> 3.0)
     json (2.1.0)
-    kramdown (1.16.2)
+    kramdown (1.17.0)
     launchy (2.4.3)
       addressable (~> 2.3)
     liquid (4.0.0)
@@ -112,9 +112,9 @@ GEM
     multipart-post (2.0.0)
     net-http-persistent (2.9.4)
     net-http-pipeline (1.0.1)
-    nokogiri (1.8.2)
+    nokogiri (1.8.3)
       mini_portile2 (~> 2.3.0)
-    nokogiri (1.8.2-x64-mingw32)
+    nokogiri (1.8.3-x64-mingw32)
       mini_portile2 (~> 2.3.0)
     octokit (4.9.0)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -168,7 +168,7 @@ GEM
       ethon (>= 0.8.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    websocket (1.2.5)
+    websocket (1.2.8)
     yell (2.0.7)
 
 PLATFORMS
