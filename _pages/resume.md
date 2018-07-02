@@ -4,7 +4,7 @@ title: "Resume"
 permalink: /resume/
 author_profile: false
 comments: false
-modified: 2015-04-13
+modified: 2015-07-02
 ---
 
 Education
@@ -17,7 +17,7 @@ Education
 Professional Employment
 ---
 
-**Akamai Technologies, Inc** - *Technical Program Manager II (April 2015 - Present)* - Technical Project Manager with the Professional Services team delivering value and technical solutions.  Providing added value to customer's enterprise web architecture and deliver solutions including: evaluating the customer's content management and publishing processes, web application architecture, security requirements, DNS configurations, and providing detailed solution documentation that satisfies business and technical requirements.
+**Akamai Technologies, Inc** - *Senior Technical Project Manager (April 2015 - Present)* - Technical Project Manager with the Professional Services team delivering value and technical solutions.  Providing added value to customer's enterprise web architecture and deliver solutions including: evaluating the customer's content management and publishing processes, web application architecture, security requirements, DNS configurations, and providing detailed solution documentation that satisfies business and technical requirements.
 
 **Stony River Technologies, LLC** - *Director of Operations / Field Engineer (Oct 2012 - February 2015)* - Acted as Program Manager for key partners in our professional services team which include: Apple Professional Services EDU and Enterprise, JAMF Software, Aerohive and others for Education, Small and Large Businesses, and Government agencies.  Acting as the primary contact for these partners which includes Statement of Work review, scheduling, escalations, and management of remote field technicians.  In the first months of 2014 started the School District of Philadelphia (SDP) CASIS project where we identified staff members, along with a new warehouse location that provided imaging and laser etching services for SDP's new equipment orders of Apple devices.  In addition to revenue generating projects, provided project management for Stony River's sister companies and parent company intra-corporate IT Support services of a mixed environment of Windows, Mac, Linux by designing and implementing a new virtual infrastructure (VMWare ESXi and Microsoft HyperV).  This project required collecting requirements from each sister company (spread through the US), communication announcing production cut-over milestones, and budgeting for long term success.  This project brought the family of companies out of ten years of technological neglect to being able to function at an enterprise level that was needed for the future.
 
