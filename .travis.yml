@@ -20,6 +20,8 @@ env:
 addons:
   ssh_known_hosts:
     - ssh.justinrummel.com
+    - vegas.www.justinrummel.com
+    - lux.www.justinrummel.com
   apt:
     packages:
       - dnsutils
@@ -41,6 +43,10 @@ deploy:
   provider: script
   skip_cleanup: true
   script: rsync -P -cavz -e "ssh -i /tmp/deploy_key -oStrictHostKeyChecking=no" --delete $TRAVIS_BUILD_DIR/_site/ sadmin@ssh.justinrummel.com:/var/www/justinrummel.com/html/
+    --exclude=/.well-known --exclude=/cgi-bin/ --exclude=/.htaccess
+  script: rsync -P -cavz -e "ssh -i /tmp/deploy_key -oStrictHostKeyChecking=no" --delete $TRAVIS_BUILD_DIR/_site/ sadmin@vegas.www.justinrummel.com:/var/www/justinrummel.com/html/
+    --exclude=/.well-known --exclude=/cgi-bin/ --exclude=/.htaccess
+  script: rsync -P -cavz -e "ssh -i /tmp/deploy_key -oStrictHostKeyChecking=no" --delete $TRAVIS_BUILD_DIR/_site/ sadmin@lux.www.justinrummel.com:/var/www/justinrummel.com/html/
     --exclude=/.well-known --exclude=/cgi-bin/ --exclude=/.htaccess
   on:
     branch: jr-branch
