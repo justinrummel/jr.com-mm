@@ -45,7 +45,7 @@ layout: json
         "content_text": {{ content_text }},
 
         {% assign content_html = post.content | strip_newlines | normalize_whitespace | jsonify %}
-        "content_html": {{ content_html }},
+        "content_html": {{ content_html }}
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}
