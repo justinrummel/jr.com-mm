@@ -21,7 +21,7 @@ Sometime early September I was looking for events that would complete my 2016 ra
 
 {% include toc icon="gears" title="Race Review ToC" %}
 
-There were two possible races in Missouri; [The Berryman Adventure][berryman] (now hosted by Rolla Multisports club) and [Castlewood][alpine] (hosted again by Alpine Shop)... but for one reason or another it would not happen this year.  This lead me down the path to find something outdoors in Virginia.  Fortunately for me Facebook advertisements and [SpeedSherpa][ss] enabling teammates were more than willing to help feed my addiction which led me to [EX2 Adventures Rendezvous Run and Ride (Fall)][ex2rr] race.  This race is actually two races in one! In the morning there was a 10K trail run, then the afternoon consisted of a two loop course that totaled over 18 miles located at Schaeffer Farms Trail System in Germantown, MD.
+There were two possible races in Missouri; [The Berryman Adventure][berryman] (now hosted by Rolla Multisports club) and [Castlewood][alpine] (hosted again by Alpine Shop)... but for one reason or another it would not happen this year.  This lead me down the path to find something outdoors in Virginia.  Fortunately for me Facebook advertisements and [Speed Sherpa][ss] enabling teammates were more than willing to help feed my addiction which led me to [EX2 Adventures Rendezvous Run and Ride (Fall)][ex2rr] race.  This race is actually two races in one! In the morning there was a 10K trail run, then the afternoon consisted of a two loop course that totaled over 18 miles located at Schaeffer Farms Trail System in Germantown, MD.
 
 
 Run
