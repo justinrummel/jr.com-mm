@@ -45,7 +45,7 @@ Since I was able to ride the route on Saturday, I knew: when turns were coming, 
 
 ### Run
 
-Last week I received a bike challenge from [Coach Josh][ss], but this week was a run challenge!  Hit the 5k w/ a sub 7:00m pace!  I knew this was going to be hard, again I was familiar with the route, plus I used it for my warm-up earlier.  I wasn't sure if I was going to achieve that challenge, but when I crossed the finish line I was happy knowing that pushed myself.
+Last week I received a bike challenge from [Coach Josh][ss], but this week was a run challenge!  Hit the 5k w/ a sub 7:00m pace!  I knew this was going to be hard, again I was familiar with the route, plus I used it for my warm-up earlier.  I wasn't sure if I were going to achieve that challenge, but when I crossed the finish line I was happy knowing that pushed myself.
 
 #### Strava Run Activity
 <div class="embed-container embed-container-strava">
