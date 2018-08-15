@@ -7,7 +7,7 @@ description: "This year has lead to one thing... this is the story of my first I
 categories:
     - "Race Report"
 tags:
-    - triathlon
+    - Triathlon
     - IRONMAN
 header:
     image: /assets/images/2017/10/15/IMLOU-Header.jpg            # Twitter (use 'overlay_image')

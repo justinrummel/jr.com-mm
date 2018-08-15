@@ -7,9 +7,9 @@ description: "For the first time, I raced USAT National Championship which was h
 categories:
     - "Race Report"
 tags:
-    - "Triathlon"
-    - "USAT"
-    - "Nationals"
+    - Triathlon
+    - USAT
+    - Nationals
 header:
     image: /assets/images/2018/08/11/USAT-AGN-Header.jpg            # Twitter (use 'overlay_image')
     overlay_image: /assets/images/2018/08/11/USAT-AGN-Header.jpg    # Article header at 2048x768
