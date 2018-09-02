@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 0adebd240f5a2f01112d84e395f6471dc6380fb7
+  revision: 174dfd1ba00c95b8697bc2cbfe64e5fdc8379291
   specs:
-    minimal-mistakes-jekyll (4.12.1)
+    minimal-mistakes-jekyll (4.12.2)
       jekyll (~> 3.7)
       jekyll-data (~> 1.0)
       jekyll-feed (~> 0.10)
@@ -20,7 +20,7 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     addressable (2.4.0)
-    backports (3.11.3)
+    backports (3.11.4)
     colorator (1.1.0)
     colorize (0.8.1)
     concurrent-ruby (1.0.5)
@@ -116,7 +116,7 @@ GEM
       mini_portile2 (~> 2.3.0)
     nokogiri (1.8.4-x64-mingw32)
       mini_portile2 (~> 2.3.0)
-    octokit (4.9.0)
+    octokit (4.11.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     octopress (3.0.11)
       jekyll (>= 2.0)
@@ -142,7 +142,7 @@ GEM
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
     redcarpet (3.4.0)
-    rouge (3.2.0)
+    rouge (3.2.1)
     ruby_dep (1.5.0)
     safe_yaml (1.0.4)
     sass (3.5.7)
@@ -155,7 +155,7 @@ GEM
       faraday (~> 0.8, < 1.0)
     thread_safe (0.3.6)
     titlecase (0.1.1)
-    travis (1.8.8)
+    travis (1.8.9)
       backports
       faraday (~> 0.9)
       faraday_middleware (~> 0.9, >= 0.9.1)
