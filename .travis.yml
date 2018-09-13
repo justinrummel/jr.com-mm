@@ -25,6 +25,10 @@ addons:
     packages:
       - dnsutils
       - gsl-bin
+      - npm
+
+before_install:
+  - sudo apt-get update
 
 before_script:
   - chmod +x ./script/cibuild
@@ -52,12 +56,16 @@ deploy:
 
 after_deploy:
   - |
-    # Purge CloudFlare cache.
+    # Purge CloudFlare cache
     curl -X DELETE "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE/purge_cache" \
       -H "X-Auth-Email: $CLOUDFLARE_AUTH_EMAIL" \
       -H "X-Auth-Key: $CLOUDFLARE_AUTH_KEY" \
       -H "Content-Type: application/json" \
         --data '{"purge_everything":true}'
+  - |
+    # Purge Akamai cache
+    akamai purge delete --cpcode 490267
+    akamai purge delete --cpcode 525142
 
 notifications:
   email:
