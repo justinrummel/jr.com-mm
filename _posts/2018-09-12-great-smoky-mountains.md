@@ -9,7 +9,7 @@ categories:
 tags:
     - Photography
     - Travel
-    - TN
+    - Tennessee
 header:
     image: /assets/images/2018/09/07/GSM-Header.jpg            # Twitter (use 'overlay_image')
     overlay_image: /assets/images/2018/09/07/GSM-Header.jpg    # Article header at 2048x768
