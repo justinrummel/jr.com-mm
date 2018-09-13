@@ -15,4 +15,4 @@ bundle exec jekyll b -c _config.yml
 
 npm install -g akamai-cli
 akamai update
-akamai install purge
+# akamai install purge

@@ -65,8 +65,8 @@ after_deploy:
         --data '{"purge_everything":true}'
   - |
     # Purge Akamai cache
-    akamai purge delete --cpcode 490267
-    akamai purge delete --cpcode 525142
+    # akamai purge delete --cpcode 490267
+    # akamai purge delete --cpcode 525142
 
 notifications:
   email:
