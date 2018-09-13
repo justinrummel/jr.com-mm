@@ -35,8 +35,7 @@
 >
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
-      {% if page.header.show_overlay_excerpt != false %}
-      <h1 class="page__title" itemprop="headline">
+      <h1 id="page-title" class="page__title" itemprop="headline">
         {% if paginator and site.paginate_show_page_num %}
           {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
         {% else %}
@@ -46,15 +45,17 @@
       {% if page.date %}
         <h2 class="page__date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></h2>
       {% endif %}
-      {% if page.header.show_overlay_excerpt != false and page.excerpt %}
-        <!-- <p class="page__lead">{{ page.excerpt | markdownify | strip_html | remove: "<p>" | remove: "</p>" }}</p> -->
-      {% endif %}
-      {% if site.read_time and page.read_time %}
+      {% if page.read_time %}
         <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
       {% endif %}
       {% if page.header.cta_url %}
         <p><a href="{{ cta_path }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
       {% endif %}
+      {% if page.header.actions %}
+        <p>
+        {% for action in page.header.actions %}
+          <a href="{{ action.url }}" class="btn btn--light-outline btn--large">{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+        {% endfor %}
       {% endif %}
     </div>
   {% else %}

@@ -13,8 +13,7 @@
 theme                    : minimal-mistakes-jekyll
 # remote_theme           : "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin    : air # "default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
-
+minimal_mistakes_skin    : air # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en_US"
@@ -22,7 +21,7 @@ title                    : "Justin Rummel . com"
 title_separator          : "-"
 name                     : "Justin Rummel"
 description              : 'Father, husband, Apple enthusiast.  🏊 🚴 🏃 with <a href="https://www.instagram.com/explore/tags/speedsherpanation/">#speedsherpanation</a>, <a href="https://www.instagram.com/explore/tags/fxckcancertriteam/">#fxckcancertriteam</a>, and <a href="https://www.instagram.com/explore/tags/bikelaw/">#bikelaw</a>'
-url                      : https://www.justinrummel.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.justinrummel.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : justinrummel/jr.com-mm # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/sierra-teaser.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -30,14 +29,6 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "staticman_v2" # false (default), "staticman", "staticman_v2"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:                # https://developers.facebook.com/docs/plugins/comments
-    appid                : # 12345678901234567890
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : "jr-branch" # needed to validate on _includes/comments.html
@@ -67,14 +58,15 @@ algolia:
   index_name             : # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
-
+google:
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
 
 # SEO Related
 google_site_verification : hT6wj0MiwnZDtC-APUPAkaE4cSidJtqaBCBq3Xnlnxk
 bing_site_verification   : BF2EEED10A15A64DE29F3E540F77DC37
 yandex_site_verification :
 naver-site-verification  :
-
 
 # Social Sharing
 twitter:
@@ -95,7 +87,6 @@ social:
     - "https://twitter.com/justinrummel"
     - "https://www.strava.com/athletes/justinrummel"
 
-
 # Analytics
 analytics:
   provider                : google # false (default), "google", "google-universal", "custom"
@@ -112,12 +103,50 @@ author:
   location                : False
   email                   : False
   url                     : "https://www.justinrummel.com/"
-  facebook                : "justinrummel"
-  github                  : "justinrummel"
-  instagram               : "justin.rummel"
-  linkedin                : "justinrummel"
-  strava                  : "justinrummel"
-  twitter                 : "justinrummel"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/justinrummel"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/justinrummel"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/justin.rummel"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/justin.rummel"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/justinrummel"
+    - label: "Strava"
+      icon: "fab fa-fw fa-strava orange"
+      url: "https://www.strava.com/athletes/justinrummel"
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/justinrummel"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/justinrummel"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/justin.rummel"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/justin.rummel"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/justinrummel"
+    - label: "Strava"
+      icon: "fab fa-fw fa-strava"
+      url: "https://www.strava.com/athletes/justinrummel"
+    - label: "JSON"
+      icon: "fab fa-fw fa-js-square"
+      url: "/feed.json"
 
 
 # Reading Files
