@@ -26,6 +26,7 @@ addons:
       - dnsutils
       - gsl-bin
       - npm
+      - golang-go
 
 before_install:
   - sudo apt-get update
