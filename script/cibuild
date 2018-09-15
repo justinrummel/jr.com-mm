@@ -8,7 +8,7 @@ dig whoami.akamai.net +short | xargs echo "whoami: "
 # Akamai CLI
 curl -O "https://github.com/akamai/cli/releases/download/1.0.2/akamai-1.0.2-linuxamd64"
 chmod +x akamai-1.0.2-linuxamd64
-mv akamai-1.0.2-linuxamd64 /usr/local/bin/akamai
+mv akamai-1.0.2-linuxamd64 ~/akamai
 
 bundle exec jekyll b -c _config.yml
 
