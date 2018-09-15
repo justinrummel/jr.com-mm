@@ -25,12 +25,19 @@ addons:
     - golang-go
 
 before_install:
+#- add-apt-repository ppa:masterminds/glide -y
+#- apt-get update -q
+#- apt-get install glide
 - openssl aes-256-cbc -K $encrypted_a5975f3f1aa1_key -iv $encrypted_a5975f3f1aa1_iv -in edgerc.txt.enc -out /tmp/travis.edgerc -d
 
 before_script:
+- curl -L "https://github.com/Masterminds/glide/releases/download/v0.13.1/glide-v0.13.1-linux-amd64.tar.gz" -o /tmp/glide-v0.13.1-linux-amd64.tar.gz
+- tar -xvzf /tmp/glide-v0.13.1-linux-amd64.tar.gz -C /tmp/
 - curl -L "https://github.com/akamai/cli/releases/download/1.0.2/akamai-1.0.2-linuxamd64" -o /tmp/akamai
 - chmod +x /tmp/akamai
-- export PATH=$PATH:/tmp
+- export PATH=$PATH:/tmp/linux-amd64:/tmp
+- akamai version
+- echo "Y" | akamai install purge
 - chmod +x ./script/cibuild
 
 script: "./script/cibuild"
@@ -69,7 +76,6 @@ after_deploy:
       --data '{"purge_everything":true}'
 - |
   # Purge Akamai cache
-  echo "Y" | akamai install purge
   akamai purge --edgerc /tmp/travis.edgerc --section travis delete --cpcode 490267
 
 notifications:
