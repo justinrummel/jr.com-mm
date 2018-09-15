@@ -33,7 +33,7 @@ before_install:
 - sudo add-apt-repository ppa:deadsnakes/ppa -y
 - sudo apt-get update -q
 - sudo apt-get install python2.7
-- pip install --upgrade pip
+- sudo pip install --upgrade pip
 #- sudo apt-get install python3.6
 - openssl aes-256-cbc -K $encrypted_a5975f3f1aa1_key -iv $encrypted_a5975f3f1aa1_iv -in edgerc.txt.enc -out .edgerc -d
 
