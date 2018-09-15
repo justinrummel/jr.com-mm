@@ -9,7 +9,6 @@ dig whoami.akamai.net +short | xargs echo "whoami: "
 echo $PATH
 
 bundle config git.allow_insecure true
-bundle config build.nokogiri --use-system-libraries
 bundle exec jekyll b -c _config.yml
 
 # External Link checking only

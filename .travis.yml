@@ -1,50 +1,38 @@
-os: osx
-osx_image: xcode10
-sudo: true
-
 language: ruby
+
 rvm:
-  - 2.3.5
+  - 2.3.3
+
+sudo: false
 
 env:
   global:
-  - JEKYLL_ENV=production
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  - secure: JEUv6XtyP8lEDOErzim5AuwHB6/PRGJY7eQFWIwDXmiAhbHQhS9KxnLbUyQ1FYNpc7FsVKtQgXYodLft6wheWYaz8JSja0ZdeYHWDrrGuFMscupLCKK6PMFXb8IcOKdWZo1Alf5a+8TEIx+097jHKg+Ntb4jn3IoMOx18oLXYriw2Sd8qDdP8Qbuxczme5z3A3Fs+uOmn3B1Aclni4r50TbHPjjLHE8ypBV63FV1y5iHwi5Tw39UZ2gZtHrEmqLWKuR12kW+GHDxH4qFUKc4zIe9Ox/tyjx7nTufSxyXb6AuNkY8ykr57CDmP/IVbFGL+hdlgsr8udjes3+AWBEGpDHAJcHDEkN/tvzm81ZVeL+dMPf8GYUbvwRhHB+aZjjQY94BgdguncBJ4MhcFJBYZOYNujqakD72NNhJ7y1vru6H559IaHmSNk2XtUHrznokAtWE+ht4Dd674xmt63OV6eCrvZSvAwkG8lIxmrheI0Vf+jnVxI+5Fkatg4OsgYgtYLcMb3VKA20cEKuoUaJ3kueGV8sNfMfxAVf/xahk1StsXeFzt5Qr6nhw4plnmieWwT4w7vmy9IQx0VzknX0YszE/Sowfara06/ncgCJiyTl3eus0AAqEOxw67oSTmuhcpM8iYTKOrU8CcpJ2nXN0t7zVk1n+OY8IAxtU2mlJWtg=
-  - secure: VVjQN48FLGIZu87SOnwrnKsrhhT0MmTufQgZ1bperIJTUg7QBz1BZZJ8jh6MJ/F01nbtOq17VvW40KPgzsc0T4tc4KLbknaP+NtUGNjFFRY/hwtBEkV2AZqyGVb9GPMPhSrXGz1b1Bn4yug3JAVM5JDw/jYpMQuW1LGX4tIAq4NFJyzqjWKjFNQ5cL0fPzqjYwRHYeRa8XpMSeq6yTLnIwaay8tU1SOuyznFkw1QpIq3+zg88Ud6A5RZFkKfFHTH9yhPVFr+oEDF8jfxCTJnMYc7PdFV0Iq7H9ri/uMFQZbCUend637xngi4KeNZ2GeihVmb5WJTXxz20Dk5Dk8In5fQ0I+oya9PiwWcPOcZCbAoRJGxihOpiHMhLu6T70o1jgSIpsLxYiwTSr9o2r4Ii2sY9DzqqMQXZGHoWJViU/B6zU5PdPQdjAPQtNvmpjXvaKhUoDneh5yWmfJ9Ljh9gZGbHJHAWyRIUB5tndAJ0vTzInKczOkFVdtfh5J9nHIabT3QRN5HjhBNIslfaAFkCQS17SCFFjqa2CyCAunHZX8c0+wj3nZ/X8Wn3S2xobZTyujCv1Rni3okERMiLLNkY52MQ2qVw8udVGFuT5fFoFeYYgNzLHZqyxeHvuuHG7/KTEgi932hjdmDfFHQ3ElVAjmBVBhQjAjRRdEscswVWXM=
-  - secure: HyFlLBVBA8zetorVNLgRB/wxmTlgp/w4q4Aw2NWODvzWSP+pfRwYnuTezymCSmCSB2ezlsMLjluy932VhIjHwd/tiLycnmEqJL2cz0MNIn4R3zcjp2/8UTZzQKa57QsXPYFCh1L4CpzESphM6S+6Uqm89FoAILMYhsbq9n3OU8ZSm5tbKUWcz/xYHUKPNp6155+8a9M6Yl2xMjY5ToV1WI931LbwpM3Bu5heNTYUULPJLrWfco5qJZzTvu8I+vunVnCkCXEwArMuH6XoPuvuL+h0+77CbHhzoGac3b1KpOa2drAFY5KyiWdRQOqO1iZ1AsoP7PiUVcf6g5KpE18l8YEs1ZWjQGhrZGuLPU6UZQz3hXz1uI+umidIhlmBfO9PDdzt+sbSgQhjX5EyQc4mBmR5TOZ5UBTw8Hhv6bKv0enpdUKrcLRBFcpupqJkBsdoyS/EMAshwYoP6HTTxbN4fXwtHyc/lV3hwOlI3eXflkVY56x4FdprRJK5aikFT4AJaP2GfgGwdGG8UG6EPl5AgfQNrN2I3S2nRz8oBUfTiEZNtWbqnp+E7FlO1Igx3KFjHLeyhcUDOZ62roR3UjjFhhMHNtECWrmK1cATcEMhpaM2XZ3zcTjy1d7IdtLga69Fa9r67egIyI2HPRqTyfwaWo7465kX+GG26MQbZgyb93o=
+    - JEKYLL_ENV=production
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+    # https://docs.travis-ci.com/user/environment-variables/#Encrypting-environment-variables
+    # CLOUDFLARE_ZONE
+    - secure: "JEUv6XtyP8lEDOErzim5AuwHB6/PRGJY7eQFWIwDXmiAhbHQhS9KxnLbUyQ1FYNpc7FsVKtQgXYodLft6wheWYaz8JSja0ZdeYHWDrrGuFMscupLCKK6PMFXb8IcOKdWZo1Alf5a+8TEIx+097jHKg+Ntb4jn3IoMOx18oLXYriw2Sd8qDdP8Qbuxczme5z3A3Fs+uOmn3B1Aclni4r50TbHPjjLHE8ypBV63FV1y5iHwi5Tw39UZ2gZtHrEmqLWKuR12kW+GHDxH4qFUKc4zIe9Ox/tyjx7nTufSxyXb6AuNkY8ykr57CDmP/IVbFGL+hdlgsr8udjes3+AWBEGpDHAJcHDEkN/tvzm81ZVeL+dMPf8GYUbvwRhHB+aZjjQY94BgdguncBJ4MhcFJBYZOYNujqakD72NNhJ7y1vru6H559IaHmSNk2XtUHrznokAtWE+ht4Dd674xmt63OV6eCrvZSvAwkG8lIxmrheI0Vf+jnVxI+5Fkatg4OsgYgtYLcMb3VKA20cEKuoUaJ3kueGV8sNfMfxAVf/xahk1StsXeFzt5Qr6nhw4plnmieWwT4w7vmy9IQx0VzknX0YszE/Sowfara06/ncgCJiyTl3eus0AAqEOxw67oSTmuhcpM8iYTKOrU8CcpJ2nXN0t7zVk1n+OY8IAxtU2mlJWtg="
+    # CLOUDFLARE_AUTH_EMAIL
+    - secure: "VVjQN48FLGIZu87SOnwrnKsrhhT0MmTufQgZ1bperIJTUg7QBz1BZZJ8jh6MJ/F01nbtOq17VvW40KPgzsc0T4tc4KLbknaP+NtUGNjFFRY/hwtBEkV2AZqyGVb9GPMPhSrXGz1b1Bn4yug3JAVM5JDw/jYpMQuW1LGX4tIAq4NFJyzqjWKjFNQ5cL0fPzqjYwRHYeRa8XpMSeq6yTLnIwaay8tU1SOuyznFkw1QpIq3+zg88Ud6A5RZFkKfFHTH9yhPVFr+oEDF8jfxCTJnMYc7PdFV0Iq7H9ri/uMFQZbCUend637xngi4KeNZ2GeihVmb5WJTXxz20Dk5Dk8In5fQ0I+oya9PiwWcPOcZCbAoRJGxihOpiHMhLu6T70o1jgSIpsLxYiwTSr9o2r4Ii2sY9DzqqMQXZGHoWJViU/B6zU5PdPQdjAPQtNvmpjXvaKhUoDneh5yWmfJ9Ljh9gZGbHJHAWyRIUB5tndAJ0vTzInKczOkFVdtfh5J9nHIabT3QRN5HjhBNIslfaAFkCQS17SCFFjqa2CyCAunHZX8c0+wj3nZ/X8Wn3S2xobZTyujCv1Rni3okERMiLLNkY52MQ2qVw8udVGFuT5fFoFeYYgNzLHZqyxeHvuuHG7/KTEgi932hjdmDfFHQ3ElVAjmBVBhQjAjRRdEscswVWXM="
+    # CLOUDFLARE_AUTH_KEY
+    - secure: "HyFlLBVBA8zetorVNLgRB/wxmTlgp/w4q4Aw2NWODvzWSP+pfRwYnuTezymCSmCSB2ezlsMLjluy932VhIjHwd/tiLycnmEqJL2cz0MNIn4R3zcjp2/8UTZzQKa57QsXPYFCh1L4CpzESphM6S+6Uqm89FoAILMYhsbq9n3OU8ZSm5tbKUWcz/xYHUKPNp6155+8a9M6Yl2xMjY5ToV1WI931LbwpM3Bu5heNTYUULPJLrWfco5qJZzTvu8I+vunVnCkCXEwArMuH6XoPuvuL+h0+77CbHhzoGac3b1KpOa2drAFY5KyiWdRQOqO1iZ1AsoP7PiUVcf6g5KpE18l8YEs1ZWjQGhrZGuLPU6UZQz3hXz1uI+umidIhlmBfO9PDdzt+sbSgQhjX5EyQc4mBmR5TOZ5UBTw8Hhv6bKv0enpdUKrcLRBFcpupqJkBsdoyS/EMAshwYoP6HTTxbN4fXwtHyc/lV3hwOlI3eXflkVY56x4FdprRJK5aikFT4AJaP2GfgGwdGG8UG6EPl5AgfQNrN2I3S2nRz8oBUfTiEZNtWbqnp+E7FlO1Igx3KFjHLeyhcUDOZ62roR3UjjFhhMHNtECWrmK1cATcEMhpaM2XZ3zcTjy1d7IdtLga69Fa9r67egIyI2HPRqTyfwaWo7465kX+GG26MQbZgyb93o="
 
 addons:
   ssh_known_hosts:
-  - vegas.www.justinrummel.com
-  - lux.www.justinrummel.com
-#  apt:
-#    update: true
-#    packages:
-#    - dnsutils
-#    - gsl-bin
-#    - npm
-#    - golang-go
-#    - httpie
-
-before_install:
-  - brew outdated
-#  - brew install golang
-#  - brew install akamai
-#  - echo "Y" | akamai -version
-#  - echo "Y" | akamai install purge
-  - brew install httpie
-  - pip install httpie-edgegrid
-  - openssl aes-256-cbc -K $encrypted_a5975f3f1aa1_key -iv $encrypted_a5975f3f1aa1_iv -in edgerc.txt.enc -out .edgerc -d
+    - vegas.www.justinrummel.com
+    - lux.www.justinrummel.com
+  apt:
+    packages:
+      - dnsutils
+      - gsl-bin
 
 before_script:
   - chmod +x ./script/cibuild
 
-script: "./script/cibuild"
+script: ./script/cibuild
 
 before_deploy:
-  - openssl aes-256-cbc -K $encrypted_bfeb93fbf318_key -iv $encrypted_bfeb93fbf318_iv
-    -in deploy_key.enc -out /tmp/deploy_key -d
+  - openssl aes-256-cbc -K $encrypted_bfeb93fbf318_key -iv $encrypted_bfeb93fbf318_iv -in deploy_key.enc -out /tmp/deploy_key -d
   - eval "$(ssh-agent -s)"
   - chmod 600 /tmp/deploy_key
   - ssh-add /tmp/deploy_key
@@ -53,40 +41,32 @@ before_deploy:
 deploy:
   - provider: script
     skip_cleanup: true
-    script: rsync -P -cavz -e "ssh -i /tmp/deploy_key -oStrictHostKeyChecking=no" --delete
-      $TRAVIS_BUILD_DIR/_site/ sadmin@vegas.www.justinrummel.com:/var/www/justinrummel.com/html/
-      --exclude=/.well-known --exclude=/cgi-bin/ --exclude=/.htaccess
+    script: rsync -P -cavz -e "ssh -i /tmp/deploy_key -oStrictHostKeyChecking=no" --delete $TRAVIS_BUILD_DIR/_site/ sadmin@vegas.www.justinrummel.com:/var/www/justinrummel.com/html/ --exclude=/.well-known --exclude=/cgi-bin/ --exclude=/.htaccess
     on:
       branch: jr-branch
   - provider: script
     skip_cleanup: true
-    script: rsync -P -cavz -e "ssh -i /tmp/deploy_key -oStrictHostKeyChecking=no" --delete
-      $TRAVIS_BUILD_DIR/_site/ sadmin@lux.www.justinrummel.com:/var/www/justinrummel.com/html/
-      --exclude=/.well-known --exclude=/cgi-bin/ --exclude=/.htaccess
+    script: rsync -P -cavz -e "ssh -i /tmp/deploy_key -oStrictHostKeyChecking=no" --delete $TRAVIS_BUILD_DIR/_site/ sadmin@lux.www.justinrummel.com:/var/www/justinrummel.com/html/ --exclude=/.well-known --exclude=/cgi-bin/ --exclude=/.htaccess
     on:
       branch: jr-branch
 
-after_deploy:
-  - |
-    # Purge CloudFlare cache
-    curl -X DELETE "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE/purge_cache" \
-      -H "X-Auth-Email: $CLOUDFLARE_AUTH_EMAIL" \
-      -H "X-Auth-Key: $CLOUDFLARE_AUTH_KEY" \
-      -H "Content-Type: application/json" \
-        --data '{"purge_everything":true}'
-  - |
-    # Purge Akamai cache
-    # akamai purge --edgerc .edgerc --section travis delete --cpcode 490267
-    http -A edgegrid -a travis: POST :/ccu/v3/delete/cpcode/production objects:=[490267]
+#after_deploy:
+#  - |
+#    # Purge CloudFlare cache.
+#    curl -X DELETE "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE/purge_cache" \
+#      -H "X-Auth-Email: $CLOUDFLARE_AUTH_EMAIL" \
+#      -H "X-Auth-Key: $CLOUDFLARE_AUTH_KEY" \
+#      -H "Content-Type: application/json" \
+#        --data '{"purge_everything":true}'
 
 notifications:
   email:
     recipients:
-    - justin@rummel.co
+      - justin@rummel.co
     on_success: always
     on_failure: always
   slack:
     rooms:
-    - secure: eLRrcv/0jtuzRxdu4VJPuex3l6enZ6oluMzneDpqd9RKDX3ZwG+tPPaxZxc3jB6IQt0hE9TjoVTx1nDz5SOyXAnMzK8LgQkz2WKahpxo+kreD5Q9epEN0nDoSMyIvH1i/U82E9M1BsLnv8zpvRCtM45D4vXib6iZrslmOQ6NhG/yTPjcjZCdHwAy8IACh9Hu4NwDOfGaO0g0f9Az0EKz286v7VMs6fs1HRDIqewXTA78Nfp3+geVYCGzR/WJSa+ERWy0MuRi8l5vvjVpHIIXKNSzcSY9HAVjDhY/+oFoM8k7Si9SrbF91CfygG9jgngcjv3XnLgiS7PWqfZOsRghTAm5C7Cu0cyb5zing+tKMNtmF3Ssm5Nd/Tk/ThvjPB9XBFMM4DFNPKw50Z5EKOyFxInM37jeb2Eot+DXfyeOnaBoAK+q55YGIqSeYn3u0UhYD1Sj3+GIYJ982kSSKCqRaxwUvOxxQrcS6h6oPrfjK3c26aFMOjCk/vKeV7Pd5XX8NP/UNsuYdBlM1NvArU+EfXoMwvMXxttIuLEhFv5MWBLRDW77WXVCCAP5zvLpduLX704VZ5Eu+MFkKvbsPB0snqC8ak+T3aczwOkQ6LPuX5EtspGgIDdO2KZ9qV4A3dwb6p8ZG+Hmt65XsXa4LVcXgXM4FLGVFhGGeVlhnmHgejY=
+      - secure: "eLRrcv/0jtuzRxdu4VJPuex3l6enZ6oluMzneDpqd9RKDX3ZwG+tPPaxZxc3jB6IQt0hE9TjoVTx1nDz5SOyXAnMzK8LgQkz2WKahpxo+kreD5Q9epEN0nDoSMyIvH1i/U82E9M1BsLnv8zpvRCtM45D4vXib6iZrslmOQ6NhG/yTPjcjZCdHwAy8IACh9Hu4NwDOfGaO0g0f9Az0EKz286v7VMs6fs1HRDIqewXTA78Nfp3+geVYCGzR/WJSa+ERWy0MuRi8l5vvjVpHIIXKNSzcSY9HAVjDhY/+oFoM8k7Si9SrbF91CfygG9jgngcjv3XnLgiS7PWqfZOsRghTAm5C7Cu0cyb5zing+tKMNtmF3Ssm5Nd/Tk/ThvjPB9XBFMM4DFNPKw50Z5EKOyFxInM37jeb2Eot+DXfyeOnaBoAK+q55YGIqSeYn3u0UhYD1Sj3+GIYJ982kSSKCqRaxwUvOxxQrcS6h6oPrfjK3c26aFMOjCk/vKeV7Pd5XX8NP/UNsuYdBlM1NvArU+EfXoMwvMXxttIuLEhFv5MWBLRDW77WXVCCAP5zvLpduLX704VZ5Eu+MFkKvbsPB0snqC8ak+T3aczwOkQ6LPuX5EtspGgIDdO2KZ9qV4A3dwb6p8ZG+Hmt65XsXa4LVcXgXM4FLGVFhGGeVlhnmHgejY="
     on_success: always
     on_failure: always
