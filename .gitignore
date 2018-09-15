@@ -1,6 +1,8 @@
+*.gem
 *.sublime-project
 *.sublime-workspace
 .asset-cache
+.bundle
 .DS_Store
 .code-highlighter-cache
 .gist-cache
@@ -13,6 +15,7 @@ _AccessKeys.yml
 _deploy.yml
 _asset_bundler_cache
 _cert
+_data/travis/
 _site
 codekit-config.json
 deploy_key
