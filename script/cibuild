@@ -5,10 +5,8 @@ set -e # halt script on error
 curl -s http://whatismyip.akamai.com | xargs echo "IP: "
 dig whoami.akamai.net +short | xargs echo "whoami: "
 
-# Akamai CLI
-curl -OL "https://github.com/akamai/cli/releases/download/1.0.2/akamai-1.0.2-linuxamd64"
-chmod +x akamai-1.0.2-linuxamd64
-mv akamai-1.0.2-linuxamd64 /tmp/akamai
+# see PATH variables for debugging
+echo $PATH
 
 bundle exec jekyll b -c _config.yml
 

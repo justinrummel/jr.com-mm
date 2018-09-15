@@ -28,6 +28,9 @@ before_install:
 - openssl aes-256-cbc -K $encrypted_a5975f3f1aa1_key -iv $encrypted_a5975f3f1aa1_iv -in edgerc.txt.enc -out /tmp/travis.edgerc -d
 
 before_script:
+- curl -L "https://github.com/akamai/cli/releases/download/1.0.2/akamai-1.0.2-linuxamd64" -o /tmp/akamai
+- chmod +x /tmp/akamai
+- export PATH=$PATH:/tmp
 - chmod +x ./script/cibuild
 
 script: "./script/cibuild"
@@ -66,7 +69,7 @@ after_deploy:
       --data '{"purge_everything":true}'
 - |
   # Purge Akamai cache
-  ~/akamai purge --edgerc /tmp/travis.edgerc --section travis delete --cpcode 490267
+  akamai purge --edgerc /tmp/travis.edgerc --section travis delete --cpcode 490267
 
 notifications:
   email:
