@@ -25,9 +25,9 @@ addons:
     - golang-go
 
 before_install:
-#- add-apt-repository ppa:masterminds/glide -y
-#- apt-get update -q
-#- apt-get install glide
+# - add-apt-repository ppa:masterminds/glide -y
+# - apt-get update -q
+# - apt-get install glide
 - openssl aes-256-cbc -K $encrypted_a5975f3f1aa1_key -iv $encrypted_a5975f3f1aa1_iv -in edgerc.txt.enc -out /tmp/travis.edgerc -d
 
 before_script:
