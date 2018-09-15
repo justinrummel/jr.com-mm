@@ -30,11 +30,12 @@ addons:
 before_install:
   - brew outdated
   - brew install akamai
+  - echo "Y" | akamai install purge
   - brew install httpie
+  - pip install httpie-edgegrid
   - openssl aes-256-cbc -K $encrypted_a5975f3f1aa1_key -iv $encrypted_a5975f3f1aa1_iv -in edgerc.txt.enc -out .edgerc -d
 
 before_script:
-  - pip install httpie-edgegrid
   - chmod +x ./script/cibuild
 
 script: "./script/cibuild"
