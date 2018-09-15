@@ -8,6 +8,7 @@ dig whoami.akamai.net +short | xargs echo "whoami: "
 # see PATH variables for debugging
 echo $PATH
 
+bundle config git.allow_insecure true
 bundle exec jekyll b -c _config.yml
 
 # External Link checking only

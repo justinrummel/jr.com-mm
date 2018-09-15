@@ -3,6 +3,8 @@ osx_image: xcode10
 sudo: true
 
 language: ruby
+rvm:
+  - 2.3.5
 
 env:
   global:
@@ -32,47 +34,47 @@ before_install:
   - openssl aes-256-cbc -K $encrypted_a5975f3f1aa1_key -iv $encrypted_a5975f3f1aa1_iv -in edgerc.txt.enc -out .edgerc -d
 
 before_script:
-- pip install httpie-edgegrid
-- chmod +x ./script/cibuild
+  - pip install httpie-edgegrid
+  - chmod +x ./script/cibuild
 
 script: "./script/cibuild"
 
 before_deploy:
-- openssl aes-256-cbc -K $encrypted_bfeb93fbf318_key -iv $encrypted_bfeb93fbf318_iv
-  -in deploy_key.enc -out /tmp/deploy_key -d
-- eval "$(ssh-agent -s)"
-- chmod 600 /tmp/deploy_key
-- ssh-add /tmp/deploy_key
-- ssh-agent -k
+  - openssl aes-256-cbc -K $encrypted_bfeb93fbf318_key -iv $encrypted_bfeb93fbf318_iv
+    -in deploy_key.enc -out /tmp/deploy_key -d
+  - eval "$(ssh-agent -s)"
+  - chmod 600 /tmp/deploy_key
+  - ssh-add /tmp/deploy_key
+  - ssh-agent -k
 
 deploy:
-- provider: script
-  skip_cleanup: true
-  script: rsync -P -cavz -e "ssh -i /tmp/deploy_key -oStrictHostKeyChecking=no" --delete
-    $TRAVIS_BUILD_DIR/_site/ sadmin@vegas.www.justinrummel.com:/var/www/justinrummel.com/html/
-    --exclude=/.well-known --exclude=/cgi-bin/ --exclude=/.htaccess
-  on:
-    branch: jr-branch
-- provider: script
-  skip_cleanup: true
-  script: rsync -P -cavz -e "ssh -i /tmp/deploy_key -oStrictHostKeyChecking=no" --delete
-    $TRAVIS_BUILD_DIR/_site/ sadmin@lux.www.justinrummel.com:/var/www/justinrummel.com/html/
-    --exclude=/.well-known --exclude=/cgi-bin/ --exclude=/.htaccess
-  on:
-    branch: jr-branch
+  - provider: script
+    skip_cleanup: true
+    script: rsync -P -cavz -e "ssh -i /tmp/deploy_key -oStrictHostKeyChecking=no" --delete
+      $TRAVIS_BUILD_DIR/_site/ sadmin@vegas.www.justinrummel.com:/var/www/justinrummel.com/html/
+      --exclude=/.well-known --exclude=/cgi-bin/ --exclude=/.htaccess
+    on:
+      branch: jr-branch
+  - provider: script
+    skip_cleanup: true
+    script: rsync -P -cavz -e "ssh -i /tmp/deploy_key -oStrictHostKeyChecking=no" --delete
+      $TRAVIS_BUILD_DIR/_site/ sadmin@lux.www.justinrummel.com:/var/www/justinrummel.com/html/
+      --exclude=/.well-known --exclude=/cgi-bin/ --exclude=/.htaccess
+    on:
+      branch: jr-branch
 
 after_deploy:
-- |
-  # Purge CloudFlare cache
-  curl -X DELETE "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE/purge_cache" \
-    -H "X-Auth-Email: $CLOUDFLARE_AUTH_EMAIL" \
-    -H "X-Auth-Key: $CLOUDFLARE_AUTH_KEY" \
-    -H "Content-Type: application/json" \
-      --data '{"purge_everything":true}'
-- |
-  # Purge Akamai cache
-  # akamai purge --edgerc .edgerc --section travis delete --cpcode 490267
-  http -A edgegrid -a travis: POST :/ccu/v3/delete/cpcode/production objects:=[490267]
+  - |
+    # Purge CloudFlare cache
+    curl -X DELETE "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE/purge_cache" \
+      -H "X-Auth-Email: $CLOUDFLARE_AUTH_EMAIL" \
+      -H "X-Auth-Key: $CLOUDFLARE_AUTH_KEY" \
+      -H "Content-Type: application/json" \
+        --data '{"purge_everything":true}'
+  - |
+    # Purge Akamai cache
+    # akamai purge --edgerc .edgerc --section travis delete --cpcode 490267
+    http -A edgegrid -a travis: POST :/ccu/v3/delete/cpcode/production objects:=[490267]
 
 notifications:
   email:
