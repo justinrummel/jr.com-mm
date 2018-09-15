@@ -30,6 +30,7 @@ addons:
 before_install:
   - brew outdated
   - brew install akamai
+  - echo "Y" | akamai -version
   - echo "Y" | akamai install purge
   - brew install httpie
   - pip install httpie-edgegrid
