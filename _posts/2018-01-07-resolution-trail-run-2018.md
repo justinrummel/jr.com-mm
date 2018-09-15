@@ -46,7 +46,7 @@ Race Results
 
 #### Splits
 
-| EVENT Sprint       | Total        |
+| Running            | Total        |
 |:-------------------|:------------:|
 | Goal Times[^3]     | 24:23.18     |
 |=====

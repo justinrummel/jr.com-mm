@@ -94,7 +94,7 @@ I'm only measuring myself to the overall rankings as I discovered upon returning
 
 #### Splits
 
-| EVENT Sprint       | 500m Swim    | T1[^2] | 15k Bike       | T2   | 5k Run   | Total       |
+| XTERRA Sprint       | 500m Swim    | T1[^2] | 15k Bike       | T2   | 5k Run   | Total       |
 |:-------------------|:------------:|:------:|:--------------:|:----:|:--------:|------------:|
 | Goal Times[^3]     | 10:00        | 4:00   | 1:17:00        | 1:00 | 42:30    | 2:14:30     |
 |=====

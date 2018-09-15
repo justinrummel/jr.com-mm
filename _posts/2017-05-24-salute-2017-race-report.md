@@ -108,7 +108,7 @@ Among the Male 40-44 category there were 21 athletes:
 
 #### Splits
 
-| EVENT Sprint       | 300m Swim    | T1   | 12.4 Mile Bike | T2   | 5k Run   | Total       |
+| Rev3 Sprint       | 300m Swim    | T1   | 12.4 Mile Bike | T2   | 5k Run   | Total       |
 |:-------------------|:------------:|:----:|:--------------:|:----:|:--------:|------------:|
 | Goal Times[^3]     | 6:00         | 2:00 | 33:50          | 1:00 | 22:50    | 1:05:40     |
 |=====

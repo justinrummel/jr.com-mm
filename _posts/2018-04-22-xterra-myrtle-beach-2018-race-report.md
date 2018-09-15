@@ -104,7 +104,7 @@ Among the Male 40-44 category:
 
 #### Splits
 
-| EVENT Sprint       | 1km Swim   | T1     | 14.5 Mile Bike | T2      | 5 Mile Run | Total      |
+| XTERRA Full       | 1km Swim   | T1     | 14.5 Mile Bike | T2      | 5 Mile Run | Total      |
 |:-------------------|:----------:|:------:|:--------------:|:-------:|:----------:|-----------:|
 | Goal Times[^3]     | 12:00      | 1:30   | 1:10:00        | 1:00    | 40:00      | 2:04:30    |
 |=====

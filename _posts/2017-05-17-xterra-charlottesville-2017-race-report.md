@@ -106,7 +106,7 @@ half third fourth fifth sixth
 
 #### Splits
 
-| EVENT Sprint       | 1K Lake Swim | T1   | 30K Bike | T2   | 10k Run  | Total       |
+| XTERRA Full       | 1K Lake Swim | T1   | 30K Bike | T2   | 10k Run  | Total       |
 |:-------------------|:------------:|:----:|:--------:|:----:|:--------:|------------:|
 | Goal Times[^3]     | 20:00 + 2\*   | 2:00 | 2:20:00  | 1:00 | 1:05:00  | 3:50:00     |
 |=====
