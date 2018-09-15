@@ -69,6 +69,7 @@ after_deploy:
       --data '{"purge_everything":true}'
 - |
   # Purge Akamai cache
+  echo "Y" | akamai install purge
   akamai purge --edgerc /tmp/travis.edgerc --section travis delete --cpcode 490267
 
 notifications:
