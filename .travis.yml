@@ -1,7 +1,6 @@
 language: ruby
-
 rvm:
-- 2.3.3
+- 2.3.7
 
 sudo: false
 
@@ -24,8 +23,8 @@ addons:
     - npm
     - golang-go
 
-before_install:
-- sudo apt-get update
+#before_install:
+#- sudo apt-get update
 
 before_script:
 - chmod +x ./script/cibuild

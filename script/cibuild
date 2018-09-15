@@ -5,6 +5,11 @@ set -e # halt script on error
 curl -s http://whatismyip.akamai.com | xargs echo "IP: "
 dig whoami.akamai.net +short | xargs echo "whoami: "
 
+# Akamai CLI
+curl -O "https://github.com/akamai/cli/releases/download/1.0.2/akamai-1.0.2-linuxamd64"
+chmod +x akamai-1.0.2-linuxamd64
+mv akamai-1.0.2-linuxamd64 /usr/local/bin/akamai
+
 bundle exec jekyll b -c _config.yml
 
 # External Link checking only
@@ -12,7 +17,3 @@ bundle exec jekyll b -c _config.yml
 
 # External Link and image checking
 # bundle exec htmlproofer ./_site/ --alt-ignore '/.*/' --allow-hash-href true --http-status-ignore 0,301,302,403,999 --check-img-http
-
-npm install -g akamai-cli
-echo "Y" | akamai version
-echo "Y" | akamai install purge
