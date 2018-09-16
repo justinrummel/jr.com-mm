@@ -31,8 +31,8 @@ comments:
   provider               : "staticman_v2" # false (default), "staticman", "staticman_v2"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : "jr-branch" # needed to validate on _includes/comments.html
-  commitMessage          : # "New comment."
+  branch                 : "jr-branch"
+  commitMessage          : # "New comment by {fields.name}"
   filename               : # comment-{@timestamp}
   format                 : # "yml"
   moderation             : # true

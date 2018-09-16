@@ -26,6 +26,9 @@ addons:
       - dnsutils
       - gsl-bin
 
+before_install:
+  - openssl aes-256-cbc -K $encrypted_a5975f3f1aa1_key -iv $encrypted_a5975f3f1aa1_iv -in edgerc.txt.enc -out .edgerc -d
+
 before_script:
   - chmod +x ./script/cibuild
 
@@ -37,6 +40,9 @@ before_deploy:
   - chmod 600 /tmp/deploy_key
   - ssh-add /tmp/deploy_key
   - ssh-agent -k
+  - curl -L https://github.com/akamai/cli-purge/releases/download/1.0.0/akamai-purge-1.0.0-linuxamd64 -o akamai-purge
+  - chmod +x akamai-purge
+  - export PATH=$PATH:$PWD
 
 deploy:
   - provider: script
@@ -50,14 +56,9 @@ deploy:
     on:
       branch: jr-branch
 
-#after_deploy:
-#  - |
-#    # Purge CloudFlare cache.
-#    curl -X DELETE "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE/purge_cache" \
-#      -H "X-Auth-Email: $CLOUDFLARE_AUTH_EMAIL" \
-#      -H "X-Auth-Key: $CLOUDFLARE_AUTH_KEY" \
-#      -H "Content-Type: application/json" \
-#        --data '{"purge_everything":true}'
+after_deploy:
+  - |
+    akamai-purge --edgerc .edgerc --section travis delete --cpcode 490267; sleep 5;
 
 notifications:
   email:

@@ -1,11 +1,11 @@
 comments:
-  allowedFields          : ['name', 'email', 'replying_to', 'url', origin', 'slug', 'message']
-#  requiredFields         : ['name', 'email', 'origin', 'slug', 'message']
+  allowedFields          : ['name', 'email', 'replying_to', 'url', 'origin', 'slug', 'message']
+  # allowedFields: ["name", "email", "url", "message"]
   requiredFields         : ['name', 'email', 'message']
   allowedOrigins         : ["localhost", "justinrummel.com", "www.justinrummel.com"]
   branch                 : "jr-branch"
-  commitMessage          : "New comment.  QUICK, go LOOK!"
-  filename               : comment-{@timestamp}
+  commitMessage          : "New comment by {fields.name}"
+  filename               : "comment-{@timestamp}"
   name                   : "Justin Rummel . com"
   format                 : "yaml"
   moderation             : false
