@@ -89,7 +89,7 @@ gallery2:
 
 ---
 
-Wow! It has been a long time since I've posted a photography article only!  I didn't do any image modifications (Curves, saturation, vignette, etc) to these pictures as I wanted to keep the beauty of the Great Smoky Mountains in tact.
+Wow! It has been a long time since I've posted a photography article only!  I didn't do any image modifications (Curves, saturation, vignette, etc) to these pictures as I wanted to keep the beauty of the Great Smoky Mountains intact.
 
 Why was I at GSM???  That is coming soon in another post.
 
