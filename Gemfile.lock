@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 6d6d738e234226f13d42f7115f964e9ff605c09d
+  revision: dcdbba835ccec00303cef87cbc1efe5c89cf5ed6
   specs:
     minimal-mistakes-jekyll (4.13.0)
       jekyll (~> 3.7)
