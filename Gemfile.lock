@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 86d64f412cb39036a31ecfeaf59442139ac7f622
+  revision: 91e71e3de5562140255624e54e617dce94169c3b
   specs:
     minimal-mistakes-jekyll (4.13.0)
       jekyll (~> 3.7)
@@ -91,7 +91,7 @@ GEM
       sass (~> 3.4)
     jekyll-sitemap (1.2.0)
       jekyll (~> 3.3)
-    jekyll-watch (2.0.0)
+    jekyll-watch (2.1.0)
       listen (~> 3.0)
     jemoji (0.10.1)
       gemoji (~> 3.0)
@@ -101,7 +101,7 @@ GEM
     kramdown (1.17.0)
     launchy (2.4.3)
       addressable (~> 2.3)
-    liquid (4.0.0)
+    liquid (4.0.1)
     liquid-md5 (0.0.3)
       liquid (>= 2.5, < 5.0)
     listen (3.1.5)
