@@ -82,7 +82,7 @@ Footnotes
 ---
 
 [^1]: I forgot to mention my pro-tip, don't forget to take off your Roka Swimskin before you jump on the bike... I bet you will look pretty dumb in pictures.
-[^2]: Goal Times were based on [Rev 3 Montclair results][montclair_results] as it was a lake swim with hilly bike and run: 2:32 /100m swim, 21.5 mph ride, 7:08 /mi run.
+[^2]: Goal Times were based on [Rev3 Montclair results][montclair_results] as it was a lake swim with hilly bike and run: 2:32 /100m swim, 21.5 mph ride, 7:08 /mi run.
 [^3]: Official Race Results available at [VTS/MTS Culpeper Sprint Results page][culpeper_results].
 
 [mrw]: http://www.mountainrunwinery.com
