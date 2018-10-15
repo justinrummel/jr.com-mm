@@ -19,17 +19,17 @@ header:
 While walking around Savannah, GA after a Podcast Producer Installation, I found a guy making these palm roses and was immediately impressed with his craftsmanship. I took this picture, then purchase one as a gift to the wife upon my return.
 
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/4450328945/"><img src="https://farm5.static.flickr.com/4013/4450328945_ed98d37f12_m.jpg" title="Moss hanging on the Trees" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/4450329285/"><img src="https://farm5.static.flickr.com/4015/4450329285_52ce6d8c8a_m.jpg" title="Cotton Exchange" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/4450329553/"><img src="https://farm5.static.flickr.com/4056/4450329553_333b2caf98_m.jpg" title="Upper vs. the Lower worlds" /></a>
+<a href="{{ site.url }}/assets/images/2010/06/05/Savannah-LG-1.jpg"><img src="{{ site.url }}/assets/images/2010/06/05/Savannah-SM-1.jpg" title="Savannah-LG-1.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/06/05/Savannah-LG-2.jpg"><img src="{{ site.url }}/assets/images/2010/06/05/Savannah-SM-2.jpg" title="Savannah-LG-2.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/06/05/Savannah-LG-3.jpg"><img src="{{ site.url }}/assets/images/2010/06/05/Savannah-SM-3.jpg" title="Savannah-LG-3.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/4451101272/"><img src="https://farm5.static.flickr.com/4010/4451101272_00da060533_m.jpg" title="Stone Roads" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/4451101586/"><img src="https://farm5.static.flickr.com/4027/4451101586_986232ab2b_m.jpg" title="Riverfont Trolley" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/4450330607/"><img src="https://farm5.static.flickr.com/4068/4450330607_b216eb03b8_m.jpg" title="FireTruck" /></a>
+<a href="{{ site.url }}/assets/images/2010/06/05/Savannah-LG-4.jpg"><img src="{{ site.url }}/assets/images/2010/06/05/Savannah-SM-4.jpg" title="Savannah-LG-4.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/06/05/Savannah-LG-5.jpg"><img src="{{ site.url }}/assets/images/2010/06/05/Savannah-SM-5.jpg" title="Savannah-LG-5.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/06/05/Savannah-LG-6.jpg"><img src="{{ site.url }}/assets/images/2010/06/05/Savannah-SM-6.jpg" title="Savannah-LG-6.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/4451102204/"><img src="https://farm5.static.flickr.com/4041/4451102204_040cc886a9_m.jpg" title="the Mad Hater" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/4450331241/"><img src="https://farm5.static.flickr.com/4033/4450331241_5c986c4933_m.jpg" title="Palm Roses" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/4450331657/"><img src="https://farm3.static.flickr.com/2771/4450331657_a7934ce783_m.jpg" title="Boat Anchor water fountain" /></a>
+<a href="{{ site.url }}/assets/images/2010/06/05/Savannah-LG-7.jpg"><img src="{{ site.url }}/assets/images/2010/06/05/Savannah-SM-7.jpg" title="Savannah-LG-7.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/06/05/Savannah-LG-8.jpg"><img src="{{ site.url }}/assets/images/2010/06/05/Savannah-SM-8.jpg" title="Savannah-LG-8.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/06/05/Savannah-LG-9.jpg"><img src="{{ site.url }}/assets/images/2010/06/05/Savannah-SM-9.jpg" title="Savannah-LG-9.jpg" /></a>
 </figure>

@@ -19,13 +19,13 @@ header:
 This picture was taken while traveling to Kiana, AK to perform Teacher Laptop and server updates from Leopard to Snow Leopard. This picture only captures a small fraction of the beauty in this region.
 
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/4592342279/"><img src="https://farm2.static.flickr.com/1050/4592342279_8febd694a3_m.jpg" title="20100509-Alaska-02" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/4592961838/"><img src="https://farm2.static.flickr.com/1138/4592961838_f41308afb1_m.jpg" title="20100509-Alaska-03" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/4592962182/"><img src="https://farm5.static.flickr.com/4004/4592962182_56bf61c533_m.jpg" title="20100509-Alaska-04" /></a>
+<a href="{{ site.url }}/assets/images/2010/04/05/Alaska-LG-1.jpg"><img src="{{ site.url }}/assets/images/2010/04/05/Alaska-SM-1.jpg" title="Alaska-LG-1.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/04/05/Alaska-LG-2.jpg"><img src="{{ site.url }}/assets/images/2010/04/05/Alaska-SM-2.jpg" title="Alaska-LG-2.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/04/05/Alaska-LG-3.jpg"><img src="{{ site.url }}/assets/images/2010/04/05/Alaska-SM-3.jpg" title="Alaska-LG-3.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/4592962526/"><img src="https://farm4.static.flickr.com/3536/4592962526_71c2d4def9_m.jpg" title="20100509-Alaska-05" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/4592962850/"><img src="https://farm2.static.flickr.com/1259/4592962850_1bfcefb980_m.jpg" title="20100509-Alaska-06" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/4592343955/"><img src="https://farm5.static.flickr.com/4008/4592343955_bc21d834d5_m.jpg" title="20100509-Alaska-07" /></a>
+<a href="{{ site.url }}/assets/images/2010/04/05/Alaska-LG-6.jpg"><img src="{{ site.url }}/assets/images/2010/04/05/Alaska-SM-6.jpg" title="Alaska-LG-6.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/04/05/Alaska-LG-4.jpg"><img src="{{ site.url }}/assets/images/2010/04/05/Alaska-SM-4.jpg" title="Alaska-LG-4.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/04/05/Alaska-LG-5.jpg"><img src="{{ site.url }}/assets/images/2010/04/05/Alaska-SM-5.jpg" title="Alaska-LG-5.jpg" /></a>
 </figure>
 <figure class="third">

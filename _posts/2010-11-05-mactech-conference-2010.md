@@ -20,41 +20,41 @@ header:
 Pictures from the MacTech Conference in Los Angeles, CA. It was a great time!
 
 <figure class="fifth">
-<a href="https://www.flickr.com/photos/justinrummel/5148714214/"><img src="https://farm5.static.flickr.com/4125/5148714214_060631dd0b_q.jpg" title="20101102-MacTech-002" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5148110403/"><img src="https://farm2.static.flickr.com/1152/5148110403_ebd3f691bd_q.jpg" title="20101103-MacTech-004" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5148110687/"><img src="https://farm2.static.flickr.com/1062/5148110687_d450f81e9f_q.jpg" title="20101103-MacTech-005" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5148110923/"><img src="https://farm5.static.flickr.com/4072/5148110923_47720a6c24_q.jpg" title="20101103-MacTech-006" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5148715394/"><img src="https://farm5.static.flickr.com/4001/5148715394_b051c1ab3e_q.jpg" title="20101103-MacTech-007" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-1.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-1.jpg" title="MacTech-2011-LG-1.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-2.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-2.jpg" title="MacTech-2011-LG-2.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-3.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-3.jpg" title="MacTech-2011-LG-3.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-4.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-4.jpg" title="MacTech-2011-LG-4.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-5.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-5.jpg" title="MacTech-2011-LG-5.jpg" /></a>
 </figure>
 <figure class="fifth">
-<a href="https://www.flickr.com/photos/justinrummel/5148715688/"><img src="https://farm5.static.flickr.com/4111/5148715688_9cea9ff694_q.jpg" title="20101103-MacTech-009" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5148111757/"><img src="https://farm5.static.flickr.com/4083/5148111757_f3516ce45c_q.jpg" title="20101103-MacTech-010" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5148716192/"><img src="https://farm5.static.flickr.com/4023/5148716192_58e5d19c9b_q.jpg" title="20101103-MacTech-016" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5148716430/"><img src="https://farm5.static.flickr.com/4086/5148716430_dd927728aa_q.jpg" title="20101103-MacTech-023" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5148112497/"><img src="https://farm2.static.flickr.com/1396/5148112497_74525e2288_q.jpg" title="20101103-MacTech-024" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-6.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-6.jpg" title="MacTech-2011-LG-6.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-7.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-7.jpg" title="MacTech-2011-LG-7.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-8.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-8.jpg" title="MacTech-2011-LG-8.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-9.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-9.jpg" title="MacTech-2011-LG-9.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-10.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-10.jpg" title="MacTech-2011-LG-10.jpg" /></a>
 </figure>
 <figure class="fifth">
-<a href="https://www.flickr.com/photos/justinrummel/5148112769/"><img src="https://farm2.static.flickr.com/1381/5148112769_99cd7263b4_q.jpg" title="20101103-MacTech-026" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5148717300/"><img src="https://farm5.static.flickr.com/4084/5148717300_a70d14be44_q.jpg" title="20101103-MacTech-027" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5148113379/"><img src="https://farm5.static.flickr.com/4018/5148113379_1d1f3d5830_q.jpg" title="20101103-MacTech-028" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5148717972/"><img src="https://farm5.static.flickr.com/4128/5148717972_6829ec083a_q.jpg" title="20101103-MacTech-029" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5148718308/"><img src="https://farm2.static.flickr.com/1397/5148718308_8759a57f1f_q.jpg" title="20101103-MacTech-030" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-11.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-11.jpg" title="MacTech-2011-LG-11.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-12.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-12.jpg" title="MacTech-2011-LG-12.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-13.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-13.jpg" title="MacTech-2011-LG-13.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-14.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-14.jpg" title="MacTech-2011-LG-14.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-15.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-15.jpg" title="MacTech-2011-LG-15.jpg" /></a>
 </figure>
 <figure class="fifth">
-<a href="https://www.flickr.com/photos/justinrummel/5148114287/"><img src="https://farm2.static.flickr.com/1052/5148114287_8d372c807f_q.jpg" title="20101103-MacTech-031" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5148114549/"><img src="https://farm5.static.flickr.com/4107/5148114549_b4713f5826_q.jpg" title="20101103-MacTech-032" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5148719112/"><img src="https://farm2.static.flickr.com/1060/5148719112_fcf890e897_q.jpg" title="20101103-MacTech-033" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5148719370/"><img src="https://farm2.static.flickr.com/1336/5148719370_c470b95ce0_q.jpg" title="20101104-MacTech-036" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5156958173/"><img src="https://farm2.static.flickr.com/1343/5156958173_c7f28edc5d_q.jpg" title="20101105-MacTech-040" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-16.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-16.jpg" title="MacTech-2011-LG-16.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-17.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-17.jpg" title="MacTech-2011-LG-17.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-18.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-18.jpg" title="MacTech-2011-LG-18.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-19.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-19.jpg" title="MacTech-2011-LG-19.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-20.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-20.jpg" title="MacTech-2011-LG-20.jpg" /></a>
 </figure>
 <figure class="fifth">
-<a href="https://www.flickr.com/photos/justinrummel/5157567876/"><img src="https://farm2.static.flickr.com/1224/5157567876_cb6296bb63_q.jpg" title="20101105-MacTech-042" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5157569098/"><img src="https://farm5.static.flickr.com/4022/5157569098_2227c2fb15_q.jpg" title="20101105-MacTech-043" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5157570144/"><img src="https://farm5.static.flickr.com/4050/5157570144_7c304e98e6_q.jpg" title="20101105-MacTech-044" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5157571868/"><img src="https://farm5.static.flickr.com/4025/5157571868_ec86f77e8b_q.jpg" title="20101105-MacTech-045" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5157572774/"><img src="https://farm5.static.flickr.com/4016/5157572774_61bb5b0374_q.jpg" title="20101105-MacTech-047" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-21.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-21.jpg" title="MacTech-2011-LG-21.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-22.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-22.jpg" title="MacTech-2011-LG-22.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-23.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-23.jpg" title="MacTech-2011-LG-23.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-24.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-24.jpg" title="MacTech-2011-LG-24.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-25.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-25.jpg" title="MacTech-2011-LG-25.jpg" /></a>
 </figure>
 <figure class="fifth">
-<a href="https://www.flickr.com/photos/justinrummel/5157573908/"><img src="https://farm5.static.flickr.com/4021/5157573908_222275cbee_q.jpg" title="20101105-MacTech-049" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5157574768/"><img src="https://farm2.static.flickr.com/1176/5157574768_01d99c7807_q.jpg" title="20101105-MacTech-051" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-26.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-26.jpg" title="MacTech-2011-LG-26.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-LG-27.jpg"><img src="{{ site.url }}/assets/images/2010/11/05/MacTech-2011-SM-27.jpg" title="MacTech-2011-LG-27.jpg" /></a>
 </figure>
