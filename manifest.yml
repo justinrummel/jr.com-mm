@@ -1,0 +1,18 @@
+---
+permalink: manifest.json
+---
+
+{
+  "lang": "{{ site.manifest_lang }}",
+  "background_color": "#{{ site.manifest_background_color }}",
+  "name": "{{ site.manifest_name }}",
+  "short_name": "{{ site.manifest_short_name }}",
+  "display": "{{ site.manifest_display}}",
+  "icons": [
+    {
+      "src": "assets/images/mstile-150x150.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
