@@ -318,3 +318,12 @@ post_layout               : post
 page_layout               : page
 page_layout               : photos
 
+# https://github.com/whaleen/jekyll-manifest.json
+# Manifest settings (Used to make manifest.json)
+# Edit manifest.json directly with icon information
+manifest_name: Justin Rummel . com
+manifest_short_name: JR.com # Appears in "Add to home screen" dialogues
+manifest_lang: en
+manifest_background_color: white
+manifest_short_name:
+manifest_display: standalone
