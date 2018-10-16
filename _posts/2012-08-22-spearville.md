@@ -25,28 +25,29 @@ The "other" pictures (and I say other b/c there is simply no description for the
 Lastly, while "getting out of Dodge" (couldn't resist) driving towards the Wichita airport I drove past the "[Pink Fire Trucks][pinkfiretrucks]" caravan. See their page for future locations and their mission.
 
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/7841725398/"><img src="https://farm9.static.flickr.com/8436/7841725398_1e124795ed_m.jpg" title="20120806-Dodge_City-082" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/7841726194/"><img src="https://farm8.static.flickr.com/7115/7841726194_244803e728_m.jpg" title="20120806-Dodge_City-083" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/7841730478/"><img src="https://farm9.static.flickr.com/8430/7841730478_df4c01bae7_m.jpg" title="20120807-Dodge_City-084" /></a>
+<a href="{{ site.url }}/assets/images/2012/08/06/spearville-LG-1.jpg"><img src="{{ site.url }}/assets/images/2012/08/06/spearville-SM-1.jpg" title="spearville-LG-1.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2012/08/06/spearville-LG-2.jpg"><img src="{{ site.url }}/assets/images/2012/08/06/spearville-SM-2.jpg" title="spearville-LG-2.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2012/08/06/spearville-LG-3.jpg"><img src="{{ site.url }}/assets/images/2012/08/06/spearville-SM-3.jpg" title="spearville-LG-3.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/7841736532/"><img src="https://farm9.static.flickr.com/8428/7841736532_45c2e5125b_m.jpg" title="20120807-Dodge_City-085" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/7841742202/"><img src="https://farm9.static.flickr.com/8290/7841742202_f74b3195e1_m.jpg" title="20120807-Dodge_City-086" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/7841746714/"><img src="https://farm8.static.flickr.com/7131/7841746714_23ab3f2f42_m.jpg" title="20120807-Dodge_City-087" /></a>
+<a href="{{ site.url }}/assets/images/2012/08/06/spearville-LG-4.jpg"><img src="{{ site.url }}/assets/images/2012/08/06/spearville-SM-4.jpg" title="spearville-LG-4.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2012/08/06/spearville-LG-5.jpg"><img src="{{ site.url }}/assets/images/2012/08/06/spearville-SM-5.jpg" title="spearville-LG-5.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2012/08/06/spearville-LG-6.jpg"><img src="{{ site.url }}/assets/images/2012/08/06/spearville-SM-6.jpg" title="spearville-LG-6.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/7841749996/"><img src="https://farm9.static.flickr.com/8438/7841749996_77c8435ce5_m.jpg" title="20120807-Dodge_City-088" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/7841752806/"><img src="https://farm8.static.flickr.com/7254/7841752806_9879734fec_m.jpg" title="20120807-Dodge_City-089" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/7841757486/"><img src="https://farm8.static.flickr.com/7124/7841757486_1a32101832_m.jpg" title="20120807-Dodge_City-090" /></a>
+<a href="{{ site.url }}/assets/images/2012/08/06/spearville-LG-7.jpg"><img src="{{ site.url }}/assets/images/2012/08/06/spearville-SM-7.jpg" title="spearville-LG-7.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2012/08/06/spearville-LG-8.jpg"><img src="{{ site.url }}/assets/images/2012/08/06/spearville-SM-8.jpg" title="spearville-LG-8.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2012/08/06/spearville-LG-9.jpg"><img src="{{ site.url }}/assets/images/2012/08/06/spearville-SM-9.jpg" title="spearville-LG-9.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/7841759258/"><img src="https://farm8.static.flickr.com/7270/7841759258_40f83044b7_m.jpg" title="20120807-Dodge_City-091" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/7841763032/"><img src="https://farm9.static.flickr.com/8282/7841763032_7ea5897224_m.jpg" title="20120807-Dodge_City-092" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/7841766116/"><img src="https://farm9.static.flickr.com/8445/7841766116_a503484017_m.jpg" title="20120807-Dodge_City-093" /></a>
+<a href="{{ site.url }}/assets/images/2012/08/06/spearville-LG-10.jpg"><img src="{{ site.url }}/assets/images/2012/08/06/spearville-SM-10.jpg" title="spearville-LG-10.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2012/08/06/spearville-LG-11.jpg"><img src="{{ site.url }}/assets/images/2012/08/06/spearville-SM-11.jpg" title="spearville-LG-11.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2012/08/06/spearville-LG-12.jpg"><img src="{{ site.url }}/assets/images/2012/08/06/spearville-SM-12.jpg" title="spearville-LG-12.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/7841769582/"><img src="https://farm9.static.flickr.com/8426/7841769582_0ccce55afd_m.jpg" title="20120807-Dodge_City-094" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/7841772248/"><img src="https://farm8.static.flickr.com/7263/7841772248_a99b8900e7_m.jpg" title="20120807-Dodge_City-095" /></a>
+<a href="{{ site.url }}/assets/images/2012/08/06/spearville-LG-13.jpg"><img src="{{ site.url }}/assets/images/2012/08/06/spearville-SM-13.jpg" title="spearville-LG-13.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2012/08/06/spearville-LG-14.jpg"><img src="{{ site.url }}/assets/images/2012/08/06/spearville-SM-14.jpg" title="spearville-LG-14.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2012/08/06/spearville-LG-15.jpg"><img src="{{ site.url }}/assets/images/2012/08/06/spearville-SM-15.jpg" title="spearville-LG-15.jpg" /></a>
 </figure>
 
 [future-of-spearville]: http://www.spearville.org/future-of-spearville

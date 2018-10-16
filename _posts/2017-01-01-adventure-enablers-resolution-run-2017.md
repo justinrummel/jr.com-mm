@@ -41,7 +41,7 @@ Race Results
 - Gender: Placed 6th out of 34
 - Male 36-56: Placed 2nd out of 10
 
-Race Results details are now [available][race_results], and more pictures can be seen on [flickr][72157674908384433] from the fantastic photographers at the race.
+Race Results details are now [available][race_results].
 
 <figure class="third">
 <a href="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00002.jpg"><img src="{{ site.url }}/assets/images/2017/01/02/Rev3-Adventure_ResolutionRun-LG-00002.jpg" alt="" /></a>
@@ -61,4 +61,3 @@ Race Results details are now [available][race_results], and more pictures can be
 [RR]: http://www.adventureenablers.com/resolution-run
 [CRSP]: http://www.dof.virginia.gov/stateforest/list/conway-robinson.htm
 [race_results]: https://runsignup.com/Race/Results/39844/IndividualResult/kJbx?#U8364916
-[72157674908384433]: https://www.flickr.com/photos/justinrummel/albums/72157674908384433

@@ -20,11 +20,11 @@ header:
 This is a **much delayed** postmortem race report after noticing that I did publish an article about the Berryman race in 2013, I should only do the same service to The Perfect 10 Rogaine in 2014! Unfortunately I was not able to attend the Berryman 2014 race due to scheduling conflict, however, I was able to once again reunite with by Brother-in-law Shawn as team "Roadkill" and try a new race The Perfect 10 Rogaine!
 
 <figure class="fifth">
-<a href="https://www.flickr.com/photos/justinrummel/16118912777" title="20141022-Perfect_10_Rogaine-001 by Justin Rummel, on Flickr"><img src="https://farm8.staticflickr.com/7466/16118912777_0b6fe677ba_q.jpg" width="150" height="150" alt="20141022-Perfect_10_Rogaine-001"></a>
-<a href="https://www.flickr.com/photos/justinrummel/16302975001" title="20141022-Perfect_10_Rogaine-002 by Justin Rummel, on Flickr"><img src="https://farm8.staticflickr.com/7522/16302975001_269a414e5d_q.jpg" width="150" height="150" alt="20141022-Perfect_10_Rogaine-002"></a>
-<a href="https://www.flickr.com/photos/justinrummel/16118610079" title="20141022-Perfect_10_Rogaine-004 by Justin Rummel, on Flickr"><img src="https://farm9.staticflickr.com/8592/16118610079_6524761279_q.jpg" width="150" height="150" alt="20141022-Perfect_10_Rogaine-004"></a>
-<a href="https://www.flickr.com/photos/justinrummel/16278829126" title="20141022-Perfect_10_Rogaine-006 by Justin Rummel, on Flickr"><img src="https://farm9.staticflickr.com/8679/16278829126_c2d6a99762_q.jpg" width="150" height="150" alt="20141022-Perfect_10_Rogaine-006"></a>
-<a href="https://www.flickr.com/photos/justinrummel/16117219728" title="20141022-Perfect_10_Rogaine-008 by Justin Rummel, on Flickr"><img src="https://farm8.staticflickr.com/7493/16117219728_9e4b05770c_q.jpg" width="150" height="150" alt="20141022-Perfect_10_Rogaine-008"></a>
+<a href="{{ site.url }}/assets/images/2014/10/18/perfect10-LG-1.jpg"><img src="{{ site.url }}/assets/images/2014/10/18/perfect10-SM-1.jpg" title="perfect10-LG-1.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2014/10/18/perfect10-LG-2.jpg"><img src="{{ site.url }}/assets/images/2014/10/18/perfect10-SM-2.jpg" title="perfect10-LG-2.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2014/10/18/perfect10-LG-3.jpg"><img src="{{ site.url }}/assets/images/2014/10/18/perfect10-SM-3.jpg" title="perfect10-LG-3.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2014/10/18/perfect10-LG-4.jpg"><img src="{{ site.url }}/assets/images/2014/10/18/perfect10-SM-4.jpg" title="perfect10-LG-4.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2014/10/18/perfect10-LG-5.jpg"><img src="{{ site.url }}/assets/images/2014/10/18/perfect10-SM-5.jpg" title="perfect10-LG-5.jpg" /></a>
 </figure>
 
 The objective of The Perfect 10 Rogaine is to find as many checkpoints within the 10 hour limit by foot ONLY (vs. the Run, Bike, Canoe of the Berryman races).  This year The Perfect 10 Rogaine was hosted in [Lake of the Ozarks State Park][ozarks] in Ozarks, MO.
