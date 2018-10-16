@@ -21,52 +21,52 @@ This set contains pictures during my Alaska trip in 2011. My Alaskan family flew
 For this set I was worried about the snow reflection washing out everything or making the exposure to bright for post processing. I decided to take all the pictures at -1 Exposure which I believe helped in the long run.
 
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/5651224173/"><img src="https://farm6.static.flickr.com/5025/5651224173_42bb519b34_m.jpg" title="20110417-Squirrel_River-001" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651224599/"><img src="https://farm6.static.flickr.com/5223/5651224599_ec305017c6_m.jpg" title="20110417-Squirrel_River-002" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651790698/"><img src="https://farm6.static.flickr.com/5228/5651790698_6e4741a3ab_m.jpg" title="20110417-Squirrel_River-003" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-1.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-1.jpg" title="squirrel-river-LG-1.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-2.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-2.jpg" title="squirrel-river-LG-2.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-3.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-3.jpg" title="squirrel-river-LG-3.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/5651225167/"><img src="https://farm6.static.flickr.com/5142/5651225167_7dd4aa5dd7_m.jpg" title="20110417-Squirrel_River-004" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651225443/"><img src="https://farm6.static.flickr.com/5306/5651225443_babae3959c_m.jpg" title="20110417-Squirrel_River-005" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651225711/"><img src="https://farm6.static.flickr.com/5264/5651225711_afa27e04d2_m.jpg" title="20110417-Squirrel_River-006" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-4.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-4.jpg" title="squirrel-river-LG-4.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-5.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-5.jpg" title="squirrel-river-LG-5.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-6.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-6.jpg" title="squirrel-river-LG-6.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/5651226055/"><img src="https://farm6.static.flickr.com/5307/5651226055_c36548c1af_m.jpg" title="20110417-Squirrel_River-007" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651226433/"><img src="https://farm6.static.flickr.com/5262/5651226433_93b9f7ff01_m.jpg" title="20110417-Squirrel_River-008" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651792518/"><img src="https://farm6.static.flickr.com/5184/5651792518_b6f09824b1_m.jpg" title="20110417-Squirrel_River-009" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-7.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-7.jpg" title="squirrel-river-LG-7.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-8.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-8.jpg" title="squirrel-river-LG-8.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-9.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-9.jpg" title="squirrel-river-LG-9.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/5651792824/"><img src="https://farm6.static.flickr.com/5303/5651792824_9aa6f41b03_m.jpg" title="20110417-Squirrel_River-010" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651227515/"><img src="https://farm6.static.flickr.com/5030/5651227515_8ce6418945_m.jpg" title="20110417-Squirrel_River-011" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651793562/"><img src="https://farm6.static.flickr.com/5027/5651793562_3797ddfb08_m.jpg" title="20110417-Squirrel_River-012" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-10.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-10.jpg" title="squirrel-river-LG-10.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-11.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-11.jpg" title="squirrel-river-LG-11.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-12.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-12.jpg" title="squirrel-river-LG-12.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/5651793856/"><img src="https://farm6.static.flickr.com/5222/5651793856_cbc9ae1ede_m.jpg" title="20110417-Squirrel_River-013" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651228359/"><img src="https://farm6.static.flickr.com/5181/5651228359_4ee2a13eeb_m.jpg" title="20110417-Squirrel_River-014" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651228635/"><img src="https://farm6.static.flickr.com/5106/5651228635_c49de4339a_m.jpg" title="20110417-Squirrel_River-015" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-13.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-13.jpg" title="squirrel-river-LG-13.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-14.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-14.jpg" title="squirrel-river-LG-14.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-15.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-15.jpg" title="squirrel-river-LG-15.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/5651794892/"><img src="https://farm6.static.flickr.com/5301/5651794892_31d72851a5_m.jpg" title="20110417-Squirrel_River-016" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651229465/"><img src="https://farm6.static.flickr.com/5261/5651229465_8001f42d15_m.jpg" title="20110417-Squirrel_River-017" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651229825/"><img src="https://farm6.static.flickr.com/5141/5651229825_75cd65cb0d_m.jpg" title="20110417-Squirrel_River-018" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-16.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-16.jpg" title="squirrel-river-LG-16.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-17.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-17.jpg" title="squirrel-river-LG-17.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-18.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-18.jpg" title="squirrel-river-LG-18.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/5651230161/"><img src="https://farm6.static.flickr.com/5024/5651230161_f99c2e66ed_m.jpg" title="20110417-Squirrel_River-019" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651796308/"><img src="https://farm6.static.flickr.com/5265/5651796308_522b3afcc2_m.jpg" title="20110417-Squirrel_River-020" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651230903/"><img src="https://farm6.static.flickr.com/5185/5651230903_207a429687_m.jpg" title="20110417-Squirrel_River-021" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-19.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-19.jpg" title="squirrel-river-LG-19.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-20.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-20.jpg" title="squirrel-river-LG-20.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-21.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-21.jpg" title="squirrel-river-LG-21.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/5651231183/"><img src="https://farm6.static.flickr.com/5065/5651231183_b1bbeeacc9_m.jpg" title="20110417-Squirrel_River-022" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651231677/"><img src="https://farm6.static.flickr.com/5102/5651231677_4a544b5006_m.jpg" title="20110417-Squirrel_River-023" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651797580/"><img src="https://farm6.static.flickr.com/5303/5651797580_465135dfd1_m.jpg" title="20110417-Squirrel_River-024" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-22.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-22.jpg" title="squirrel-river-LG-22.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-23.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-23.jpg" title="squirrel-river-LG-23.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-24.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-24.jpg" title="squirrel-river-LG-24.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/5651232191/"><img src="https://farm6.static.flickr.com/5145/5651232191_26199f62c2_m.jpg" title="20110417-Squirrel_River-025" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651232509/"><img src="https://farm6.static.flickr.com/5265/5651232509_fb07c5fc65_m.jpg" title="20110417-Squirrel_River-026" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651232749/"><img src="https://farm6.static.flickr.com/5025/5651232749_e41205f9a1_m.jpg" title="20110417-Squirrel_River-027" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-25.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-25.jpg" title="squirrel-river-LG-25.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-26.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-26.jpg" title="squirrel-river-LG-26.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-27.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-27.jpg" title="squirrel-river-LG-27.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/5651233073/"><img src="https://farm6.static.flickr.com/5229/5651233073_c33379d039_m.jpg" title="20110417-Squirrel_River-028" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651799104/"><img src="https://farm6.static.flickr.com/5103/5651799104_163440dd3a_m.jpg" title="20110417-Squirrel_River-029" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5651799424/"><img src="https://farm6.static.flickr.com/5265/5651799424_a8f41d422b_m.jpg" title="20110417-Squirrel_River-030" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-28.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-28.jpg" title="squirrel-river-LG-28.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-29.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-29.jpg" title="squirrel-river-LG-29.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/04/17/squirrel-river-LG-30.jpg"><img src="{{ site.url }}/assets/images/2011/04/17/squirrel-river-SM-30.jpg" title="squirrel-river-LG-30.jpg" /></a>
 </figure>

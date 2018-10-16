@@ -19,36 +19,36 @@ header:
 I spent two days working at Santa Catalina School, (Monterey, CA), and at the end of the second day I went out and capture some pictures of their facilities because I have never seen a K-12 school look so beautiful. This is what landscape architecture majors dream of designing. Unfortunately I didn’t may much attention to each shot as I had limited time, so most of the pictures were set for Auto at ISO 200. I should have done a -1 EV for the outdoor shots, and better yet brought my circular polarizer filter. Someday I hope I’ll be able to return and take even more pictures.
 
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/5849866578/"><img src="https://farm3.static.flickr.com/2513/5849866578_4dd072eab6_m.jpg" title="20110617-Santa_Catalina-022" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5849297757/"><img src="https://farm6.static.flickr.com/5196/5849297757_2a2c79f295_m.jpg" title="20110617-Santa_Catalina-021" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5849310905/"><img src="https://farm3.static.flickr.com/2779/5849310905_428cdd3d73_m.jpg" title="20110617-Santa_Catalina-020" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-1.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-1.jpg" title="santa-catalina-LG-1.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-2.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-2.jpg" title="santa-catalina-LG-2.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-3.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-3.jpg" title="santa-catalina-LG-3.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/5849865176/"><img src="https://farm6.static.flickr.com/5235/5849865176_00df418df0_m.jpg" title="20110617-Santa_Catalina-019" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5849309607/"><img src="https://farm6.static.flickr.com/5236/5849309607_7a66682274_m.jpg" title="20110617-Santa_Catalina-018" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5849308531/"><img src="https://farm3.static.flickr.com/2580/5849308531_85d24b0d06_m.jpg" title="20110617-Santa_Catalina-017" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-4.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-4.jpg" title="santa-catalina-LG-4.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-5.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-5.jpg" title="santa-catalina-LG-5.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-6.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-6.jpg" title="santa-catalina-LG-6.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/5849862404/"><img src="https://farm4.static.flickr.com/3104/5849862404_95426ac711_m.jpg" title="20110617-Santa_Catalina-016" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5849861798/"><img src="https://farm3.static.flickr.com/2656/5849861798_b08eb3c26b_m.jpg" title="20110617-Santa_Catalina-015" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5849306553/"><img src="https://farm4.static.flickr.com/3415/5849306553_54b6a1a0e4_m.jpg" title="20110617-Santa_Catalina-014" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-7.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-7.jpg" title="santa-catalina-LG-7.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-8.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-8.jpg" title="santa-catalina-LG-8.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-9.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-9.jpg" title="santa-catalina-LG-9.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/5849305785/"><img src="https://farm4.static.flickr.com/3224/5849305785_e5d2579a97_m.jpg" title="20110617-Santa_Catalina-013" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5849305263/"><img src="https://farm3.static.flickr.com/2485/5849305263_16f49f4340_m.jpg" title="20110617-Santa_Catalina-012" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5849304857/"><img src="https://farm4.static.flickr.com/3149/5849304857_4be4f31f6b_m.jpg" title="20110617-Santa_Catalina-011" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-10.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-10.jpg" title="santa-catalina-LG-10.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-11.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-11.jpg" title="santa-catalina-LG-11.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-12.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-12.jpg" title="santa-catalina-LG-12.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/5849858688/"><img src="https://farm4.static.flickr.com/3309/5849858688_220d97e61a_m.jpg" title="20110617-Santa_Catalina-008" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5849858032/"><img src="https://farm6.static.flickr.com/5275/5849858032_4786a43255_m.jpg" title="20110617-Santa_Catalina-007" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5849302601/"><img src="https://farm4.static.flickr.com/3032/5849302601_74e7a2f143_m.jpg" title="20110617-Santa_Catalina-006" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-13.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-13.jpg" title="santa-catalina-LG-13.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-14.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-14.jpg" title="santa-catalina-LG-14.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-15.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-15.jpg" title="santa-catalina-LG-15.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/5849856334/"><img src="https://farm6.static.flickr.com/5229/5849856334_953280c8f9_m.jpg" title="20110617-Santa_Catalina-005" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5849301111/"><img src="https://farm4.static.flickr.com/3516/5849301111_e4491da1a7_m.jpg" title="20110617-Santa_Catalina-004" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5849300411/"><img src="https://farm4.static.flickr.com/3179/5849300411_035c2378d8_m.jpg" title="20110617-Santa_Catalina-003" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-16.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-16.jpg" title="santa-catalina-LG-16.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-17.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-17.jpg" title="santa-catalina-LG-17.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-18.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-18.jpg" title="santa-catalina-LG-18.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/5849854238/"><img src="https://farm4.static.flickr.com/3061/5849854238_dbbd9170a1_m.jpg" title="20110617-Santa_Catalina-002" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/5849853336/"><img src="https://farm6.static.flickr.com/5021/5849853336_236667739e_m.jpg" title="20110617-Santa_Catalina-001" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-19.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-19.jpg" title="santa-catalina-LG-19.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/06/17/santa-catalina-LG-20.jpg"><img src="{{ site.url }}/assets/images/2011/06/17/santa-catalina-SM-20.jpg" title="santa-catalina-LG-20.jpg" /></a>
 </figure>

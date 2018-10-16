@@ -24,42 +24,29 @@ For the pictures I knew I wanted to get the long exposure for the water coming d
 Check [www.niagaraparks.com/attractions/falls-illumination.html][falls-illumination] for the light's schedule.
 
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/6170790624/"><img src="https://farm7.static.flickr.com/6152/6170790624_e56c02c48b_m.jpg" title="Niagara Falls" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/6200826580/"><img src="https://farm7.static.flickr.com/6015/6200826580_2d4e5f6061_m.jpg" title="20110929-Niagara_Falls-115_HDR" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/6200314521/"><img src="https://farm7.static.flickr.com/6009/6200314521_28dc8bc70a_m.jpg" title="20110929-Niagara_Falls-002" /></a>
+<a href="{{ site.url }}/assets/images/2011/09/29/niagara-falls-LG-2.jpg"><img src="{{ site.url }}/assets/images/2011/09/29/niagara-falls-SM-2.jpg" title="niagara-falls-LG-2.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/09/29/niagara-falls-LG-3.jpg"><img src="{{ site.url }}/assets/images/2011/09/29/niagara-falls-SM-3.jpg" title="niagara-falls-LG-3.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/09/29/niagara-falls-LG-4.jpg"><img src="{{ site.url }}/assets/images/2011/09/29/niagara-falls-SM-4.jpg" title="niagara-falls-LG-4.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/6200828076/"><img src="https://farm7.static.flickr.com/6173/6200828076_6224115f9d_m.jpg" title="20110929-Niagara_Falls-005" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/6200828636/"><img src="https://farm7.static.flickr.com/6156/6200828636_ee8e55d7ac_m.jpg" title="20110929-Niagara_Falls-006" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/6200316513/"><img src="https://farm7.static.flickr.com/6158/6200316513_d497cbbd7b_m.jpg" title="20110929-Niagara_Falls-013" /></a>
+<a href="{{ site.url }}/assets/images/2011/09/29/niagara-falls-LG-5.jpg"><img src="{{ site.url }}/assets/images/2011/09/29/niagara-falls-SM-5.jpg" title="niagara-falls-LG-5.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/09/29/niagara-falls-LG-6.jpg"><img src="{{ site.url }}/assets/images/2011/09/29/niagara-falls-SM-6.jpg" title="niagara-falls-LG-6.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/09/29/niagara-falls-LG-7.jpg"><img src="{{ site.url }}/assets/images/2011/09/29/niagara-falls-SM-7.jpg" title="niagara-falls-LG-7.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/6200317003/"><img src="https://farm7.static.flickr.com/6177/6200317003_c6353f5e51_m.jpg" title="20110929-Niagara_Falls-029" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/6200830166/"><img src="https://farm7.static.flickr.com/6160/6200830166_fd3bd145d1_m.jpg" title="20110929-Niagara_Falls-031" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/6200830594/"><img src="https://farm7.static.flickr.com/6005/6200830594_bb2584265d_m.jpg" title="20110929-Niagara_Falls-036" /></a>
+<a href="{{ site.url }}/assets/images/2011/09/29/niagara-falls-LG-9.jpg"><img src="{{ site.url }}/assets/images/2011/09/29/niagara-falls-SM-9.jpg" title="niagara-falls-LG-9.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/09/29/niagara-falls-LG-10.jpg"><img src="{{ site.url }}/assets/images/2011/09/29/niagara-falls-SM-10.jpg" title="niagara-falls-LG-10.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/09/29/niagara-falls-LG-11.jpg"><img src="{{ site.url }}/assets/images/2011/09/29/niagara-falls-SM-11.jpg" title="niagara-falls-LG-11.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/6200830930/"><img src="https://farm7.static.flickr.com/6159/6200830930_08c4d556fc_m.jpg" title="20110929-Niagara_Falls-041" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/6200831518/"><img src="https://farm7.static.flickr.com/6143/6200831518_b569e8f434_m.jpg" title="20110929-Niagara_Falls-046" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/6200319369/"><img src="https://farm7.static.flickr.com/6163/6200319369_acf2e24956_m.jpg" title="20110929-Niagara_Falls-051" /></a>
+<a href="{{ site.url }}/assets/images/2011/09/29/niagara-falls-LG-12.jpg"><img src="{{ site.url }}/assets/images/2011/09/29/niagara-falls-SM-12.jpg" title="niagara-falls-LG-12.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/09/29/niagara-falls-LG-13.jpg"><img src="{{ site.url }}/assets/images/2011/09/29/niagara-falls-SM-13.jpg" title="niagara-falls-LG-13.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/09/29/niagara-falls-LG-15.jpg"><img src="{{ site.url }}/assets/images/2011/09/29/niagara-falls-SM-15.jpg" title="niagara-falls-LG-15.jpg" /></a>
 </figure>
 <figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/6200832376/"><img src="https://farm7.static.flickr.com/6162/6200832376_90f4c27b2e_m.jpg" title="20110929-Niagara_Falls-052" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/6200832790/"><img src="https://farm7.static.flickr.com/6009/6200832790_96a1f969a8_m.jpg" title="20110929-Niagara_Falls-054" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/6200320757/"><img src="https://farm7.static.flickr.com/6170/6200320757_7e368120bc_m.jpg" title="20110929-Niagara_Falls-055" /></a>
-</figure>
-<figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/6200834006/"><img src="https://farm7.static.flickr.com/6027/6200834006_0a6abaa32e_m.jpg" title="20110929-Niagara_Falls-056" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/6200834466/"><img src="https://farm7.static.flickr.com/6163/6200834466_c87a771d54_m.jpg" title="Allen! Allen! Allen!" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/6200322225/"><img src="https://farm7.static.flickr.com/6158/6200322225_bfe22481d8_m.jpg" title="20110929-Niagara_Falls-091" /></a>
-</figure>
-<figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/6200835300/"><img src="https://farm7.static.flickr.com/6171/6200835300_1fd2a48d84_m.jpg" title="20110929-Niagara_Falls-106" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/6200323037/"><img src="https://farm7.static.flickr.com/6167/6200323037_71da7f8b36_m.jpg" title="20110929-Niagara_Falls-112" /></a>
-<a href="https://www.flickr.com/photos/justinrummel/6200323473/"><img src="https://farm7.static.flickr.com/6163/6200323473_43ccd4f078_m.jpg" title="20110929-Niagara_Falls-118" /></a>
-</figure>
-<figure class="third">
-<a href="https://www.flickr.com/photos/justinrummel/6200836490/"><img src="https://farm7.static.flickr.com/6138/6200836490_b93fe6cb4b_m.jpg" title="20110929-Niagara_Falls-120" /></a>
+<a href="{{ site.url }}/assets/images/2011/09/29/niagara-falls-LG-1.jpg"><img src="{{ site.url }}/assets/images/2011/09/29/niagara-falls-SM-1.jpg" title="niagara-falls-LG-1.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/09/29/niagara-falls-LG-8.jpg"><img src="{{ site.url }}/assets/images/2011/09/29/niagara-falls-SM-8.jpg" title="niagara-falls-LG-8.jpg" /></a>
+<a href="{{ site.url }}/assets/images/2011/09/29/niagara-falls-LG-14.jpg"><img src="{{ site.url }}/assets/images/2011/09/29/niagara-falls-SM-14.jpg" title="niagara-falls-LG-14.jpg" /></a>
 </figure>
 
 [falls-illumination]: http://www.niagaraparks.com/attractions/falls-illumination.html
