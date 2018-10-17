@@ -3,7 +3,7 @@ replying_to: '1'
 date: '2015-01-01 13:18:35 +0000'
 name: Justin
 message: "A couple of days ago I received an email stating things were not working again.  Doing some more googling I found
-  [http://blog.anupamsg.me/2012/02/14/enabling-postfix-for-outbound-relay-via-gmail-on-os-x-lion-11/](http://blog.anupamsg.me/2012/02/14/enabling-postfix-for-outbound-relay-via-gmail-on-os-x-lion-11/)
+  [https://blog.anupamsg.me/2012/02/14/enabling-postfix-for-outbound-relay-via-gmail-on-os-x-lion-11/](https://blog.anupamsg.me/2012/02/14/enabling-postfix-for-outbound-relay-via-gmail-on-os-x-lion-11/)
   and noticed one line was missing in my mods:\r\n\r\n
 
   ``` bash\r\n

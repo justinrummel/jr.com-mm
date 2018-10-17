@@ -3,7 +3,7 @@ replying_to: '1'
 date: '2012-07-26 03:16:50 +0000'
 name: Justin
 message: "If you are updating from Lion to Mt Lion, the answer is \"it depends\"
-  (see this kbase: ~~http://support.apple.com/kb/HT5412~~. 
+  (see this kbase: ~~https://support.apple.com/kb/HT5412~~. 
   As for controlling DHCP once you have Mt Lion Server installed, you will be forced to use
   terminal commands."
 email: 812849b04c44245ad29c0e40cb84e3da

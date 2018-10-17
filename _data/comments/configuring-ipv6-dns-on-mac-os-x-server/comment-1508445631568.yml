@@ -1,5 +1,5 @@
 _id: bf81da10-b50d-11e7-9670-3b6a9dc04145
-message: "Hello Jan,\r\n\r\nThis was originally written for Server.app with Lion.  Today with Sierra and High Sierra there is so much caching that I would not be surprised that upon restart your modifications would be lost.\r\n\r\nI haven't kept up-to-date with best practices when trying to expand Server.app IPv6 support since I'm not doing Apple consulting anymore as my job.  It is sad to see that AAAA records are not listed on [Apple's Advance Server Admin documentation](http://help.apple.com/advancedserveradmin/mac/4.0/#/apd43BAAA60-560A-41E7-8347-49EEC9AC9436)."
+message: "Hello Jan,\r\n\r\nThis was originally written for Server.app with Lion.  Today with Sierra and High Sierra there is so much caching that I would not be surprised that upon restart your modifications would be lost.\r\n\r\nI haven't kept up-to-date with best practices when trying to expand Server.app IPv6 support since I'm not doing Apple consulting anymore as my job.  It is sad to see that AAAA records are not listed on [Apple's Advance Server Admin documentation](https://help.apple.com/advancedserveradmin/mac/4.0/#/apd43BAAA60-560A-41E7-8347-49EEC9AC9436)."
 name: Justin Rummel
 email: 812849b04c44245ad29c0e40cb84e3da
 replying_to: '3'

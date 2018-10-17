@@ -2,7 +2,7 @@ _id: disqus-comment-601725579
 replying_to: '2'
 date: '2012-07-29 13:49:31 +0000'
 name: Justin
-message: "See [http://support.apple.com/kb/TS1629](http://support.apple.com/kb/TS1629)
+message: "See [https://support.apple.com/en-us/HT202944](https://support.apple.com/en-us/HT202944)
   for common ports.\r\n\r\n
   You would want to start with 311 and 660. But you may want others open as well such
   as ARD to control, ssh, or look at Profile Manager thus need APNS.\r\n\r\n
