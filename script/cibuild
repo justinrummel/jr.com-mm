@@ -18,4 +18,4 @@ bundle exec jekyll b -c _config.yml
 # bundle exec htmlproofer ./_site/ --alt-ignore '/.*/' --allow-hash-href true --http-status-ignore 0,301,302,403,999 --check-img-http
 
 # External Link, image, and HTTPS checking
-bundle exec htmlproofer ./_site/ --alt-ignore '/.*/' --allow-hash-href --check-html --check-img-http --check-opengraph --enforce-https --http-status-ignore 0,403,999
+bundle exec htmlproofer ./_site/ --alt-ignore '/.*/' --allow-hash-href --check-html --check-img-http --check-opengraph --http-status-ignore 0,403,999
