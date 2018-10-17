@@ -55,4 +55,4 @@ Now I'm done bitching and making excuses, here are my thoughts after [reading th
 - Total time 1:31:39.  Did not beat my padded goal time of 1:30.  disappointed.
 	+ padded time was calculated by 2min for 100m pace, 18mph bike pace, 8min mile pace; thus 15 + 46:45 + 24 (+ 4 mins for transition time) = 90 mins (rounded up).
 
-[vtsmts-cb-2015]: http://www.vtsmts.com/2015-results-colonialsprintoverall
+[vtsmts-cb-2015]: https://kineticmultisports.com/result/2015-results/2015-results-colonialsprintoverall/

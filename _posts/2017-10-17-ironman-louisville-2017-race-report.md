@@ -277,12 +277,12 @@ Footnotes
 
 [kinetic]: https://www.justinrummel.com/kinetic-half-2016-race-report/
 [wattie-sw]: https://www.wattieink.com/collections/the-shipwreck-collection
-[stinger-bar]: http://www.honeystinger.com/index.php/energy-bars/cran-apple-and-walnut-snack-bar.html
+[stinger-bar]: https://www.honeystinger.com/products/bars/energy-bars
 [wattie-speedsuit]: https://www.wattieink.com/collections/speedsuits
-[zipp]: http://www.zipp.com/wheels/808-firecrest---carbon-clincher/
+[zipp]: https://www.zipp.com/wheels/808-firecrest---carbon-clincher/
 [argon18]: https://www.argon18bike.com/en/news/argon-18/unveiling-the-2015-argon-18-colllection
 [fac]: http://www.freedom-center.com/aquatics/freedom-aquatic-club-masters-team/
-[hpt]: http://www.haymarketpt.com/contact-bristow/
-[velofit]: http://www.velofitpt.com
+[hpt]: https://haymarketpt.com/contact-bristow/
+[velofit]: https://www.velofitpt.com
 
 [event_results]: http://www.ironman.com/triathlon/coverage/athlete-tracker.aspx?y=2017&rd=20171015&race=louisville&bidid=2008&detail=1

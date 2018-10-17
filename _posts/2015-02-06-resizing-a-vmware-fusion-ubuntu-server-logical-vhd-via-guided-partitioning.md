@@ -38,7 +38,7 @@ By deselecting the "Use Easy Install" checkbox, you will be required to walk thr
 LVM stands for Logicial Volume Management.  I found the <s>best</s> quickest explanation for why you would want an LVM environment in the Ask Ubuntu forums:
 
 > You can think of LVM as "dynamic partitions", meaning that you can create/resize/delete LVM "partitions" (they're called "Logical Volumes" in LVM-speak) from the command line while your Linux system is running: no need to reboot the system to make the kernel aware of the newly-created or resized partitions.
-> <cite>[The Benefits of LVM](http://askubuntu.com/a/3833)</cite>
+> <cite>[The Benefits of LVM](https://askubuntu.com/questions/3596/what-is-lvm-and-what-is-it-used-for/3833#3833)</cite>
 
 So let's see what we are working with and how it differs from the "Easy Install".  We'll launch our new Ubuntu Server VM and perform the same tasks as last time to get a sense of how much space is available.
 
@@ -252,4 +252,4 @@ Source
 
 - [Ask Ubuntu][531817]
 
-[531817]: http://askubuntu.com/a/531817
+[531817]: https://askubuntu.com/questions/531816/how-do-i-add-space-to-lvms-root-partition-without-shutting-down-my-vm/531817#531817

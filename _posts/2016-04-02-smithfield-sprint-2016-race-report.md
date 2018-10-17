@@ -93,9 +93,9 @@ If you want accurate pace info for races I've had been using Running Free Online
 Footnotes
 ---
 
-[norseman]: http://nxtri.com
+[norseman]: https://nxtri.com
 [sherpa]: http://www.speedsherpa.com
 [^1]: Times based on 1:50/100m swim, 20mph ride, 7:30 minutes/mi run.
 [^2]: Official Race Results available at [VTS/MTS Smithfield Results page][results]
-[results]: http://www.vtsmts.com/2016-results/smithfieldoverall/
-[half]: http://www.vtsmts.com/kinetichalf/
+[results]: https://kineticmultisports.com/result/2016-results/smithfieldoverall/
+[half]: https://kineticmultisports.com/races/kinetic/

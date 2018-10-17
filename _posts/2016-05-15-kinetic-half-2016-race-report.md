@@ -95,4 +95,4 @@ Footnotes
 [^2]: I really had no idea what to expect.  Times based on slower times compared to Smithfiled: 2:00/100m swim, 17mph ride, 9:00 minutes/mi run because of current injuries.
 [^3]: Official Race Results available at [VTS/MTS Kinetic Half Results page][kinetic_results].
 
-[kinetic_results]: http://www.vtsmts.com/2016-results/kinetichalfoverall/
+[kinetic_results]: https://kineticmultisports.com/result/2016-results/kinetichalfoverall/

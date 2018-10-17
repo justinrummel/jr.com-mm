@@ -63,8 +63,8 @@ Use Cases
 
 The common trend is there is a small group of people who have a need to *slightly* manage some devices (more than what would be acceptable to do the same repetitive thing on one device at a time), however they don't have a full IT person to take care of them. Or, there is a consultant that could help with the setup of Bushel, but then handover the control to that small group.  As long as the settings on the OSX/iOS devices that you want to control fall into the feature list above, [Bushel is PERFECT][bushel]!  "But wait, there's more"... you can try out everything for FREE for up to three devices.  When you want to get more advance options (custom iOS restrictions or application install outside the Mac App Store), that is when you need to start looking at a product geared for the Enterprise... like the [Casper Suite][casper]!
 
-[toast]: http://instagram.com/p/x11noxIW0u/
-[one]: http://www.forbes.com/sites/benkepes/2015/01/14/jamf-offers-apple-device-management-for-the-little-guys/
-[two]: http://finance.yahoo.com/news/introducing-bushel-powerful-apple-device-140300749.html
-[three]: http://betanews.com/2015/01/14/bushel-makes-apple-mobile-device-management-available-to-smaller-businesses/
-[casper]: http://www.jamfsoftware.com/products/casper-suite/
+[toast]: https://www.instagram.com/p/x11noxIW0u/
+[one]: https://www.forbes.com/sites/benkepes/2015/01/14/jamf-offers-apple-device-management-for-the-little-guys/
+[two]: https://finance.yahoo.com/news/introducing-bushel-powerful-apple-device-140300749.html
+[three]: https://betanews.com/2015/01/14/bushel-makes-apple-mobile-device-management-available-to-smaller-businesses/
+[casper]: https://www.jamfsoftware.com/products/jamf-pro/

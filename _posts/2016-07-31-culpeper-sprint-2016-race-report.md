@@ -87,4 +87,4 @@ Footnotes
 
 [mrw]: http://www.mountainrunwinery.com
 [montclair_results]: http://timing.rev3tri.com/mobile/athlete-results/E62400DF-EED2-4370-8997-9FC458257203/1/270
-[culpeper_results]: https://www.vtsmts.com/2016-results/culpepersprintoverall/
+[culpeper_results]: https://kineticmultisports.com/result/2016-results/culpepersprintoverall/

@@ -92,4 +92,4 @@ Footnotes
 [^3]: First time I've done this course, so times were based on results from Reston Olympic and Kinetic Half: 2:00/100m swim, 20mph ride (Kinetic 2016 Bike), 8:27 minutes/mi run (Reston 2015 Run).
 [^4]: Official Race Results available at [VTS/MTS Jamestown International Results page][jamestown_results].
 
-[jamestown_results]: http://www.vtsmts.com/2016-results/jamestowninternationaloverall/
+[jamestown_results]: https://kineticmultisports.com/result/2016-results/jamestowninternationaloverall/

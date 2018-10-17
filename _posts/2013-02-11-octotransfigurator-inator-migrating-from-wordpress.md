@@ -28,9 +28,9 @@ The last item that I liked about using Octopress is that every post is written i
 
 [glarizza]: http://garylarizza.com
 [octopress]: http://octopress.org
-[puppet]: http://puppetlabs.com
-[marczak]: http://radiotope.com
-[pureconcepts]: http://jason.pureconcepts.net/2013/01/benchmark-octopress-wordpress/
+[puppet]: https://puppet.com
+[marczak]: https://radiotope.com
+[pureconcepts]: https://jason.pureconcepts.net/2013/01/benchmark-octopress-wordpress/
 [jekyll-exporter]: https://github.com/benbalter/wordpress-to-jekyll-exporter
 
 How (a.k.a Give me your Google search result links)
@@ -43,7 +43,7 @@ Octopress has most of the directions you need to fire up an Octopress site on th
 	I have [Homebrew][brew] installed on my machine for two reasons: easy install of the "fish" shell and nmap. I REALLY like fish, but what I found is getting Ruby to work correctly on OSX and fish is difficult because the default version of Ruby on OSX is 1.8.7 and that version is too old for Octopress.  After several days of trying to make this work, I went back to the bash shell and started to use [Smyck Color Scheme][smyck] to help out with a good color scheme (I still have fish installed, just not the default shell anymore)  The site I found best suited for getting Octopress installed on OSX is on <s>panchoat.org</s> (now deleted).  It takes you through using Homebrew to install the necessary items (Ruby, rbenv, etc) plus walks you through publishing your site for free on github.com as a GitHub page.
 
 [setup]: http://octopress.org/docs/setup/
-[brew]: http://mxcl.github.com/homebrew/
+[brew]: https://brew.sh
 [smyck]: https://github.com/hukl/Smyck-Color-Scheme
 
 2.	Octopress Plugins are available, are you sure you want to use them?
@@ -68,7 +68,7 @@ Octopress has most of the directions you need to fire up an Octopress site on th
 	*	[Octopress Basics][basics] will provide a "how to" on starting new posts within Octopress such as making sure that categories and tags are correctly inserted in the header AND know the -three- four important rake commands: rake clean, rake generate, rake preview, rake deploy.
 	*	[Octopress Code Snippets][snippets] is a great resource on the best way to insert code (like a good Dev SysAdmin, share your knowledge)!  By inserting three 'back ticks' on one line, anything below will be formatted as code.  Items that I learned, be sure you only use three (four will produce "generate" errors) and be sure to end with three 'back ticks'.  The nice thing about this is that you can also format the code for the particular language that you are using with Syntax Highlighting. Use "bash" OR "ruby" on the first line after your three 'back ticks', and your code will be formatted in that language for easy reading.  You can also embed gists from GitHub, or use "codeblock" if you need some output text just formatted differently (I used this for displaying the public SSL cert info on one of my articles).
 
-[daringfireball]: http://daringfireball.net/projects/markdown/
+[daringfireball]: https://daringfireball.net/projects/markdown/
 [basics]: http://octopress.org/docs/blogging/
 [snippets]: http://octopress.org/docs/blogging/code/
 
@@ -85,5 +85,5 @@ The page generation has me concerned.  When I first started cleaning up the expo
 
 Also, apparently I watch too much [Phineas & Ferb][Phineas_and_Ferb] with my kids, and have a particular affinity for the [Evil Dr. Heinz Doofenshmirtz][DoofDaily] (as the title suggests).
 
-[Phineas_and_Ferb]: http://en.wikipedia.org/wiki/Phineas_and_Ferb
-[DoofDaily]: http://en.wikipedia.org/wiki/Dr._Heinz_Doofenshmirtz
+[Phineas_and_Ferb]: https://en.wikipedia.org/wiki/Phineas_and_Ferb
+[DoofDaily]: https://en.wikipedia.org/wiki/Dr._Heinz_Doofenshmirtz

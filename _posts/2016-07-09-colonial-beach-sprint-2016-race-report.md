@@ -89,6 +89,6 @@ Footnotes
 
 [madi]: https://www.instagram.com/madikirch/
 [AlaskaMan]: http://www.akxtri.com
-[SS]: https://www.vtsmts.com/super-series/
-[FAQ]: https://www.vtsmts.com/faqs/
-[colonial_results]: https://www.vtsmts.com/2016-results/colonialbeachsprintoverall/
+[SS]: https://kineticmultisports.com/super-series/
+[FAQ]: https://kineticmultisports.com/faqs/
+[colonial_results]: https://kineticmultisports.com/result/2016-results/colonialbeachsprintoverall/
