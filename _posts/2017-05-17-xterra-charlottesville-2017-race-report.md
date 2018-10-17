@@ -127,10 +127,10 @@ Footnotes
 [217930866]: https://vimeo.com/217930866
 [thedistance]: https://en.wikipedia.org/wiki/XTERRA_Triathlon#Race_format
 [msa]: http://millerschoolofalbemarle.org
-[MSA-enduro]: https://www.msacycling.org/new-page-1/
+[MSA-enduro]: https://www.msaendurance.com/new-page-1/
 [aaa]: http://www.adventureaddictsracing.com/about-us/founders/
-[andy]: https://www.msacycling.org/new-page-2/
+[andy]: https://www.msaendurance.com/new-page-2/
 [x-results-page]: http://www.raceworkstiming.com/05-20-17-xterra-tri-charlottesville
 [x-results-me]: http://georesults.racemine.com/race-works-timing/events/2017/2017-xtrerra-charlottesville/140/entrant
 [map-aa]: https://cms-events.com/event/xterra-cville-tri/course-previews/
-[map-msa]: https://www.msacycling.org/s/Miller_mountainbike_sizeDfinal.pdf
+[map-msa]: https://www.msaendurance.com/s/Miller_mountainbike_sizeDfinal.pdf

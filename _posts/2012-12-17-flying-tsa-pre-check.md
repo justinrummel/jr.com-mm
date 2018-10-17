@@ -58,7 +58,7 @@ The interview is very simple, and just like other background security interviews
 
 [easy4]: http://www.globalentry.gov/howtoapply.html
 [tsa]: https://www.tsa.gov/precheck/map
-[goes]: https://goes-app.cbp.dhs.gov/main/goes
+[goes]: https://ttp.cbp.dhs.gov/getstarted
 
 What is the first time Airport Experience
 ---
