@@ -146,7 +146,7 @@ I was on the final 30 miles when the wind gusts starting to take over the race c
 
 Getting back to the flat section of the course on River, RD... I soon could hear music playing and the crowd cheering for athletes that were returning.  I had just completed the longest bike ride in my life... and now to start my first marathon.
 
-- [Training Peaks Bike Data](http://tpks.ws/Avj47)
+- [Training Peaks Bike Data](http://tpks.ws/WKEF2HW6MS5DBD2KCX3BEQBZYM)
 
 
 <figure class="third">
@@ -280,7 +280,7 @@ Footnotes
 [stinger-bar]: http://www.honeystinger.com/index.php/energy-bars/cran-apple-and-walnut-snack-bar.html
 [wattie-speedsuit]: https://www.wattieink.com/collections/speedsuits
 [zipp]: http://www.zipp.com/wheels/808-firecrest---carbon-clincher/
-[argon18]: https://www.argon18bike.com/en/bikes/triathlon/e-118-next
+[argon18]: https://www.argon18bike.com/en/news/argon-18/unveiling-the-2015-argon-18-colllection
 [fac]: http://www.freedom-center.com/aquatics/freedom-aquatic-club-masters-team/
 [hpt]: http://www.haymarketpt.com/contact-bristow/
 [velofit]: http://www.velofitpt.com

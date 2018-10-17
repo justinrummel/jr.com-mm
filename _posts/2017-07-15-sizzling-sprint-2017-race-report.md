@@ -106,6 +106,6 @@ Footnotes
 
 [salute]: /salute-2017-race-report/
 [williamsburg]: /williamsburg-sprint-2017-race-report/
-[ss]: http://www.speedsherpa.com/coach
+[ss]: http://www.speedsherpa.com/coaches
 [sizzling]: http://rev3tri.com/sizzling-tri/
 [event_results]: http://timing.rev3tri.com/mobile/athlete-results/A95237FD-B7C5-497E-A184-E9A2A312A00C/1/54

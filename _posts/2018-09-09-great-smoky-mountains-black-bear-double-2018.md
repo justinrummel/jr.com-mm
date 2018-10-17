@@ -21,7 +21,7 @@ header:
 <!-- Table of Contents -->
 {% include toc icon="gears" title="Race Review ToC" %}
 
-I signed up for the BBD as a training session for a long trail event in November (that I won't get into right now) to see how I can push myself while running for long periods of time.  In addition to the race events, I was also planning on hiking/exploring the Great Smoky Mountains which you can <a href=" {{ site.url }}/great-smoky-mountains/">see on this separate post</a>.  Over two days I was able to accomplish:
+I signed up for the BBD as a training session for a long trail event in November (that I won't get into right now) to see how I can push myself while running for long periods of time.  In addition to the race events, I was also planning on hiking/exploring the Great Smoky Mountains which you can <a href="{{ site.url }}/great-smoky-mountains/">see on this separate post</a>.  Over two days I was able to accomplish:
 
 - 10 mi mountain hike
 - 3.1 mi race

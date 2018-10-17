@@ -61,7 +61,7 @@ Here are my thoughts after [reading the results][wow-sprint-2015].
 Footnotes
 ---
 
-[^1]: Taken from the WOW website, available at <a href="http://charlottesvillemultisports.com/wow-race-information/">charlottesvillemultisports.com/CMS/WOW_Tri.html</a>.
+[^1]: Taken from the WOW website, available at <a href="https://cms-events.com/event/walnut-creek-tri/">cms-events.com/event/walnut-creek-tri</a>.
 [^2]: I don't know if I would do the Olympic in the future as the swimmers had to exit the lake, run on the beach to get a clear spot that was not obstructed by life guard equipment, and then jump back in for lap #2.  It seemed odd.
 
 [cb-2015]: /colonial-beach-sprint-2015-race-report/

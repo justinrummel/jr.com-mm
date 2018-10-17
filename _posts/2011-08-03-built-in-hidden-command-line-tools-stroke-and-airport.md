@@ -128,6 +128,6 @@ Wi-Fi Network Settings
 ![Options]({{ site.url }}/assets/images/2011/08/Wi-Fi2.png){: .align-center}
 Wi-Fi Network Options
 
-[xCode]: http://itunes.apple.com/us/app/xcode/id448457090?mt=12
+[xCode]: https://itunes.apple.com/us/app/xcode/id497799835?mt=12
 [macPorts]: http://www.macports.org/install.php
 [insecure]: http://nmap.org/download.html#source

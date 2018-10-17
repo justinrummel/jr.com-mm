@@ -137,6 +137,6 @@ Footnotes
 
 [ss]: http://www.speedsherpa.com/
 [miller]: https://millerschoolofalbemarle.org
-[event_results]: http://results.charmcityrun.com/sites/default/files/results/XTERRA_overall_18.htm
+[event_results]: https://img.racereach.com/files/results/140587/result_triathlon_2018.htm?kick=1539733283#%205
 [maui]: https://www.xterraplanet.com/event/xterra-world-championship
 [268389606]: https://vimeo.com/268389606

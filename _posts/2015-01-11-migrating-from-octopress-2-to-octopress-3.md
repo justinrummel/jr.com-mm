@@ -23,7 +23,7 @@ In case you didn't know, Octopress is getting ready for a [major update to versi
 What's new
 ---
 
-One item that is new in Octopress 3 is more inline with adding support to Jekyll vs. replacing common commands such as "build" and "serve" to test your site so you will have to change your workflow ("rake clean; rake generate; rake preview; etc" is gone.  You can safely dump that out of your memory).  Also, the main element for octopress in generateing your framework is now separate from all the tag process that you may have used to add content to your site (e.g. img, video, blockquote, etc).
+One item that is new in Octopress 3 is more inline with adding support to Jekyll vs. replacing common commands such as "build" and "serve" to test your site so you will have to change your workflow ("rake clean; rake generate; rake preview; etc" is gone.  You can safely dump that out of your memory).  Also, the main element for Octopress in generating your framework is now separate from all the tag process that you may have used to add content to your site (e.g. img, video, blockquote, etc).
 
 Commands
 ---
@@ -31,13 +31,13 @@ Commands
 Here are some new commands that I've been dealing with for the past couple of weeks
 
 - **octopress**: the team has a great [overview of this new command][basic-usage].  It will serve as the way to create a new site, post, page, draft... everything in how Octopress is helping you with your Jekyll site.
-- **jekyll**: You can use ```jekyll build --watch``` to generate the pages, but I usually use ```jekyll s``` to host a local version of my site on my laptop so I can review new articles that I've created (or fixing old posts).  If you are using the new drafts feature, use ```jekyll s --drafts```.  The nice thing about hosting on your local machine is that jekyll is setup for "watching", therefore, any changes while the site is running are seen within a few seconds (vs. having to re-generate and re-serve).
-- **bundle**: I never "updated" Octopress 2.  I had a site that worked and have been using that code since I started.  Now, with the development going so fast I'm often doing ```bundle update``` to pull the changes that have been completed (sometimes daily).
+- **jekyll**: You can use `jekyll build --watch` to generate the pages, but I usually use `jekyll s to host a local version of my site on my laptop so I can review new articles that I've created (or fixing old posts).  If you are using the new drafts feature, use `jekyll s --drafts.  The nice thing about hosting on your local machine is that jekyll is setup for "watching", therefore, any changes while the site is running are seen within a few seconds (vs. having to re-generate and re-serve).
+- **bundle**: I never "updated" Octopress 2.  I had a site that worked and have been using that code since I started.  Now, with the development going so fast I'm often doing `bundle update to pull the changes that have been completed (sometimes daily).
 
 Process
 ---
 
-I *highly* recommend you try to install a basic octopress site to see what breaks from your current content.  The only thing you really need to do is create a new folder that will hold your test site (e.g. ~/Documents/octopress3/) and inside that folder create a file called "Gemfile" with the following contents:
+I *highly* recommend you try to install a basic Octopress site to see what breaks from your current content.  The only thing you really need to do is create a new folder that will hold your test site (e.g. ~/Documents/octopress3/) and inside that folder create a file called "Gemfile" with the following contents:
 
 {% highlight ruby %}
 source 'https://rubygems.org'
@@ -49,9 +49,9 @@ group :jekyll_plugins do
 end
 {% endhighlight %}
 
-Once you have this in place, perform a ```bundle install``` and the required gems will be installed on your machine.  You will occasionally do a ```bundle update``` to get the latest vesions of the gems that are installed, OR if you need to add additional gems for tags [^1].  To add the Octopress framework perform a ```octopress new www``` and it will create a new "www" folder with all the needed files.  Be sure to ```cd www``` for the next steps.
+Once you have this in place, perform a `bundle install` and the required gems will be installed on your machine.  You will occasionally do a `bundle update` to get the latest vesions of the gems that are installed, OR if you need to add additional gems for tags [^1].  To add the Octopress framework perform a `octopress new www` and it will create a new "www" folder with all the needed files.  Be sure to `cd www` for the next steps.
 
-Now that we have the framework installed, do a ```jekyll s``` to start hosting the site on your machine and open your browser to http://localhost:4000/.  If you get any errors, I'm guessing there are some missing gem requirements.  Read the errors and add the needed gems to your Gemfile.  Once you know you have a good foundation to run Octopress 3, take one of your articles from your old site to your new site to see if anything breaks.  You may need to Cancel your ```jekyll s``` and run it again several times to see any errors.  Keep moving files over to the new Octopress 3 one-by-one, OR you can go for the shotgun approached and copy all of them (Don't forget to move your static pages and images as well)!  I found there were several tags that I had used in my site that were no longer part of the core octopress framework.  I had to add additinal items to my Gemfile just to make my site work (see: [my test "Gemfile" commit history][Gemfile] for an examples)
+Now that we have the framework installed, do a `jekyll s` to start hosting the site on your machine and open your browser to http://localhost:4000/.  If you get any errors, I'm guessing there are some missing gem requirements.  Read the errors and add the needed gems to your Gemfile.  Once you know you have a good foundation to run Octopress 3, take one of your articles from your old site to your new site to see if anything breaks.  You may need to Cancel your `jekyll s` and run it again several times to see any errors.  Keep moving files over to the new Octopress 3 one-by-one, OR you can go for the shotgun approached and copy all of them (Don't forget to move your static pages and images as well)!  I found there were several tags that I had used in my site that were no longer part of the core Octopress framework.  I had to add additional items to my Gemfile just to make my site work, such as:
 
 {% highlight ruby %}
 gem "octopress-image-tag"
@@ -65,8 +65,7 @@ I did a clean install of Octopress 3 and migrated my posts a couple of times, to
 Footnotes
 ---
 
-[^1]: You may need to specify a particular release of a gem, or even a specific version of a commit.  Google is your friend to get some examples, but you can see them referenced in <a href="https://github.com/octopress/octopress/issues">Octopress's Issues section</a>.
+[^1]: You may need to specify a particular release of a gem, or even a specific version of a commit.  Google is your friend to get some examples, but you can see them referenced in <a href="https://github.com/octopress/octopress/issues">Octopress Issues section</a>.
 
 [octo3]: https://github.com/octopress/octopress
 [basic-usage]: https://github.com/octopress/octopress#basic-usage
-[Gemfile]: https://github.com/justinrummel/jr.com-hpstr/commits/master/Gemfile

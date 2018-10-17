@@ -93,7 +93,7 @@ Footnotes
 [^1]: Goal Times were based on beating <a href="{{ site.url }}/wisdom-oak-winery-sprint-2015-race-report/">last year's race</a>
 [^2]: Official Race Results available at [Wisdom Oak Winery Triathlon Results page][wow_results].
 
-[josh]: http://www.speedsherpa.com/coach
+[josh]: http://www.speedsherpa.com/coaches
 [wow]: https://www.wisdomoakwinery.com
 [cloche]: https://www.wisdomoakwinery.com/product/Cloche
 [wow_results]: http://eliteracemanagement.com/wp-content/uploads/2016/08/WOW2016AgeGroup.htm#%204%206

@@ -78,6 +78,6 @@ With the good run but a horrible ride, I [placed 7th out of the nine competitors
 [berryman]: http://rollamultisport.org/events/
 [alpine]: https://alpineshop.webconnex.com/cw8hr2016
 [ss]: http://www.speedsherpa.com
-[ex2rr]: http://www.ex2adventures.com/rendezvous-fall.php
-[running]: http://www.ex2adventures.com/rendezvous-fall-results-overall-2016.htm
-[results]: http://www.ex2adventures.com/rendezvous-fall-results-run-and-ride-2016.htm
+[ex2rr]: https://www.ex2adventures.com/results-and-photos/historical-results/
+[running]: https://www.ex2adventures.com/results-and-photos/historical-results/
+[results]: https://www.ex2adventures.com/results-and-photos/historical-results/

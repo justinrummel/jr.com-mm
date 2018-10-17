@@ -20,13 +20,13 @@ Sources
 ---
 
 - [Macbrained](http://www.macbrained.org)
-- [Mac Enterprise Announcement](http://lists.psu.edu/cgi-bin/wa?A2=MACENTERPRISE;651e43e6.1311)
-- [AFP548 Announcement](http://www.afp548.com/2013/11/25/new-mac-admins-group-macdmv/)
-- [MacDMV](http://macdmv.com)
-- [@tbridge](http://twitter.com/tbridge)
-- [@justinrummel](http://twitter.com/justinrummel)
+- [Mac Enterprise Announcement](https://lists.psu.edu/cgi-bin/wa?A2=MACENTERPRISE;651e43e6.1311)
+- [AFP548 Announcement](https://www.afp548.com/2013/11/25/new-mac-admins-group-macdmv/)
+- [MacDMV](http://www.macdmv.com)
+- [@tbridge](https://twitter.com/welovedc)
+- [@justinrummel](https://twitter.com/justinrummel)
 
 [irc]: http://osx.michaellynn.org/freenode-osx-server/freenode-osx-server_2013-11-22.html
 [macbrained]: http://www.macbrained.org
 [macdmv]: http://www.macdmv.com
-[nate]: http://twitter.com/natewalck
+[nate]: https://twitter.com/natewalck

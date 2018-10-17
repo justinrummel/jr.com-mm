@@ -48,7 +48,7 @@ As for the ride, I was able to see different parts of Virginia that I haven't se
 </figure>
 
 
-[rbc]: https://restonbikeclub.org/page-1860707
+[rbc]: https://restonbikeclub.org/Register-for-the-Century
 [maps]: https://ridewithgps.com/events/30985-reston-century-2017
 [taylor]: https://www.strava.com/activities/1155433465/analysis/13712/14288
 [stump]: https://www.strava.com/activities/1155433465/analysis/14593/15120

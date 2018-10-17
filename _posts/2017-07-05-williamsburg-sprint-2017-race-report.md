@@ -122,6 +122,6 @@ Footnotes
 [^6]: Official Race Results available at [Williamsburg Results page][event_results].
 
 [event_results]: http://timing.rev3tri.com/mobile/athlete-results/30C65CFB-0E03-4996-BEBC-69F8387CF6B9/3/135
-[ss]: http://www.speedsherpa.com/coach
+[ss]: http://www.speedsherpa.com/coaches
 [normatec]: https://www.normatecrecovery.com
 [course_maps]: http://rev3tri.com/williamsburg/course-maps/

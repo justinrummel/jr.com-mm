@@ -122,7 +122,7 @@ Footnotes
 [^3]: Goal Times were based on 2:00/100m from my last 50m pool swim, 2/3 of <a href="{{ site.url }}/conquer-the-hill-at-miller-school-of-albemarle-2017/">Conquer the Hill</a>, and an 10:27 pace for the run ~~based~~ SWAG of <a href="{{ site.url }}/adventure-enablers-early-mountain-vineyards-run-and-ride-2017/">Early Mountain Vineyards Run</a> then an additional two minutes for the added "Hills" and "Run off the bike" factors that plague a run.
 [^4]: Official Race Results available at [2017 XTRERRA Charlottesville Results page][x-results-page].
 
-[ss]: http://www.speedsherpa.com/coach
+[ss]: http://www.speedsherpa.com/coaches
 [xterra-charlottesville]: http://www.adventureaddictsracing.com/xterra-charlottesville/
 [217930866]: https://vimeo.com/217930866
 [thedistance]: https://en.wikipedia.org/wiki/XTERRA_Triathlon#Race_format
@@ -132,5 +132,5 @@ Footnotes
 [andy]: https://www.msacycling.org/new-page-2/
 [x-results-page]: http://www.raceworkstiming.com/05-20-17-xterra-tri-charlottesville
 [x-results-me]: http://georesults.racemine.com/race-works-timing/events/2017/2017-xtrerra-charlottesville/140/entrant
-[map-aa]: http://www.adventureaddictsracing.com/wp-content/uploads/2016/12/Racemap_051617c.jpg
+[map-aa]: https://cms-events.com/event/xterra-cville-tri/course-previews/
 [map-msa]: https://www.msacycling.org/s/Miller_mountainbike_sizeDfinal.pdf

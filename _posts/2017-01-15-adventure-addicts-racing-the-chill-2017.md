@@ -118,4 +118,4 @@ Footnotes
 [id]: https://www.roadid.com
 [ML]: http://www.tanznavigation.org/about.php
 [vlad]: https://www.facebook.com/vladimir.bukalo
-[event_results]: http://www.adventureaddictsracing.com/three-hour-race/
+[event_results]: https://www.adventureaddictsracing.com/
