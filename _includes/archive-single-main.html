@@ -35,9 +35,9 @@
       </div>
       {% endif %}
       {% if post.link %}
-        <h2 class="archive__item-title" itemprop="headline"><a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}"><i class="fab fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a></h2>
+        <h3 class="archive__item-title" itemprop="headline"><a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}"><i class="fab fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a></h3>
       {% else %}
-        <h2 class="archive__item-title" itemprop="headline"><a href="{{ post.url | relative_url }}">{{ title }}</a></h2>
+        <h3 class="archive__item-title" itemprop="headline"><a href="{{ post.url | relative_url }}">{{ title }}</a></h3>
       {% endif %}
     {% if post.read_time %}
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
