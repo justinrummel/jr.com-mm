@@ -23,7 +23,6 @@
           alt="">
       </div>
     {% endif %}
-    <h2 class="archive__item-title" itemprop="headline">
       {% if post.header.teaser %}
       <div class="archive__item-teaser">
         <a href="{{ post.url | relative_url }}"><img src=
@@ -36,11 +35,10 @@
       </div>
       {% endif %}
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}"><i class="fab fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <h2 class="archive__item-title" itemprop="headline"><a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}"><i class="fab fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a></h2>
       {% else %}
-        <a href="{{ post.url | relative_url }}"><h2 class="archive__item-title" itemprop="headline">{{ title }}</h2></a>
+        <h2 class="archive__item-title" itemprop="headline"><a href="{{ post.url | relative_url }}">{{ title }}</a></h2>
       {% endif %}
-    </h2>
     {% if post.read_time %}
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
