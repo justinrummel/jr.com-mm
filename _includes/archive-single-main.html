@@ -38,7 +38,7 @@
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}"><i class="fab fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ post.url | relative_url }}">{{ title }}</a>
+        <a href="{{ post.url | relative_url }}"><h2 class="archive__item-title" itemprop="headline">{{ title }}</h2></a>
       {% endif %}
     </h2>
     {% if post.read_time %}
