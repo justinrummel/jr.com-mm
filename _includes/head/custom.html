@@ -19,12 +19,12 @@
 <!-- instafeed https://github.com/stevenschobert/instafeed.js -->
 <!-- accessToken http://dmolsen.com/2013/04/05/generating-access-tokens-for-instagram/ -->
 <!-- jekyll http://chrissciolla.com/tech/jekyll-instafeedjs-tutorial.html -->
-<script src="{{ '/assets/js/instafeed.min.js' | relative_url }}" type="text/javascript" charset="utf-8"></script>
+<script src="{{ '/assets/js/instafeed.min.js' | relative_url }}"></script>
 
 {% assign insta_link = '{{link}}' %}
 {% assign insta_image = '{{image}}' %}
 {% assign insta_caption = '{{caption}}' %}
-<script type="text/javascript">
+<script>
   var IG_topfeed = new Instafeed({
     target: 'IG_topFigure',
     get: 'user',
