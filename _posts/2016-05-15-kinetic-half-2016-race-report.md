@@ -24,7 +24,7 @@ header:
 ### Swim
 
 - Today was the FIRST day of the year that I was able to wear my wetsuit.  **Bad sign #1**.  I'm slightly over exaggerating in that statement, but it would have definitely helped if I had one Sprint race under my belt this year to make sure I remember how it felt to swim while wearing a wetsuit.  Having to sight in front to find which direction you should swim is tiring on your neck, even though you are more buoyant and don't need to work as hart to stay afloat (and not drown).  The first 100m I wanted to quit.  I **hated** every minute of it.  I really don't like people swimming around me, and I knew that I had become a better swimmer over the winter and I wasn't showing it.  It took me forever to get into a groove where I could relax and effortlessly propel myself through the lake.  When I finally reached the first yellow turning marker I ingested a couple of gallons of water and had to call for aid.  Fortunately, I *force* myself to cough it all out quickly so I could return to the race (I think I only lost about 30-40 seconds).  I was doing fine and feeling great up to the 1500m mark... when I caught up to a swimmer that had no idea where they were going and I had to adjust my swim stroke. Then DAMN IT, I did it again... more water down my throat.  So that is TWICE that I had to get assistance on the swim which killed my time.  Here is to a better swim next month.
-- [Training Peaks Swim Data](http://tpks.ws/tWHWC)
+- [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/tWHWC)
 
 #### Transition 1
 
@@ -33,7 +33,7 @@ header:
 ### Bike
 
 - I love the bike!  Coach Josh's of [Speed Sherpa](http://www.speedsherpa.com/) recommendation to keep my power output at a low and constant setting really paid off in the end as I was able to finish with an average of 20mph over 56 miles.  The one thing that was mildly frustrating was during one climb where I was getting ready to pass some other racers but two pickup trucks and a box truck slipped in between.  What all of us realized was the three racers in front of me could not climb.  I ended up passing all three vehicles and the racers on the left because they were slowing me down.  Passing people on the bike is fun, passing cars.... BONUS!
-- [Training Peaks Bike Data](http://tpks.ws/buHTE)
+- [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/buHTE)
 
 #### Transition 2
 
@@ -42,7 +42,7 @@ header:
 ### Run
 
 - I was going well till about mile eight when pure fatigue starting creeping in along with my IT band issues.  Oh yea... I've been dealing with IT Band issues for the past 10 days going to Physical Therapy five times before the race.  After mile eight I had to start walking downhills as the pain of my right knee and hip were simply too unbearable.  I was able to regain some ground on people as they were struggling to go uphill while I was rested, but it simply wasn't enough as I watched three people in my age group pass me from mile 8 to the finish line.
-- [Training Peaks Run Data](http://tpks.ws/m6jab)
+- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/m6jab)
 
 #### Post Race
 

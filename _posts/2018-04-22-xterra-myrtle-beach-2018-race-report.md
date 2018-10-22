@@ -43,7 +43,7 @@ We started much later than desired as the Coast guard didn't provide enough secu
 
 I felt really good for the first 1/2, but still fighting the open water panic that sometimes creeps into my head.  As I was getting close to the bridge (thus those steps to get out), I began  to panic as I couldn't see the steps.  The bridge's shadow made it very difficult to see that I was near the end and I couldn't remember if there was only one bridge... or two!  Had I mentally become unaware on the boat ride to the starting line that I wasn't even close to finishing?  Fortunately I wasn't the lead swimmer (like I ever have to worry about that) and was able to follow the crowd to find the steps and climb my way to transition.  As I go to the top I heard the race coordinator call out "thirty".  I was the 30th individual to finish the swim of all race participants.
 
-- [Training Peaks Swim Data](http://tpks.ws/3TYF7QQ5KYHVMDYUTPGB3I4SFA)
+- [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/3TYF7QQ5KYHVMDYUTPGB3I4SFA)
 
 <!-- Strava Frame -->
 #### Strava Swim Activity
@@ -59,7 +59,7 @@ I felt really good for the first 1/2, but still fighting the open water panic th
 
 <figure class="align-right"><a href="{{ site.url }}/assets/images/2018/04/22/XTERRA-MB-LG-2.jpg"><img src="{{ site.url }}/assets/images/2018/04/22/XTERRA-MB-SM-2.jpg" alt="" /></a></figure>It is amazing how well this course was designed as it felt like you had different sections to navigate.  There were open "beach" sections where vegetation was sparse, some climbing sections with amazing steep drops where it felt you were going up and down some small mountain sides, and a dense tropical(ish) section that had you cut back and forth.  The course is just over 7 miles, and you had to complete two loops.  I don't agree with the "difficult" classification... I would consider this as easy to moderate, and perfect for anyone beginning to do XTERRA races.
 
-- [Training Peaks Bike Data](http://tpks.ws/PJCN7MGALGOA6C5WBOZRTLHFLY)
+- [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/PJCN7MGALGOA6C5WBOZRTLHFLY)
 
 <!-- Strava Frame -->
 #### Strava Ride Activity
@@ -73,7 +73,7 @@ I felt really good for the first 1/2, but still fighting the open water panic th
 
 <figure class="align-right"><a href="{{ site.url }}/assets/images/2018/04/22/XTERRA-MB-LG-5.jpg"><img src="{{ site.url }}/assets/images/2018/04/22/XTERRA-MB-SM-5.jpg" alt="" /></a></figure>After the first mile I kept a steady pace of sub 8:00 min/mi which is exactly what I thought I was able achieve.  The turns in the tropical section definitely slowed me down, but I was able to find my legs for one last push to sprint towards the finish line.  That is when you see the BEST local FINISH LINE target... an inflatable HULK!
 
-- [Training Peaks Run Data](http://tpks.ws/U47GLZ4GA4GX4FPP24X4MPZY4A)
+- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/U47GLZ4GA4GX4FPP24X4MPZY4A)
 
 <!-- Strava Frame -->
 #### Strava Run Activity

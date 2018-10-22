@@ -34,7 +34,7 @@ Race Breakdown
 
 <figure class="align-left"><a href="{{ site.url }}/assets/images/2018/05/19/XTERRA-CVL-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2018/05/19/XTERRA-CVL-PRO-SM-2.jpg" alt="" /></a></figure>My swim would have been a lot better except my goggles were filling with water on the right lens.  No matter how many times I would stop, empty the water, and restart... the goggles would start filling up again.  I need to figure this out before my next race because this shouldn't be happening with a fresh new pair that I purchased for 2018 races.
 
-- [Training Peaks Swim Data](http://tpks.ws/B4AN3LW6UXXVT4PAHNXMTOT4N4)
+- [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/B4AN3LW6UXXVT4PAHNXMTOT4N4)
 
 #### Strava Swim Activity
 <div class="embed-container embed-container-strava">
@@ -47,7 +47,7 @@ Race Breakdown
 
 <figure class="align-left"><a href="{{ site.url }}/assets/images/2018/05/19/XTERRA-CVL-LG-4.jpg"><img src="{{ site.url }}/assets/images/2018/05/19/XTERRA-CVL-SM-4.jpg" alt="" /></a></figure>The first turn into the trails wasn't too bad.  It was easy to see where gravity was guiding water and there were already tracks from the FULL distance riders in picking good lines.  However, things quickly got worse.  Trying to climb uphill or on switchbacks soon became difficult to navigate, or worse your front wheel pushed out and you crashed.  "Puke Hill" was not a challenge, it was impossible as my tires had zero traction.  Between the mud and sticks, soon giant globs of nature's garbage started building up between the wheel and frame making it harder to turn the pedals from the built up resistance.  Then at the 8 mile mark trying to cross this tiny stream my bike race came to a screeching halt.  My chain broke.  Snapped right in half and it was now floating in the stream.  The last mile of my bike Strava data is me pushing it from behind.
 
-- [Training Peaks Bike Data](http://tpks.ws/LNKJFUDKMOO6S4JXKKFVJVUISQ)
+- [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/LNKJFUDKMOO6S4JXKKFVJVUISQ)
 
 #### Strava Ride Activity
 <div class="embed-container embed-container-strava">
@@ -66,7 +66,7 @@ Race Breakdown
 
 The final stretch to the finish line is the best.  After climbing for the past mile you finally get to a flat section right in front of the main school building and you suddenly feel a burst of energy as you can now see the inflatable finish line.
 
-- [Training Peaks Run Data](http://tpks.ws/O7P3CP2W7UT6DRBDBC5J2QYM3I)
+- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/O7P3CP2W7UT6DRBDBC5J2QYM3I)
 
 #### Strava Run Activity
 <div class="embed-container embed-container-strava">

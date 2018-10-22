@@ -24,7 +24,7 @@ header:
 ### Swim
 
 - My anger at myself is unparalleled while I'm thinking about my performance on the swim.  The first 600m was all against the current, but if you were having issues (drowning) the water was shallow enough you could just stand up and you'll be OK.  But then we  had to return back to the start line that was 100m out farther into the James River where I hopped from one boat aid to another, because I was so tired and I mentally had checked out from the first section.  I'm not giving this section anymore space as it would be all negative.
-- [Training Peaks Swim Data](http://tpks.ws/kUQY5)
+- [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/kUQY5)
 
 #### Transition 1
 
@@ -33,7 +33,7 @@ header:
 ### Bike
 
 - "Want me to drop the hammer, I'll drop the hammer!"  I loved riding this super flat course that had only one tiny hill, a bridge.  The path was an out and back with one sharp 180˚ turn at the mid-point.  If you can stay in aero and crank out watts, you will do great.  Plus, since everyone passed me while in the water I was picking off slower riders one by one (pew pew pew).  I had a smile during this section of the race.[^2]
-- [Training Peaks Bike Data](http://tpks.ws/eAvwD)
+- [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/eAvwD)
 
 #### Transition 2
 
@@ -43,7 +43,7 @@ header:
 
 - <figure class="align-right"><a href="{{ site.url }}/assets/images/2016/06/12/Jamestown-2.jpg"><img src="{{ site.url }}/assets/images/2016/06/12/Jamestown-2sm.jpg" alt="" /></a><br />Picture provided by <a href="https://www.instagram.com/tri4success/">Arnel</a></p>
 I was feeling good!  Fun bike, great T2... but I may have felt a little too good as my first two miles was definitely too fast for a 10k in the heat.  I had a 7:30 pace for the first 1.5 miles, and I knew that wouldn't last long so I tried to bring myself back down to a more reasonable level of 8:00 pace.  This lasted for only another mile before I started to NEED the aid stations.  After mile marker 2.5 I stopped at every aid station for water to "sip, spit, sip, swallow, dump on my head".  The heat was brutal.  I began to be concerned about what my heart rate around mile 3.5, and that is when I noticed my watch said 182 bpm.  I usually feel like puking when I hit that number, so I forced myself to walk even though I didn't feel tired.  The remaining three miles were a repeated pattern of "run till my HR was too high, walk".  I'm trying to convince myself that I was racing smart and essentially saved myself to ensure that I finished by listening to my HR, but I'll never know what could have happened if I just pushed through.  The good news is my knee and hip issues didn't surface during this run (not sure if it was due to the flat course, or the double dose of Advil).
-- [Training Peaks Run Data](http://tpks.ws/b56LS)
+- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/b56LS)
 
 #### Post Race
 

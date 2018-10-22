@@ -64,7 +64,7 @@ This would have to be hands down the calmest I've been on such a horrible swim. 
     <iframe src='https://www.strava.com/activities/1765628951/embed/237f4eac2b90ee58abd27c5645b512d0c39bc9e0' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
-- [Training Peaks Swim Data](http://tpks.ws/XX5DME2D3KA63H4D2ZV2MNFLKI)
+- [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/XX5DME2D3KA63H4D2ZV2MNFLKI)
 
 
 ### Bike
@@ -85,7 +85,7 @@ I seriously wonder if USAT did a course re-con before approving the route, or if
     <iframe src='https://www.strava.com/activities/1765392567/embed/74830198dfc47d1e252ccb5eb811095c3920f9a5' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
-- [Training Peaks Bike Data](http://tpks.ws/YKR44ZG3DP3P33YRHUCIS5KL2U)
+- [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/YKR44ZG3DP3P33YRHUCIS5KL2U)
 
 
 ### Run
@@ -100,7 +100,7 @@ I seriously wonder if USAT did a course re-con before approving the route, or if
     <iframe src='https://www.strava.com/activities/1765629159/embed/4d75ab3fe9cad258562dc1eec9cdd3c3e95f46c2' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
-- [Training Peaks Run Data](http://tpks.ws/RICE7OSFFSVG775SF5CQ6MN66E)
+- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/RICE7OSFFSVG775SF5CQ6MN66E)
 
 
 Post Race Thoughts

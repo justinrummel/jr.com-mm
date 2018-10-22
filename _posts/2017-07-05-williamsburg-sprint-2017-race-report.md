@@ -40,7 +40,7 @@ Surprisingly, I *enjoyed* the first half of the swim!  I felt relaxed!  I didn't
     <iframe src='https://www.strava.com/activities/1074128053/embed/c5aa06396bcc559dae94a74c054d57f5e29dad35' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
-- [Training Peaks Swim Data](http://tpks.ws/uueja)
+- [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/uueja)
 
 ### Bike
 
@@ -55,7 +55,7 @@ These are the race notes that [Coach Josh][ss] gave me on Friday.  He knows me w
     <iframe src='https://www.strava.com/activities/1074130099/embed/b9f0d9d444b3bbabef6abdb5d83ce1f88ced1bfc' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
-- [Training Peaks Bike Data](http://tpks.ws/fFiUW)
+- [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/fFiUW)
 
 ### Run
 
@@ -66,7 +66,7 @@ Once I reached the bike dismount I quickly ran through transition, discover my w
     <iframe src='https://www.strava.com/activities/1073565361/embed/c9b62e85c7c2bbc88785f44743ca6b63d9bcd08c' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
-- [Training Peaks Run Data](http://tpks.ws/tcfZN)
+- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/tcfZN)
 
 
 Post Race Thoughts

@@ -47,7 +47,7 @@ I'm glad I stepped up at the last minute, because I actually placed fifth overal
     <iframe src='https://www.strava.com/activities/1826328420/embed/faa8c371c8e3f0ff036d2ff6b2d8df64ec0329b8' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
-- [Training Peaks 5k Data](http://tpks.ws/POGVP6MNLQWB5BATGRRTUFQWNU)
+- [Training Peaks 5k Data](https://home.trainingpeaks.com/athlete/workout/POGVP6MNLQWB5BATGRRTUFQWNU)
 
 ### Half
 
@@ -66,7 +66,7 @@ In the end I did beat my stretch goal!  I was shortly followed by my Speed Sherp
     <iframe src='https://www.strava.com/activities/1827740771/embed/0b6c9f62287e7aa09d895a9f9f9a8799171f340c' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
-- [Training Peaks Half Data](http://tpks.ws/XXWFVQL2ZP3C7UTJODEQCNLN7U)
+- [Training Peaks Half Data](https://home.trainingpeaks.com/athlete/workout/XXWFVQL2ZP3C7UTJODEQCNLN7U)
 
 
 Post Race Thoughts

@@ -32,19 +32,19 @@ Race Breakdown
 
 - I knew exactly what I wanted to do in the pool.  I wanted a comfortable, relax stroke the first 150 yards with quick push-offs at the walls.  I did catch up to the swimmers who started before me, but waited till the last lap and sprinted past five individuals.  I can do pool swimming all day.
 
-	+ [Training Peaks Swim Data](http://tpks.ws/fFGPs)
+	+ [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/fFGPs)
 
 ### Bike
 
 - The bike course was a closed off two-lane "commercial zoned" area of Chantilly, VA that consists of two loops of mostly flat, with an occasional low rolling "hills" (not really hills... but not 100% flat).  The first loop I tried to keep a high cadence while pushing myself just under "race pace" to make sure I didn't burn myself out.  The second lap was the time to kick it a little harder as I wasn't sure what was going to happen on the run.
 
-	+ [Training Peaks Bike Data](http://tpks.ws/sDwC1)
+	+ [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/sDwC1)
 
 ### Run
 
 - The run course was mostly on a paved trail system in the middle of trees.  Normally I would be thankful for tree shade, but today the "urban forest" mostly captured the humidity towards the ground vs. letting it escape to the clouds.  As mentioned above I was very cautious about my calf, because every step I was sure it would be my last "running" step and be forced to walk.  Somehow, I was allowed to keep going.
 
-	+ [Training Peaks Run Data](http://tpks.ws/ue6Jn)
+	+ [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/ue6Jn)
 
 Post Race Thoughts
 ---

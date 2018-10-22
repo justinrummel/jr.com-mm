@@ -35,7 +35,7 @@ So I missed the turn and instantly all the distance that I gained (10ft) was now
 - Overall: Placed 4th out of 46 (top 9%).
 - Gender: Placed 4th out of 17 (top 24%).
 - Male 40-49: Placed 1st out of 7[^1]
-- [Training Peaks Run Data](http://tpks.ws/J7NBXX3YW6HESZFI25RDJCLHTY)
+- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/J7NBXX3YW6HESZFI25RDJCLHTY)
 
 <!-- Strava Frame -->
 #### Strava Run Activity
@@ -61,7 +61,7 @@ From this point forward, I had the best ride EVER!  Pocahontas State Park is ama
 - Overall: Placed 2nd out of 25 (top 8%).
 - Gender: Placed 2nd out of 18 (top 11%).
 - Male 40-49: Placed 1st out of 5[^2]
-- [Training Peaks Bike Data](http://tpks.ws/6LVAKQXHXETINW4GDXOTCMK2SM)
+- [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/6LVAKQXHXETINW4GDXOTCMK2SM)
 
 <!-- Strava Frame -->
 #### Strava Ride Activity

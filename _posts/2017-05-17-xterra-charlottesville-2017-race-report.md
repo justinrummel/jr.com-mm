@@ -33,7 +33,7 @@ Race Breakdown
 
 <figure class="align-left"><a href="{{ site.url }}/assets/images/2017/05/20/AA-XTerra-LG-5.jpg"><img src="{{ site.url }}/assets/images/2017/05/20/AA-XTerra-SM-5.jpg" alt="" /></a></figure>The Miller School (MSA) constructed a new "beach" entry just for the race.  All racers lined up on the beach and waited for the horn to sound, then began to sprint off the beach and into the chilly water.  I tried to keep myself calm on the first loop, concentrating on my form making sure at being efficient (something I've been working on for the past couple of months).  It was a little difficult at the beginning as me and 25-30 of my newest swim lane buddies all starting at the same time trying to find our rhythm.  There were times that I held back so so I can stay away from people, assuming that I could pass them on the second loop.  Exiting the lake was done by a newly installed step system which was also constructed by MSA just a couple of days bfore the race.  The school really stepped up in course setup and ensuring racers would enjoy the challenge.
 
-- [Training Peaks Swim Data](http://tpks.ws/LiPv4)
+- [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/LiPv4)
 
 ### Bike
 
@@ -41,7 +41,7 @@ Race Breakdown
 
 As for the race, I knew I was in trouble from the beginning.  My heart rate felt WAY to high after exiting the water and through transition... and I couldn't get it to slow down.  Looking at the Training Peaks data I was right in that my heart rate was between 180-185 bpm (I usually begin to feel like throwing up around 175 bpm when on the bike).  After completing the first loop of the 30k course, I felt my power and concentration declining.  I began to force myself to stop at each aid station to drink a cup of Gatorade and dump a cup of water on my head to cool myself down.  When coming up to "Paradise" aid station, the friendly volunteers looked at me and asked "Are you OK" as I was showing obvious signs of dehydration[^2].  I hung out by the tent for five minutes to collect myself.  I smiled and replied "see you in two miles", as this aid station was at a pinch point of the course where you could see it twice.  Upon returning to the aid station, I did the same thing to stop and rest... and also found out there were bears on the course so to be mindful of the surroundings.  I was so far behind my race goals I couldn't even use bears as an effective excuse on my poor performance.
 
-- [Training Peaks Bike Data](http://tpks.ws/1AzIf)
+- [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/1AzIf)
 
 <!-- **Strava Ride Activity**
 <div class="embed-container embed-container-strava">
@@ -52,7 +52,7 @@ As for the race, I knew I was in trouble from the beginning.  My heart rate felt
 
 <figure class="align-left"><a href="{{ site.url }}/assets/images/2017/05/20/AA-XTerra-LG-6.jpg"><img src="{{ site.url }}/assets/images/2017/05/20/AA-XTerra-SM-6.jpg" alt="" /></a></figure>I highly underestimated the affects of mountain biking would have on my body when doing a trail run.  I had to quickly resort to "walk up hills" while "jogging down or on the flats", which if it wasn't for the fact I was in a race I wouldn't have minded the extra time in the beautiful MSA trail system.  Most racers where looking pretty beat down at this time, all wanting to simply "finish", however, there was also small efforts of positive enforcement as we all suffering with each other.  I actually started to feel better on the second loop of the run, to where I almost return to my normal pace right at the end because it was flat.  Hills simply kill.
 
-- [Training Peaks Run Data](http://tpks.ws/6ja6j)
+- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/6ja6j)
 
 <!-- **Strava Run Activity**
 <div class="embed-container embed-container-strava">

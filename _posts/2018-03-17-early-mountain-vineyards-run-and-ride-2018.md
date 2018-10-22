@@ -44,7 +44,7 @@ This is the first of three successive weekends I'll be racing with Adventure Ena
     <iframe src='https://www.strava.com/activities/1457332873/embed/f2e29ea5d59af976f60684375ccd0414e117f64a' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
-- [Training Peaks Run Data](http://tpks.ws/BTJPOTYIADZHVK2QODOOR455WI)
+- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/BTJPOTYIADZHVK2QODOOR455WI)
 
 
 ### Ride
@@ -65,7 +65,7 @@ This is the first of three successive weekends I'll be racing with Adventure Ena
     <iframe src='https://www.strava.com/activities/1457723967/embed/932e1e9f2b44671c3b0c408b7dd1c3df5c764554' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
-- [Training Peaks Bike Data](http://tpks.ws/Y4Y2MI3OYU35QV6R2JSD52F4FE)
+- [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/Y4Y2MI3OYU35QV6R2JSD52F4FE)
 
 <!-- big picture in center -->
 <figure class="align-center"><a href="{{ site.url }}/assets/images/2018/03/17/AE_EMV_LG-3.jpg"><img src="{{ site.url }}/assets/images/2018/03/17/AE_EMV_SM-3.jpg" alt="" /></a>

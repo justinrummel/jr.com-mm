@@ -72,6 +72,6 @@ Footnotes
 
 [wikipedia]: https://en.wikipedia.org/wiki/Cherry_Blossom_Ten_Mile_Run
 [mindy]: http://delmosports.com/about
-[tp]: http://tpks.ws/0WEjo
+[tp]: https://home.trainingpeaks.com/athlete/workout/0WEjo
 [MD_Driver_in_DC]: https://twitter.com/MD_Driver_in_DC
 [batalawashington]: https://www.facebook.com/batalawashington/
