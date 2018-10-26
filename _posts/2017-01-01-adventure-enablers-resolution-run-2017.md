@@ -57,7 +57,7 @@ Race Results details are now [available][race_results].
 
 
 [930]: https://www.instagram.com/p/BN4mzyGB9uV/
-[AE]: http://www.adventureenablers.com/
-[RR]: http://www.adventureenablers.com/resolution-run
+[AE]: https://www.adventureenablers.com/
+[RR]: https://www.adventureenablers.com/resolution-run
 [CRSP]: http://www.dof.virginia.gov/stateforest/list/conway-robinson.htm
 [race_results]: https://runsignup.com/Race/Results/39844/IndividualResult/kJbx?#U8364916

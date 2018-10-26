@@ -116,7 +116,7 @@ Footnotes
 [^2]: I always laugh now when I fall... as I haven't known a MTB ride without falling yet!
 [^3]: "Moo Thru" may be a new tradition for race recovery.  May be signing up for more events in Charlottesville and/or Culpepper area so I *have* to drive past this great ice-cream place.
 
-[ae]: http://www.adventureenablers.com
+[ae]: https://www.adventureenablers.com
 [ssn]: http://www.speedsherpa.com
 [emv]: http://earlymountain.com
 [stinger]: http://www.honeystinger.com/organic-stinger-waffles/organic-honey-waffle.html
