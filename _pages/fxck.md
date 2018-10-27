@@ -13,7 +13,7 @@ header:
     overlay_filter: 0.15
     show_overlay_excerpt: false
     teaser: /assets/images/2018/03/3-/FXCK-Cancer-Triathlon-Team-Header-Twitter.jpg   # Shrink image to 575x216
-    caption: "Photo credit: [**Fxck Cancer Triathlon Team**](http://www.fxckcancer.org/TriTeam/)"
+    caption: "Photo credit: [**Fxck Cancer Triathlon Team**](https://www.fxckcancer.org/TriTeam/)"
 ---
 <figure class="align-right"><img src="{{ site.url }}/assets/images/2018/03/30/scar-256.jpg" alt="Justin Rummel profile pic" /></figure>In early March 2018, I discovered a triathlon team who had a mission other than friendship and fitness.  Don't get me wrong, those were the two main reasons I've been doing triathlons for the past five years and I love my [Speed Sherpa][SS] family, but after my recent surgery I've become more aware that my surgery experience was easy... I was lucky... and not everyone has those cards dealt to them while living their life.  That is why I have now joined the [Fxck Cancer Triathlon Team][fxck].
 
@@ -46,4 +46,4 @@ Footnotes
 [SS]: http://www.speedsherpa.com
 [donate]: https://bit.rummel.co/fxckcancer
 [faq]: https://fxckcancer.crowdchange.co/faq
-[fxck]: http://www.fuckcancer.org/TriTeam/
+[fxck]: https://www.fuckcancer.org/TriTeam/

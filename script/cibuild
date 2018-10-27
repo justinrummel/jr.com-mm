@@ -19,4 +19,5 @@ bundle exec jekyll b -c _config.yml
 
 # External Link, image, and HTTPS checking
 #bundle exec htmlproofer ./_site/ --alt-ignore '/.*/' --allow-hash-href --check-html --check-img-http --check-opengraph --http-status-ignore 0,403,999
-bundle exec htmlproofer ./_site/ --allow-hash-href --check-html --check-img-http --check-opengraph --empty-alt-ignore --url-swap "http\://localhost\:4000:https://www.justinrummel.com" --file-ignore '/search/' --http-status-ignore 0,403,999
+#bundle exec htmlproofer ./_site/ --allow-hash-href --check-html --check-img-http --check-opengraph --empty-alt-ignore --url-swap "http\://localhost\:4000:https://www.justinrummel.com" --file-ignore '/search/' --http-status-ignore 0,403,999
+bundle exec htmlproofer ./_site/ --allow-hash-href --check-html --check-img-http --check-opengraph --empty-alt-ignore --file-ignore '/search/' --http-status-ignore 0,403,999 --report-missing-names --report-script-embeds --url-swap "http\://localhost\:4000:https://www.justinrummel.com"
