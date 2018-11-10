@@ -82,7 +82,9 @@ From this point forward, I had the best ride EVER!  Pocahontas State Park is ama
 <a href="{{ site.url }}/assets/images/2018/03/31/AE-Pocahontas-LG-6.jpg"><img src="{{ site.url }}/assets/images/2018/03/31/AE-Pocahontas-SM-6.jpg" alt="" /></a>
 </figure>
 
-### Updated 2018-04-02 (Race Photographer Photos)
+### Race Photographer Photos
+
+(Updated 2018-04-02)
 
 #### Run
 <figure class="third">
