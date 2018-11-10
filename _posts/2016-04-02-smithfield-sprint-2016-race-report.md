@@ -47,10 +47,7 @@ Now that I've began the race (officially starting at 11:41.45), here are my thou
 
 #### Post Race
 
-![Smithfield Sprint 2016]({{ site.url }}/assets/images/2016/04/02/Smithfield-2016-3_256.jpg)
-{: .align-left}
-
-After the race we were served some excellent Carolina Style BBQ (as there was no sauce but only a hint of vinegar) with some beans and slaw.  The Speed Sherpa team found each other and shared some highs and lows (one crashed) from each other's race experience, but quickly knew that one of the "sherpettes" was going to place in the top three of her age category.  I decided to stick around so I could snap a picture of her on the podium, while she waited for the remaining racers to crossed finish line.  Little did I know I placed third!  I'm really surprised by this as I know VTS/MTS has some excellent racers and the Male 40-44 category is one of the toughest to compete (hello fellow mid life crisis friends).  When I was looking at the results for my category, I thought I was fifth vs. third.  What I then later discovered was the gender/age categories did not separate out the "Masters" and Aqua Bike racers.
+<figure class="align-left"><a href="{{ site.url }}/assets/images/2016/04/02/Smithfield-2016-3.jpg"><img src="{{ site.url }}/assets/images/2016/04/02/Smithfield-2016-3_256.jpg" alt="" /></a></figure>After the race we were served some excellent Carolina Style BBQ (as there was no sauce but only a hint of vinegar) with some beans and slaw.  The Speed Sherpa team found each other and shared some highs and lows (one crashed) from each other's race experience, but quickly knew that one of the "sherpettes" was going to place in the top three of her age category.  I decided to stick around so I could snap a picture of her on the podium, while she waited for the remaining racers to crossed finish line.  Little did I know I placed third!  I'm really surprised by this as I know VTS/MTS has some excellent racers and the Male 40-44 category is one of the toughest to compete (hello fellow mid life crisis friends).  When I was looking at the results for my category, I thought I was fifth vs. third.  What I then later discovered was the gender/age categories did not separate out the "Masters" and Aqua Bike racers.
 
 I don't believe I place again this race season so I won't let this get to my head, but greatly appreciate the support from my coach, teammates, and family to get me this far.  Here is to the next race, my first Half at [Kinetic][half]!
 
@@ -59,8 +56,7 @@ Race Results
 
 #### Rankings
 
-![Smithfield Sprint 2016]({{ site.url }}/assets/images/2016/04/02/Smithfield-2016-2_256.jpg)
-{: .align-right}
+<figure class="align-right"><a href="{{ site.url }}/assets/images/2016/04/02/Smithfield-2016-2.jpg"><img src="{{ site.url }}/assets/images/2016/04/02/Smithfield-2016-2_256.jpg" alt="" /></a></figure>
 
 - Overall: Placed 80 out of 521 (top 15%, and that is with College kids race teams and "Masters" (Age Group Pros) catgory).
 - Gender: Placed 67 out of 293 (top 23%, but still the above applies).
