@@ -59,7 +59,7 @@ deploy:
 after_deploy:
   # akamai-purge --edgerc .edgerc --section travis delete --cpcode 490267 658004 525141 525142; sleep 5;
   - |
-    akamai-purge --edgerc .edgerc --section travis delete --cpcode 490267; sleep 5;
+    akamai-purge --edgerc .edgerc --section travis invalidate --cpcode 490267; sleep 5;
 
 notifications:
   email:

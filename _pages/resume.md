@@ -1,10 +1,12 @@
 ---
 layout: single
 title: "Resume"
+date: 2015-07-02
+modified: 2015-07-02
+description: "Resume page for Justin Rummel"
 permalink: /resume/
 author_profile: false
 comments: false
-modified: 2015-07-02
 ---
 
 Education
