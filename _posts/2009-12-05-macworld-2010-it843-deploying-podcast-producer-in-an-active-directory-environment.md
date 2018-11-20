@@ -9,6 +9,12 @@ tags:
     - Podcast Producer
     - MacIT
     - Active Directory
+header:
+    image: /assets/images/2010/02/11/4352535084_3bb91f7794_o-Header.jpg
+    overlay_image: /assets/images/2010/02/11/4352535084_3bb91f7794_o-Header.jpg
+    overlay_filter: 0.15
+    teaser: /assets/images/2010/02/11/4352535084_3bb91f7794_o-Header-Twitter.jpg        # Shrink image to 575 width
+    caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
 
 Feb. 12, 2010 @ 1:00 PM - 2:30 PM
