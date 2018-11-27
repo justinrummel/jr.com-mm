@@ -1,4 +1,4 @@
-<article id="comment{% unless include.r %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endunless %}" class="js-comment comment {% if include.name == site.author.name %}admin{% endif %} {% unless include.replying_to == 0 %}child{% endunless %}" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<article id="comment{% unless include.r %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endunless %}" class="js-comment comment {% if include.name == site.author.name %}admin{% endif %} {% unless include.replying_to == 0 %}child{% endunless %}" itemprop="comment" itemscope itemtype="https://schema.org/Comment">
 
   <div class="comment__avatar-wrapper">
     {% if include.avatar %}
@@ -10,7 +10,7 @@
     {% endif %}
   </div>
 
-  <h3 class="comment__author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <h3 class="comment__author" itemprop="author" itemscope itemtype="https://schema.org/Person">
     {% unless include.url == blank %}
       <span itemprop="name"><a rel="external nofollow" itemprop="url" href="{{ include.url }}">{{ include.name }}</a></span>
     {% else %}
