@@ -14,7 +14,7 @@ header:
     overlay_image: /assets/images/mt-lion-OG-Header.jpg		# Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/mt-lion-OG-Header-Twitter.jpg 		# Shrink image to 575 width
-    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
+    caption: "Photo credit: [**Apple, Inc**](https://www.apple.com)"
 ---
 
 This title is very specific and may not be everyone's exact scenario, however, there was plenty of beneficial items in my latest exercise with Wiki data on OS X; specifically taking old 10.6 Wiki data and putting it on a new server in which the Directory information was lost.
@@ -87,6 +87,6 @@ GeneratedUID: 27D18844-70C6-4BDD-BE3A-5B26A6FDEA1B
 # not my real UUID.	 Generated via command 'uuidgen'
 {% endhighlight %}
 
-[kerb]: http://en.wikipedia.org/wiki/Kerberos_(protocol)
-[h5l]: http://www.h5l.org
-[HT5585]: http://support.apple.com/kb/HT5585
+[kerb]: https://en.wikipedia.org/wiki/Kerberos_(protocol)
+[h5l]: https://www.h5l.org
+[HT5585]: https://support.apple.com/kb/HT5585

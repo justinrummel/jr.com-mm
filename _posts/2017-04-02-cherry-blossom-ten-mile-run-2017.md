@@ -71,7 +71,7 @@ Footnotes
 [^1]: Sport ranking is: Ride my Tri bike, ride my Mountain bike, trail running, ride my road bike, then road running.  Open water swimming is last.  VERY VERY LAST.
 
 [wikipedia]: https://en.wikipedia.org/wiki/Cherry_Blossom_Ten_Mile_Run
-[mindy]: http://delmosports.com/about
+[mindy]: https://delmosports.com/about
 [tp]: https://home.trainingpeaks.com/athlete/workout/0WEjo
 [MD_Driver_in_DC]: https://twitter.com/MD_Driver_in_DC
 [batalawashington]: https://www.facebook.com/batalawashington/

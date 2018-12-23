@@ -14,7 +14,7 @@ header:
     overlay_image: /assets/images/lion-OG-Header.jpg       # Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/lion-OG-Header-Twitter.jpg    # Shrink image to 575 width
-    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
+    caption: "Photo credit: [**Apple, Inc**](https://www.apple.com)"
 ---
 
 These tools are nothing new as they were available in Snow Leopard (and I believe Leopard, just can’t check), but they are fun little tools just in case you don’t have Apple’s Xcode [iTunes link][xCode] installed or [MacPorts][macPorts] available on your computer.
@@ -64,7 +64,7 @@ Port Scanning host: 192.168.1.111
 
 Things you can’t do for people who use nmap include fingerprinting, service information, comma separated for a select ports to scan vs. the whole spectrum. If you find a port number and are not sure what it’s used for, check the Apple kbase article [Well known TCP and UDP ports used by Apple software products][tcpUDP].
 
-[tcpUDP]: http://support.apple.com/kb/ts1629
+[tcpUDP]: https://support.apple.com/kb/ts1629
 
 Wireless discovery with *airport*
 ---
@@ -129,5 +129,5 @@ Wi-Fi Network Settings
 Wi-Fi Network Options
 
 [xCode]: https://itunes.apple.com/us/app/xcode/id497799835?mt=12
-[macPorts]: http://www.macports.org/install.php
-[insecure]: http://nmap.org/download.html#source
+[macPorts]: https://www.macports.org/install.php
+[insecure]: https://nmap.org/download.html#source

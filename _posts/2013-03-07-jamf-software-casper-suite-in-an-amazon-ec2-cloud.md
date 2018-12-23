@@ -16,7 +16,7 @@ header:
     overlay_image: /assets/images/2015/01/20/casper-suite-cropped.jpg       # Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/2015/01/20/casper-suite-cropped-Twitter.jpg    # Shrink image to 575 width
-    caption: "Photo credit: [**JAMF Software**](http://www.jamfsoftware.com/products/)"
+    caption: "Photo credit: [**JAMF Software**](https://www.jamfsoftware.com/products/)"
 ---
 
 I had the interesting opportunity of installing the Casper Suite on an Amazon EC2 Cloud server and wanted to post my findings on the subject for other future "cloud" users.  Overall the process is very simple, as you can configure a Windows 2008 R2 Server or Linux server via one of Amazon's Quick Launch Configurations.  I'll review technically what was needed for the environment along with a couple of "gotchas".
@@ -104,9 +104,9 @@ You can cluster your JSS with multiple which may help with the IP addressing ele
 ### Additional Thoughts
 If you have any suggestions on Samba security I would greatly appreciate it.  The default setup seems that only "printers" is advertised so it would be simple to disable that broadcast while everything else is *mostly* locked down.  You could always perform ``` sudo service smb [stop | start] ``` for times when you want to upload via Casper Admin.app if you didn't like the idea of having a smb in the cloud.
 
-[reposado]: http://groups.google.com/group/reposado
+[reposado]: https://groups.google.com/group/reposado
 [margarita]: https://github.com/jessepeterson/margarita
-[denisonmac]: http://denisonmac.wordpress.com/2013/02/28/running-margarita-in-apache/
+[denisonmac]: https://denisonmac.wordpress.com/2013/02/28/running-margarita-in-apache/
 [repo]: https://groups.google.com/forum/?fromgroups=#!topic/reposado/Sd4L8mgBv8I
 [jamfnation]: https://jamfnation.jamfsoftware.com/
 [dmz]: https://jamfnation.jamfsoftware.com/article.html?id=174

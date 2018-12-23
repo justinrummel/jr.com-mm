@@ -74,7 +74,7 @@ Race Results
 - For the 3hr race I'm glad I swapped out my MTB clip-in peddles for some traditional flat peddles.  But I think for a 6hr race (or more) there is a lot of advantage for having clips to get you around the more difficult trail segements as witness when our paths cross some of the 6hr racers.
 - The red part of a compass is north.
 
-After the race there was a GREAT post-race food and awards ceremony.  There was also a fun push-up competition that I participated in, but had no chance of winning as this brick wall of a guy just powered through as people dropped one-by-one.  I also won a free [Road ID][id] out of the raffle, and won a free book by confessing the embarrassing story previously mentioned of reading the compass incorrectly that the red line points north.  The book title is "Squiggly Lines" by [Mark Lattanzi][ML] and is set to be available March of 2017, but you can pre-order on his website's store: [www.tanznavigation.org/sqlines/index.php](http://www.tanznavigation.org/sqlines/).
+After the race there was a GREAT post-race food and awards ceremony.  There was also a fun push-up competition that I participated in, but had no chance of winning as this brick wall of a guy just powered through as people dropped one-by-one.  I also won a free [Road ID][id] out of the raffle, and won a free book by confessing the embarrassing story previously mentioned of reading the compass incorrectly that the red line points north.  The book title is "Squiggly Lines" by [Mark Lattanzi][ML] and is set to be available March of 2017, but you can pre-order on his website's store: [www.tanznavigation.org/sqlines/index.php](https://www.tanznavigation.org/sqlines/index.php).
 
 
 <div class="embed-container embed-container-strava">
@@ -116,6 +116,6 @@ Footnotes
 [pb]: http://justins.com
 [rule13]: http://www.velominati.com/the-rules/#13
 [id]: https://www.roadid.com
-[ML]: http://www.tanznavigation.org/about.php
+[ML]: https://www.tanznavigation.org/about.php
 [vlad]: https://www.facebook.com/vladimir.bukalo
 [event_results]: https://www.adventureaddictsracing.com/

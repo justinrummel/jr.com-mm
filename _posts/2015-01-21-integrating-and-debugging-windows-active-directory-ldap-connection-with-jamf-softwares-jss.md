@@ -16,7 +16,7 @@ header:
     overlay_image: /assets/images/2015/01/20/casper-suite-cropped.jpg       # Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/2015/01/20/casper-suite-cropped-Twitter.jpg    # Shrink image to 575 width
-    caption: "Photo credit: [**JAMF Software**](http://www.jamfsoftware.com/products/)"
+    caption: "Photo credit: [**JAMF Software**](https://www.jamfsoftware.com/products/)"
 ---
 
 I'm guessing you are looking at your JSS screen trying to connect an LDAP server, specifically Active Directory (AD), but things are not going well.  First of all, breath.  There have been countless times when I'm performing a JumpStart and things "just don't work" in terms of integrating the JSS and Active Directory, especially if your AD is anything beyond the standard "Next, Next, Next" installation process when it was initially setup.
@@ -189,4 +189,4 @@ Key items to look for are:
 </figure>
 
 [ee1b345d578dce338b39]: https://gist.github.com/justinrummel/ee1b345d578dce338b39
-[fqdn]: http://en.wikipedia.org/wiki/Fully_qualified_domain_name
+[fqdn]: https://en.wikipedia.org/wiki/Fully_qualified_domain_name

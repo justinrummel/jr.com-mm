@@ -49,4 +49,4 @@ Check [www.niagaraparks.com/attractions/falls-illumination.html][falls-illuminat
 <a href="{{ site.url }}/assets/images/2011/09/29/niagara-falls-LG-14.jpg"><img src="{{ site.url }}/assets/images/2011/09/29/niagara-falls-SM-14.jpg" title="niagara-falls-LG-14.jpg" /></a>
 </figure>
 
-[falls-illumination]: http://www.niagaraparks.com/attractions/falls-illumination.html
+[falls-illumination]: https://www.niagaraparks.com/attractions/falls-illumination.html

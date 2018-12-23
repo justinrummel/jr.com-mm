@@ -51,5 +51,5 @@ Source
 ---
 [Relay mail via Google SMTP with Postfix][wormly]
 
-[verizon]: http://www.verizon.com/Support/Residential/internet/highspeed/general+support/top+questions/questionsone/124274.htm
+[verizon]: https://www.verizon.com/Support/Residential/internet/highspeed/general+support/top+questions/questionsone/124274.htm
 [wormly]: https://blog.wormly.com/2008/11/05/relay-gmail-google-smtp-postfix/

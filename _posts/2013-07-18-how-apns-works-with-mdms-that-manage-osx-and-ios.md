@@ -91,9 +91,9 @@ Footnotes
 
 [^1]: Be sure your Certificate on your HTTPS distribution point is signed by a third-party OR that your internal ROOT CA is already installed on your client machines.
 
-[APNS]: http://developer.apple.com/library/mac/#documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Chapters/ApplePushService.html#//apple_ref/doc/uid/TP40008194-CH100-SW9
+[APNS]: https://developer.apple.com/library/mac/#documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Chapters/ApplePushService.html#//apple_ref/doc/uid/TP40008194-CH100-SW9
 [push]: https://help.apple.com/advancedserveradmin/mac/10.8/#apdBCCA9A8E-119C-4871-BB33-8C98264D9572
-[ports]: http://support.apple.com/kb/TS4264
-[netboot]: http://support.apple.com/kb/ts3678
-[wellKnown]: http://support.apple.com/kb/TS1629
+[ports]: https://support.apple.com/kb/TS4264
+[netboot]: https://support.apple.com/kb/ts3678
+[wellKnown]: https://support.apple.com/kb/TS1629
 

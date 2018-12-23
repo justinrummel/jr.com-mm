@@ -31,11 +31,11 @@ To see the diff for today's Xprotect update here are the resulting diff gist's:
 
 {% gist 5040046 %}
 
-[8301-13727_7-57570100-263]: http://reviews.cnet.com/8301-13727_7-57570100-263/new-mac-malware-opens-secure-reverse-shell
-[intego]: http://www.intego.com/mac-security-blog/pint-sized-backdoor-for-os-x-discovered/
-[botnet]: http://en.wikipedia.org/wiki/Botnet
+[8301-13727_7-57570100-263]: https://reviews.cnet.com/8301-13727_7-57570100-263/new-mac-malware-opens-secure-reverse-shell
+[intego]: https://www.intego.com/mac-security-blog/pint-sized-backdoor-for-os-x-discovered/
+[botnet]: https://en.wikipedia.org/wiki/Botnet
 [timsutton]: https://github.com/timsutton/XProtectPackager
-[DisableXProtectUpdater]: http://managingosx.wordpress.com/2013/01/31/disabled-java-plugins-xprotect-updater/
-[rtrouton]: http://derflounder.wordpress.com/2013/02/24/managing-java-browser-plug-in-settings-for-apples-xprotect-malware-protection/
-[macops]: http://macops.ca/everything-youll-wish-you-didnt-know-about-disabling-java-7-updates/
+[DisableXProtectUpdater]: https://managingosx.wordpress.com/2013/01/31/disabled-java-plugins-xprotect-updater/
+[rtrouton]: https://derflounder.wordpress.com/2013/02/24/managing-java-browser-plug-in-settings-for-apples-xprotect-malware-protection/
+[macops]: https://macops.ca/everything-youll-wish-you-didnt-know-about-disabling-java-7-updates/
 [clientconfiguration3_log]: https://www.changedetection.com/log/apple/configuration/clientconfiguration3_log.html

@@ -21,10 +21,10 @@ Sources
 
 - [Mac Enterprise Announcement](https://lists.psu.edu/cgi-bin/wa?A2=MACENTERPRISE;651e43e6.1311)
 - [AFP548 Announcement](https://www.afp548.com/2013/11/25/new-mac-admins-group-macdmv/)
-- [MacDMV](http://www.macdmv.com)
+- [MacDMV](https://www.macdmv.com)
 - [@tbridge](https://twitter.com/welovedc)
 - [@justinrummel](https://twitter.com/justinrummel)
 
 [irc]: http://osx.michaellynn.org/freenode-osx-server/freenode-osx-server_2013-11-22.html
-[macdmv]: http://www.macdmv.com
+[macdmv]: https://www.macdmv.com
 [nate]: https://twitter.com/natewalck

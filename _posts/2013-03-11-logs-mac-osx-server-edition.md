@@ -14,7 +14,7 @@ header:
     overlay_image: /assets/images/mt-lion-OG-Header.jpg		# Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/mt-lion-OG-Header-Twitter.jpg 		# Shrink image to 575 width
-    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
+    caption: "Photo credit: [**Apple, Inc**](https://www.apple.com)"
 ---
 
 AFP
@@ -146,7 +146,7 @@ odutil set log default
 > - Other logging levels are also available: "alert", "critical", "error", "warning", "notice", and "info".
 > - For more information please refer to the manual pages for the odutil utility (such as "[man odutil](x-man-page://1/odutil)").
 > - Generally, debug logging should only be used to troubleshoot Open Directory service-related issues because debug logging can generate large amounts of log messages. If you need more detailed information about Open Directory events but do not wish to use "debug", consider using "info" instead.
-> <cite>[OS X Server: Changing opendirectoryd logging levels](http://support.apple.com/kb/HT4696)</cite>
+> <cite>[OS X Server: Changing opendirectoryd logging levels](https://support.apple.com/kb/HT4696)</cite>
 
 System
 ---
@@ -233,6 +233,6 @@ Sources
 [oderror]: https://developer.apple.com/library/mac/#documentation/Networking/Reference/OpenDirectoryErrors/Reference/reference.html#//apple_ref/doc/uid/TP40008797
 [afplog]: http://krypted.com/mac-os-x/missing-server-app-settings-for-afp/
 [osxs10.8]: http://www.peachpit.com/store/apple-pro-training-series-os-x-server-essentials-using-9780321887337
-[dreyer]: http://www.arekdreyer.com
-[greisler]: http://www.kadimac.com
+[dreyer]: https://arekdreyer.com
+[greisler]: https://www.kadimac.com
 [log]: http://nicktoons.nick.com/videos/clip/stimpys-big-day-log-song-1.html

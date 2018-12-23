@@ -37,5 +37,5 @@ Footnotes
 
 [^1]: They still haven't moved, but we'll continue to try.
 
-[appalachiantrail]: http://www.appalachiantrail.org/FamilyHike
+[appalachiantrail]: https://www.appalachiantrail.org/FamilyHike
 [camphill]: https://www.nps.gov/places/harpers-ferry-camp-hill.htm

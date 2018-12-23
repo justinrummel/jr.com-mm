@@ -13,7 +13,7 @@ header:
     overlay_image: /assets/images/mt-lion-OG-Header.jpg		# Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/mt-lion-OG-Header-Twitter.jpg 		# Shrink image to 575 width
-    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
+    caption: "Photo credit: [**Apple, Inc**](https://www.apple.com)"
 ---
 
 I've posted several docs already on what I see as big changes from a Server Admin point of view which includes moving the rest of the supported applications from Server Admin to Server.app. With that now complete, Server Admin and Workgroup Manager (among all the other Server Admin Tools) have now been removed.  If you update your Lion OS (Server or client) it will search for /Applications/Server folder and remove everything... just in case you didn't get the point from all the rumor sites.

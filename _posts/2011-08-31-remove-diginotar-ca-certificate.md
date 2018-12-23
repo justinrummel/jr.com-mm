@@ -15,7 +15,7 @@ header:
     overlay_image: /assets/images/lion-OG-Header.jpg       # Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/lion-OG-Header-Twitter.jpg    # Shrink image to 575 width
-    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
+    caption: "Photo credit: [**Apple, Inc**](https://www.apple.com)"
 ---
 
 First, I want to say thanks to [Edward Marczak][radiotope] for his original post on how to remove the Diginotar CA Certificate, and his forward thinking about how to do this from a System Admin perspective. I wanted to add a few more bits of info to his post to better explain the *security* command.

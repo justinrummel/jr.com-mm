@@ -15,7 +15,7 @@ header:
     overlay_image: /assets/images/lion-OG-Header.jpg       # Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/lion-OG-Header-Twitter.jpg    # Shrink image to 575 width
-    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
+    caption: "Photo credit: [**Apple, Inc**](https://www.apple.com)"
 ---
 
 Over the past several months, my company has been dealing with AD/OD integrations with Lion 10.7.2 and the customer's environment is using ".local". If you are not familiar with the history between ".local" and Apple computers simply put: they don't mix. PERIOD. It all stems from Apple OS X Clients using the naming convention of "ComputerName.local" as its address for Bonjour services. When an Active Directory (AD) environment uses something like "company.local", Lion doesn't know if you are talking DNS or Bonjour... so it just tries everything, thus giving you delayed authentication (login) against your AD controllers.
@@ -193,9 +193,9 @@ If you have any troubles with your IPv6 values not returning, my guess there is 
 Additional Sources
 ---
 
-- [IPv6 Converter](http://ipv6-literal.com/)
-- [IPv6 REVERSE ZONE BUILDER](http://mike.kz/updated-ipv6-reverse-zone-builder/)
+- [IPv6 Converter](https://ipv6-literal.com/)
+- [IPv6 REVERSE ZONE BUILDER](https://mike.kz/updated-ipv6-reverse-zone-builder/)
 
-[advance10.5]: http://www.amazon.com/Apple-Training-Advanced-System-Administration/dp/032156314X "Mac OS X Advanced System Administration v10.5"
-[ipv6calc]: http://mirrors.bieringer.de/www.deepspace6.net/projects/ipv6calc.html#id1506183 "ipv6calc"
-[world-ipv6-launch]: http://arstechnica.com/business/news/2012/01/world-ipv6-launch-this-time-its-for-real.ars
+[advance10.5]: https://www.amazon.com/Apple-Training-Advanced-System-Administration/dp/032156314X "Mac OS X Advanced System Administration v10.5"
+[ipv6calc]: https://mirrors.bieringer.de/www.deepspace6.net/projects/ipv6calc.html#idm140499222678768 "ipv6calc"
+[world-ipv6-launch]: https://arstechnica.com/business/news/2012/01/world-ipv6-launch-this-time-its-for-real.ars

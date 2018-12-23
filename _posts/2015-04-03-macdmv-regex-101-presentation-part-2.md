@@ -15,7 +15,7 @@ header:
     overlay_image: /assets/images/2015/02/25/regex-Header.png       # Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/2015/02/25/regex-Header-Twitter.png    # Shrink image to 575 width
-    caption: "Photo credit: [**Pyfisch**](http://commons.wikimedia.org/wiki/File:Pictogram_voting_regex.svg)"
+    caption: "Photo credit: [**Pyfisch**](https://commons.wikimedia.org/wiki/File:Pictogram_voting_regex.svg)"
 ---
 **NOTE:** Again, I was going to give this presentation for MacDMV this month, however, due to unannounced circumstances I won't be able to present.  Here is what I was going to post immediately following the meet-up.
 

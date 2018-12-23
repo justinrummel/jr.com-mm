@@ -17,7 +17,7 @@ header:
     overlay_image: /assets/images/mt-lion-OG-Header.jpg		# Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/mt-lion-OG-Header-Twitter.jpg 		# Shrink image to 575 width
-    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
+    caption: "Photo credit: [**Apple, Inc**](https://www.apple.com)"
 ---
 
 Thursday January 31, 2013 11:55am - 12:40pm
@@ -28,4 +28,4 @@ With the release of OS X Mountain Lion 10.8, Apple has introduced new elements t
 
 Presenting with Steve Leebove, Owner, [MacRescue][macrescue]
 
-[macrescue]: http://www.macrescue.com
+[macrescue]: https://www.macrescue.com

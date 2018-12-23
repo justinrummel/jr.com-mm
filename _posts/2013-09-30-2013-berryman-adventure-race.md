@@ -50,7 +50,7 @@ Also, if you want to read about the race from other racers, I found:
 - [Emily Korsch's][silkychrome] Outdoor Adventure who was also on the 2nd place team *Alpine Shop*, PLUS she is competing at USARA National Championships starting TOMORROW in Nashville, IN.
 
 [bees]: https://web.archive.org/web/20140105015852/http://support.apple.com/kb/HT1865
-[ironman]: http://en.wikipedia.org/wiki/Ironman_Triathlon#Ironman_70.3
+[ironman]: https://en.wikipedia.org/wiki/Ironman_Triathlon#Ironman_70.3
 [BMmaps]: https://maps.google.com/maps?q=https://dl.dropboxusercontent.com/u/554176/2013Berryman-Adventure.kmz
-[rock-racing]: http://rock-racing.blogspot.com/2013/10/berryman-adventure-race-2013.html
-[silkychrome]: http://silkychrome.blogspot.com/2013/09/race-report-2013-berryman-adventure.html
+[rock-racing]: https://rock-racing.blogspot.com/2013/10/berryman-adventure-race-2013.html
+[silkychrome]: https://silkychrome.blogspot.com/2013/09/race-report-2013-berryman-adventure.html

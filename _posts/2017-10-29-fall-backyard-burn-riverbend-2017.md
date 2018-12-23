@@ -35,4 +35,4 @@ Overall the 5 mile loop was fun.  There were four challenging hills during the l
     <iframe src='https://www.strava.com/activities/1252346707/embed/245922db12a2b60d5df9413f9cc977ff3dd76a6a' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
-[byb]: http://www.ex2adventures.com/byb-fall.php
+[byb]: https://www.ex2adventures.com/trail-running/fall-backyard-burn-trail-running-series/

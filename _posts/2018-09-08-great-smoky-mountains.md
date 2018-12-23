@@ -94,10 +94,10 @@ Wow! It has been a long time since I've posted a photography article only!  I di
 Why was I at GSM???  That is coming soon in another post.
 
 ### Day[^1]
-{% include gallery id="gallery" caption="Day 1 exploring Great Smoky Mountains by climbing [Mt LeConte](http://www.hikinginthesmokys.com/lecontealum.htm)" %}
+{% include gallery id="gallery" caption="Day 1 exploring Great Smoky Mountains by climbing [Mt LeConte](https://www.hikinginthesmokys.com/lecontealum.htm)" %}
 
 ### Day[^2]
-{% include gallery id="gallery2" caption="Day 2 exploring Great Smoky Mountains by finding [Rainbow Falls](http://www.hikinginthesmokys.com/rainbow.htm)" %}
+{% include gallery id="gallery2" caption="Day 2 exploring Great Smoky Mountains by finding [Rainbow Falls](https://www.hikinginthesmokys.com/rainbow.htm)" %}
 
 
 Footnotes

@@ -13,7 +13,7 @@ header:
     overlay_image: /assets/images/lion-OG-Header.jpg       # Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/lion-OG-Header-Twitter.jpg    # Shrink image to 575 width
-    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
+    caption: "Photo credit: [**Apple, Inc**](https://www.apple.com)"
 ---
 
 I'll be speaking at MacTech Conference 2011 which runs November 2-4 in Los Angeles with [Randy Saeks][MacTech]!

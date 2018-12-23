@@ -13,7 +13,7 @@ header:
     overlay_image: /assets/images/2015/01/20/casper-suite-cropped.jpg       # Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/2015/01/20/casper-suite-cropped-Twitter.jpg    # Shrink image to 575 width
-    caption: "Photo credit: [**JAMF Software**](http://www.jamfsoftware.com/products/)"
+    caption: "Photo credit: [**JAMF Software**](https://www.jamfsoftware.com/products/)"
 ---
 
 In the last article [Casper Suite 9: Cloud and JDS Distribution Points]({{ site.url }}/casper-suite-9-cloud-and-jds-distribution-points) I gave you information about things to take into consideration before installing a JAMF Distribution Server (JDS) into your Casper Suite 9 environment.  In this article I'll take you through an example install of a JDS in Ubuntu.
@@ -75,5 +75,5 @@ Footnotes
 [^1]: Red Hat Linux (RHL) Support is something new for JAMF.
 [^2]: There is an interesting Discussion on JAMF Nation as the [Admin Guide states Lion and Server 2.2, but Server 2.2 is not available for Lion](https://jamfnation.jamfsoftware.com/discussion.html?id=8111).
 
-[ubuntu12.04]: http://www.ubuntu.com/download/server
+[ubuntu12.04]: https://www.ubuntu.com/download/server
 [339]: https://jamfnation.jamfsoftware.com/article.html?id=339

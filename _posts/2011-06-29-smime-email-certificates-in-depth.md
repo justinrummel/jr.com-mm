@@ -17,7 +17,7 @@ header:
     overlay_image: /assets/images/lion-OG-Header.jpg       # Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/lion-OG-Header-Twitter.jpg    # Shrink image to 575 width
-    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
+    caption: "Photo credit: [**Apple, Inc**](https://www.apple.com)"
 ---
 
 We have discussed the basics of S/MIME in my post [What Is S/MIME Email and Why Should I Be Using It]({{ site.url }}/what-is-smime-email-and-why-should-i-be-using-it/), and from the last article [Acquiring a S/MIME Certificate for Free]({{ site.url }}/acquiring-a-smime-certificate-for-free/) you should have your S/MIME certificate installed. Now let's get into some more technical aspects of S/MIME.
@@ -252,4 +252,4 @@ Footnotes
 $ security verify-cert -c ~/Desktop/myPublicCert.pem
 {% endhighlight %}
 
-[aboutCert]: http://docs.info.apple.com/article.html?path=Mac/10.6/en/15177.html
+[aboutCert]: https://docs.info.apple.com/article.html?path=Mac/10.6/en/15177.html

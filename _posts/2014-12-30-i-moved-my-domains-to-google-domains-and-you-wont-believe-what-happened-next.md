@@ -11,7 +11,7 @@ header:
     overlay_image: /assets/images/2015/01/15/domainsblogpostimage.png		    # Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/2015/01/15/domainsblogpostimage_thumb.png 			# Shrink image to 575 width
-    caption: "Photo credit: [**Google**](http://google.com)"
+    caption: "Photo credit: [**Google**](https://google.com)"
 ---
 
 OK, that title is COMPLETELY intended for click bait. I just think it's funny how "online news sites" use this to get people to click on things.

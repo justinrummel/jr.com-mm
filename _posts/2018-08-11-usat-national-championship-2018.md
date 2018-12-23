@@ -156,10 +156,10 @@ Footnotes
 ---
 
 [^1]: Goals were based on 2:00/100m Swim, 21mph bike, and 8:00/mi
-[^2]: Results available at: <a href="http://rtrt.me/1132/track/R79A4GEH">rtrt.me/1132/track/R79A4GEH</a>
+[^2]: Results available at: <a href="https://rtrt.me/1132/track/R79A4GEH">rtrt.me/1132/track/R79A4GEH</a>
 
 [ssn]: http://www.speedsherpa.com/
-[liz]: http://www.trianythingtwice.com/
+[liz]: https://www.trianythingtwice.com/
 [mangelos]: https://www.mangelos.com
 [wetsuits]: https://www.roka.com/collections/maverick-wetsuits
 [swimskins]: https://www.roka.com/collections/viper-swimskins

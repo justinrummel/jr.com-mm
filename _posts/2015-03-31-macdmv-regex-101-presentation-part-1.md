@@ -15,7 +15,7 @@ header:
     overlay_image: /assets/images/2015/02/25/regex-Header.png       # Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/2015/02/25/regex-Header-Twitter.png    # Shrink image to 575 width
-    caption: "Photo credit: [**Pyfisch**](http://commons.wikimedia.org/wiki/File:Pictogram_voting_regex.svg)"
+    caption: "Photo credit: [**Pyfisch**](https://commons.wikimedia.org/wiki/File:Pictogram_voting_regex.svg)"
 ---
 **NOTE:** I was going to give this presentation for MacDMV this month, however, due to unannounced circumstances I won't be able to present.  Here is what I was going to post immediately following the meet-up.
 
@@ -234,22 +234,22 @@ Online
 Links
 ---
 
-- [http://en.wikipedia.org/wiki/Think_different][wikipedia]
-- [http://www.funtoo.org/Sed_by_Example,_Part_1][sed1]
-- [http://www.funtoo.org/Sed_by_Example,_Part_2][sed2]
-- [http://www.funtoo.org/Sed_by_Example,_Part_3][sed3]
-- [http://www.regular-expressions.info/index.html][info]
+- [https://en.wikipedia.org/wiki/Think_different][wikipedia]
+- [https://www.funtoo.org/Sed_by_Example,_Part_1][sed1]
+- [https://www.funtoo.org/Sed_by_Example,_Part_2][sed2]
+- [https://www.funtoo.org/Sed_by_Example,_Part_3][sed3]
+- [https://www.regular-expressions.info/index.html][info]
 
 Footnotes
 ---
 
-[^1]: There are actually three versions of "The Crazy Ones" per this <a href="http://en.wikipedia.org/wiki/Think_different#Text">Wikipedia article</a>: Original, Full version, and Short version.
-[^2]: To create the multi lined version I wanted to use sed and substituted each ". " with ".\n" (a period then a line break).  There is an OS X sed issue when trying to substitute with line breaks that is outlined at: <a href="http://stackoverflow.com/questions/6111679/insert-linefeed-in-sed-mac-os-x">http://stackoverflow.com/questions/6111679/insert-linefeed-in-sed-mac-os-x</a>.  To create multi line version I used the following commands, <code>bash-3.2$ cat Apple.quote | sed 's/\. /\. \=/g' | tr "=" "\n"</code>
+[^1]: There are actually three versions of "The Crazy Ones" per this <a href="https://en.wikipedia.org/wiki/Think_different#Text">Wikipedia article</a>: Original, Full version, and Short version.
+[^2]: To create the multi lined version I wanted to use sed and substituted each ". " with ".\n" (a period then a line break).  There is an OS X sed issue when trying to substitute with line breaks that is outlined at: <a href="https://stackoverflow.com/questions/6111679/insert-linefeed-in-sed-mac-os-x">https://stackoverflow.com/questions/6111679/insert-linefeed-in-sed-mac-os-x</a>.  To create multi line version I used the following commands, <code>bash-3.2$ cat Apple.quote | sed 's/\. /\. \=/g' | tr "=" "\n"</code>
 
 [id429449079]: https://itunes.apple.com/us/app/patterns-the-regex-app/id429449079?mt=12
 [regex101]: https://regex101.com
-[wikipedia]: http://en.wikipedia.org/wiki/Think_different#Text
-[sed1]: http://www.funtoo.org/Sed_by_Example,_Part_1
-[sed2]: http://www.funtoo.org/Sed_by_Example,_Part_2
-[sed3]: http://www.funtoo.org/Sed_by_Example,_Part_3
-[info]: http://www.regular-expressions.info/index.html
+[wikipedia]: https://en.wikipedia.org/wiki/Think_different#Text
+[sed1]: https://www.funtoo.org/Sed_by_Example,_Part_1
+[sed2]: https://www.funtoo.org/Sed_by_Example,_Part_2
+[sed3]: https://www.funtoo.org/Sed_by_Example,_Part_3
+[info]: https://www.regular-expressions.info/index.html

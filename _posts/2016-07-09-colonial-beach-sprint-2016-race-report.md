@@ -88,7 +88,7 @@ Footnotes
 [^6]: With two minute penalty.
 
 [madi]: https://www.instagram.com/madikirch/
-[AlaskaMan]: http://www.akxtri.com
+[AlaskaMan]: https://www.akxtri.com
 [SS]: https://kineticmultisports.com/super-series/
 [FAQ]: https://kineticmultisports.com/faqs/
 [colonial_results]: https://kineticmultisports.com/result/2016-results/colonialbeachsprintoverall/

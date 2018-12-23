@@ -46,4 +46,4 @@ Footnotes
 [octopress]: http://octopress.org
 [imathis]: https://github.com/imathis
 [readme]: https://github.com/rob-murray/jekyll-twitter-plugin/blob/master/README.md
-[fish]: http://fishshell.com
+[fish]: https://fishshell.com

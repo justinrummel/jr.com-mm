@@ -14,7 +14,7 @@ header:
     overlay_image: /assets/images/mt-lion-OG-Header.jpg		# Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/mt-lion-OG-Header-Twitter.jpg 		# Shrink image to 575 width
-    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
+    caption: "Photo credit: [**Apple, Inc**](https://www.apple.com)"
 ---
 
 You have just installed Mountain Lion Server, now what!? Going on the assumption you are staring at Server.app right after a clean install, the first thing that needs attention is DNS!
@@ -98,4 +98,4 @@ Footnotes
 1.  Most likely you are either updating an existing Server or promoting a Client to a Server. In either case, [/Applications/Server folder has been deleted][apd41CA43B8-DAD1-495E-940F-5BB3339DC2AB]. Be sure to keep a copy of Server Admin tools if you need to control any servers that have not been upgraded.
 2.  There has been a long history where Mac Administrators have misconfigured DNS, thus their server admin tools (i.e. Server Admin, Workgroup Manager, Server Preference, etc) did not function correctly because DNS was wrong. In order to make sure Server.app works from the start, Apple has begun to check if DNS is correct by doing forward and reverse DNS lookups from the provided IP and hostname information that was assigned during the Server Setup Assistant.
 
-[apd41CA43B8-DAD1-495E-940F-5BB3339DC2AB]: http://help.apple.com/advancedserveradmin/mac/10.8/#apd41CA43B8-DAD1-495E-940F-5BB3339DC2AB
+[apd41CA43B8-DAD1-495E-940F-5BB3339DC2AB]: https://help.apple.com/advancedserveradmin/mac/10.8/#apd41CA43B8-DAD1-495E-940F-5BB3339DC2AB

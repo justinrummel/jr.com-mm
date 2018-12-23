@@ -13,7 +13,7 @@ header:
     overlay_image: /assets/images/2015/01/15/domainsblogpostimage.png		    # Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/2015/01/15/domainsblogpostimage_thumb.png 			# Shrink image to 575 width
-    caption: "Photo credit: [**Google**](http://google.com)"
+    caption: "Photo credit: [**Google**](https://google.com)"
 ---
 
 So I was *really* hoping for some invite codes from Google Domains while it was still in private beta.  This way everyone would shower me with love and affection, and in return for I would provide my precious invite codes... but Google just had to kill my dreams and make it available for everyone!  The nice thing is there must have been some great feedback from previous beta testers as some changes have been applied since my review two weeks ago (I never received a feedback request, so I cannot take any credit).
@@ -27,7 +27,7 @@ So I was *really* hoping for some invite codes from Google Domains while it was 
 > - We improved integration with website builders so you can quickly view and compare themes and plans because you wanted to know more about the available options before signing up.
 > - We added dynamic DNS so you can setup your domain and keep it pointing to the same computer even when the IP address changes because you requested this for your business.
 >
-> <cite>[Making it easier to get your business online with Google Domains](http://googleandyourbusiness.blogspot.com/2015/01/making-it-easier-to-get-your-business.html)</cite>
+> <cite>[Making it easier to get your business online with Google Domains](https://googleandyourbusiness.blogspot.com/2015/01/making-it-easier-to-get-your-business.html)</cite>
 
 It's that last bullet that I'm excited about, Dynamic DNS!  I logged into my account to searched around for the new Dynamic DNS interface and couldn't find the right location.  Since googleing "Google Domains" is somewhat pointless in returning decent results (much like OSX's security command), I did [what I thought was the unthinkable]({{ site.url}}/i-moved-my-domains-to-google-domains-and-you-wont-believe-what-happened-next/) and used Google Domains [new support chat feature][chat]!  I was directed to review the DNS Section, then "Synthetic records" area for a new added dropdown option for Dynamic DNS.
 

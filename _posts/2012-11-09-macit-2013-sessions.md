@@ -13,7 +13,7 @@ header:
     overlay_image: /assets/images/mt-lion-OG-Header.jpg		# Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/mt-lion-OG-Header-Twitter.jpg 		# Shrink image to 575 width
-    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
+    caption: "Photo credit: [**Apple, Inc**](https://www.apple.com)"
 ---
 
 For my fifth year in a row, I'll be presenting at Macworld MacIT conference in January of 2013! I'll be presenting on two topics this year:
@@ -34,4 +34,4 @@ With the release of OS X Mountain Lion 10.8, Apple has introduced new elements t
 
 This one I'm really excited about. We'll be discussing what Apple has done in terms of security on OS X, and how this helps system administrators, along with what can you do to control these elements! Also, I'll be presenting for the first time with long time colleague Steve Leebove of [MacResecue][MacResecue]. If you have any specific questions that you want me to cover, please comment now. I'll be working on my slides starting the first of December.
 
-[MacResecue]: http://www.macrescue.com
+[MacResecue]: https://www.macrescue.com

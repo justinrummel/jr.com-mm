@@ -35,5 +35,5 @@ landslide slides.md -t themes/light/; open presentation.html
 
 And you are done!  You should now be able to see my presentation.
 
-[MacDMV]: http://macdmv.com
+[MacDMV]: https://macdmv.com
 [landslide]: https://github.com/adamzap/landslide

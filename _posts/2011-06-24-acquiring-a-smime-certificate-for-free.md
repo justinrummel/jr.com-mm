@@ -16,7 +16,7 @@ header:
     overlay_image: /assets/images/lion-OG-Header.jpg       # Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/lion-OG-Header-Twitter.jpg    # Shrink image to 575 width
-    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
+    caption: "Photo credit: [**Apple, Inc**](https://www.apple.com)"
 ---
 
 From the last article, I hope you are now wondering "where do I get this awesome thing called S/MIME certificate!", and the other kicker "What's it going to cost me?" Well you are in luck because email certificates can be obtained for free! There are two site (that I know of) that provide free S/MIME email certificates: [Instant SSL][instantssl] and [Start SSL][startssl].
@@ -49,5 +49,5 @@ Step Two; Success! Now check your email
 ![full screen of key pair]({{ site.url }}/assets/images/2011/06/smime-cert-3.png){: .align-center}
 Step Three; Download, double-click and install in Keychain Access
 
-[instantssl]: http://www.instantssl.com/
+[instantssl]: https://www.instantssl.com/
 [startssl]: https://www.startssl.com/

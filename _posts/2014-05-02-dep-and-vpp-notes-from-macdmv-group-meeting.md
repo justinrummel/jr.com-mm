@@ -22,7 +22,7 @@ Here are my notes from the DEP session (with a little VPP knowledge).
 - DEP is not for BYOD as DEP is for devices owned by the organization (makes sense once you say it out loud)!!!
 - Apple's License model is that you can use VPPMD apps on organization issued devices AND personal device.
 
-[2014-05-01]: http://www.macdmv.com/may-1st-meet-up-recap
+[2014-05-01]: https://www.macdmv.com/may-1st-meet-up-recap
 [DEP]: https://www.apple.com/education/it/dep/
-[JSS]: http://www.jamfsoftware.com/news/apple-innovation-device-enrollment-program-dep-and-volume-purchase-program-/
-[MiaB]: http://tbridge.github.io/munki-in-a-box/
+[JSS]: https://www.jamfsoftware.com/news/apple-innovation-device-enrollment-program-dep-and-volume-purchase-program-/
+[MiaB]: https://tbridge.github.io/munki-in-a-box/

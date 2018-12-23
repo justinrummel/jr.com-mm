@@ -118,7 +118,7 @@ Footnotes
 
 [ae]: https://www.adventureenablers.com
 [ssn]: http://www.speedsherpa.com
-[emv]: http://earlymountain.com
-[stinger]: http://www.honeystinger.com/organic-stinger-waffles/organic-honey-waffle.html
+[emv]: https://www.earlymountain.com
+[stinger]: https://www.honeystinger.com/Honey-Organic-Waffle
 [ride_results]: https://runsignup.com/Race/Results/41633/IndividualResult/kfzg?#U8364916
 [run_results]: https://runsignup.com/Race/Results/41633/IndividualResult/kfzb?#U8364916

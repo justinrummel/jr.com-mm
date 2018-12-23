@@ -13,7 +13,7 @@ header:
     overlay_image: /assets/images/mt-lion-OG-Header.jpg		# Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/mt-lion-OG-Header-Twitter.jpg 		# Shrink image to 575 width
-    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
+    caption: "Photo credit: [**Apple, Inc**](https://www.apple.com)"
 ---
 
 Websites (f.k.a Web) and Wiki have already been moved to Server.app when Lion Server was released, so I didn't expect much to change, but upon review there is a twinkle of Advanced option for Mac Administrators in terms of these two Services.

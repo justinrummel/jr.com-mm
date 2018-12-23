@@ -45,4 +45,4 @@ As a best practice, I usually create .jks, .p12, or even .cer files with the ser
 
 [vmware]: https://communities.vmware.com/message/2276614
 [SSLJKS]: https://github.com/justinrummel/Random-Scripts/blob/master/General/Ubuntu-SSLCert-jks.sh
-[ht1528]: http://support.apple.com/kb/ht1528
+[ht1528]: https://support.apple.com/kb/ht1528

@@ -281,7 +281,7 @@ Footnotes
 [wattie-speedsuit]: https://www.wattieink.com/collections/speedsuits
 [zipp]: https://www.zipp.com/wheels/808-firecrest---carbon-clincher/
 [argon18]: https://www.argon18bike.com/en/news/argon-18/unveiling-the-2015-argon-18-colllection
-[fac]: http://www.freedom-center.com/aquatics/freedom-aquatic-club-masters-team/
+[fac]: https://www.freedom-center.com/aquatics/freedom-aquatic-club-masters-team/
 [hpt]: https://haymarketpt.com/contact-bristow/
 [velofit]: https://www.velofitpt.com
 

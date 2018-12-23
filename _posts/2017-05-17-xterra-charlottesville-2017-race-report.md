@@ -123,12 +123,12 @@ Footnotes
 [^4]: Official Race Results available at [2017 XTRERRA Charlottesville Results page][x-results-page].
 
 [ss]: http://www.speedsherpa.com/coaches
-[xterra-charlottesville]: http://www.adventureaddictsracing.com/xterra-charlottesville/
+[xterra-charlottesville]: https://www.adventureaddictsracing.com/xterra-charlottesville/
 [217930866]: https://vimeo.com/217930866
 [thedistance]: https://en.wikipedia.org/wiki/XTERRA_Triathlon#Race_format
-[msa]: http://millerschoolofalbemarle.org
+[msa]: https://millerschoolofalbemarle.org
 [MSA-enduro]: https://www.msaendurance.com/new-page-1/
-[aaa]: http://www.adventureaddictsracing.com/about-us/founders/
+[aaa]: https://www.adventureaddictsracing.com/about-us/founders/
 [andy]: https://www.msaendurance.com/new-page-2/
 [x-results-page]: http://www.raceworkstiming.com/05-20-17-xterra-tri-charlottesville
 [x-results-me]: http://georesults.racemine.com/race-works-timing/events/2017/2017-xtrerra-charlottesville/140/entrant

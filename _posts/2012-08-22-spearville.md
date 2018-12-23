@@ -51,5 +51,5 @@ Lastly, while "getting out of Dodge" (couldn't resist) driving towards the Wichi
 </figure>
 
 [future-of-spearville]: http://www.spearville.org/future-of-spearville
-[Kanza]: http://www.google.com/search?q=Kanza+Art+Studio
+[Kanza]: https://www.google.com/search?q=Kanza+Art+Studio
 [pinkfiretrucks]: http://pinkfiretrucks.org

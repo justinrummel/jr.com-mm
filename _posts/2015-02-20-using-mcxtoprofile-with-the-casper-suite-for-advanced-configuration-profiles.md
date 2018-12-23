@@ -16,7 +16,7 @@ header:
     overlay_image: /assets/images/2015/01/20/casper-suite-cropped.jpg       # Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/2015/01/20/casper-suite-cropped-Twitter.jpg    # Shrink image to 575 width
-    caption: "Photo credit: [**JAMF Software**](http://www.jamfsoftware.com/products/)"
+    caption: "Photo credit: [**JAMF Software**](https://www.jamfsoftware.com/products/)"
 ---
 
 JAMF Software's Casper Suite has the ability to use Configuration Profiles (Apple's preferred method for managing OSX and iOS) since version 8.0, and introduced Apple Push Notification Service ([APNS]({{ site.url }}/search/?q=apns)) support since Casper Suite 8.4.  The combination of using Configurations Profiles with APNS allows administrators the ability to push management settings, which will be installed immediately and securely on their client machines.  However, Apple has been slow to provide Configuration Profiles a 1:1 feature parity that Mac Administrators were used to be able to configure through MCX via Workgroup Manager ([RIP][rip]).  There is a need to extract legacy MCX Settings and convert them into a working Configuration Profiles to manage options in a meticulous fashion: thus [mcxToProfile][m2p].
@@ -119,8 +119,8 @@ Footnotes
 [^2]: The keys "__NSEnableTSMDocumentWindowLevel" and "last-messagetrace-stamp" may be able to be removed along with the other menu items.  I did not remove these keys during my testing and the VPN Menu item and it's settings worked as desired.
 [^3]: This step is not required for JSS Admins as you will have the chance to rename it once you import the plist into your new Configuration Policy.
 
-[rip]: http://support.apple.com/en-us/HT201651
+[rip]: https://support.apple.com/en-us/HT201651
 [m2p]: https://github.com/timsutton/mcxToProfile
 [tvsutton]: https://twitter.com/tvsutton
-[CasperSuiteSeriesEvolution]: http://resources.jamfsoftware.com/archive/CasperSuiteSeriesEvolution.pdf
+[CasperSuiteSeriesEvolution]: https://resources.jamfsoftware.com/archive/CasperSuiteSeriesEvolution.pdf
 [iPhoneConfigurationProfileRef]: https://developer.apple.com/library/ios/featuredarticles/iPhoneConfigurationProfileRef/Introduction/Introduction.html

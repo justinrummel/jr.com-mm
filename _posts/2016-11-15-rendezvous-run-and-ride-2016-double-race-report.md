@@ -15,7 +15,7 @@ header:
     overlay_image: /assets/images/2016/11/15/EX2-RR-Header.jpg		    # Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/2016/11/15/EX2-RR-Header-Twitter.jpg 		# Shrink image to 575 width
-    caption: "Photo credit: [**Brian W. Knight**](http://www.swimbikerunphoto.com/about/)"
+    caption: "Photo credit: [**Brian W. Knight**](https://www.swimbikerunphoto.com/about/)"
 ---
 Sometime early September I was looking for events that would complete my 2016 race calendar that was **NOT** a triathlon.  I had already lined up the 2nd annual [Family Duathlon][tin] and the family [5K charity run at Old Bust Head Brewing CO.][bust], but the one thing that was missing was my annual fall trip to visit my sister and her husband in Missouri for an adventure race.
 
@@ -70,10 +70,10 @@ With the good run but a horrible ride, I [placed 7th out of the nine competitors
 <a href="{{ site.url }}/assets/images/2016/11/15/EX2-RR-LG-1.jpg"><img src="{{ site.url }}/assets/images/2016/11/15/EX2-RR-SM-1.jpg" alt="" /></a>
 <a href="{{ site.url }}/assets/images/2016/11/15/EX2-RR-LG-2.jpg"><img src="{{ site.url }}/assets/images/2016/11/15/EX2-RR-SM-2.jpg" alt="" /></a>
 <a href="{{ site.url }}/assets/images/2016/11/15/EX2-RR-LG-3.jpg"><img src="{{ site.url }}/assets/images/2016/11/15/EX2-RR-SM-3.jpg" alt="" /></a>
-<figcaption class="align-text-center">Professional Pictures by Brian W. Knight/<a href="http://www.swimbikerunphoto.com/about/">Swim Bike Run Photography</a></figcaption><br />
+<figcaption class="align-text-center">Professional Pictures by Brian W. Knight/<a href="https://www.swimbikerunphoto.com/about/">Swim Bike Run Photography</a></figcaption><br />
 </figure>
 
-[tin]: http://www.triitnow.com/DUIT/duit.htm
+[tin]: https://www.triitnow.com/DUIT/duit.htm
 [bust]: https://www.oldbusthead.com/old-bust-head-benefit-5k-0
 [berryman]: http://rollamultisport.org/events/
 [alpine]: https://alpineshop.webconnex.com/cw8hr2016

@@ -18,7 +18,7 @@ header:
     overlay_image: /assets/images/lion-OG-Header.jpg       # Article header at 2048x768
     overlay_filter: 0.15
     teaser: /assets/images/lion-OG-Header-Twitter.jpg    # Shrink image to 575 width
-    caption: "Photo credit: [**Apple, Inc**](http://www.apple.com)"
+    caption: "Photo credit: [**Apple, Inc**](https://www.apple.com)"
 ---
 
 During the WWDC 2011 keynote, Apple announced that iOS 5 was going to have the capabilities of S/MIME. With that new feature announcement, it becomes a perfect topic to kick off my Foundations segments. In this article, I will describe what S/MIME is and why people should use it, interest everyone to use it now, and once iOS 5 comes out you will appreciate the fact that S/MIME email is now available.
@@ -63,4 +63,4 @@ Footnotes
 ---
 
 [^1]: Most email applications allow you to encrypt an email message by a simple button. Screenshots of Mail and iOS pending on future posts.
-[^2]: <a href="http://en.wikipedia.org/wiki/S/MIME">S/MIME info by Wikipedia</a>
+[^2]: <a href="https://en.wikipedia.org/wiki/S/MIME">S/MIME info by Wikipedia</a>

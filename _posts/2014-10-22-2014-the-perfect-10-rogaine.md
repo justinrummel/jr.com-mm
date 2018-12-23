@@ -39,4 +39,4 @@ In the end we were able to acquire 580 points out of a possible 1300 by travelin
 
 
 
-[ozarks]: http://mostateparks.com/park/lake-ozarks-state-park
+[ozarks]: https://mostateparks.com/park/lake-ozarks-state-park
