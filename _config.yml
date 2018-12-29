@@ -51,7 +51,7 @@ reCaptcha:
 atom_feed:
   path                   : https://feeds.feedburner.com/jr # blank (default) uses feed.xml
 search                   : true # false (default)
-search_full_content      : true # true, false (default)
+search_full_content      : false # true, false (default)
 search_provider          : lunr # lunr (default), algolia
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -323,6 +323,7 @@ photos_ext                : md
 post_layout               : post
 page_layout               : page
 page_layout               : photos
+
 
 # https://github.com/whaleen/jekyll-manifest.json
 # Manifest settings (Used to make manifest.json)
