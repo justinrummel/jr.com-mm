@@ -19,7 +19,7 @@ I've joined the 2019 FXCK Team and have a new donation page already created and 
 
 <div style="page-break-after: always;"></div>
 
-<figure class="align-right"><img src="{{ site.url }}/assets/images/2018/03/30/scar-256.jpg" alt="Justin Rummel profile pic" /></figure>In early March 2018, I discovered a triathlon team who had a mission other than friendship and fitness.  Don't get me wrong, those were the two main reasons I've been doing triathlons for the past five years and I love my [Speed Sherpa][SS] family, but after my recent surgery I've become more aware that my surgery experience was easy... I was lucky... and not everyone has those cards dealt to them while living their life.  That is why I have now joined the [Fxck Cancer Triathlon Team][fxck].
+<figure class="align-right"><img src="/assets/images/2018/03/30/scar-256.jpg" alt="Justin Rummel profile pic" /></figure>In early March 2018, I discovered a triathlon team who had a mission other than friendship and fitness.  Don't get me wrong, those were the two main reasons I've been doing triathlons for the past five years and I love my [Speed Sherpa][SS] family, but after my recent surgery I've become more aware that my surgery experience was easy... I was lucky... and not everyone has those cards dealt to them while living their life.  That is why I have now joined the [Fxck Cancer Triathlon Team][fxck].
 
 When you join the FCTT team, you have also made a commitment to raise money that will be donated to the main "F C Cancer Foundation" 501c3 Non Profit Organization by the end of 2018.  Not really sure how to raise money (I'm *not* a sales person), I'll see what I can do utilizing my website and social media outlets to see if anyone becomes inspired.
 
