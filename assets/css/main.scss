@@ -35,6 +35,11 @@
   }
 }
 
+.notice--fxck-2019 {
+  @include notice(#FF2D5C);
+  font-size: 1.0em !important;
+}
+
 
 /* ==========================================================================
    Media and embeds
