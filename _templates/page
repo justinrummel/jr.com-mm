@@ -2,7 +2,7 @@
 layout: {{ layout }}
 title: "{{ title }}"
 date: {{ date }}
-modified:
+last_modified_at:
 description: ""
 permalink: "{{ title | slugify | downcase }}"
 author_profile: false

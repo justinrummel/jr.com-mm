@@ -2,7 +2,7 @@
 layout: single
 title: "Resume"
 date: 2015-07-02
-modified: 2015-07-02
+last_modified_at: 2015-07-02
 description: "Resume page for Justin Rummel"
 permalink: /resume/
 author_profile: false
