@@ -20,7 +20,7 @@ header:
 Thank you [@fxckcancertriteam][fxck-ig] for accepting me as an Ambassador for the 2019 Fxck Cancer Triathlon Team!  It is very exciting to be representing the team for the second year in a row, and to help contribute to a great cause. As part of joining the 2019 FXCK Triathlon Team, I have also created a new donation page for 2019 at: [fxckcancer.crowdchange.co/5910/page/78337][donate].
 {: .notice--fxck-2019}
 
-Lastly, a **HUGH** thanks to those who donated last year.  I cannot thank you enough for surpassing my goal.
+Lastly, a **HUGE** thanks to those who donated last year.  I cannot thank you enough for surpassing my goal.
 {: .notice--fxck-2019}
 
 <div style="page-break-after: always;"></div>
