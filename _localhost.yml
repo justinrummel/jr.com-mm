@@ -15,6 +15,7 @@ bing_site_verification    : ""
 # - http://jch.penibelst.de/
 compress_html:
   ignore:
+#    envs                  : production
     envs                  : development
 
 webrick:
