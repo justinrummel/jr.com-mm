@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: afd8cfd99e84c7de366eb4a75c990c1827a263b3
+  revision: cc4471e4ddab8823522ef3e10d3cac2f6d40bd4c
   specs:
     minimal-mistakes-jekyll (4.15.1)
       jekyll (~> 3.7)
@@ -34,7 +34,7 @@ GEM
     eventmachine (1.2.7-x64-mingw32)
     faraday (0.15.4)
       multipart-post (>= 1.2, < 3)
-    faraday_middleware (0.12.2)
+    faraday_middleware (0.13.0)
       faraday (>= 0.7.4, < 1.0)
     ffi (1.9.25)
     ffi (1.9.25-x64-mingw32)
@@ -135,7 +135,7 @@ GEM
       jekyll (~> 3.0)
     octopress-hooks (2.6.2)
       jekyll (>= 2.0)
-    parallel (1.12.1)
+    parallel (1.13.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     pusher-client (0.6.2)
