@@ -74,7 +74,7 @@
 
             <p class="small">{{ site.data.ui-text[site.locale].comment_form_info | default: "Your email is used for Gravatar image and reply notifications only.  Address will not be published." }} <span class="required">*</span></p>
 
-            <form id="new_comment" class="page__comments-form js-form form" method="post" action="https://dev.staticman.net/v3/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
+            <form id="new_comment" class="page__comments-form js-form form" method="post" action="https://dev.staticman.net/v3/entry/github/{{ site.repository }}/{{ site.staticman.branch }}/comments">
 
               <div class="form__spinner">
                 <i class="fas fa-spinner fa-spin fa-3x fa-fw"></i>
@@ -112,9 +112,11 @@
                 <strong class="js-notice-text"></strong>
               </p>
               <!-- End comment form alert messaging -->
+              {% if site.staticman.enabled %}
               <fieldset>
                 <div class="g-recaptcha" data-sitekey="6Lfj9ysUAAAAAOWg3kjG9nsoDgJpZBo7PhxAMh1c"></div>
               </fieldset>
+              {% endif %}
               <fieldset>
               <!-- <label for="comment-form-reply"><input type="checkbox" id="comment-form-reply" name="options[subscribe]" value="email">&nbsp;Notify me of new comments by email.</label> -->
                 <button type="submit" id="comment-form-submit" tabindex="5" class="btn btn--large">{{ site.data.ui-text[site.locale].comment_btn_submit | default: "Submit Comment" }}</button>
