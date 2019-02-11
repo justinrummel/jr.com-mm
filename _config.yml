@@ -46,6 +46,7 @@ staticman:
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
+  enabled                : false
   siteKey                :
   secret                 :
 atom_feed:
