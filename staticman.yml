@@ -23,7 +23,7 @@ comments:
   transforms:
     email                : "md5"
   reCaptcha:
-    enabled: true
+    enabled: false
     siteKey: "6Lfj9ysUAAAAAOWg3kjG9nsoDgJpZBo7PhxAMh1c"
     secret: "jlq9b/ZJ74mENEygF6jhYrTs/YUQVZoeMKl9giynbSXBmU5spAj1ETwwzaMOzsRqLukAEvAku5v5Af7O++2n2NGeSLQNOixSJfqCDrNMk3Ob6A4aRN11CQT5qFRlJxyVGmia8tZzqEyd1mrbZpd+AVsIh2sC5jhdrx+zgogCLkk="
   generatedFields:
