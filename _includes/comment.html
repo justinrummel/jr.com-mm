@@ -37,7 +37,7 @@
 </article>
 
 {% capture i %}{{ include.index }}{% endcapture %}
-{% assign replies = site.data.comments[page.slug] | where_exp: "item", "item.replying_to == i" %}
+{% assign replies = site.data.comments[page.slug] | where_exp: "item", "item.replying_to == i" | sort: 'date'%}
 
 <!-- {{ replies | inspect }} -->
 
