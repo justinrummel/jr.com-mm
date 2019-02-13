@@ -2,17 +2,17 @@
 layout: single
 title: "FXCK Cancer Triathlon Team"
 date: 2018-03-30T17:00:00-04:00
-last_modified_at: 2019-01-06T20:00:00-04:00
+last_modified_at: 2019-02-13T08:00:00-04:00
 description: "Charity challenge for Justin Rummel in support of the FXCK Cancer Triathlon Team!"
 permalink: /fxck/
 author_profile: false
 comments: false
 header:
-    image: /assets/images/2018/03/30/FXCK-Cancer-Triathlon-Team-Header.jpg            # Twitter (use 'overlay_image')
-    overlay_image: /assets/images/2018/03/30/FXCK-Cancer-Triathlon-Team-Header.jpg    # Article header at 2048x768
+    image: /assets/images/2019/02/13/FXCK-Cancer-Triathlon-Team-2019-Header.png            # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2019/02/13/FXCK-Cancer-Triathlon-Team-2019-Header.png    # Article header at 2048x768
     overlay_filter: 0.15
     show_overlay_excerpt: false
-    teaser: /assets/images/2018/03/3-/FXCK-Cancer-Triathlon-Team-Header-Twitter.jpg   # Shrink image to 575x216
+    teaser: /assets/images/2019/02/13/FXCK-Cancer-Triathlon-Team-2019-Header-Twitter.png   # Shrink image to 575x216
     caption: "Photo credit: [**Fxck Cancer Triathlon Team**](https://www.fxckcancer.org/TriTeam/)"
 ---
 <figure class="align-left"><img src="{{ '/assets/images/2019/01/01/fxck-2019-256.jpg' | relative_url }}" alt="Justin Rummel profile pic" /></figure>## 2019 Update
