@@ -226,7 +226,7 @@ Sources
 ---
 
 - [AFP Logging][afplog] by Charles Edge
-- [Server Essentials 10.8][osxs10.8] By [Arek Dreyer][dreyer], [Ben Greisler][greisler]
+- [Server Essentials 10.8][osxs10.8] By [Arek Dreyer][dreyer], Ben Greisler
 - [Post Title][log] by Ren and Stimpy
 
 [opendirectoryd]: https://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man8/opendirectoryd.8.html
@@ -234,5 +234,4 @@ Sources
 [afplog]: http://krypted.com/mac-os-x/missing-server-app-settings-for-afp/
 [osxs10.8]: http://www.peachpit.com/store/apple-pro-training-series-os-x-server-essentials-using-9780321887337
 [dreyer]: https://arekdreyer.com
-[greisler]: https://www.kadimac.com
 [log]: http://nicktoons.nick.com/videos/clip/stimpys-big-day-log-song-1.html
