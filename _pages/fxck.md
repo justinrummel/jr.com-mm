@@ -8,11 +8,11 @@ permalink: /fxck/
 author_profile: false
 comments: false
 header:
-    image: /assets/images/2019/02/13/FXCK-Cancer-Triathlon-Team-2019-Header.png            # Twitter (use 'overlay_image')
-    overlay_image: /assets/images/2019/02/13/FXCK-Cancer-Triathlon-Team-2019-Header.png    # Article header at 2048x768
+    image: /assets/images/2019/02/13/FXCK-Cancer-Triathlon-Team-2019-Header.jpg            # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2019/02/13/FXCK-Cancer-Triathlon-Team-2019-Header.jpg    # Article header at 2048x768
     overlay_filter: 0.15
     show_overlay_excerpt: false
-    teaser: /assets/images/2019/02/13/FXCK-Cancer-Triathlon-Team-2019-Header-Twitter.png   # Shrink image to 575x216
+    teaser: /assets/images/2019/02/13/FXCK-Cancer-Triathlon-Team-2019-Header-Twitter.jpg   # Shrink image to 575x216
     caption: "Photo credit: [**Fxck Cancer Triathlon Team**](https://www.fxckcancer.org/TriTeam/)"
 ---
 <figure class="align-left"><img src="{{ '/assets/images/2019/01/01/fxck-2019-256.jpg' | relative_url }}" alt="Justin Rummel profile pic" /></figure>## 2019 Update
