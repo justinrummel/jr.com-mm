@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 097c01eff13820803761f6252d07276fb0938e1b
+  revision: 94e8280950f095c82a26f616e5a5dd35d336dd86
   specs:
     minimal-mistakes-jekyll (4.15.2)
       jekyll (~> 3.7)
@@ -15,7 +15,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.2.2)
+    activesupport (5.2.2.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
