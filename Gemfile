@@ -5,7 +5,7 @@ source "https://rubygems.org"
 gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes", :branch => 'smooth-scroll-gumshoe'
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
-gem 'ffi'
+gem 'ffi', '1.9.25'			# html-proofer requirement
 gem 'html-proofer'
 gem 'travis'
 gem 'json', '2.1.0'
