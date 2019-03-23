@@ -15,6 +15,4 @@ group :jekyll_plugins do
   gem 'liquid-md5'
   gem 'jekyll-archives'
   gem 'octopress'
-#  gem 'classifier-reborn'                # --lsi support
-#  gem 'rb-gsl'                           # make lsi faster.  Don't forget brew install gsl, Travis does not like gsl.
 end
