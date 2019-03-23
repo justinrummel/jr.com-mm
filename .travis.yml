@@ -2,7 +2,7 @@ dist: xenial
 language: ruby
 
 rvm:
-  - 2.3.7
+  - 2.3.8
 
 sudo: false
 
@@ -28,6 +28,7 @@ addons:
       - gsl-bin
 
 before_install:
+  - bundle config git.allow_insecure true
   - openssl aes-256-cbc -K $encrypted_a5975f3f1aa1_key -iv $encrypted_a5975f3f1aa1_iv -in edgerc.txt.enc -out .edgerc -d
 
 before_script:
