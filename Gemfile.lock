@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 94e8280950f095c82a26f616e5a5dd35d336dd86
+  revision: 54e141aa0bde135a442381b37d44dc7cbd651ff7
   specs:
     minimal-mistakes-jekyll (4.15.2)
       jekyll (~> 3.7)
@@ -84,14 +84,14 @@ GEM
       jekyll (~> 3.3)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
-    jekyll-include-cache (0.1.0)
-      jekyll (~> 3.3)
+    jekyll-include-cache (0.2.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-sitemap (1.2.0)
       jekyll (~> 3.3)
-    jekyll-watch (2.1.2)
+    jekyll-watch (2.2.1)
       listen (~> 3.0)
     jemoji (0.10.2)
       gemoji (~> 3.0)
@@ -172,7 +172,7 @@ GEM
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
     websocket (1.2.8)
-    yell (2.0.7)
+    yell (2.1.0)
 
 PLATFORMS
   ruby
