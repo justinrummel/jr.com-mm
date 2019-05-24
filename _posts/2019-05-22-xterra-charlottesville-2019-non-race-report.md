@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "CMS: XTERRA Charlottesville 2019 NONE Race Report"
+title: "CMS: XTERRA Charlottesville 2019 Non-Race Report"
 date: 2019-05-18T16:00:00-04:00
 modified:
-description: "2019 was already starting as a very odd, but now things have gone completely upside down after I crashed on my Mountain Bike." 	# For Twitter, not the Title
+description: "2019 was already starting as a very odd, but now things have gone completely upside down after I crashed on my mountain bike." 	# For Twitter, not the Title
 categories:
     - "Race Report"
 tags:
@@ -16,7 +16,7 @@ header:
     teaser: /assets/images/2019/05/11/crash-Header-Twitter.jpg   # Shrink image to 575x216
     caption: "Photo credit: [**Justin Rummel**](https://www.justinrummel.com)"
 ---
-2019 was already starting as a very odd year in terms of competing in races, but now things have gone completely upside down after I crashed on my Mountain Bike.  To recap let me start from the beginning.
+2019 was already starting as a very odd year in terms of competing in races, but now things have gone completely upside down after I crashed on my mountain bike.  To recap let me start from the beginning.
 
 <!-- Table of Contents -->
 {% include toc icon="gears" title="Race Review ToC" %}
