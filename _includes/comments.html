@@ -74,7 +74,7 @@
 
             <p class="small">{{ site.data.ui-text[site.locale].comment_form_info | default: "Your email is used for Gravatar image and reply notifications only.  Address will not be published." }} <span class="required">*</span></p>
 
-            <form id="new_comment" class="page__comments-form js-form form" method="post" action="https://dev.staticman.net/v3/entry/github/{{ site.repository }}/{{ site.staticman.branch }}/comments">
+            <form id="new_comment" class="page__comments-form js-form form" method="post" action="https://api.staticman.net/v3/entry/github/{{ site.repository }}/{{ site.staticman.branch }}/comments">
 
               <div class="form__spinner">
                 <i class="fas fa-spinner fa-spin fa-3x fa-fw"></i>
