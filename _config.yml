@@ -10,10 +10,9 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                    : minimal-mistakes-jekyll
+theme                    : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-
-minimal_mistakes_skin    : air # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -21,14 +20,28 @@ title                    : "Justin Rummel . com"
 title_separator          : "-"
 name                     : "Justin Rummel"
 description              : 'Father, husband, Apple enthusiast.  🏊 🚴 🏃 with <a href="https://www.instagram.com/explore/tags/speedsherpanation/">#speedsherpanation</a>, <a href="https://www.instagram.com/explore/tags/fxckcancertriteam/">#fxckcancertriteam</a>, and <a href="https://www.instagram.com/explore/tags/bikelaw/">#bikelaw</a>'
-url                      : https://www.justinrummel.com
+url                      : "https://www.justinrummel.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : justinrummel/jr.com-mm # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/sierra-teaser.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-breadcrumbs              : false # true, false (default)
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : "jr-branch"
@@ -45,6 +58,7 @@ staticman:
       type               : # "date"
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+  endpoint               : https://api.staticman.net/v3/entry/github/ # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
   enabled                : true
   siteKey                : "6Lfj9ysUAAAAAOWg3kjG9nsoDgJpZBo7PhxAMh1c"
@@ -52,7 +66,7 @@ reCaptcha:
 atom_feed:
   path                   : https://feeds.feedburner.com/jr # blank (default) uses feed.xml
 search                   : true # false (default)
-search_full_content      : false # true, false (default)
+search_full_content      : # true, false (default)
 search_provider          : lunr # lunr (default), algolia
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -67,7 +81,7 @@ google:
 google_site_verification : hT6wj0MiwnZDtC-APUPAkaE4cSidJtqaBCBq3Xnlnxk
 bing_site_verification   : BF2EEED10A15A64DE29F3E540F77DC37
 yandex_site_verification :
-naver-site-verification  :
+naver_site_verification  :
 
 # Social Sharing
 twitter:
@@ -77,8 +91,10 @@ facebook:
   app_id                 : "286537128062498"
   publisher              : "justinrummel"
 og_image                 : # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : Person           # Person or Organization (defaults to Person)
+  type                   : # Person or Organization (defaults to Person)
   name                   : "Justin Rummel"  # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://www.facebook.com/justinrummel"
@@ -90,20 +106,20 @@ social:
 
 # Analytics
 analytics:
-  provider                : google # false (default), "google", "google-universal", "custom"
+  provider               : google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id           : UA-41781912-1
-    anonymize_ip          : # true, false (default)
+    tracking_id          : UA-41781912-1
+    anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name                    : "Justin Rummel"
-  avatar                  : "https://www.gravatar.com/avatar/812849b04c44245ad29c0e40cb84e3da.jpg?s=110"
-  bio                     : 'Father, husband, Apple enthusiast.  🏊 🚴 🏃 with <a href="https://www.instagram.com/explore/tags/speedsherpanation/">#speedsherpanation</a>, <a href="https://www.instagram.com/explore/tags/fxckcancertriteam/">#fxckcancertriteam</a>, and <a href="https://www.instagram.com/explore/tags/bikelaw/">#bikelaw</a>'
-  location                : False
-  email                   : False
-  url                     : "https://www.justinrummel.com/"
+  name                   : "Justin Rummel"
+  avatar                 : "https://www.gravatar.com/avatar/812849b04c44245ad29c0e40cb84e3da.jpg?s=110"
+  bio                    : 'Father, husband, Apple enthusiast.  🏊 🚴 🏃 with <a href="https://www.instagram.com/explore/tags/speedsherpanation/">#speedsherpanation</a>, <a href="https://www.instagram.com/explore/tags/fxckcancertriteam/">#fxckcancertriteam</a>, and <a href="https://www.instagram.com/explore/tags/bikelaw/">#bikelaw</a>'
+  location               : False
+  email                  : False
+  url                    : "https://www.justinrummel.com/"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -157,7 +173,7 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
-  - "*.gemspec"
+  - vendor
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
@@ -169,7 +185,6 @@ exclude:
   - CHANGELOG
   - config
   - Gemfile
-  - Gemfile.lock
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
@@ -179,51 +194,49 @@ exclude:
   - Rakefile
   - README
   - script
-  - staticman.yml
   - tmp
-  - vendor
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
-encoding                  : "utf-8"
-markdown_ext              : "markdown,mkdown,mkdn,mkd,md"
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown                  : kramdown
-highlighter               : rouge
-lsi                       : false
-future                    : false
-show_drafts               : false
-excerpt_separator         : "\n\n"
-incremental               : false
+markdown: kramdown
+highlighter: rouge
+lsi: false
+future: false
+show_drafts: false
+excerpt_separator: "\n\n"
+incremental: false
 
 
 # Markdown Processing
 kramdown:
-  hard_wrap               : false
-  input                   : GFM
-  auto_ids                : true
-  auto_id_prefix          : 'jr_'
-  footnote_nr             : 1
-  smart_quotes            : lsquo,rsquo,ldquo,rdquo
-  toc_levels              : 1..6
-  enable_coderay          : false
-  entity_output           : as_char
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  auto_id_prefix: 'jr_'
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
 
 # Sass/SCSS
 sass:
-  sass_dir                : _sass
-  style                   : compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
-permalink                 : /:title/
-paginate                  : 5 # amount of posts to show
-paginate_path             : /page:num/
-timezone                  : America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink: /:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -252,9 +265,9 @@ whitelist:
 #  Path (examples)
 #  - Archive page should exist at path when using Liquid method or you can
 #    expect broken links (especially with breadcrumbs enabled)
-#  - <absolute_url>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <absolute_url/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <absolute_url/my-awesome-category/index.html ~> path: /
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: jekyll-archives
   path: /categories/
@@ -278,28 +291,28 @@ jekyll-archives:
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
-  clippings               : all
-  comments                : ["<!-- ", " -->"]
-  blanklines              : true
-  profile                 : false
+  clippings: all
+  ignore:
+  comments: ["<!-- ", " -->"]
+  blanklines: true
+  profile: false
 
 
-# https://mmistakes.github.io/minimal-mistakes/docs/installation/
 # Defaults
 defaults:
   # _posts
   - scope:
-      path                : ""
-      type                : posts
+      path: ""
+      type: posts
     values:
-      layout              : single
-      author_profile      : true
-      read_time           : false
-      comments            : true
-      share               : false
-      related             : true
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: false
+      related: true
       sidebar:
-        nav               : "docs"
+        nav: "docs"
 
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 #head_scripts:
