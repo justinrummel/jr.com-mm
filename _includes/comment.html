@@ -10,30 +10,30 @@
     {% endif %}
   </div>
 
-  <h3 class="comment__author" itemprop="author" itemscope itemtype="https://schema.org/Person">
-    {% unless include.url == blank %}
-      <span itemprop="name"><a rel="external nofollow" itemprop="url" href="{{ include.url }}">{{ include.name }}</a></span>
-    {% else %}
-      <span itemprop="name">{{ include.name }}</span>
+  <div class="comment__content-wrapper">
+    <h3 class="comment__author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+      {% unless include.url == blank %}
+        <span itemprop="name"><a rel="external nofollow" itemprop="url" href="{{ include.url }}">{{ include.name }}</a></span>
+      {% else %}
+        <span itemprop="name">{{ include.name }}</span>
+      {% endunless %}
+    </h3>
+    <p class="comment__date">
+      {% if include.date %}
+        {% if include.index %}<a href="#comment{% if r %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endif %}" title="Permalink to this comment" itemprop="url">{% endif %}
+        <time datetime="{{ include.date | date_to_xmlschema }}" itemprop="datePublished">{{ include.date | date: "%B %d, %Y at %I:%M %p" }}</time>
+        {% if include.index %}</a>{% endif %}
+      {% endif %}
+    </p>
+    <div itemprop="text">{{ include.message | markdownify }}</div>
+
+    {% unless include.replying_to != 0 or page.comments_locked == true %}
+    <div class="comment__reply">
+      <a rel="nofollow" class="btn btn--primary" href="#comment-{{ include.index }}" onclick="return addComment.moveForm('comment-{{ include.index }}', '{{ include.index }}', 'respond', '{{ page.slug }}')">Reply to {{ include.name }}</a>
+    </div>
     {% endunless %}
-  </h3>
 
-  <div class="comment__date">
-    {% if include.date %}
-      {% if include.index %}<a href="#comment{% if r %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endif %}" title="Permalink to this comment" itemprop="url">{% endif %}
-      <time datetime="{{ include.date | date_to_xmlschema }}" itemprop="datePublished">{{ include.date | date: "%B %d, %Y at %I:%M %p" }}</time>
-      {% if include.index %}</a>{% endif %}
-    {% endif %}
   </div>
-
-  <div class="comment__message" itemprop="text">{{ include.message | markdownify }}</div>
-
-  {% unless include.replying_to != 0 or page.comments_locked == true %}
-  <div class="comment__reply">
-    <a rel="nofollow" class="btn" href="#comment-{{ include.index }}" onclick="return addComment.moveForm('comment-{{ include.index }}', '{{ include.index }}', 'respond', '{{ page.slug }}')">Reply to {{ include.name }}</a>
-  </div>
-  {% endunless %}
-
 </article>
 
 {% capture i %}{{ include.index }}{% endcapture %}

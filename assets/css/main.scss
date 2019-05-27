@@ -282,7 +282,7 @@ figure {
   font-size: 0.9em;
 
   &:not(:last-child) {
-    border-bottom: 1px solid $border-color;
+    border-bottom: 0px solid $border-color;
   }
 
   // comment replies
@@ -292,7 +292,8 @@ figure {
     &:before,
     &:after {
       position: absolute;
-      left: 1.5em;
+      margin-top: 1.2em;
+      left: 27px;
       content: '';
       width: 0.5em;
       background-color: #e3e3e3;
@@ -300,7 +301,7 @@ figure {
 
     &:before {
       top: -3em;
-      height: 2em;
+      height: 1.8em;
     }
 
     &:after {
@@ -323,6 +324,20 @@ figure {
 
 }
 
+.comment__avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+
+//  @include breakpoint($large) {
+//    width: 80px;
+//    height: 80px;
+//    padding: 5px;
+//    border: 1px solid $border-color;
+//  }
+
+}
+
 .comment__message {
   margin: 0;
   margin-left: 80px;
@@ -339,6 +354,22 @@ figure {
   a {
     text-decoration: none;
   }
+}
+
+.comment__content-wrapper {
+    /* float:right; */
+  width: calc(100% - 80px);
+
+  @include breakpoint($large) {
+    width: calc(100% - 120px);
+  }
+}
+
+#respond {
+  @include clearfix;
+  position: relative;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 
