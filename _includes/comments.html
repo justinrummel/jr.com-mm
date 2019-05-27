@@ -48,10 +48,10 @@
           {% unless page.comments_locked == true %}
 
             <!-- Start new comment form -->
-            <div id="respond">
-            <h2 class="page__comments-title">
-              Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" style="display:none;">Cancel reply</a></small>
-            </h2>
+            <div id="respond" class="page__comments-form">
+            <h4 class="page__comments-title">
+              Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" class="btn btn--danger btn--small" href="{{ page.url | absolute_url }}#respond" style="display:none;">Cancel reply</a></small>
+            </h4>
 
             <p class="small">{{ site.data.ui-text[site.locale].comment_form_info | default: "Your email is used for Gravatar image and reply notifications only.  Address will not be published." }} <span class="required">*</span></p>
             <form id="new_comment" class="page__comments-form js-form form" method="post" action="{{ site.staticman.endpoint | default: 'https://api.staticman.net/v2/entry/' }}{{ site.repository }}/{{ site.staticman.branch }}/comments">
@@ -60,24 +60,24 @@
                 <span class="sr-only">{{ site.data.ui-text[site.locale].loading_label | default: "Loading..." }}</span>
               </div>
 
-              <fieldset>
+              <div class="form-group">
                 <label for="comment-form-message">{{ site.data.ui-text[site.locale].comment_form_comment_label | default: "Comment" }} <small class="required">*</small></label>
                 <textarea type="text" rows="3" id="comment-form-message" name="fields[message]" tabindex="1"></textarea>
                 <div class="small help-block"><a href="https://daringfireball.net/projects/markdown/">{{ site.data.ui-text[site.locale].comment_form_md_info | default: "Markdown is supported." }}</a></div>
-              </fieldset>
-              <fieldset>
+              </div>
+              <div class="form-group">
                 <label for="comment-form-name">{{ site.data.ui-text[site.locale].comment_form_name_label | default: "Name" }} <small class="required">*</small></label>
                 <input type="text" id="comment-form-name" name="fields[name]" tabindex="2" />
-              </fieldset>
-              <fieldset>
+              </div>
+              <div class="form-group">
                 <label for="comment-form-email">{{ site.data.ui-text[site.locale].comment_form_email_label | default: "Email address" }} <small class="required">*</small></label>
                 <input type="email" id="comment-form-email" name="fields[email]" tabindex="3" />
-              </fieldset>
-              <!-- <fieldset>
+              </div>
+              <!-- <div class="form-group">
                 <label for="comment-form-url">{{ site.data.ui-text[site.locale].comment_form_website_label | default: "Website (optional)" }}</label>
                 <input type="url" id="comment-form-url" name="fields[url]" tabindex="4"/>
-              </fieldset> -->
-              <fieldset class="hidden" style="display: none;">
+              </div> -->
+              <div class="form-group hidden" style="display: none;">
                 <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug }}" />
                 <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}" />
                 <input type="hidden" id="comment-parent" name="fields[replying_to]" value="" />
@@ -85,20 +85,20 @@
                 <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
                 {% if site.reCaptcha.siteKey %}<input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">{% endif %}
                 {% if site.reCaptcha.secret %}<input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">{% endif %}
-              </fieldset>
+              </div>
               <!-- Start comment form alert messaging -->
               <p class="hidden js-notice">
                 <strong class="js-notice-text"></strong>
               </p>
               <!-- End comment form alert messaging -->
               {% if site.reCaptcha.siteKey %}
-              <fieldset>
+                <div class="form-group">
                   <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
-              </fieldset>
+                </div>
               {% endif %}
-              <fieldset>
-                <button type="submit" id="comment-form-submit" tabindex="5" class="btn btn--large">{{ site.data.ui-text[site.locale].comment_btn_submit | default: "Submit Comment" }}</button>
-              </fieldset>
+              <div class="form-group">
+                <button type="submit" id="comment-form-submit" tabindex="5" class="btn btn--success btn--large">{{ site.data.ui-text[site.locale].comment_btn_submit | default: "Submit Comment" }}</button>
+              </div>
             </form>
           </div>
           <!-- End new comment form -->
