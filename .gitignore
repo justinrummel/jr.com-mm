@@ -7,6 +7,7 @@
 .code-highlighter-cache
 .gist-cache
 .htaccess
+.jekyll-cache
 .jekyll-metadata
 .sass-cache
 .tweet-cache
