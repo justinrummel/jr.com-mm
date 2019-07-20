@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 349e4840f1a118190202700b6dd684ae003aba16
+  revision: 6311da0b1623a19fa81d92f428f017bb0c1a386b
   specs:
-    minimal-mistakes-jekyll (4.16.4)
+    minimal-mistakes-jekyll (4.16.5)
       jekyll (~> 3.7)
       jekyll-data (~> 1.0)
       jekyll-feed (~> 0.10)
@@ -50,7 +50,7 @@ GEM
       net-http-persistent (~> 2.9)
       net-http-pipeline
     highline (1.7.10)
-    html-pipeline (2.11.0)
+    html-pipeline (2.11.1)
       activesupport (>= 2)
       nokogiri (>= 1.4)
     html-proofer (3.7.6)
@@ -65,7 +65,7 @@ GEM
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
-    jekyll (3.8.5)
+    jekyll (3.8.6)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -152,7 +152,7 @@ GEM
     rb-inotify (0.10.0)
       ffi (~> 1.0)
     redcarpet (3.4.0)
-    rouge (3.5.1)
+    rouge (3.6.0)
     ruby-enum (0.7.2)
       i18n
     ruby_dep (1.5.0)
