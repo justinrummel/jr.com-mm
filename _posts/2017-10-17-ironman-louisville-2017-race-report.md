@@ -285,4 +285,4 @@ Footnotes
 [hpt]: https://haymarketpt.com/contact-bristow/
 [velofit]: https://www.velofitpt.com
 
-[event_results]: http://www.ironman.com/triathlon/coverage/athlete-tracker.aspx?y=2017&rd=20171015&race=louisville&bidid=2008&detail=1
+[event_results]: https://www.ironman.com/triathlon/coverage/athlete-tracker.aspx?y=2017&rd=20171015&race=louisville&bidid=2008&detail=1#/tracker
