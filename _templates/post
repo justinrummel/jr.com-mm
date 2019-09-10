@@ -37,19 +37,19 @@ header:
 <!-- ##### iframe Examples ##### -->
 
 <!-- Facebook Frame -->
-#### Facebook Info
+**Facebook Info**
 <div class="embed-container embed-container-4x3">
     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fadventureaddictsracing%2Fposts%2F1280067652054115%3A0&width=500" scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 <!-- Strava Frame -->
-#### Strava Ride Activity
+**Strava Ride Activity**
 <div class="embed-container embed-container-strava">
     <iframe src='https://www.strava.com/activities/913975066/embed/65c0a4d4577068557a18b6fed6a422154de6e8b8' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 <!-- Relive Frame -->
-#### Relive Video
+**Relive Video**
 <div class="embed-container embed-container-relive">
     <iframe src='https://www.relive.cc/view/913975066/embed?x-ref=sc' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
