@@ -108,6 +108,7 @@ Among the Male 40-44 category there were 29 athletes.
 
 #### Race Photos
 
+Pictures by [Biran Kent][bk]
 <figure class="fifth">
     <a href="{{ site.url }}/assets/images/2019/09/08/reston-LG-3.jpg"><img src="{{ site.url }}/assets/images/2019/09/08/reston-SM-3.jpg" alt="" /></a>
     <a href="{{ site.url }}/assets/images/2019/09/08/reston-LG-5.jpg"><img src="{{ site.url }}/assets/images/2019/09/08/reston-SM-5.jpg" alt="" /></a>
@@ -115,6 +116,16 @@ Among the Male 40-44 category there were 29 athletes.
     <a href="{{ site.url }}/assets/images/2019/09/08/reston-LG-8.jpg"><img src="{{ site.url }}/assets/images/2019/09/08/reston-SM-8.jpg" alt="" /></a>
     <a href="{{ site.url }}/assets/images/2019/09/08/reston-LG-9.jpg"><img src="{{ site.url }}/assets/images/2019/09/08/reston-SM-9.jpg" alt="" /></a>
 </figure>
+
+Photos by [Michael Sturm][ms]
+<figure class="fourth">
+    <a href="{{ site.url }}/assets/images/2019/09/08/reston2-LG-1.jpg"><img src="{{ site.url }}/assets/images/2019/09/08/reston2-SM-1.jpg" alt="" /></a>
+    <a href="{{ site.url }}/assets/images/2019/09/08/reston2-LG-2.jpg"><img src="{{ site.url }}/assets/images/2019/09/08/reston2-SM-2.jpg" alt="" /></a>
+    <a href="{{ site.url }}/assets/images/2019/09/08/reston2-LG-3.jpg"><img src="{{ site.url }}/assets/images/2019/09/08/reston2-SM-3.jpg" alt="" /></a>
+    <a href="{{ site.url }}/assets/images/2019/09/08/reston2-LG-4.jpg"><img src="{{ site.url }}/assets/images/2019/09/08/reston2-SM-4.jpg" alt="" /></a>
+</figure>
+
+Photos by Caroline
 <figure class="half">
     <a href="{{ site.url }}/assets/images/2019/09/08/reston-LG-10.jpg"><img src="{{ site.url }}/assets/images/2019/09/08/reston-SM-10.jpg" alt="" /></a>
     <a href="{{ site.url }}/assets/images/2019/09/08/reston-LG-11.jpg"><img src="{{ site.url }}/assets/images/2019/09/08/reston-SM-11.jpg" alt="" /></a>
@@ -144,4 +155,5 @@ Footnotes
 [wattie]: https://www.wattieink.com/collections/speedsuits
 [racepace]: https://www.triathlete.com/2014/04/training/use-data-power-meter_96083
 [ftp]: https://www.trainingpeaks.com/blog/fitness-testing-for-triathletes-how-do-you-measure-up/
-[photos]: https://www.flickr.com/photos/coolhandlu/
+[bk]: https://www.flickr.com/photos/coolhandlu/
+[ms]: https://www.flickr.com/photos/168552967@N06/
