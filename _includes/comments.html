@@ -18,7 +18,7 @@
             <div id="comments" class="js-comments">
 
               <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</h4>
-              {% assign comments = site.data.comments[page.slug] | where_exp: 'item', 'item.replying_to == empty' %}
+              {% assign comments = site.data.comments[page.slug] | where_exp: 'item', 'item.replying_to == empty' | sort: 'date' %}
 
               <!--
                 {{ comments | inspect }}
