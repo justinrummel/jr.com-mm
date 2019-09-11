@@ -4,3 +4,4 @@ name: James
 url: ''
 message: The wiki WebDAV share is available through the standard user WebDAV login
   - thanks to redirects, just "servername" will work in Pages etc.
+replying_to: ''

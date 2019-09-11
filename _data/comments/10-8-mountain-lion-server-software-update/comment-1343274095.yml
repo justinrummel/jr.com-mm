@@ -7,3 +7,4 @@ message: I think you can relocate where it stores the updates by manually edit
   to where you want to store the update files. Make sure the folder you are pointing
   to has a owner and group of "_softwareupdate". I have mine relocated to an external
   drive. Works fine.
+replying_to: ''
