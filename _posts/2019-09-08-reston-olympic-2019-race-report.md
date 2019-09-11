@@ -109,14 +109,14 @@ Among the Male 40-44 category there were 29 athletes.
 #### Race Photos
 
 Pictures by [Biran Kent][bk]
-<figure class="third">
+<figure class="fifth">
     <a href="{{ site.url }}/assets/images/2019/09/08/reston-LG-3.jpg"><img src="{{ site.url }}/assets/images/2019/09/08/reston-SM-3.jpg" alt="" /></a>
     <a href="{{ site.url }}/assets/images/2019/09/08/reston-LG-5.jpg"><img src="{{ site.url }}/assets/images/2019/09/08/reston-SM-5.jpg" alt="" /></a>
     <a href="{{ site.url }}/assets/images/2019/09/08/reston-LG-7.jpg"><img src="{{ site.url }}/assets/images/2019/09/08/reston-SM-7.jpg" alt="" /></a>
-</figure>
-<figure class="third">
     <a href="{{ site.url }}/assets/images/2019/09/08/reston-LG-8.jpg"><img src="{{ site.url }}/assets/images/2019/09/08/reston-SM-8.jpg" alt="" /></a>
     <a href="{{ site.url }}/assets/images/2019/09/08/reston-LG-9.jpg"><img src="{{ site.url }}/assets/images/2019/09/08/reston-SM-9.jpg" alt="" /></a>
+</figure>
+<figure class="third">
     <a href="{{ site.url }}/assets/images/2019/09/08/reston-LG-10.jpg"><img src="{{ site.url }}/assets/images/2019/09/08/reston-SM-10.jpg" alt="" /></a>
 </figure>
 
@@ -129,7 +129,7 @@ Photos by [Michael Sturm][ms]
 </figure>
 
 Photos by Caroline
-<figure class="half">
+<figure class="third">
     <a href="{{ site.url }}/assets/images/2019/09/08/reston-LG-11.jpg"><img src="{{ site.url }}/assets/images/2019/09/08/reston-SM-11.jpg" alt="" /></a>
 </figure>
 
