@@ -34,7 +34,7 @@ Configuring Mac OS X DNS for IPv6 Records
 
 Before we go any farther, I'm warning you now... modifying BIND configuration files by hand could will cause you grief later. You have just committed yourself to the rest of your life on hand modification of DNS records because once you start using Server Admin again... it may (and most likely) remove anything it doesn't understand. That's the joys of Apple's Server Admin tool.
 
-If you have never looked at creating and/or adjusting BIND records on an Apple Server, I would first HIGHLY recommend you pick up a copy of Ed Marczak's [Mac OS X Advanced System Administration v10.5][advance10.5]. It explains a lot about DNS and configuring BIND from command line starting at page 89 – 104. I'm not going to over the intricacies, I'm going for the dirty nibbles of IPv6 and what files you will adjust or create.
+If you have never looked at creating and/or adjusting BIND records on an Apple Server, I would first HIGHLY recommend you pick up a copy of Ed Marczak's Mac OS X Advanced System Administration v10.5]. It explains a lot about DNS and configuring BIND from command line starting at page 89 – 104. I'm not going to over the intricacies, I'm going for the dirty nibbles of IPv6 and what files you will adjust or create.
 
 Test Environment
 ---
@@ -195,6 +195,5 @@ Additional Sources
 
 - [IPv6 Converter](https://ipv6-literal.com/)
 
-[advance10.5]: https://www.amazon.com/Apple-Training-Advanced-System-Administration/dp/032156314X "Mac OS X Advanced System Administration v10.5"
 [ipv6calc]: https://mirrors.bieringer.de/www.deepspace6.net/projects/ipv6calc.html#idm140499222678768 "ipv6calc"
 [world-ipv6-launch]: https://arstechnica.com/business/news/2012/01/world-ipv6-launch-this-time-its-for-real.ars
