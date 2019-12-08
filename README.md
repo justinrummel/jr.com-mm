@@ -33,7 +33,7 @@ Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building per
 - Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
 - Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), Google+, [Discourse](https://www.discourse.org/), static-based via [Staticman](https://staticman.net/), and [utterances](https://utteranc.es/)).
 - [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Chinese, Danish, Dutch, French (Français), German (Deutsch), Greek, Hindi (हिंदी), Hungarian, Indonesian, Italian (Italiano), Japanese, Korean, Malayalam, Nepali (Nepalese), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+- UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, French (Français), German (Deutsch), Greek, Hindi (हिंदी), Hungarian, Indonesian, Italian (Italiano), Japanese, Korean, Malayalam, Nepali (Nepalese), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
 
 ## Skins (color variations)
 
@@ -126,7 +126,7 @@ To install:
    bundle
    ```
 
-4. Add `remote_theme: "mmistakes/minimal-mistakes@4.16.4"` to your `_config.yml` file. Remove any other `theme:` or `remote_theme:` entry.
+4. Add `remote_theme: "mmistakes/minimal-mistakes@4.17.2"` to your `_config.yml` file. Remove any other `theme:` or `remote_theme:` entry.
 
 **Looking for an example?** Fork the [Minimal Mistakes remote theme starter](https://github.com/mmistakes/mm-github-pages-starter) for the quickest method of getting a GitHub Pages hosted site up and running. Replace sample content with your own and configure as needed.
 
@@ -187,7 +187,8 @@ To test the theme, run `bundle exec rake preview` and open your browser at `http
 - [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
 - [FitVids.JS](http://fitvidsjs.com/)
 - [GreedyNav.js](https://github.com/lukejacksonn/GreedyNav)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
+- [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
+- [Gumshoe](https://github.com/cferdinandi/gumshoe)
 - [jQuery throttle / debounce](http://benalman.com/projects/jquery-throttle-debounce-plugin/)
 - [Lunr](http://lunrjs.com)
 
@@ -243,9 +244,13 @@ Minimal Mistakes incorporates [Magnific Popup](http://dimsemenov.com/plugins/mag
 Copyright (c) 2014-2016 Dmitry Semenov, http://dimsemenov.com.
 Magnific Popup is distributed under the terms of the MIT License.
 
-Minimal Mistakes incorporates [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll),
-Copyright (c) 2017 Karl Swedberg.
-jQuery Smooth Scroll is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+Minimal Mistakes incorporates [Smooth Scroll](http://github.com/cferdinandi/smooth-scroll),
+Copyright (c) 2019 Chris Ferdinandi.
+Smooth Scroll is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+Minimal Mistakes incorporates [Gumshoejs](http://github.com/cferdinandi/gumshoe),
+Copyright (c) 2019 Chris Ferdinandi.
+Smooth Scroll is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
 Minimal Mistakes incorporates [jQuery throttle / debounce](http://benalman.com/projects/jquery-throttle-debounce-plugin/),
 Copyright (c) 2010 "Cowboy" Ben Alman.
