@@ -1,20 +1,28 @@
 ---
 layout: single
-title: "FXCK Cancer Triathlon Team"
+title: "FXCK Cancer Endurance Club"
 date: 2018-03-30T17:00:00-04:00
-last_modified_at: 2019-02-13T08:00:00-04:00
-description: "Charity challenge for Justin Rummel in support of the FXCK Cancer Triathlon Team!"
+last_modified_at: 2020-01-12T13:00:00-04:00
+description: "Charity challenge for Justin Rummel in support of the FXCK Cancer Endurance Club!"
 permalink: /fxck/
 author_profile: false
 comments: false
 header:
-    image: /assets/images/2019/02/13/FXCK-Cancer-Triathlon-Team-2019-Header.jpg            # Twitter (use 'overlay_image')
-    overlay_image: /assets/images/2019/02/13/FXCK-Cancer-Triathlon-Team-2019-Header.jpg    # Article header at 2048x768
+    image: /assets/images/2020/01/12/FXCK-Cancer-Endurance-Club-2020-Header.jpg            # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2020/01/12/FXCK-Cancer-Endurance-Club-2020-Header.jpg    # Article header at 2048x768
     overlay_filter: 0.15
     show_overlay_excerpt: false
-    teaser: /assets/images/2019/02/13/FXCK-Cancer-Triathlon-Team-2019-Header-Twitter.jpg   # Shrink image to 575x216
-    caption: "Photo credit: [**Fxck Cancer Triathlon Team**](https://www.fxckcancer.org/TriTeam/)"
+    teaser: /assets/images/2020/01/12/FXCK-Cancer-Endurance-Club-2020-Header-Twitter.jpg   # Shrink image to 575x216
+    caption: "Photo credit: [**FXCK Cancer Endurance Club**](https://www.fuckcancer.org/triteam/)"
 ---
+## 2020 Update
+
+Once again I've joined the Fxck Cancer team, but now we are the [Fxck Cancer Endurance Club][fcec-ig] vs. just specifically catering to triathlons.  This is great as I like to be more balanced in my endurance adventures between ultra running, mountain bike, and orienteering.  With a new season comes a new fundraising campaign which is available at: [fxckcancer.crowdchange.co/11645/page/177661][donate-2020]
+{: .notice--fxck-2020}
+
+Again, **HUGE** thanks to those who donated last year.  I greatly appreciate your help.
+{: .notice--fxck-2020}
+
 <figure class="align-left"><img src="{{ '/assets/images/2019/01/01/fxck-2019-256.jpg' | relative_url }}" alt="Justin Rummel profile pic" /></figure>## 2019 Update
 
 Thank you [@fxckcancertriteam][fxck-ig] for accepting me as an Ambassador for the 2019 Fxck Cancer Triathlon Team!  It is very exciting to be representing the team for the second year in a row, and to help contribute to a great cause. As part of joining the 2019 FXCK Triathlon Team, I have also created a new donation page for 2019 at: [fxckcancer.crowdchange.co/5910/page/78337][donate].
@@ -60,3 +68,5 @@ Footnotes
 [fxck-faq]: https://fxckcancer.crowdchange.co/faq
 [fxck-team]: https://www.fuckcancer.org/TriTeam/
 [fxck-ig]: https://www.instagram.com/fxckcancertriteam/
+[donate-2020]: https://fxckcancer.crowdchange.co/11645/page/177661
+[fcec-ig]: https://www.instagram.com/fxckcancerenduranceclub/
