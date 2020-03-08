@@ -1,9 +1,9 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 636ea3eb87c9e5e10d50142fe7291cdb647ab669
+  revision: 21ae8286545945f8b1395d3907a74a386ffe00b7
   specs:
     minimal-mistakes-jekyll (4.18.1)
-      jekyll (>= 3.6, < 5.0)
+      jekyll (>= 3.7, < 5.0)
       jekyll-feed (~> 0.1)
       jekyll-gist (~> 1.5)
       jekyll-include-cache (~> 0.1)
@@ -19,12 +19,12 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     addressable (2.4.0)
-    backports (3.15.0)
+    backports (3.17.0)
     colorator (1.1.0)
     colorize (0.8.1)
     commonmarker (0.21.0)
       ruby-enum (~> 0.5)
-    concurrent-ruby (1.1.5)
+    concurrent-ruby (1.1.6)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -109,11 +109,11 @@ GEM
     multipart-post (2.1.1)
     net-http-persistent (2.9.4)
     net-http-pipeline (1.0.1)
-    nokogiri (1.10.7)
+    nokogiri (1.10.9)
       mini_portile2 (~> 2.4.0)
-    nokogiri (1.10.7-x64-mingw32)
+    nokogiri (1.10.9-x64-mingw32)
       mini_portile2 (~> 2.4.0)
-    octokit (4.15.0)
+    octokit (4.16.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
     octopress (3.0.11)
@@ -140,7 +140,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     redcarpet (3.5.0)
-    rouge (3.15.0)
+    rouge (3.16.0)
     ruby-enum (0.7.2)
       i18n
     safe_yaml (1.0.5)
@@ -154,7 +154,7 @@ GEM
       faraday (> 0.8, < 2.0)
     thread_safe (0.3.6)
     titlecase (0.1.1)
-    travis (1.8.10)
+    travis (1.8.11)
       backports
       faraday (~> 0.9)
       faraday_middleware (~> 0.9, >= 0.9.1)
@@ -168,7 +168,7 @@ GEM
     tzinfo (1.2.6)
       thread_safe (~> 0.1)
     websocket (1.2.8)
-    yell (2.2.1)
+    yell (2.2.2)
 
 PLATFORMS
   ruby
@@ -185,7 +185,7 @@ DEPENDENCIES
   liquid-c
   liquid-md5
   minimal-mistakes-jekyll!
-  nokogiri (>= 1.10.4)
+  nokogiri (>= 1.10.8)
   octopress
   travis
 
