@@ -11,7 +11,7 @@ gem 'ffi','1.9.25'				# html-proofer requirement
 gem 'html-proofer'
 gem 'travis'
 gem 'json', '2.1.0'
-gem 'jekyll', ">=3.6", "< 4.0"			#jekyll requires ruby 2.4 which is not on Mojave
+gem 'jekyll', ">=3.7", "< 4.0"			#jekyll requires ruby 2.4 which is not on Mojave
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
