@@ -48,7 +48,7 @@
             <!-- End static comments -->
           {% endif %}
 
-          {% unless page.comments_locked == true %}
+          {% unless page.comments_locked == true or site.comments.comments_locked %}
 
             <!-- Start new comment form -->
             <div id="respond" class="page__comments-form">
