@@ -1,4 +1,73 @@
-## [4.17.1](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.1)
+## [4.19.1](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.1)
+
+### Enhancements
+
+- Add [Dracula](https://draculatheme.com/) Base16 syntax highlighting theme Sass variables to [stylesheets documentation](https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/#syntax-highlighting). [#2438](https://github.com/mmistakes/minimal-mistakes/pull/2438)
+- Update links to `HTTPS` and remove Google+ from configuration documentation. [#2432](https://github.com/mmistakes/minimal-mistakes/pull/2432)
+- Use `first_page_path` from jekyll-paginate-v2 if available. [#2431](https://github.com/mmistakes/minimal-mistakes/pull/2431)
+- Update onchange and uglify-js dependencies.
+- Update smooth-scroll.js to `v16.1.2`. [#2430](https://github.com/mmistakes/minimal-mistakes/issues/2430)
+
+### Bug Fixes
+
+- Fix author profile links `z-index` order on small screens. [#2440](https://github.com/mmistakes/minimal-mistakes/issues/2440)
+
+## [4.19.0](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.0)
+
+### Enhancements
+
+- Add "click" overlay to close masthead and follow button menus when open. [#1168](https://github.com/mmistakes/minimal-mistakes/issues/1168)
+- Remove deprecated Staticman v1 configurations from `_config.yml`. [#2386](https://github.com/mmistakes/minimal-mistakes/issues/2386)
+- Use `relative_url` and `absolute_url` filters where possible. [#2387](https://github.com/mmistakes/minimal-mistakes/pull/2387)
+- Improve headline hierarchy and add Sass specific variables `$h-size-x`. [#2423](https://github.com/mmistakes/minimal-mistakes/issues/2423)
+- Improve accessibility of `default` skin by increasing color contrast of text and links.
+- Hide posts with `hidden: true` YAML front matter from appearing in listings. [#2345](https://github.com/mmistakes/minimal-mistakes/pull/2345)
+- Add Irish (Gaeilge) localized UI text strings. [#2422](https://github.com/mmistakes/minimal-mistakes/pull/2422)
+- Remove `box-shadow` on radio and checkbox inputs. [#2398](https://github.com/mmistakes/minimal-mistakes/pull/2398)
+- Bump Jekyll gem dependency to `v3.7`.
+
+### Bug Fixes
+
+- Fix documentation around using `bundle info` command. [#2425](https://github.com/mmistakes/minimal-mistakes/pull/2425)
+- Fix rake vulnerability in `.gemspec` file.
+- Fix Staticman v2 comment submission. [#2402](https://github.com/mmistakes/minimal-mistakes/pull/2402)
+- Fix repeated site base path for masthead logo. [#2385](https://github.com/mmistakes/minimal-mistakes/pull/2385)
+
+## [4.18.1](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.18.1)
+
+### Bug Fixes
+
+- Fix compatibility issue with jekyll-paginate-v2. [#2381](https://github.com/mmistakes/minimal-mistakes/pull/2381)
+
+## [4.18.0](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.18.0)
+
+### Enhancements
+
+- Allow `home` layout to display posts without pagination. [#2378](https://github.com/mmistakes/minimal-mistakes/pull/2378)
+- Add links to high resolution skin screenshots in README. [#2363](https://github.com/mmistakes/minimal-mistakes/issues/2363)
+- Update README and LICENSE. [#2367](https://github.com/mmistakes/minimal-mistakes/pull/2367)
+- Update `.gitignore` file. [#2366](https://github.com/mmistakes/minimal-mistakes/pull/2366)
+- Allow override of page excerpt in hero header via `tagline` YAML front matter. [#2307](https://github.com/mmistakes/minimal-mistakes/pull/2307)
+- Exclude `package-lock.json` from Jekyll build. [#2364](https://github.com/mmistakes/minimal-mistakes/pull/2364)
+- Use `%-d` instead of `%d` so displayed dates aren't padded with zero. [#2359](https://github.com/mmistakes/minimal-mistakes/pull/2359)
+- Update table of contents helper (`toc.html`) to [v1.0.8](https://github.com/allejo/jekyll-toc/releases). [#2355](https://github.com/mmistakes/minimal-mistakes/pull/2355)
+- Add missing Dutch localized UI text strings. [#2321](https://github.com/mmistakes/minimal-mistakes/pull/2321)
+- Support page header (hero) in `archive-taxonomy` layout. [#2320](https://github.com/mmistakes/minimal-mistakes/pull/2320)
+- Add social icon color for Keybase. [#2302](https://github.com/mmistakes/minimal-mistakes/pull/2302)
+
+### Bug Fixes
+
+- Fix JavaScript comments in Disqus include to be compatible with `compress` layout. [#2373](https://github.com/mmistakes/minimal-mistakes/pull/2373)
+- Fix wrong newline concatenation in SEO description [#2368](https://github.com/mmistakes/minimal-mistakes/pull/2368) [#2354](https://github.com/mmistakes/minimal-mistakes/issues/2354)
+- Fix Staticman v2/v3 conditional for showing comments. [#2351](https://github.com/mmistakes/minimal-mistakes/pull/2351)
+- Fix masthead logo path. [#2332](https://github.com/mmistakes/minimal-mistakes/pull/2332)
+- Fix schema.org dates to ISO-8601. [#2339](https://github.com/mmistakes/minimal-mistakes/pull/2339)
+- Fix background color of code blocks in notices. [#2328](https://github.com/mmistakes/minimal-mistakes/pull/2328)
+- Fix alignment of feature rows when placed next to a sticky sidebar. [#2327](https://github.com/mmistakes/minimal-mistakes/issues/2327)
+- Fix `seo_description` in `_includes/seo.html`. [#2326](https://github.com/mmistakes/minimal-mistakes/pull/2326)
+- Fix typo in `_config.yml`. [#2319](https://github.com/mmistakes/minimal-mistakes/pull/2319)
+
+## [4.17.2](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.2)
 
 ### Enhancements
 

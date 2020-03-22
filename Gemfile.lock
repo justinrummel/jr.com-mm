@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 21ae8286545945f8b1395d3907a74a386ffe00b7
+  revision: 2d0b44563433c5bb224cc41378264a4a85d2b1c2
   specs:
-    minimal-mistakes-jekyll (4.18.1)
+    minimal-mistakes-jekyll (4.19.1)
       jekyll (>= 3.7, < 5.0)
       jekyll-feed (~> 0.1)
       jekyll-gist (~> 1.5)
@@ -13,7 +13,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.2.4.1)
+    activesupport (5.2.4.2)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
@@ -113,7 +113,7 @@ GEM
       mini_portile2 (~> 2.4.0)
     nokogiri (1.10.9-x64-mingw32)
       mini_portile2 (~> 2.4.0)
-    octokit (4.16.0)
+    octokit (4.17.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
     octopress (3.0.11)
@@ -140,7 +140,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     redcarpet (3.5.0)
-    rouge (3.16.0)
+    rouge (3.17.0)
     ruby-enum (0.7.2)
       i18n
     safe_yaml (1.0.5)
@@ -177,7 +177,7 @@ PLATFORMS
 DEPENDENCIES
   ffi (= 1.9.25)
   html-proofer
-  jekyll (>= 3.6, < 4.0)
+  jekyll (>= 3.7, < 4.0)
   jekyll-archives
   jekyll-commonmark
   jekyll-include-cache
