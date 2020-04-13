@@ -27,7 +27,7 @@
     </p>
     <div itemprop="text">{{ include.message | markdownify }}</div>
 
-    {% unless include.replying_to != 0 or page.comments_locked == true %}
+    {% unless include.replying_to != 0 or page.comments_locked == true or site.comments.comments_locked %}
     <div class="comment__reply">
       <a rel="nofollow" class="btn btn--primary" href="#comment-{{ include.index }}" onclick="return addComment.moveForm('comment-{{ include.index }}', '{{ include.index }}', 'respond', '{{ page.slug }}')">Reply to {{ include.name }}</a>
     </div>
