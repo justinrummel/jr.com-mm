@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: 2d0b44563433c5bb224cc41378264a4a85d2b1c2
+  revision: f3c74113fd92cd0e03471ca0a0b128c0486ffab1
   specs:
     minimal-mistakes-jekyll (4.19.1)
       jekyll (>= 3.7, < 5.0)
@@ -18,8 +18,9 @@ GEM
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
-    addressable (2.4.0)
-    backports (3.17.0)
+    addressable (2.7.0)
+      public_suffix (>= 2.0.2, < 5.0)
+    backports (3.17.1)
     colorator (1.1.0)
     colorize (0.8.1)
     commonmarker (0.21.0)
@@ -39,10 +40,11 @@ GEM
     ffi (1.9.25)
     ffi (1.9.25-x64-mingw32)
     forwardable-extended (2.6.0)
-    gh (0.15.1)
-      addressable (~> 2.4.0)
-      backports
+    gh (0.16.0)
+      activesupport (~> 5.0)
+      addressable (~> 2.4)
       faraday (~> 0.8)
+      faraday_middleware (~> 0.14)
       multi_json (~> 1.0)
       net-http-persistent (~> 2.9)
       net-http-pipeline
@@ -92,8 +94,8 @@ GEM
       listen (~> 3.0)
     json (2.1.0)
     kramdown (1.17.0)
-    launchy (2.4.3)
-      addressable (~> 2.3)
+    launchy (2.5.0)
+      addressable (~> 2.7)
     liquid (4.0.3)
     liquid-c (4.0.0)
       liquid (>= 3.0.0)
@@ -113,7 +115,7 @@ GEM
       mini_portile2 (~> 2.4.0)
     nokogiri (1.10.9-x64-mingw32)
       mini_portile2 (~> 2.4.0)
-    octokit (4.17.0)
+    octokit (4.18.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
     octopress (3.0.11)
@@ -133,6 +135,7 @@ GEM
     parallel (1.19.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
+    public_suffix (4.0.4)
     pusher-client (0.6.2)
       json
       websocket (~> 1.0)
@@ -141,7 +144,7 @@ GEM
       ffi (~> 1.0)
     redcarpet (3.5.0)
     rouge (3.17.0)
-    ruby-enum (0.7.2)
+    ruby-enum (0.8.0)
       i18n
     safe_yaml (1.0.5)
     sass (3.7.4)
@@ -154,7 +157,7 @@ GEM
       faraday (> 0.8, < 2.0)
     thread_safe (0.3.6)
     titlecase (0.1.1)
-    travis (1.8.11)
+    travis (1.8.13)
       backports
       faraday (~> 0.9)
       faraday_middleware (~> 0.9, >= 0.9.1)
@@ -165,7 +168,7 @@ GEM
       typhoeus (~> 0.6, >= 0.6.8)
     typhoeus (0.8.0)
       ethon (>= 0.8.0)
-    tzinfo (1.2.6)
+    tzinfo (1.2.7)
       thread_safe (~> 0.1)
     websocket (1.2.8)
     yell (2.2.2)
