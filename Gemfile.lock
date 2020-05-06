@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/mmistakes/minimal-mistakes.git
-  revision: f3c74113fd92cd0e03471ca0a0b128c0486ffab1
+  revision: f7770ad0799b1c847ea35972f1d286e71a1a50ee
   specs:
-    minimal-mistakes-jekyll (4.19.1)
+    minimal-mistakes-jekyll (4.19.2)
       jekyll (>= 3.7, < 5.0)
       jekyll-feed (~> 0.1)
       jekyll-gist (~> 1.5)
@@ -37,8 +37,8 @@ GEM
       multipart-post (>= 1.2, < 3)
     faraday_middleware (0.14.0)
       faraday (>= 0.7.4, < 1.0)
-    ffi (1.9.25)
-    ffi (1.9.25-x64-mingw32)
+    ffi (1.12.2)
+    ffi (1.12.2-x64-mingw32)
     forwardable-extended (2.6.0)
     gh (0.16.0)
       activesupport (~> 5.0)
@@ -139,11 +139,11 @@ GEM
     pusher-client (0.6.2)
       json
       websocket (~> 1.0)
-    rb-fsevent (0.10.3)
+    rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     redcarpet (3.5.0)
-    rouge (3.17.0)
+    rouge (3.18.0)
     ruby-enum (0.8.0)
       i18n
     safe_yaml (1.0.5)
@@ -178,7 +178,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  ffi (= 1.9.25)
+  ffi
   html-proofer
   jekyll (>= 3.7, < 4.0)
   jekyll-archives
