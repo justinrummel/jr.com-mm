@@ -43,7 +43,7 @@ I soon found [Speed Sherpa][ssn] teammate Caroline where we quickly chatted whil
 
 Not knowing wave 6 my swim buddies expertise in OWS without wetsuits, I stayed towards the back and slightly outside from a race strategic position to make sure I do not get in anyone's way (and more importantly have my needed "elbow room" while I swim).  The water was perfect!  It was slightly above 78&deg; which felt perfect.  There was little to no wind so the water was calm.  I did get pushed to the outside more than I like to admit, but when I realized I may be slightly off course I quickly corrected myself and pushed forward.  Outside of my shoulders getting a little tired (I think related to my [Wattie speedsuit][wattie]) I think this was the best OWS I've ever had... EVER.
 
-- [Training Peaks Swim Data](http://tpks.ws/MGBAAEVGKUQC7TI4FEYTRMETSU)
+- [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/MGBAAEVGKUQC7TI4FEYTRMETSU)
 
 <!-- Strava Frame -->
 **Strava Swim Activity**
@@ -61,7 +61,7 @@ One item that I learned was on the third loop **do not** force down a giant bite
 
 BTW; the best volunteer cheering individual must go to the woman that was by herself at the end of Lawyers, RD.  She was so happy and encouraging with nobody else to keep her going.  Thanks random woman.
 
-- [Training Peaks Bike Data](http://tpks.ws/CWGGGSQMKTPRNTI4FEYTRMETSU)
+- [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/CWGGGSQMKTPRNTI4FEYTRMETSU)
 
 <!-- Strava Frame -->
 **Strava Ride Activity**
@@ -75,7 +75,7 @@ BTW; the best volunteer cheering individual must go to the woman that was by her
 
 The new route was great.  The aid stations were perfectly timed and the volunteers were happy and helpful.  The route was mostly under tree shade so if the sun was blasting overhead, you would not be hit with the heat.
 
-- [Training Peaks Run Data](http://tpks.ws/NGGU44BS6X7JRTI4FEYTRMETSU)
+- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/NGGU44BS6X7JRTI4FEYTRMETSU)
 
 <!-- Strava Frame -->
 **Strava Run Activity**
