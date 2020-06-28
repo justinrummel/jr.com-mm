@@ -23,7 +23,7 @@ Twitter API Token
 
 I wanted a plugin that will pull and display a tweet it as if it was being viewed on a browser ([as seen on this post]({{ site.url }}/i-moved-my-domains-to-google-domains-and-you-wont-believe-what-happened-next/)).  My quick Google searching resulted in this Jekyll plugin [https://github.com/rob-murray/jekyll-twitter-plugin](https://github.com/rob-murray/jekyll-twitter-plugin) which seemed perfect as it was a gem that could be defined vs. having to install a plugin.  The only change I needed to perform from the setup documentation was the gem needed to be declared inside the `group :jekyll_plugins do` section vs. under the main list.  The Twitter plugin performs API calls and pulls the tweet as desired and displays it perfectly (example as illustrated in the [jekyll-twitter-plugin's README.md][readme]).
 
-To place API calls to Twitter you need to create an API application by going to [https://developer.twitter.com/en/apply/user](https://developer.twitter.com/en/apply/user) and filling out their form. Once it's complete you can see your new App listed in the [https://twitter.com/settings/applications](https://twitter.com/settings/applications) section on your Twitter account.  Your new app has four important items to make API calls:
+To place API calls to Twitter you need to create an API application by going to [https://developer.twitter.com/en/apply/user](https://developer.twitter.com/en/apply/user) and filling out their form. Once it's complete you can see your new App listed in the https://twitter.com/settings/applications (after login) section on your Twitter account.  Your new app has four important items to make API calls:
 
 - consumer_key
 - consumer_secret

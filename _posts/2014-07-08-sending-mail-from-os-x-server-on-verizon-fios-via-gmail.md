@@ -51,5 +51,5 @@ Source
 ---
 [Relay mail via Google SMTP with Postfix][wormly]
 
-[verizon]: https://www.verizon.com/Support/Residential/internet/highspeed/general+support/top+questions/questionsone/124274.htm
+[verizon]: https://forums.verizon.com/t5/Verizon-net-Email/Verizon-is-blocking-TCP-port-25/m-p/851634
 [wormly]: https://blog.wormly.com/2008/11/05/relay-gmail-google-smtp-postfix/

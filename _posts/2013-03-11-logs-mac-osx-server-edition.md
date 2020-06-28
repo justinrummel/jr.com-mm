@@ -232,6 +232,6 @@ Sources
 [opendirectoryd]: https://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man8/opendirectoryd.8.html
 [oderror]: https://developer.apple.com/library/mac/#documentation/Networking/Reference/OpenDirectoryErrors/Reference/reference.html#//apple_ref/doc/uid/TP40008797
 [afplog]: http://krypted.com/mac-os-x/missing-server-app-settings-for-afp/
-[osxs10.8]: http://www.peachpit.com/store/apple-pro-training-series-os-x-server-essentials-using-9780321887337
+[osxs10.8]: https://www.peachpit.com/store/apple-pro-training-series-os-x-server-essentials-using-9780321887337
 [dreyer]: https://arekdreyer.com
 [log]: http://nicktoons.nick.com/videos/clip/stimpys-big-day-log-song-1.html
