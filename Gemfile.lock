@@ -92,7 +92,7 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    json (2.1.0)
+    json (2.3.1)
     kramdown (1.17.0)
     launchy (2.4.3)
       addressable (~> 2.3)
@@ -184,7 +184,7 @@ DEPENDENCIES
   jekyll-archives
   jekyll-commonmark
   jekyll-include-cache
-  json (= 2.1.0)
+  json (= 2.3.1)
   launchy (= 2.4.3)
   liquid-c
   liquid-md5
