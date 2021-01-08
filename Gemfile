@@ -21,4 +21,5 @@ group :jekyll_plugins do
   gem 'liquid-md5'
   gem 'jekyll-archives'
   gem 'octopress'
+  gem "kramdown-parser-gfm"
 end
