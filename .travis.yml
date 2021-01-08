@@ -1,10 +1,9 @@
+os: linux
 dist: bionic
 language: ruby
 
 rvm:
   - 2.6.5
-
-sudo: false
 
 env:
   global:

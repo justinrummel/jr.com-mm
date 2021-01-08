@@ -26,7 +26,7 @@ First, I would like to note that the course has improved compared to last year a
 ### Swim
 
 - Another poor swim.  Had to hang on two paddle boats this time which is simply not acceptable anymore.  Teammate and Superstar [Madi][madi] stated she thought the waves were harder this year than last year, but I had the opposite memory as I KNOW I wanted to quit at the 350m mark ([see 2015 race report]({{ site.url }}/colonial-beach-sprint-2015-race-report/)), and this time I was able to swim all the way to the 500m mark before I wanted to quit!  HASHTAG WINNING!  I did swim faster this year by almost four minutes so there was an improvement, but I think I'm going to stick with pools or lakes from this point forward (Sorry [AlaskaMan][AlaskaMan]).
-	+ [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/B60BR)
+	+ [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/OZYKH7Y3CRB4JTI4FEYTRMETSU)
 
 ### Bike
 
@@ -34,12 +34,12 @@ First, I would like to note that the course has improved compared to last year a
 
 	+ Age Group: 2nd Fastest
 	+ Men (and Overall): 14th fastest
-	+ [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/kdXUg)
+	+ [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/3QIFM5DQMPPWBTI4FEYTRMETSU)
 
 ### Run
 
 - <figure class="align-right"><a href="{{ site.url }}/assets/images/2016/07/09/Colonial-LG-2.jpg"><img src="{{ site.url }}/assets/images/2016/07/09/Colonial-SM-2.jpg" alt="" /></a></figure>This year's run was so much better than last year in terms of pure enjoyment.  Don't get me wrong... watching the angry mob of ducks SWIMMING by the route in 2015 was entertaining, but not having waterlogged shoes stomping through a 5k definitely helped.  I beat last year's time by 20 seconds[^2], but again different race conditions should have resulted in better times regardless.  My run has not nearly improved over the year as my bike skills.  I will have to work on that for next year (YES and swimming needs work... I didn't forget that!  UGH!  GET OFF MY CASE!!! HASHTAG StompsAway).
-- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/3jVbl)
+- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/TGDJINCDSPS6VTI4FEYTRMETSU)
 
 #### Post Race
 

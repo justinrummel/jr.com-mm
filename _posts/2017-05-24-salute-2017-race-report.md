@@ -32,7 +32,7 @@ Race Breakdown
 
 Larry Weeks is a 25 meter outdoor pool, so we completed 12 laps for the total 300m swim of the sprint race.  Self seeding was done at pool side which allows people to place themselves near a clearly marked sign that signifies their expected time for a 100y pace.  I wanted to push myself a little towards the middle of the 1:30/100y and 1:45/100y section, but I eventually got pushed back.  This was fine, as I always get anxious if people are tapping my feet/legs as I don't want to be the reason in slowing other racers down.  The one downside to Larry Weeks pool is it's really only six lanes wide, so swimmers had to stay to one side of a lane to make sure they didn't have a head-on collision with another racer.  This made passing VERY difficult and dangerous... which is exactly what happened on lap four.  A guy behind me tried to sprint around myself and the lady in front, but instead he ran into another racer (teammate Federico).  When we got to the wall, the lady (who I was tapping during the lap) kindly let me pass while the race director had a "talk" with the attempted passer about pool safety.
 
-- [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/yYliI)
+- [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/R6WALFUJUI7YRTI4FEYTRMETSU)
 
 ### Bike
 
@@ -45,7 +45,7 @@ Larry Weeks is a 25 meter outdoor pool, so we completed 12 laps for the total 30
 </div>
 -->
 
-- [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/5wjkn)
+- [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/3EB7CHGFVLRWJTI4FEYTRMETSU)
 
 ### Run
 
@@ -58,7 +58,7 @@ Larry Weeks is a 25 meter outdoor pool, so we completed 12 laps for the total 30
 </div>
 -->
 
-- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/pJPdK)
+- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/OOVJF2CU2A5D3TI4FEYTRMETSU)
 
 
 Post Race Thoughts

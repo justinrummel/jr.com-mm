@@ -31,7 +31,7 @@ Being so close to the race venue, I was able to squeeze in a quick swim warm-up 
 
 When you compare last year to this year I had great improvement in the swim, even though I needed a quick 10 second break just before the turn around point (I was having negative thoughts which was effecting my swim).  Also, not sure if it was me but trying to get to the first buoy was *really* difficult compared to the swim back.  It may because I finally got my 20ft diameter of personal space and was able to relax, but I couldn't get my swim rhythm in check until the 500m mark[^1].
 
-- [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/72JPt)
+- [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/AMK43QJD3L22LTI4FEYTRMETSU)
 
 ### Bike
 
@@ -39,7 +39,7 @@ When you compare last year to this year I had great improvement in the swim, eve
 
 I remember having a great ride last year, so any chance of improving my time was going to be a difficult challenge.  I am no longer racing against other age groupers... I am racing myself.  Same plan as always for the bike segment, feel the first loop and then turn it up on the second loop.  Out of the 326 racers, I was the 20th fastest person on the bike.  However, to put into perspective how difficult the Male 40-44 Age Group bracket is, there were still four people in my AG that were faster out of that 19.
 
-- [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/h5mkL)
+- [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/5EQYGT7AELQMFTI4FEYTRMETSU)
 
 ###### Strava Ride Activity
 <div class="embed-container embed-container-strava">
@@ -51,7 +51,7 @@ I remember having a great ride last year, so any chance of improving my time was
 
 <figure class="align-left"><a href="{{ site.url }}/assets/images/2017/06/18/Rev3-Montclair-LG-2.jpg"><img src="{{ site.url }}/assets/images/2017/06/18/Rev3-Montclair-SM-2.jpg" alt="" /></a></figure>This run is **hard** as you must climb the same road you left when you were on the bike, AND you get one of the fun 100' climbs immediately afterwards... meaning you really don't start going "downhill" till mile two of a 3.1 mile course.  Knowing this, I took it easy the first two miles... maybe a little too easy as the run was the only section where I didn't improve my time (Splits table is below).  It was fun reading the motivational chalk drawings while on the run course, as it was just enough distraction from the burning legs or lungs.
 
-- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/Xhsdw)
+- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/O7NJBW6HUQHQVTI4FEYTRMETSU)
 
 ###### Strava Run Activity
 <div class="embed-container embed-container-strava">

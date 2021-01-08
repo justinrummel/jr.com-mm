@@ -96,7 +96,7 @@ Jumping into the water was similar to Saturday's practice swim, however, the win
 
 <figure class="align-right"><a href="{{ site.url }}/assets/images/2017/10/15/IMLOU-LG-8.jpg"><img src="{{ site.url }}/assets/images/2017/10/15/IMLOU-SM-8.jpg" alt="" /></a></figure>I just want to make sure everyone knew that when you enter the changing tent... this is not private tent.  This is a large 40x100ft square room that is being held together with bubble gum and has no chance against wind... but that is OK if you just walk down the middle as you'll be protected by the wind from WALL TO WALL MAN ASS (see the picture on the right... you can now craft that mental image... you are welcome).  Most of athletes were getting out of their swim suits that they were wearing underneath their wetsuit and changing into their bike kits for the long 112 mile ride[^2].  I chose to wear my [Wattie speedsuit][wattie-speedsuit] so I didn't need to change, which also accounts for my (relatively) fast transition times.
 
-- [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/qAMFA)
+- [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/46HK3LJQ4V7TNTI4FEYTRMETSU)
 
 
 <figure class="third">
@@ -146,7 +146,7 @@ I was on the final 30 miles when the wind gusts starting to take over the race c
 
 Getting back to the flat section of the course on River, RD... I soon could hear music playing and the crowd cheering for athletes that were returning.  I had just completed the longest bike ride in my life... and now to start my first marathon.
 
-- [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/WKEF2HW6MS5DBD2KCX3BEQBZYM)
+- [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/WKEF2HW6MS5DBTI4FEYTRMETSU)
 
 
 <figure class="third">
@@ -175,7 +175,7 @@ Pretty simple and basic plan.  This is the exactly what I did for ALL my long tr
 
 Not sure why it took so long, but around mile 22 the realizations finally hit that I was going to finish.  I was hurting.  My quads and calves were screaming.  Occasionally the mind demons found a spot in my head making me worry that something was going to fall apart and I would have to walk the rest last four miles, but I pushed them right back out to keep my focus on my form... keep my focus on running.  And then, I made my last turn towards the finish line.
 
-- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/orWWN)
+- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/J44PG4I4UY6SRTI4FEYTRMETSU)
 
 
 <figure class="third">

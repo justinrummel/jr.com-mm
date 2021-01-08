@@ -24,17 +24,17 @@ This is event number five on the 2016 VTS/MTS Series which brings me to be compe
 ### Swim
 
 - <figure class="align-right"><a href="{{ site.url }}/assets/images/2016/07/31/Culpeper-LG-4.jpg"><img src="{{ site.url }}/assets/images/2016/07/31/Culpeper-SM-4.jpg" alt="" /></a></figure>I finally got my head out of my... um... negative space and had a decent swim.  The swim was located at Mountain Run Lake in Culpeper, VA and I couldn't ask for better conditions.  The wind was low so it didn't create very much chop, there is no current because it's a lake, the fog covered the sun so I wasn't blinded on the last section heading back to the "wiggly man".  My plan was to stay on the outside the other swimmers knowing that it would increase my total swim distance (which it did by 100m), but that is of minor consequence when I was able to stay relaxed and just swim.  That is until the last 100 meters, where the International swimmers "joined" with the Sprint swimmers so I had to contend with people on both sides... and I panicked... just a little.  But on another positive note, I did not require any assistance from paddle boaters which is major milestone for this year.
-	+ [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/O3z9s)
+	+ [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/VTHCNLISP43TLTI4FEYTRMETSU)
 
 ### Bike
 
 - <figure class="align-right"><a href="{{ site.url }}/assets/images/2016/07/31/Culpeper-LG-5.jpg"><img src="{{ site.url }}/assets/images/2016/07/31/Culpeper-SM-5.jpg" alt="" /></a></figure>I couldn't execute the bike plan as desired as I found a new issue when racing in humidity, my new Rudy Wing 57 helmet has a smoked glass shield that easily fogs over making it impossible to see (somewhat of an issue when my top speed was 41.5 mph)[^1].  I was lucky to find a 60yo rockstar of an athlete who was about my athletic ability and I followed him for the first 10 miles because I couldn't see any of the turns or potholes.  It wasn't my best performance on the bike, but I still placed decently among racers.
-	+ [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/uRUGA)
+	+ [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/ZENXNRHTK446VTI4FEYTRMETSU)
 
 ### Run
 
 - After the bike I felt good, but as soon as you exited transition you are punched in the face with a grassy hill, rabbit punches to the kidneys with a side street hill, and uppercut to finish you with... another hill.  Other racers will agree in that somehow everything was "uphill" until the very end.  After the first mile I was afraid to push myself in case there was another hill.  I would rather be a little slower than have to walk.
-	+ [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/iPfdC)
+	+ [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/LWAUL64G3MV55TI4FEYTRMETSU)
 
 #### Post Race
 

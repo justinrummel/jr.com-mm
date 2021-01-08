@@ -30,7 +30,7 @@ Race Breakdown
 
 I can't really expand on the pool as it matches [Salute][salute].  However, I am going to pat myself on the back as I made the wise decision to tell the 15y female swimmer that she should start in front of me.  She took off!  This meant I had nobody in front of me and I was faster than the person behind me... there was zero pressure from any other racer to mess with my head.  I couldn't ask for a better swim conditions, and my awesome (for me) average pace is the result.
 
-- [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/hhy4I)
+- [Training Peaks Swim Data](https://home.trainingpeaks.com/athlete/workout/BYSP4GLNLNYCFTI4FEYTRMETSU)
 
 ### Bike
 
@@ -41,7 +41,7 @@ Since I was able to ride the route on Saturday, I knew: when turns were coming, 
     <iframe src='https://www.strava.com/activities/1086606294/embed/3fb9521292c57a94955ea99fad6f4478f4d116a7' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
-- [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/pscz7)
+- [Training Peaks Bike Data](https://home.trainingpeaks.com/athlete/workout/CMX2JXGI6WJYRTI4FEYTRMETSU)
 
 ### Run
 
@@ -52,7 +52,7 @@ Last week I received a bike challenge from [Coach Josh][ss], but this week was a
     <iframe src='https://www.strava.com/activities/1086606254/embed/aeb183beb4973d2cff7b6cb5e36f0613df58124d' scrolling='no' allowtransparency webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
-- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/Pa2US)
+- [Training Peaks Run Data](https://home.trainingpeaks.com/athlete/workout/B3WGIDDCGXCCNTI4FEYTRMETSU)
 
 Post Race Thoughts
 ---
