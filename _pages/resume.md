@@ -55,7 +55,7 @@ Presentations
 
 **MacDMV 2014-06-24** - Presented on *AutoPKG and the JSS*: Another [MacDMV](http://www.macdmv.com) session where I presented on an excellent GitHub project called [AutoPKG](https://github.com/autopkg/autopkg/wiki).  I gave a quick outline on what is AutoPKG, who are the masterminds behind the project, breakdown of creating a Recipe, and the Processors that makeup a Recipe.  Finally, concluded how Casper Suite JSS Admins can utilize a new Processor called [JSSImporter](https://github.com/arubdesu/jss-autopkg-addon) to make this work for JAMF Software users.
 
-**MacDMV 2014-02-19** - Presented on *VPP 2.0*: This was the first [MacDMV](http://www.macdmv.com) session where I presented on Apple's new revamped VPP process to include Manage Distribution.  It will be quickly outdated once [volume.apple.com](https://volume.itunes.apple.com/us/store) is released.
+**MacDMV 2014-02-19** - Presented on *VPP 2.0*: This was the first [MacDMV](http://www.macdmv.com) session where I presented on Apple's new revamped VPP process to include Manage Distribution.  It will be quickly outdated as Apple changes things constantly.
 
 **Macworld 2013** - Presented on *What has changed with Mountain Lion Server*: This is your session to find out about OS X Mountain Lion server! Find out what is different after services moved from Server Admin to Server.app. Which Services are new, and which ones have disappeared!
 
