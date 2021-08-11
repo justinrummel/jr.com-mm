@@ -67,7 +67,7 @@ I'm still being coached by Speed Sherpa coach Josh, and will still race for Spee
 Footnotes
 ---
 
-[^1]: Individuals reported early in April (of 2018) where the "SIGN UP" section was missing.  When you visit the donation site, it should look like the image below.  If not, try to use [Google Chrome](https://www.google.com/chrome/).  I don't have control over the site, sorry.<br /><br /> ![Example]({{ site.url }}/assets/images/2018/03/30/form.jpg)
+[^1]: Individuals reported early in April (of 2018) where the "SIGN UP" section was missing.  When you visit the donation site, it should look like the image below.  If not, try to use [Google Chrome](https://www.google.com/chrome/).  I don't have control over the site, sorry.<br /><br /> <img src="/assets/images/2018/03/30/form.jpg" alt="form example" />
 [^2]: It appears that Discover Card does not work, try Visa or Mastercard.  I don't have control over the site, sorry.
 
 [SS]: http://www.speedsherpa.com
