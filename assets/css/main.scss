@@ -45,6 +45,10 @@
   font-size: 1.0em !important;
 }
 
+.notice--fxck-2021 {
+  @include notice(#D95620);
+  font-size: 1.0em !important;
+}
 
 /* ==========================================================================
    Media and embeds

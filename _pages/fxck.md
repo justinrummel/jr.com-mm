@@ -2,19 +2,25 @@
 layout: single
 title: "FXCK Cancer Endurance Club"
 date: 2018-03-30T17:00:00-04:00
-last_modified_at: 2020-01-12T13:00:00-04:00
+last_modified_at: 2021-01-12T13:00:00-04:00
 description: "Charity challenge for Justin Rummel in support of the FXCK Cancer Endurance Club!"
 permalink: /fxck/
 author_profile: false
 comments: false
 header:
-    image: /assets/images/2020/01/12/FXCK-Cancer-Endurance-Club-2020-Header.jpg            # Twitter (use 'overlay_image')
-    overlay_image: /assets/images/2020/01/12/FXCK-Cancer-Endurance-Club-2020-Header.jpg    # Article header at 2048x768
+    image: /assets/images/2021/01/12/FXCK-Cancer-Endurance-Club-2021-Header.png            # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2021/01/12/FXCK-Cancer-Endurance-Club-2021-Header.png    # Article header at 2048x768
     overlay_filter: 0.15
     show_overlay_excerpt: false
-    teaser: /assets/images/2020/01/12/FXCK-Cancer-Endurance-Club-2020-Header-Twitter.jpg   # Shrink image to 575x216
+    teaser: /assets/images/2021/01/12/FXCK-Cancer-Endurance-Club-2021-Header-Twitter.png   # Shrink image to 575x216
     caption: "Photo credit: [**FXCK Cancer Endurance Club**](https://www.fuckcancer.org/triteam/)"
 ---
+## 2021 Update
+
+You may not be surprised but there were zero races in 2020.  Even though I don't know if I'll be racing in 2021, I've joined the [Fxck Cancer Endurance Club][fcec-ig] once again.  With a new season comes a new fundraising campaign which is available at: [fxckcancer.crowdchange.co/16891/page/242531][donate-2021].  I didn't make my target amount last year, so I lowered the target amount and personally contributed more this year.  If you wish to help surpass my 2021 goal amount, it would be greatly appreciated.
+{: .notice--fxck-2021}
+
+
 ## 2020 Update
 
 Once again I've joined the Fxck Cancer team, but now we are the [Fxck Cancer Endurance Club][fcec-ig] vs. just specifically catering to triathlons.  This is great as I like to be more balanced in my endurance adventures between ultra running, mountain bike, and orienteering.  With a new season comes a new fundraising campaign which is available at: [fxckcancer.crowdchange.co/11645/page/177661][donate-2020]
@@ -22,6 +28,7 @@ Once again I've joined the Fxck Cancer team, but now we are the [Fxck Cancer End
 
 Again, **HUGE** thanks to those who donated last year.  I greatly appreciate your help.
 {: .notice--fxck-2020}
+
 
 <figure class="align-left"><img src="{{ '/assets/images/2019/01/01/fxck-2019-256.jpg' | relative_url }}" alt="Justin Rummel profile pic" /></figure>## 2019 Update
 
@@ -70,3 +77,4 @@ Footnotes
 [fxck-ig]: https://www.instagram.com/fxckcancertriteam/
 [donate-2020]: https://fxckcancer.crowdchange.co/11645/page/177661
 [fcec-ig]: https://www.instagram.com/fxckcancerenduranceclub/
+[donate-2021]: https://fxckcancer.crowdchange.co/16891/page/242531
