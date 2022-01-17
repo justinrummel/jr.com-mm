@@ -50,6 +50,11 @@
   font-size: 1.0em !important;
 }
 
+.notice--fxck-2022 {
+  @include notice(#E897D2);
+  font-size: 1.0em !important;
+}
+
 /* ==========================================================================
    Media and embeds
    ========================================================================== */
@@ -538,4 +543,3 @@ figure {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
 }
-

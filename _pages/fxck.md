@@ -2,7 +2,7 @@
 layout: single
 title: "FXCK Cancer Endurance Club"
 date: 2018-03-30T17:00:00-04:00
-last_modified_at: 2021-01-12T13:00:00-04:00
+last_modified_at: 2022-01-17T13:00:00-04:00
 description: "Charity challenge for Justin Rummel in support of the FXCK Cancer Endurance Club!"
 permalink: /fxck/
 author_profile: false
@@ -15,6 +15,11 @@ header:
     teaser: /assets/images/2021/01/12/FXCK-Cancer-Endurance-Club-2021-Header-Twitter.png   # Shrink image to 575x216
     caption: "Photo credit: [**FXCK Cancer Endurance Club**](https://www.fuckcancer.org/triteam/)"
 ---
+## 2022 Update
+
+Working to get back into triathlons for 2022, and with a new season comes a new fundraising campaign which is available at [fxckcancer.crowdchange.co/22965/page/335800][donate-2022]!  Target is same as last year, but there is nothing wrong with adding a little more suprasing the goal amount.  If you are able to donate I would greatly appreciate your kindness and charity.
+{: .notice--fxck-2022}
+
 ## 2021 Update
 
 You may not be surprised but there were zero races in 2020.  Even though I don't know if I'll be racing in 2021, I've joined the [Fxck Cancer Endurance Club][fcec-ig] once again.  With a new season comes a new fundraising campaign which is available at: [fxckcancer.crowdchange.co/16891/page/242531][donate-2021].  I didn't make my target amount last year, so I lowered the target amount and personally contributed more this year.  If you wish to help surpass my 2021 goal amount, it would be greatly appreciated.
@@ -78,3 +83,4 @@ Footnotes
 [donate-2020]: https://fxckcancer.crowdchange.co/11645/page/177661
 [fcec-ig]: https://www.instagram.com/fxckcancerenduranceclub/
 [donate-2021]: https://fxckcancer.crowdchange.co/16891/page/242531
+[donate-2022]: https://fxckcancer.crowdchange.co/22965/page/335800
