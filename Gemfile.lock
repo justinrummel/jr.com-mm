@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/mmistakes/minimal-mistakes.git
+  remote: https://github.com/mmistakes/minimal-mistakes.git
   revision: 2632ff650a6efb0d856a37d675be5f1b63692181
   specs:
     minimal-mistakes-jekyll (4.24.0)
@@ -126,16 +126,16 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
-    mini_portile2 (2.7.1)
+    mini_portile2 (2.8.0)
     minitest (5.15.0)
     multi_json (1.15.0)
     multipart-post (2.1.1)
     net-http-persistent (2.9.4)
     net-http-pipeline (1.0.1)
-    nokogiri (1.13.1)
-      mini_portile2 (~> 2.7.0)
+    nokogiri (1.13.4)
+      mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
-    nokogiri (1.13.1-x64-mingw32)
+    nokogiri (1.13.4-x64-mingw32)
       racc (~> 1.4)
     octokit (4.22.0)
       faraday (>= 0.9)
