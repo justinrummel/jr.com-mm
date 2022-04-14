@@ -130,7 +130,7 @@ GEM
     net-http-pipeline (1.0.1)
     nokogiri (1.13.4-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.13.4-x86_64-darwin)
+    nokogiri (1.13.4-x86_64-linux)
       racc (~> 1.4)
     octokit (4.22.0)
       faraday (>= 0.9)
@@ -193,6 +193,7 @@ GEM
 
 PLATFORMS
   universal-darwin-19
+  x86_64-linux
 
 DEPENDENCIES
   ffi
