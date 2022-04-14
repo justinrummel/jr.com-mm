@@ -17,7 +17,7 @@ header:
     caption: "Photo credit: [**Apple, Inc**](https://www.apple.com)"
 ---
 
-These tools are nothing new as they were available in Snow Leopard (and I believe Leopard, just can’t check), but they are fun little tools just in case you don’t have Apple’s Xcode [iTunes link][xCode] installed or [MacPorts][macPorts] available on your computer.
+These tools are nothing new as they were available in Snow Leopard (and I believe Leopard, just can’t check), but they are fun little tools just in case you don’t have Apple’s Xcode installed or [MacPorts][macPorts] available on your computer.
 
 Port Scanning with *stroke*
 ---
@@ -128,6 +128,5 @@ Wi-Fi Network Settings
 ![Options]({{ site.url }}/assets/images/2011/08/Wi-Fi2.png){: .align-center}
 Wi-Fi Network Options
 
-[xCode]: https://itunes.apple.com/us/app/xcode/id497799835?mt=12
 [macPorts]: https://www.macports.org/install.php
 [insecure]: https://nmap.org/download.html#source
