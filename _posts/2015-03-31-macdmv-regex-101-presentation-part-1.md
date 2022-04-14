@@ -225,7 +225,7 @@ Tools
 
 Applications
 
-- Patterns: [https://itunes.apple.com/us/app/patterns-the-regex-app/id429449079?mt=12][id429449079]
+- Patterns: https://itunes.apple.com/us/app/patterns-the-regex-app/id429449079?mt=12
 
 Online
 
@@ -246,7 +246,6 @@ Footnotes
 [^1]: There are actually three versions of "The Crazy Ones" per this <a href="https://en.wikipedia.org/wiki/Think_different#Text">Wikipedia article</a>: Original, Full version, and Short version.
 [^2]: To create the multi lined version I wanted to use sed and substituted each ". " with ".\n" (a period then a line break).  There is an OS X sed issue when trying to substitute with line breaks that is outlined at: <a href="https://stackoverflow.com/questions/6111679/insert-linefeed-in-sed-mac-os-x">https://stackoverflow.com/questions/6111679/insert-linefeed-in-sed-mac-os-x</a>.  To create multi line version I used the following commands, <code>bash-3.2$ cat Apple.quote | sed 's/\. /\. \=/g' | tr "=" "\n"</code>
 
-[id429449079]: https://itunes.apple.com/us/app/patterns-the-regex-app/id429449079?mt=12
 [regex101]: https://regex101.com
 [wikipedia]: https://en.wikipedia.org/wiki/Think_different#Text
 [sed1]: https://www.funtoo.org/Sed_by_Example,_Part_1
