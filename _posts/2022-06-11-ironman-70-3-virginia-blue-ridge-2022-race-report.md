@@ -3,7 +3,7 @@ layout: single
 title: "IRONMAN 70.3: Virginia Blue Ridge 2022 Race Report"
 date: 2022-06-11T14:16:11-04:00
 modified:
-description: "You have 140 characters, use it." 	# For Twitter, not the Title
+description: "I'm happy to report I've done my first triathlon in almost three years, Ironman 70.3 Virginia Blue Ridge" 	# For Twitter, not the Title
 categories:
     - "Race Report"
 tags:
