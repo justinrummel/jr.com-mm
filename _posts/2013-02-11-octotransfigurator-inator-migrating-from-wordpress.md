@@ -22,7 +22,7 @@ Let's face it, this site has become stale over the winter months... but largely 
 
 Then Mid-January [Gary Larizza][glarizza] made announcement on his site that he has started to use [Octopress][octopress].  This immediately piqued my interest as Gary does some fascinating stuff with [Puppet Labs][puppet] and I've wanted to step up my chops in being a "Dev SysAdmin" (something that [Ed Marczak][marczak] has been preaching since 2009 (and probably longer... I just heard it first in 2009.)).
 
-So what is Octopress?  Well you can read their own website, but my short version is "a static web page generator written in Ruby".  Well crap, I don't know Ruby.  But this is what I needed to push me to learn (or at least understand a little), so be it!  Other items to take into consideration is Wordpress security (static pages don't have cross-site security holes), [webserver resource][pureconcepts] (not that I really cared as I pay for my website hosting), and there is a converter from [Wordpress to Octopress on GitHub][jekyll-exporter] (so migration should be easy, right)?!
+So what is Octopress?  Well you can read their own website, but my short version is "a static web page generator written in Ruby".  Well crap, I don't know Ruby.  But this is what I needed to push me to learn (or at least understand a little), so be it!  Other items to take into consideration is Wordpress security (static pages don't have cross-site security holes), webserver resource (not that I really cared as I pay for my website hosting), and there is a converter from [Wordpress to Octopress on GitHub][jekyll-exporter] (so migration should be easy, right)?!
 
 The last item that I liked about using Octopress is that every post is written in Markdown.  I don't know Markdown, so there is another thing that I get to learn and apply at work when taking notes.  Markdown has the ability to make note taking look nice, but Octopress has enhanced features so that displaying code looks GREAT!
 
@@ -30,7 +30,6 @@ The last item that I liked about using Octopress is that every post is written i
 [octopress]: http://octopress.org
 [puppet]: https://puppet.com
 [marczak]: https://radiotope.com
-[pureconcepts]: https://jason.pureconcepts.net/2013/01/benchmark-octopress-wordpress/
 [jekyll-exporter]: https://github.com/benbalter/wordpress-to-jekyll-exporter
 
 How (a.k.a Give me your Google search result links)
