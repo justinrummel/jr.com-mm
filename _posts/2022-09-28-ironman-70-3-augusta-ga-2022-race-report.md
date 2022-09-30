@@ -72,7 +72,7 @@ On a sad note, during the swim I was stopped by a boat.  YES, a boat.  This only
 Post Race Thoughts
 ---
 
-Was this my best race.  Absolutely NOT!  I could be petty and count a dozen things on why this was terrible race for me in terms of overal time and perforance, but when thinking about the weekend all I can think about is the FUN!  Being able to race with friends (the majority whom I haven't seen in a long time), being able to have a good swim in terms of speed and not freaking out in the water, a wonderful time on the bike... and learning a thing or two for the run makes up for the poor race performance.
+Was this my best race.  Absolutely NOT!  I could be petty and count a dozen things on why this was a terrible race for me in terms of overal time and perforance, but when thinking about the weekend all I can think about is the FUN!  Being able to race with friends (the majority whom I haven't seen in a long time), being able to have a good swim in terms of speed and not freaking out in the water, a wonderful time on the bike... and learning a thing or two for the run makes up for the poor race performance.
 
 
 Race Results
