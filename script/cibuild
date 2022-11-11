@@ -12,11 +12,10 @@ echo $PATH
 bundle exec jekyll b -c _config.yml
 
 # External Link checking only
-# bundle exec htmlproofer ./_site --disable-external --alt-ignore '/.*/' --allow-hash-href true
+bundle exec htmlproofer ./_site --disable-external --alt-ignore '/.*/' --allow-hash-href true
 
 # External Link and image checking
 # bundle exec htmlproofer ./_site/ --alt-ignore '/.*/' --allow-hash-href true --http-status-ignore 0,301,302,403,999 --check-img-http
 
 # External Link, image, and HTTPS checking
 #bundle exec htmlproofer ./_site/ --allow-hash-href --check-html --check-img-http --check-opengraph --empty-alt-ignore --file-ignore '/search|404/' --http-status-ignore 0,400,403,404,429,999 --report-missing-names --report-script-embeds --url-swap "http\://localhost\:4000:https://www.justinrummel.com"
-bundle exec htmlproofer ./_site/ --allow-hash-href --check-html --check-opengraph --empty-alt-ignore --file-ignore '/search|404/' --http-status-ignore 0,400,403,404,429,999 --report-missing-names --report-script-embeds --url-swap "http\://localhost\:4000:https://www.justinrummel.com"
