@@ -212,7 +212,7 @@ DEPENDENCIES
   liquid-c
   liquid-md5
   minimal-mistakes-jekyll!
-  nokogiri (>= 1.11.0.rc4)
+  nokogiri (>= 1.13.9)
   octopress
   travis
 

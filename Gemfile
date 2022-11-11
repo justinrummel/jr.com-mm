@@ -6,7 +6,7 @@ gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem 'liquid-c'					# gem to speed up Liquid parsing - https://talk.jekyllrb.com/t/help-us-benchmark-jekyll/1629/18
-gem "nokogiri", ">= 1.11.0.rc4"			# html-proofer requirement
+gem "nokogiri", ">= 1.13.9"			# html-proofer requirement
 gem 'ffi'					# html-proofer requirement
 gem 'html-proofer'
 gem 'travis'
