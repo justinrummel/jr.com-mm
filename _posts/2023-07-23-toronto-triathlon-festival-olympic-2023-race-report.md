@@ -83,16 +83,18 @@ Race Results
 
 #### Race Photos
 
-<figure class="fourth">
+<figure class="third">
 <a href="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-LG-3.jpg"><img src="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-SM-3.jpg" alt="" /></a>
 <a href="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-LG-1.jpg"><img src="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-SM-1.jpg" alt="" /></a>
-<a href="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-LG-4.jpg"><img src="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-SM-4.jpg" alt="" /></a>
 <a href="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-LG-5.jpg"><img src="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-SM-5.jpg" alt="" /></a>
 </figure>
-<figure class="fourth">
-<a href="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-SM-2.jpg" alt="" /></a>
-<a href="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-LG-6.jpg"><img src="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-SM-6.jpg" alt="" /></a>
+<figure class="half">
+<a href="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-LG-4.jpg"><img src="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-SM-4.jpg" alt="" /></a>
 <a href="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-LG-7.jpg"><img src="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-SM-7.jpg" alt="" /></a>
+</figure>
+<figure class="third">
+<a href="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-LG-6.jpg"><img src="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-SM-6.jpg" alt="" /></a>
+<a href="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-LG-2.jpg"><img src="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-SM-2.jpg" alt="" /></a>
 <a href="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-LG-8.jpg"><img src="{{ site.url }}/assets/images/2023/07/23/TTF-PRO-SM-8.jpg" alt="" /></a>
 </figure>
 
