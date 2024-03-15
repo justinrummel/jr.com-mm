@@ -18,11 +18,11 @@ GEM
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
-    addressable (2.8.4)
+    addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
     colorator (1.1.0)
-    commonmarker (0.23.9)
-    concurrent-ruby (1.2.2)
+    commonmarker (0.23.10)
+    concurrent-ruby (1.2.3)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -52,7 +52,7 @@ GEM
     faraday-retry (1.0.3)
     faraday_middleware (1.2.0)
       faraday (~> 1.0)
-    ffi (1.15.5)
+    ffi (1.16.3)
     forwardable-extended (2.6.0)
     gh (0.18.0)
       activesupport (~> 5.0)
@@ -64,9 +64,9 @@ GEM
       net-http-pipeline
     highline (2.1.0)
     http_parser.rb (0.8.0)
-    i18n (1.14.1)
+    i18n (1.14.4)
       concurrent-ruby (~> 1.0)
-    jekyll (3.9.3)
+    jekyll (3.9.5)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -97,7 +97,7 @@ GEM
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.3.1)
-    json_pure (2.6.3)
+    json_pure (2.7.1)
     kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -109,13 +109,13 @@ GEM
       liquid (>= 3.0.0)
     liquid-md5 (0.0.3)
       liquid (>= 2.5, < 5.0)
-    listen (3.8.0)
+    listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
-    minitest (5.19.0)
+    minitest (5.22.3)
     multi_json (1.15.0)
-    multipart-post (2.3.0)
+    multipart-post (2.4.0)
     net-http-persistent (2.9.4)
     net-http-pipeline (1.0.1)
     octokit (4.25.1)
@@ -137,7 +137,7 @@ GEM
       jekyll (>= 2.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (5.0.3)
+    public_suffix (5.0.4)
     pusher-client (0.6.2)
       json
       websocket (~> 1.0)
@@ -169,9 +169,10 @@ GEM
       pusher-client (~> 0.4)
     tzinfo (1.2.11)
       thread_safe (~> 0.1)
-    websocket (1.2.9)
+    websocket (1.2.10)
 
 PLATFORMS
+  ruby
   universal-darwin-19
   x86_64-linux
 
