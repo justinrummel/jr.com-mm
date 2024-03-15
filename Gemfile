@@ -11,7 +11,7 @@ gem 'liquid-c'					# gem to speed up Liquid parsing - https://talk.jekyllrb.com/
 #gem 'html-proofer'
 gem 'travis'
 gem 'json', '2.3.1'
-gem 'jekyll', ">=3.7", "< 4.0"			#jekyll requires ruby 2.4 which is not on Mojave
+gem 'jekyll'
 gem 'launchy', '2.4.3'
 
 # If you have any plugins, put them here!

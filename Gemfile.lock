@@ -177,7 +177,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  jekyll (>= 3.7, < 4.0)
+  jekyll
   jekyll-archives
   jekyll-commonmark
   jekyll-include-cache
