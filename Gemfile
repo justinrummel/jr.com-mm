@@ -9,6 +9,7 @@ gem 'liquid-c'					# gem to speed up Liquid parsing - https://talk.jekyllrb.com/
 #gem "nokogiri", ">= 1.14.5"			# html-proofer requirement
 #gem 'ffi'					              # html-proofer requirement
 #gem 'html-proofer'
+gem 'activesupport', '6.1.7.1'
 gem 'travis'
 gem 'json', '2.3.1'
 gem 'jekyll'
