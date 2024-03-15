@@ -55,6 +55,16 @@
   font-size: 1.0em !important;
 }
 
+.notice--fxck-2023 {
+  @include notice(#A103FC);
+  font-size: 1.0em !important;
+}
+
+.notice--fxck-2024 {
+  @include notice(#2596be);
+  font-size: 1.0em !important;
+}
+
 /* ==========================================================================
    Media and embeds
    ========================================================================== */
