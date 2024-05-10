@@ -2,22 +2,33 @@
 layout: single
 title: "FXCK Cancer Endurance Club"
 date: 2018-03-30T17:00:00-04:00
-last_modified_at: 2022-01-17T13:00:00-04:00
+last_modified_at: 2024-03-15T10:00:00-04:00
 description: "Charity challenge for Justin Rummel in support of the FXCK Cancer Endurance Club!"
 permalink: /fxck/
 author_profile: false
 comments: false
 header:
-    image: /assets/images/2021/01/12/FXCK-Cancer-Endurance-Club-2021-Header.png            # Twitter (use 'overlay_image')
-    overlay_image: /assets/images/2021/01/12/FXCK-Cancer-Endurance-Club-2021-Header.png    # Article header at 2048x768
+    image: /assets/images/2024/01/01/FXCK-Cancer-Endurance-Club-2024-Header.png            # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2024/01/01/FXCK-Cancer-Endurance-Club-2024-Header.png    # Article header at 2048x768
     overlay_filter: 0.15
     show_overlay_excerpt: false
-    teaser: /assets/images/2021/01/12/FXCK-Cancer-Endurance-Club-2021-Header-Twitter.png   # Shrink image to 575x216
+    teaser: /assets/images/2024/01/01/FXCK-Cancer-Endurance-Club-2024-Header-Twitter.png   # Shrink image to 575x216
     caption: "Photo credit: [**FXCK Cancer Endurance Club**](https://www.fuckcancer.org/triteam/)"
 ---
+
+## 2024 Update
+
+Working to get back into triathlons for 2023, and with a new season comes a new fundraising campaign which is available at [givebutter.com/fcec2024/justinrummel][donate-2024]!  Target is same as last year, but there is nothing wrong with adding a little more surpassing the goal amount.  If you are able to donate I would greatly appreciate your kindness and charity.
+{: .notice--fxck-2024}
+
+## 2023 Update
+
+Working to get back into triathlons for 2023, and with a new season comes a new fundraising campaign which is available at [fxckcancer.crowdchange.co/29837/page/449993][donate-2023]!  Target is same as last year, but there is nothing wrong with adding a little more surpassing the goal amount.  If you are able to donate I would greatly appreciate your kindness and charity.
+{: .notice--fxck-2023}
+
 ## 2022 Update
 
-Working to get back into triathlons for 2022, and with a new season comes a new fundraising campaign which is available at [fxckcancer.crowdchange.co/22965/page/335800][donate-2022]!  Target is same as last year, but there is nothing wrong with adding a little more suprasing the goal amount.  If you are able to donate I would greatly appreciate your kindness and charity.
+Working to get back into triathlons for 2022, and with a new season comes a new fundraising campaign which is available at [fxckcancer.crowdchange.co/22965/page/335800][donate-2022]!  Target is same as last year, but there is nothing wrong with adding a little more surpassing the goal amount.  If you are able to donate I would greatly appreciate your kindness and charity.
 {: .notice--fxck-2022}
 
 ## 2021 Update
@@ -84,3 +95,5 @@ Footnotes
 [fcec-ig]: https://www.instagram.com/fxckcancerenduranceclub/
 [donate-2021]: https://fxckcancer.crowdchange.co/16891/page/242531
 [donate-2022]: https://fxckcancer.crowdchange.co/22965/page/335800
+[donate-2023]: https://fxckcancer.crowdchange.co/29837/page/449993
+[donate-2024]: https://givebutter.com/fcec2024/justinrummel

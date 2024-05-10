@@ -28,6 +28,7 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+enable_copy_code_button  : # true, false (default)
 comments:
   comments_locked        : true
   provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
@@ -226,6 +227,27 @@ permalink: /:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Pagination with jekyll-paginate-v2
+# See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
+#   for configuration details
+pagination:
+  # Set enabled to true to use paginate v2
+  # enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  category: 'posts'
+  tag: ''
+  locale: ''
+  trail:
+    before: 2
+    after: 2
 
 
 # Plugins
