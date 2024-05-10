@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/mmistakes/minimal-mistakes.git
-  revision: 8a67ce8e41ec850f2d7c373aa47739b2abfee6f1
+  revision: 536e89d17440904f271879241f53a8f110246bfd
   specs:
-    minimal-mistakes-jekyll (4.24.0)
+    minimal-mistakes-jekyll (4.26.1)
       jekyll (>= 3.7, < 5.0)
       jekyll-feed (~> 0.1)
       jekyll-gist (~> 1.5)
@@ -47,7 +47,7 @@ GEM
       net-http-pipeline
     highline (1.7.10)
     http_parser.rb (0.8.0)
-    i18n (1.14.4)
+    i18n (1.14.5)
       concurrent-ruby (~> 1.0)
     jekyll (3.9.5)
       addressable (~> 2.4)
@@ -97,7 +97,7 @@ GEM
     mercenary (0.3.6)
     minitest (5.22.3)
     multi_json (1.15.0)
-    multipart-post (2.4.0)
+    multipart-post (2.4.1)
     net-http-persistent (4.0.2)
       connection_pool (~> 2.2)
     net-http-pipeline (1.0.1)
@@ -120,7 +120,7 @@ GEM
       jekyll (>= 2.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (5.0.4)
+    public_suffix (5.0.5)
     pusher-client (0.6.2)
       json
       websocket (~> 1.0)
